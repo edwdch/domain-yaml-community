@@ -1,0 +1,4 @@
+payload:
+- # go mod proxy
+- goproxy.cn
+- goproxy.io

@@ -1,0 +1,3 @@
+payload:
+- cnki.com.cn
+- cnki.net

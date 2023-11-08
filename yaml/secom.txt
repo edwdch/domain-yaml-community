@@ -1,0 +1,7 @@
+payload:
+- secom.co.jp
+- secomtrust.net
+- # Sub brand
+- cybertrust.co.jp
+- cybertrust.ne.jp
+- managedpki.ne.jp

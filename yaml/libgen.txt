@@ -1,0 +1,11 @@
+payload:
+- # Forum
+- libgen.life
+- # Official site
+- libgen.fun
+- # Unofficial sites (forked from the official site)
+- gen.lib.rus.ec
+- libgen.is
+- libgen.me
+- libgen.rs
+- libgen.st

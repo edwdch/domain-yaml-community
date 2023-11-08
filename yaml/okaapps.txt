@@ -1,0 +1,4 @@
+payload:
+- domain:okaapps.com
+- # CN part of okaapps
+- regexp:^(.+\.)*zh\.okaapps\.com$ @cn

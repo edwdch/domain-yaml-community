@@ -1,0 +1,9 @@
+payload:
+- include:hkt
+- include:now
+- include:viu
+- pccw.com
+- pccwglobal.com
+- pccwsolutions.com
+- # Moov
+- moov.hk

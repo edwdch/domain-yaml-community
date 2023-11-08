@@ -1,0 +1,5 @@
+payload:
+- godaddy.com
+- x.co # GoDaddy URL Shortener
+- # All .godaddy domains
+- godaddy

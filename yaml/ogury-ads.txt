@@ -1,0 +1,4 @@
+payload:
+- ogury.com @ads
+- presage.io @ads
+- ogury.co @ads

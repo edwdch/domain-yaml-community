@@ -1,0 +1,4 @@
+payload:
+- mikrotik.com
+- mt.lv
+- routerboard.com

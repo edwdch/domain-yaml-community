@@ -1,0 +1,3 @@
+payload:
+- include:gitee
+- oschina.net

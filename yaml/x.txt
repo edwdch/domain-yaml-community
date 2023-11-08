@@ -1,0 +1,3 @@
+payload:
+- include:twitter
+- include:xai

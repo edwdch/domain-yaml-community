@@ -1,0 +1,5 @@
+payload:
+- supersonic.com @ads
+- supersonicads.com @ads
+- ssacdn.com @ads
+- supersonicads-a.akamaihd.net @ads

@@ -1,0 +1,3 @@
+payload:
+- bitwarden.com
+- bitwarden.eu

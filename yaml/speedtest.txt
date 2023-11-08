@@ -1,0 +1,3 @@
+payload:
+- # This tag 'speedtest' is for backward compatibility of 'geosite:speedtest' in V2Ray.
+- include:ookla-speedtest

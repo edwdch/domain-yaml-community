@@ -1,0 +1,3 @@
+payload:
+- op.gg
+- full:opgg-static.akamaized.net

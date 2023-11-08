@@ -1,0 +1,4 @@
+payload:
+- ruby-china.org
+- # RubyConf China
+- rubyconfchina.org

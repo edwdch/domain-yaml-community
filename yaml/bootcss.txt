@@ -1,0 +1,6 @@
+payload:
+- bootcss.com
+- # BootCDN
+- bootcdn.cn
+- # Packagist / Composer
+- phpcomposer.com

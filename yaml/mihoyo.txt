@@ -1,0 +1,3 @@
+payload:
+- include:hoyoverse
+- include:mihoyo-cn

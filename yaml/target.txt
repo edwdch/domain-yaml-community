@@ -1,0 +1,5 @@
+payload:
+- # All .target domains
+- target
+- target.com
+- targetimg1.com
