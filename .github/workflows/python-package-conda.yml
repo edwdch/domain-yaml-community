@@ -29,7 +29,7 @@ jobs:
 
     - name: Genrate yaml files
       run: |
-        python -m main.py
+        python main.py
 
     - name: Commit and push if there are changes
       run: |
