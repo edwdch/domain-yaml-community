@@ -23,8 +23,16 @@ def run():
             # 读取每行内容，组成 yaml 格式
             for line in lines:
                 domain = line.strip()
-                if domain:  # 过滤掉空行
-                    payload.append(domain)
+                if not domain:
+                    continue
+                if '#' in domain:
+                    continue
+                if len(domain.split(" ")) > 1:
+                    domain = domain.split(" ")[0]
+                if domain.startswith("full:"):
+                    domain = domain.split("full:")[1]
+
+                payload.append(domain)
 
             # 拼接新的文件名，确保替换掉最后的后缀名
             new_file_name = os.path.splitext(file)[0] + '.txt'
