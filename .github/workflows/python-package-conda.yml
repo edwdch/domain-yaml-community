@@ -33,6 +33,6 @@ jobs:
 
     - name: Commit and push if there are changes
       run: |
-        git add .
+        git add data/
         git commit -m "Update domain-yaml-community daily." || exit 0
         git push origin HEAD:${{ github.ref }}
