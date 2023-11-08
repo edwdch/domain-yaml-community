@@ -26,5 +26,3 @@ payload:
 - +.googletraveladservices.com
 - +.marketingplatform.google.com
 - +.urchin.com
-- analytics.google.com
-- +.regexp:^adservice\.google\.([a-z]{2}|com?)(\.[a-z]{2})?$

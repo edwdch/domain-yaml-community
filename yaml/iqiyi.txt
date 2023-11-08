@@ -9,4 +9,3 @@ payload:
 - +.qiyipic.com
 - +.qy.net
 - +.71edge.com
-- +.include:iqiyi-ads

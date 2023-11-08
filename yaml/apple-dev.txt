@@ -1,5 +1,4 @@
 payload:
-- +.include:swift
 - +.calendarserver.org
 - +.apple-cloudkit.com
 - +.cups.org
@@ -26,6 +25,3 @@ payload:
 - +.webkitgtk.org
 - +.wpewebkit.org
 - +.webobjects.com
-- appleworldwidedeveloper.hb-api.omtrdc.net
-- appleworldwidedeveloper.sc.omtrdc.net
-- p-events-delivery.akamaized.net

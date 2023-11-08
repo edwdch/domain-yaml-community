@@ -1,5 +1,4 @@
 payload:
-- +.include:aws-cn
 - +.aws
 - +.acmvalidations.com
 - +.acmvalidationsaws.com
@@ -34,7 +33,3 @@ payload:
 - +.containersonaws.com
 - +.elasticbeanstalk.com
 - +.thinkboxsoftware.com
-- +.regexp:.+\.awsdns-[0-9][0-9]\.co\.uk$
-- +.regexp:.+\.awsdns-[0-9][0-9]\.com$
-- +.regexp:.+\.awsdns-[0-9][0-9]\.net$
-- +.regexp:.+\.awsdns-[0-9][0-9]\.org$

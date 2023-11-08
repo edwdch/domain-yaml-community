@@ -5,4 +5,3 @@ payload:
 - +.asahicom.jp
 - +.asakonet.co.jp
 - +.nikkansports.com
-- asahishimbun.sc.omtrdc.net

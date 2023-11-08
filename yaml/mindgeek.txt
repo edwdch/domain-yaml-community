@@ -1,3 +1,2 @@
 payload:
-- +.include:mindgeek-porn
 - +.mindgeek.com

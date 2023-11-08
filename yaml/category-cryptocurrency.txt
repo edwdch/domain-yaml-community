@@ -1,16 +1,4 @@
 payload:
-- +.include:asproex
-- +.include:binance
-- +.include:bitflyer
-- +.include:bitsquare
-- +.include:coinone
-- +.include:ethereum
-- +.include:huobi
-- +.include:localbitcoins
-- +.include:okx
-- +.include:onekey
-- +.include:wisekey
-- +.include:zb
 - +.bitbank.cc
 - +.bitcoin.org
 - +.bitfinex.com

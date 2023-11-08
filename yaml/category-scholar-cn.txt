@@ -1,8 +1,4 @@
 payload:
-- +.include:cas
-- +.include:chaoxing
-- +.include:cnki
-- +.include:wanfang
 - +.apabi.com
 - +.ccf.org.cn
 - +.cnsciedu.com

@@ -1,11 +1,4 @@
 payload:
-- +.include:abc
-- +.include:bamtech
-- +.include:espn
-- +.include:hotstar
-- +.include:marvel
-- +.include:nationalgeographic
-- +.include:starplus
 - +.disney.asia
 - +.disney.be
 - +.disney.bg

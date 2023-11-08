@@ -1,7 +1,4 @@
 payload:
-- +.include:epochmediagroup
-- +.include:kanzhongguo
-- +.include:soundofhope
 - +.aboluowang.com
 - +.bannedbook.net
 - +.bannedbook.org

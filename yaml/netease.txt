@@ -25,4 +25,3 @@ payload:
 - +.yeah.net
 - +.youdao.com
 - +.zhuanzfx.com
-- +.include:netease-ads

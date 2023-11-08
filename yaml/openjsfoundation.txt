@@ -1,7 +1,2 @@
 payload:
-- +.include:amp
-- +.include:electron
-- +.include:jquery
-- +.include:mocha
-- +.include:nodejs
 - +.openjsf.org

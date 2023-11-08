@@ -1,9 +1,3 @@
 payload:
-- +.include:bcy
-- +.include:douban
-- +.include:gracg
-- +.include:sina
-- +.include:xiaohongshu
-- +.include:zhihu
 - +.tieba.baidu.com
 - +.tieba.com

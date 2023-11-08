@@ -7,6 +7,3 @@ payload:
 - +.espncdn.com
 - +.espnqa.com
 - +.watchespn.com
-- espn.api.edge.bamgrid.com
-- espn.hb.omtrdc.net
-- espndotcom.tt.omtrdc.net

@@ -1,19 +1,4 @@
 payload:
-- +.include:928plus
-- +.include:boslife
-- +.include:cylink
-- +.include:dlercloud
-- +.include:duyaoss
-- +.include:hitun
-- +.include:justmysocks
-- +.include:n3ro
-- +.include:nexitally
-- +.include:paofuyun
-- +.include:shadowsockscom
-- +.include:squirrelvpn
-- +.include:ssrcloud
-- +.include:surflite
-- +.include:vilavpn
 - +.aaex.uk
 - +.amytele.com
 - +.ark.to

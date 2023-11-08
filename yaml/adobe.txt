@@ -1,7 +1,4 @@
 payload:
-- +.include:adobe-activation
-- +.include:adobe-ads
-- +.include:typekit
 - +.10xfotolia.com
 - +.2o7.net
 - +.acrobat.com

@@ -154,4 +154,3 @@ payload:
 - +.touchsmartpc.org
 - +.workstations.tv
 - +.www8-hp.com
-- hpstore.corpmerchandise.com

@@ -1,5 +1,4 @@
 payload:
-- +.include:icloudprivaterelay
 - +.apple-icloud.cn
 - +.appleicloud.cn
 - +.applemx-icloud.com
@@ -49,4 +48,3 @@ payload:
 - +.myicloud.net
 - +.mylcloud.net
 - +.wwwicloud.com
-- www-cdn.icloud.com.akadns.net

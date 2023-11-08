@@ -20,5 +20,3 @@ payload:
 - +.spotxchange.com
 - +.unimhk.com
 - +.upapi.net
-- +.include:taboola
-- +.include:category-ads

@@ -42,4 +42,3 @@ payload:
 - +.rocksdb.net
 - +.rocksdb.org
 - +.yogalayout.com
-- developers.facebook.com

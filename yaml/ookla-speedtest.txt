@@ -10,4 +10,3 @@ payload:
 - +.speedtest.net
 - +.speedtestcustom.com
 - +.webtest.net
-- +.include:ookla-speedtest-ads

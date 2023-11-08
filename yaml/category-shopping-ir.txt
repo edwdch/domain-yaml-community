@@ -1,5 +1,4 @@
 payload:
-- +.include:divar
 - +.digi-kala.com
 - +.emalls.ir
 - +.esam.ir

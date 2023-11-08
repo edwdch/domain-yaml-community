@@ -10,5 +10,3 @@ payload:
 - +.rakuya.com.tw
 - +.tagapie.com.tw
 - +.toget.com.tw
-- ecapi-pchome.cdn.hinet.net
-- pchomeonline.com.tw

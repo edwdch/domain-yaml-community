@@ -1,12 +1,3 @@
 payload:
 - +.gog.com
 - +.gog-statics.com
-- gog.qtlglb.com
-- gogalaxy.gog-statics.com
-- menu-static.gog-statics.com
-- productcard.gog-statics.com
-- static-login.gog-statics.com
-- www4-static.gog-statics.com
-- +.regexp:^cdn-akamai-.+\.gog-services\.com$
-- +.regexp:^gog-cdn-.+\.footprint\.net$
-- +.regexp:^images(-\d)?\.gog-statics\.com$

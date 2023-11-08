@@ -59,4 +59,3 @@ payload:
 - +.tegrazone.com
 - +.tegrazone.jp
 - +.tegrazone.kr
-- nvidia.tt.omtrdc.net

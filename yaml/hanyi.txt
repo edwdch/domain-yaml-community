@@ -1,4 +1,3 @@
 payload:
-- +.include:hellofont
 - +.hanyi.com.cn
 - +.fontstar.com.cn

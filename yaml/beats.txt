@@ -714,4 +714,3 @@ payload:
 - +.wholesaleonlinemart.com
 - +.worldcoinpay.com
 - +.yourmonsterbeats.com
-- beatselectronicsllc.tt.omtrdc.net

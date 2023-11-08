@@ -393,4 +393,3 @@ payload:
 - +.redkix.com
 - +.workplace.com
 - +.workplaceusecases.com
-- fbcdn-a.akamaihd.net

@@ -6,4 +6,3 @@ payload:
 - +.umtrack.com
 - +.uyunad.com
 - +.whalecloud.com
-- +.include:umeng-ads

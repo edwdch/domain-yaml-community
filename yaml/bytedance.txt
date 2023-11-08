@@ -1,10 +1,4 @@
 payload:
-- +.include:bcy
-- +.include:fqnovel
-- +.include:juejin
-- +.include:lark
-- +.include:tiktok
-- +.include:bytedance-ads
 - +.volcvod.com
 - +.volces.com
 - +.volceapplog.com

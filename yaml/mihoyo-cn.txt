@@ -12,4 +12,3 @@ payload:
 - +.bhsr.com
 - +.themisweeps.com
 - +.yuanshen.com
-- +.regexp:^.+-mihayo\.akamaized\.net$

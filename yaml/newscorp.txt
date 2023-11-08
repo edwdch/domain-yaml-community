@@ -1,12 +1,4 @@
 payload:
-- +.include:barrons
-- +.include:dowjones
-- +.include:harpercollins
-- +.include:nypost
-- +.include:reagroup
-- +.include:thesun
-- +.include:thetimes
-- +.include:wsj
 - +.1degree.com.au
 - +.adelaidenow.com.au
 - +.adhelpnews.com

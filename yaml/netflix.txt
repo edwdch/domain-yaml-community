@@ -21,6 +21,3 @@ payload:
 - +.netflixdnstest8.com
 - +.netflixdnstest9.com
 - +.netflixdnstest10.com
-- +.regexp:(^|\.)dualstack\.apiproxy-.+\.amazonaws\.com$
-- +.regexp:(^|\.)dualstack\.ichnaea-web-.+\.amazonaws\.com$
-- netflix.com.edgesuite.net

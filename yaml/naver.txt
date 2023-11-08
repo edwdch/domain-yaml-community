@@ -1,5 +1,4 @@
 payload:
-- +.include:line
 - +.grafolio.com
 - +.naver.com
 - +.naver.jp

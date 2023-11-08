@@ -1,21 +1,4 @@
 payload:
-- +.include:apa
-- +.include:cambridge
-- +.include:clarivate
-- +.include:doi
-- +.include:elsevier
-- +.include:google-scholar
-- +.include:ieee
-- +.include:imperialcollege
-- +.include:knovel
-- +.include:mit
-- +.include:oup
-- +.include:proquest
-- +.include:sci-hub
-- +.include:sciencedirect
-- +.include:springer
-- +.include:taylorfrancis
-- +.include:z-library
 - +.aclweb.org
 - +.acm.org
 - +.acs.org
@@ -90,7 +73,6 @@ payload:
 - +.thieme.de
 - +.thieme-connect.com
 - +.thieme-connect.de
-- medone-education.thieme.com
 - +.uchicago.edu
 - +.ucla.edu
 - +.umass.edu
@@ -101,6 +83,3 @@ payload:
 - +.worldscientific.com
 - +.yale.edu
 - +.zenodo.org
-- t21.nikkei.co.jp
-- t21ipau.nikkei.co.jp
-- ulrichsweb.serialssolutions.com

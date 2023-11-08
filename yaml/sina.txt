@@ -1,5 +1,4 @@
 payload:
-- +.include:sina-ads
 - +.97973.com
 - +.picself.cn
 - +.sina.cn

@@ -1,9 +1,4 @@
 payload:
-- +.include:fontexplorer
-- +.include:fonts
-- +.include:fontshop
-- +.include:linotype
-- +.include:myfonts
 - +.monotype.com
 - +.monotypeimaging.com
 - +.bitstream.com

@@ -230,4 +230,3 @@ payload:
 - +.yiyaojd.com
 - +.yizhitou.com
 - +.duolabao.com
-- +.include:jd-ads

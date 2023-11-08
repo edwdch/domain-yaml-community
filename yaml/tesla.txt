@@ -10,5 +10,3 @@ payload:
 - +.teslamotors.com.cn
 - +.teslazta.net
 - +.ts.la
-- tesla-cdn.thron.cn
-- tesla-cdn.thron.com
