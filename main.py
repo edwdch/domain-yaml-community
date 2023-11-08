@@ -32,7 +32,7 @@ def run():
                 if len(domain.split(":")) > 1:
                     pattern = domain.split(":")[0]
                     domain = domain.split(":")[1]
-                    if pattern is not "full":
+                    if pattern is not "full" or not pattern:
                         continue
                 else:
                     domain = "+." + domain
