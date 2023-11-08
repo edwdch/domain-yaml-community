@@ -31,7 +31,8 @@ def run():
                     domain = domain.split(" ")[0]
                 if domain.startswith("full:"):
                     domain = domain.split("full:")[1]
-
+                else:
+                    domain = "+." + domain
                 payload.append(domain)
 
             # 拼接新的文件名，确保替换掉最后的后缀名
