@@ -1,2 +1,2 @@
 payload:
-- masterclass.com
+- +.masterclass.com

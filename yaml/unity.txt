@@ -1,4 +1,4 @@
 payload:
-- unity.com
-- unity3d.com
-- include:unity-ads
+- +.unity.com
+- +.unity3d.com
+- +.include:unity-ads

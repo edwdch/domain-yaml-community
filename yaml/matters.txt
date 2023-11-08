@@ -1,5 +1,5 @@
 payload:
-- matters.news
-- matters.one
-- matters.town
-- mattersprotocol.io
+- +.matters.news
+- +.matters.one
+- +.matters.town
+- +.mattersprotocol.io

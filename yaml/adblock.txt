@@ -1,2 +1,2 @@
 payload:
-- getadblock.com
+- +.getadblock.com

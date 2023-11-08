@@ -1,2 +1,2 @@
 payload:
-- spacex.com
+- +.spacex.com

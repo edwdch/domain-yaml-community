@@ -1,2 +1,2 @@
 payload:
-- torproject.org
+- +.torproject.org

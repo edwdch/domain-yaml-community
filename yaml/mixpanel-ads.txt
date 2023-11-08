@@ -1,2 +1,2 @@
 payload:
-- decide.mixpanel.com
+- +.decide.mixpanel.com

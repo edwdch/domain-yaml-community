@@ -1,7 +1,7 @@
 payload:
-- deepin.cn
-- deepin.com
-- deepin.io
-- deepin.org
-- chinauos.com
-- uniontech.com
+- +.deepin.cn
+- +.deepin.com
+- +.deepin.io
+- +.deepin.org
+- +.chinauos.com
+- +.uniontech.com

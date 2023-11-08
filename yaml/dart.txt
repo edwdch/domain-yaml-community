@@ -1,4 +1,4 @@
 payload:
-- dart.dev
-- dartlang.org
-- dartpad.dev
+- +.dart.dev
+- +.dartlang.org
+- +.dartpad.dev

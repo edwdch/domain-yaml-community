@@ -1,2 +1,2 @@
 payload:
-- infrapedia.com
+- +.infrapedia.com

@@ -1,2 +1,2 @@
 payload:
-- topcoder.com
+- +.topcoder.com

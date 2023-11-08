@@ -1,2 +1,2 @@
 payload:
-- include:ookla-speedtest
+- +.include:ookla-speedtest

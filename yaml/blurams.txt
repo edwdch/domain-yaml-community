@@ -1,2 +1,2 @@
 payload:
-- blurams.com
+- +.blurams.com

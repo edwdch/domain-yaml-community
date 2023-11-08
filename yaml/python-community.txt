@@ -1,2 +1,2 @@
 payload:
-- piwheels.org
+- +.piwheels.org

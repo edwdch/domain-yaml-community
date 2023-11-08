@@ -1,4 +1,4 @@
 payload:
-- javdb.com
-- jdbimgs.com
-- jdbstatic.com
+- +.javdb.com
+- +.jdbimgs.com
+- +.jdbstatic.com

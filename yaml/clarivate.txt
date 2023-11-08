@@ -1,5 +1,5 @@
 payload:
-- include:sci
-- clarivate.com
-- webofknowledge.com
-- webofscience.com
+- +.include:sci
+- +.clarivate.com
+- +.webofknowledge.com
+- +.webofscience.com

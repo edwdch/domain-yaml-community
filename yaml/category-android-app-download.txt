@@ -1,4 +1,4 @@
 payload:
-- include:apkcombo
-- include:apkmirror
-- include:apkpure
+- +.include:apkcombo
+- +.include:apkmirror
+- +.include:apkpure

@@ -1,7 +1,7 @@
 payload:
-- myqnapcloud.com
-- qlink.to
-- qnap.com
-- myqnapcloud.cn
-- qlinkto.cn
-- qnap.com.cn
+- +.myqnapcloud.com
+- +.qlink.to
+- +.qnap.com
+- +.myqnapcloud.cn
+- +.qlinkto.cn
+- +.qnap.com.cn

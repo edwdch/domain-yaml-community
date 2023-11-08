@@ -1,4 +1,4 @@
 payload:
-- youzan.com
-- yzcdn.cn
-- youzanyun.com
+- +.youzan.com
+- +.yzcdn.cn
+- +.youzanyun.com

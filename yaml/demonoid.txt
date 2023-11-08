@@ -1,2 +1,2 @@
 payload:
-- demonoid.is
+- +.demonoid.is

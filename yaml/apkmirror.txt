@@ -1,2 +1,2 @@
 payload:
-- apkmirror.com
+- +.apkmirror.com

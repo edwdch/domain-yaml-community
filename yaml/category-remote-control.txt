@@ -1,5 +1,5 @@
 payload:
-- include:teamviewer
-- anydesk.com
-- nomachine.com
-- rustdesk.com
+- +.include:teamviewer
+- +.anydesk.com
+- +.nomachine.com
+- +.rustdesk.com

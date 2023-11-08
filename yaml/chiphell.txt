@@ -1,2 +1,2 @@
 payload:
-- chiphell.com
+- +.chiphell.com

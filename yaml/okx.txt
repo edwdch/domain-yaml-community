@@ -1,4 +1,4 @@
 payload:
-- okex.com
-- okx.com
-- oklink.com
+- +.okex.com
+- +.okx.com
+- +.oklink.com

@@ -1,2 +1,2 @@
 payload:
-- craigslist.org
+- +.craigslist.org

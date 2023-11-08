@@ -1,2 +1,2 @@
 payload:
-- chatango.com
+- +.chatango.com

@@ -1,2 +1,2 @@
 payload:
-- xingrz.me
+- +.xingrz.me

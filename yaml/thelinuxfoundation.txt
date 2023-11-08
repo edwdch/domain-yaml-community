@@ -1,6 +1,6 @@
 payload:
-- include:kernel
-- include:linux
-- include:openjsfoundation
-- lfai.foundation
-- linuxfoundation.org
+- +.include:kernel
+- +.include:linux
+- +.include:openjsfoundation
+- +.lfai.foundation
+- +.linuxfoundation.org

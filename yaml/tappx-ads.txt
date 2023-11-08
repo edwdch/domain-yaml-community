@@ -1,2 +1,2 @@
 payload:
-- ssp.api.tappx.com
+- +.ssp.api.tappx.com

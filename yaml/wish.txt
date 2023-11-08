@@ -1,2 +1,2 @@
 payload:
-- wish.com
+- +.wish.com

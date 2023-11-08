@@ -1,2 +1,2 @@
 payload:
-- doc88.com
+- +.doc88.com

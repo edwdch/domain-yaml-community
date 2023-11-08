@@ -1,4 +1,4 @@
 payload:
-- mikrotik.com
-- mt.lv
-- routerboard.com
+- +.mikrotik.com
+- +.mt.lv
+- +.routerboard.com

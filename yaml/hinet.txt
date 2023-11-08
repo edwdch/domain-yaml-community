@@ -1,7 +1,7 @@
 payload:
-- include:hinet-eca
-- cht.com.tw
-- chtf.org.tw
-- emome.net
-- hinet.net
-- xuite.net
+- +.include:hinet-eca
+- +.cht.com.tw
+- +.chtf.org.tw
+- +.emome.net
+- +.hinet.net
+- +.xuite.net

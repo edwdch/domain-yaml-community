@@ -1,2 +1,2 @@
 payload:
-- autodesk.com
+- +.autodesk.com

@@ -1,6 +1,6 @@
 payload:
-- include:vmware
-- dell
-- dell-brand.com
-- dell.com
-- dellcdn.com
+- +.include:vmware
+- +.dell
+- +.dell-brand.com
+- +.dell.com
+- +.dellcdn.com

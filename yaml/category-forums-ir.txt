@@ -1,3 +1,3 @@
 payload:
-- quera.ir
-- quera.org
+- +.quera.ir
+- +.quera.org

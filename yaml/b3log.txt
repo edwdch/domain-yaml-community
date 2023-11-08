@@ -1,2 +1,2 @@
 payload:
-- b3log.org
+- +.b3log.org

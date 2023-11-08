@@ -1,2 +1,2 @@
 payload:
-- casimages.com
+- +.casimages.com

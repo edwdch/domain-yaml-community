@@ -1,5 +1,5 @@
 payload:
-- flyme.cn
-- meizu.cn
-- meizu.com
-- mzres.com
+- +.flyme.cn
+- +.meizu.cn
+- +.meizu.com
+- +.mzres.com

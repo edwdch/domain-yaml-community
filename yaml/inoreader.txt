@@ -1,2 +1,2 @@
 payload:
-- inoreader.com
+- +.inoreader.com

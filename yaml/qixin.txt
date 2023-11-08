@@ -1,2 +1,2 @@
 payload:
-- qixin.com
+- +.qixin.com

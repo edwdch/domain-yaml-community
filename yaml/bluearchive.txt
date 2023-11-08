@@ -1,2 +1,2 @@
 payload:
-- bluearchive-cn.com
+- +.bluearchive-cn.com

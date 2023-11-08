@@ -1,2 +1,2 @@
 payload:
-- codecademy.com
+- +.codecademy.com

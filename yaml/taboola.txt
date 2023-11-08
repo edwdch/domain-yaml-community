@@ -1,2 +1,2 @@
 payload:
-- taboola.com
+- +.taboola.com

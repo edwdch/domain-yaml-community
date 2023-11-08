@@ -1,2 +1,2 @@
 payload:
-- emogi.com
+- +.emogi.com

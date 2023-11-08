@@ -1,3 +1,3 @@
 payload:
-- tuta.io
-- tutanota.com
+- +.tuta.io
+- +.tutanota.com

@@ -1,2 +1,2 @@
 payload:
-- xdty.org
+- +.xdty.org

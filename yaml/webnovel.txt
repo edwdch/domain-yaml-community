@@ -1,2 +1,2 @@
 payload:
-- webnovel.com
+- +.webnovel.com

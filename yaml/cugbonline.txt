@@ -1,2 +1,2 @@
 payload:
-- cugbonline.cn
+- +.cugbonline.cn

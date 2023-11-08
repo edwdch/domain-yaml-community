@@ -1,2 +1,2 @@
 payload:
-- cnet.com
+- +.cnet.com

@@ -1,4 +1,4 @@
 payload:
-- newcoder.com
-- nowcoder.com
-- nowcoder.org
+- +.newcoder.com
+- +.nowcoder.com
+- +.nowcoder.org

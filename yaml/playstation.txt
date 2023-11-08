@@ -1,5 +1,5 @@
 payload:
-- playstation
-- playstation.com
-- playstation.net
-- sonyentertainmentnetwork.com
+- +.playstation
+- +.playstation.com
+- +.playstation.net
+- +.sonyentertainmentnetwork.com

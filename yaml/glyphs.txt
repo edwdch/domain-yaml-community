@@ -1,2 +1,2 @@
 payload:
-- glyphsapp.com
+- +.glyphsapp.com

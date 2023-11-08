@@ -1,10 +1,10 @@
 payload:
-- include:xhamster-ads
-- xhamster.com
-- xhamster.desi
-- xhamster.xxx
-- xhamster18.com
-- xhamster18.desi
-- xhamsterlive.com
-- xhcdn.com
+- +.include:xhamster-ads
+- +.xhamster.com
+- +.xhamster.desi
+- +.xhamster.xxx
+- +.xhamster18.com
+- +.xhamster18.desi
+- +.xhamsterlive.com
+- +.xhcdn.com
 - widgets.stripst.com

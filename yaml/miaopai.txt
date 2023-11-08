@@ -1,2 +1,2 @@
 payload:
-- miaopai.com
+- +.miaopai.com

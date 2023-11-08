@@ -1,10 +1,10 @@
 payload:
-- include:playcover
-- bluestacks.com
-- lsplayer.com
-- yeshen.com
-- maa.plus
-- prts.plus
-- heavenlywind.cc
-- poi.moe
-- steampp.net
+- +.include:playcover
+- +.bluestacks.com
+- +.lsplayer.com
+- +.yeshen.com
+- +.maa.plus
+- +.prts.plus
+- +.heavenlywind.cc
+- +.poi.moe
+- +.steampp.net

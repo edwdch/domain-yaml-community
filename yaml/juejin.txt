@@ -1,7 +1,7 @@
 payload:
-- juejin.cn
-- juejin.im
-- xitu.io
+- +.juejin.cn
+- +.juejin.im
+- +.xitu.io
 - p1-juejin.byteimg.com
 - p2-juejin.byteimg.com
 - p3-juejin.byteimg.com

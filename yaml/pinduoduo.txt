@@ -1,5 +1,5 @@
 payload:
-- pddpic.com
-- pinduoduo.com
-- pinduoduo.net
-- yangkeduo.com
+- +.pddpic.com
+- +.pinduoduo.com
+- +.pinduoduo.net
+- +.yangkeduo.com

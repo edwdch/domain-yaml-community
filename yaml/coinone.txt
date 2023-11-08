@@ -1,4 +1,4 @@
 payload:
-- coinone.co.kr
-- coinonecore.com
-- coinonecorp.com
+- +.coinone.co.kr
+- +.coinonecore.com
+- +.coinonecorp.com

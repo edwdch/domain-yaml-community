@@ -1,2 +1,2 @@
 payload:
-- staticfile.org
+- +.staticfile.org

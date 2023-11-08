@@ -1,4 +1,4 @@
 payload:
-- pubmatic.com
-- pubmatic.co.jp
-- include:pubmatic-ads
+- +.pubmatic.com
+- +.pubmatic.co.jp
+- +.include:pubmatic-ads

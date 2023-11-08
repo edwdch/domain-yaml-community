@@ -1,2 +1,2 @@
 payload:
-- gandi.net
+- +.gandi.net

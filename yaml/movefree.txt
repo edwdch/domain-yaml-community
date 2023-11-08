@@ -1,8 +1,8 @@
 payload:
-- keepmovingwithmovefree.com
-- move-free.net
-- movefree.cn
-- movefrees.com
-- movefreeoffers.com
-- movefreerewards.com
-- schiffvitamins.com
+- +.keepmovingwithmovefree.com
+- +.move-free.net
+- +.movefree.cn
+- +.movefrees.com
+- +.movefreeoffers.com
+- +.movefreerewards.com
+- +.schiffvitamins.com

@@ -1,4 +1,4 @@
 payload:
-- bcicdn.com
-- bcrncdn.com
-- bongacams.com
+- +.bcicdn.com
+- +.bcrncdn.com
+- +.bongacams.com

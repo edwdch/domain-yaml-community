@@ -1,2 +1,2 @@
 payload:
-- boringcompany.com
+- +.boringcompany.com

@@ -1,2 +1,2 @@
 payload:
-- ping.pe
+- +.ping.pe

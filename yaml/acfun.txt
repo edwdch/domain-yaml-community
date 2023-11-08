@@ -1,4 +1,4 @@
 payload:
-- acfun.cn
-- aixifan.com
-- include:acfun-ads
+- +.acfun.cn
+- +.aixifan.com
+- +.include:acfun-ads

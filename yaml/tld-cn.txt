@@ -1,6 +1,6 @@
 payload:
-- cn
-- citic
-- baidu
-- unicom
-- sohu
+- +.cn
+- +.citic
+- +.baidu
+- +.unicom
+- +.sohu

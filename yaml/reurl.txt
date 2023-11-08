@@ -1,2 +1,2 @@
 payload:
-- reurl.cc
+- +.reurl.cc

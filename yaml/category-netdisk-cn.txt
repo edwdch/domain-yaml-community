@@ -1,6 +1,6 @@
 payload:
-- aliyundrive.com
-- yunpan.aliyun.com
-- lanzoui.com
-- lanzouw.com
-- lanzoux.com
+- +.aliyundrive.com
+- +.yunpan.aliyun.com
+- +.lanzoui.com
+- +.lanzouw.com
+- +.lanzoux.com

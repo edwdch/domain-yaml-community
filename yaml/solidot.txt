@@ -1,2 +1,2 @@
 payload:
-- solidot.org
+- +.solidot.org

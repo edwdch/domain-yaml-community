@@ -1,4 +1,4 @@
 payload:
-- teambition.com
-- teambition.net
-- teambitionapis.com
+- +.teambition.com
+- +.teambition.net
+- +.teambitionapis.com

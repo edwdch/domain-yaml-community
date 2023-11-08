@@ -1,2 +1,2 @@
 payload:
-- mzed.com
+- +.mzed.com

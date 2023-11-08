@@ -1,2 +1,2 @@
 payload:
-- neuralink.com
+- +.neuralink.com

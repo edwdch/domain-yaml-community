@@ -1,7 +1,7 @@
 payload:
-- csifund.org
-- hkbn.com.hk
-- hkbn.net
-- hkbnes.net
-- jos.com
-- speedtest.com.hk
+- +.csifund.org
+- +.hkbn.com.hk
+- +.hkbn.net
+- +.hkbnes.net
+- +.jos.com
+- +.speedtest.com.hk

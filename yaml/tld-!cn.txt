@@ -1,4 +1,4 @@
 payload:
-- gov
-- mil
-- edu
+- +.gov
+- +.mil
+- +.edu

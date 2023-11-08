@@ -1,5 +1,5 @@
 payload:
-- udn.com
-- udn.com.tw
-- udndata.com
-- udnfunlife.com
+- +.udn.com
+- +.udn.com.tw
+- +.udndata.com
+- +.udnfunlife.com

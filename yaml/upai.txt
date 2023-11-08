@@ -1,7 +1,7 @@
 payload:
-- aicdn.com
-- upai.com
-- upaiyun.com
-- upcdn.net
-- upyun.com
-- oncdp.com
+- +.aicdn.com
+- +.upai.com
+- +.upaiyun.com
+- +.upcdn.net
+- +.upyun.com
+- +.oncdp.com

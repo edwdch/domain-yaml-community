@@ -1,2 +1,2 @@
 payload:
-- assets.growingio.com
+- +.assets.growingio.com

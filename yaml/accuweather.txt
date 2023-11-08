@@ -1,2 +1,2 @@
 payload:
-- accuweather.com
+- +.accuweather.com

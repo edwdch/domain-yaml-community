@@ -1,4 +1,4 @@
 payload:
-- jquery.com
-- jquerymobile.com
-- jqueryui.com
+- +.jquery.com
+- +.jquerymobile.com
+- +.jqueryui.com

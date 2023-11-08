@@ -1,4 +1,4 @@
 payload:
-- emojipedia.org
-- worldemojiawards.com
-- worldemojiday.com
+- +.emojipedia.org
+- +.worldemojiawards.com
+- +.worldemojiday.com
