@@ -29,8 +29,11 @@ def run():
                     continue
                 if len(domain.split(" ")) > 1:
                     domain = domain.split(" ")[0]
-                if domain.startswith("full:"):
-                    domain = domain.split("full:")[1]
+                if len(domain.split(":")) > 1:
+                    pattern = domain.split(":")[0]
+                    domain = domain.split(":")[1]
+                    if pattern is not "full":
+                        continue
                 else:
                     domain = "+." + domain
                 payload.append(domain)
