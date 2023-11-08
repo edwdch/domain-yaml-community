@@ -1,5 +1,4 @@
 payload:
-- +.panasonic
 - +.panasonic.cn
 - +.panasonic.com
 - +.panasonic.jp

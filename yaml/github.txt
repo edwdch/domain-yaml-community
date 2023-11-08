@@ -1,4 +1,7 @@
 payload:
+- +.npm.community
+- +.npmjs.com
+- +.npmjs.org
 - +.atom.io
 - +.dependabot.com
 - +.ghcr.io
@@ -20,3 +23,4 @@ payload:
 - +.opensource.guide
 - +.repo.new
 - +.thegithubshop.com
+- github-cloud.s3.amazonaws.com

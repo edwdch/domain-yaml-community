@@ -3,3 +3,5 @@ payload:
 - +.ampproject.com
 - +.ampproject.net
 - +.ampproject.org
+- cdn.ampproject.org
+- amp.akamaized.net

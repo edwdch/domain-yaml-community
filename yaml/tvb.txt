@@ -1,4 +1,6 @@
 payload:
+- +.mytvsuper.com
+- +.tvb.com
 - +.bigbigchannel.com.hk
 - +.bigbigshop.com
 - +.encoretvb.com

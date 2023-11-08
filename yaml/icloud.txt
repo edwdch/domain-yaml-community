@@ -1,4 +1,6 @@
 payload:
+- +.mask-h2.icloud.com
+- +.mask.icloud.com
 - +.apple-icloud.cn
 - +.appleicloud.cn
 - +.applemx-icloud.com
@@ -48,3 +50,4 @@ payload:
 - +.myicloud.net
 - +.mylcloud.net
 - +.wwwicloud.com
+- www-cdn.icloud.com.akadns.net

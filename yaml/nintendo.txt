@@ -94,6 +94,8 @@ payload:
 - +.pokemonultrasunmoon.com
 - +.pokemonvgc.com
 - +.pokemonwifi.net
+- +.xn--mts47c3w9b1qr.cn
+- +.xn--mts47c3w9b1qr.net
 - +.splatoon2tournament.com
 - +.starfox.com
 - +.drmario-world.com

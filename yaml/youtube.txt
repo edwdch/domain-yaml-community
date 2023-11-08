@@ -1,5 +1,4 @@
 payload:
-- +.youtube
 - +.ggpht.cn
 - +.ggpht.com
 - +.googlevideo.com

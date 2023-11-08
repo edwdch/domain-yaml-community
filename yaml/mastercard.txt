@@ -184,3 +184,5 @@ payload:
 - +.travelexmoneycard.com
 - +.bidvestbank.co.za
 - +.worldcurrencycard.co.za
+- nab.demdex.net
+- nationalaustraliaban.tt.omtrdc.net

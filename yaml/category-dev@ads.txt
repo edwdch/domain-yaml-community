@@ -1,0 +1,5 @@
+payload:
+- o33249.ingest.sentry.io
+- openaicom.imgix.net
+- +.unityads.unity3d.com
+- +.unityads.unitychina.cn

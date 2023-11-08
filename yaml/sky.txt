@@ -1,5 +1,4 @@
 payload:
-- +.sky
 - +.sky.com
 - +.skyassets.com
 - +.skyoceanrescue.com

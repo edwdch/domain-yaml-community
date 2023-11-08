@@ -1,5 +1,4 @@
 payload:
-- +.citic
 - +.chinaamc.com
 - +.citic-prudential.com.cn
 - +.citicbank.com

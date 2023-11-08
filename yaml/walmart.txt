@@ -1,5 +1,4 @@
 payload:
-- +.walmart
 - +.w-mt.co
 - +.wal-mart.com
 - +.wal.co

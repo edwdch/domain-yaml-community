@@ -5,3 +5,5 @@ payload:
 - +.yximgs.com
 - +.kwaizt.com
 - +.kuaishouzt.com
+- log-sdk.gifshow.com
+- wlog.kuaishou.com

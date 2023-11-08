@@ -1,5 +1,4 @@
 payload:
-- +.nike
 - +.air-nike-shoes.com
 - +.airmax360.com
 - +.beijingnike.com
@@ -45,6 +44,7 @@ payload:
 - +.nike.host
 - +.nike.shop
 - +.nike.us
+- +.nike.xn--hxt814e
 - +.nike0594.com
 - +.nike23.com
 - +.nikeadidas.com
@@ -193,3 +193,4 @@ payload:
 - +.thedailysnkr.com
 - +.verygoodnike.com
 - +.womensnikeshox.com
+- +.xn--74q035i.xn--hxt814e

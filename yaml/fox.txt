@@ -1,5 +1,4 @@
 payload:
-- +.fox
 - +.fox-corporation.com
 - +.fox-news.com
 - +.fox.com
@@ -241,3 +240,4 @@ payload:
 - +.wofl.tv
 - +.woflthenewsstation.com
 - +.wogx.com
+- foxnewsplayer-a.akamaihd.net

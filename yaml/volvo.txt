@@ -1,5 +1,4 @@
 payload:
-- +.volvo
 - +.dynafleetonline.com
 - +.escandinavia-arg.com
 - +.independentoperatorcn.com

@@ -14,3 +14,4 @@ payload:
 - +.dropboxstatic.com
 - +.dropboxusercontent.com
 - +.getdropbox.com
+- paper-attachments.s3.amazonaws.com

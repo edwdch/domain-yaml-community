@@ -1,5 +1,4 @@
 payload:
-- +.bridgestone
 - +.bandag.cc
 - +.bandag.com
 - +.blizzak-juken.jp

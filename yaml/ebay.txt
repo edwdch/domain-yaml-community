@@ -302,6 +302,20 @@ payload:
 - +.wwwebay.net
 - +.wwwwebay.com
 - +.xindelu.com
+- +.xn--3et96bj49ahpq.com
+- +.xn--4vq475g.com
+- +.xn--4vq477m.com
+- +.xn--7hv594h.com
+- +.xn--7hvy28f.cn
+- +.xn--hb4aw0g.com
+- +.xn--q41am8x.com
+- +.xn--qoq462m.com
+- +.xn--tkry91n.com
+- +.xn--ubt498knmf.com
+- +.xn--xsq421m.com
+- +.xn--xsq605n.com
+- +.xn--xsq959n.com
+- +.xn--yf1at58a.com
 - +.xxbay.com
 - +.yibei.org
 - +.gittigidiyor.net
@@ -348,3 +362,4 @@ payload:
 - +.renchead.com
 - +.whisolutions.com
 - +.wrenchead.com
+- ebay-25-assets.s3-us-west-1.amazonaws.com

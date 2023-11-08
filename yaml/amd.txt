@@ -3,3 +3,4 @@ payload:
 - +.amd.com.cn
 - +.amdfanstore.com
 - +.radeon.com
+- www.amd.com

@@ -3,6 +3,12 @@ payload:
 - +.blizzardgearstore.com
 - +.blz-contentstack.com
 - +.battle.net
+- blizzard.nefficient.co.kr
+- blzddist1-a.akamaihd.net
+- blzddistkr1-a.akamaihd.net
+- bnetcmsus-a.akamaihd.net
+- bnetproduct-a.akamaihd.net
+- bnetshopus.akamaized.net
 - +.diablo3.com
 - +.diabloimmortal.com
 - +.firesidegatherings.com
@@ -13,3 +19,6 @@ payload:
 - +.starcraft2.com
 - +.playwarcraft3.com
 - +.worldofwarcraft.com
+- blizzcon-a.akamaihd.net
+- blzmedia-a.akamaihd.net
+- blznav.akamaized.net

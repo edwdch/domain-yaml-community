@@ -16,3 +16,4 @@ payload:
 - +.faronicslabs.com
 - +.faronicswise.co.uk
 - +.faronicswise.com
+- faronics.kayako.com

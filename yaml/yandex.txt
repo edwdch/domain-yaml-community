@@ -1,5 +1,4 @@
 payload:
-- +.yandex
 - +.xn--d1acpjx3f.xn--p1ai
 - +.dzen.ru
 - +.ya.ru

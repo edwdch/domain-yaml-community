@@ -1,5 +1,4 @@
 payload:
-- +.icbc
 - +.95588.com
 - +.95588.com.cn
 - +.dccnet.com.cn

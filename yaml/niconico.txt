@@ -1,5 +1,4 @@
 payload:
-- +.nico
 - +.nicodic.jp
 - +.nicomanga.jp
 - +.niconico.com

@@ -21,3 +21,4 @@ payload:
 - +.netflixdnstest8.com
 - +.netflixdnstest9.com
 - +.netflixdnstest10.com
+- netflix.com.edgesuite.net

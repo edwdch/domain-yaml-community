@@ -1,10 +1,15 @@
 payload:
-- +.chrome
+- +.censorship.no
+- +.epicbrowser.com
+- +.firefox.com
+- +.firefoxusercontent.com
+- +.torproject.org
 - +.chrome.com
 - +.chromium.org
 - +.basilisk-browser.org
 - +.brave.com
 - +.bromite.org
+- +.browser.kagi.com
 - +.cromite.org
 - +.decentr.net
 - +.dothq.org

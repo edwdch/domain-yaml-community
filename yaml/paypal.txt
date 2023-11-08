@@ -203,6 +203,7 @@ payload:
 - +.theshoppingexpresslane.net
 - +.www-paypal.info
 - +.www-paypal.us
+- +.xn--bnq297cix3a.cn
 - +.braintreegateway.com
 - +.braintreegateway.tv
 - +.braintreepayments.com
@@ -242,3 +243,4 @@ payload:
 - +.xoom.net.cn
 - +.xoom.us
 - +.xoomcom.com
+- venmo.s3.amazonaws.com

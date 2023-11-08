@@ -1,4 +1,13 @@
 payload:
+- +.dawngate.com
+- +.eastore.com
+- +.lordofultima.com
+- +.origin.com
+- +.origin.tv
+- cloudsync-prod.s3.amazonaws.com
+- origin-a.akamaihd.net
+- rtm.tnt-ea.com
+- ssl-lvlt.cdn.ea.com
 - +.awayoutgame.com
 - +.battlefieldbadcompany2.com
 - +.battlefront2.com
@@ -159,3 +168,5 @@ payload:
 - +.uo.com
 - +.uoherald.com
 - +.xdsummit.com
+- ea.tt.omtrdc.net
+- eaassets-a.akamaihd.net

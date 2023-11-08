@@ -1,4 +1,6 @@
 payload:
+- +.transferwise.com
+- +.wise.com
 - +.fxcorporate.com
 - +.mql5.com
 - +.tradingview.com

@@ -27,6 +27,11 @@ payload:
 - +.olympicchannelchina.cn
 - +.tvcc.cn
 - +.tvcc.com.cn
+- +.xn--fiq53l6wcx3kp9bc7joo6apn8a.cn
+- +.xn--fiq53l90et9fpncc7joo6apn8a.cn
+- +.xn--fiq53l6wcx3kp9bc7joo6apn8a.xn--fiqs8s
+- +.xn--kprv4ewxfr9cpxcc7joo6apn8a.cn
+- +.xn--kprv4ewxfr9cpxcc7joo6apn8a.xn--fiqs8s
 - +.zggbdszt.cn
 - +.zggbdszt.com.cn
 - +.zggbdszt.net.cn

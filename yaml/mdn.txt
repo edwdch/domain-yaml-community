@@ -7,3 +7,4 @@ payload:
 - +.mdn.mozit.cloud
 - +.mdnplay.dev
 - +.mdnyalp.dev
+- mdn.mozillademos.org

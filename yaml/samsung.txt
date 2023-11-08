@@ -1,6 +1,4 @@
 payload:
-- +.samsung
-- +.xn--cg4bki
 - +.galaxyappstore.com
 - +.galaxymobile.jp
 - +.game-platform.net

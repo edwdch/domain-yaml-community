@@ -1,5 +1,11 @@
 payload:
-- +.yahoo
+- +.flic.kr
+- +.flickr.com
+- +.flickr.net
+- +.staticflickr.com
+- +.ads.yahoo.com
+- +.gemini.yahoo.com
+- +.ysm.yahoo.com
 - +.yahoo.ae
 - +.yahoo.am
 - +.yahoo.as

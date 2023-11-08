@@ -1,4 +1,6 @@
 payload:
+- +.cf-ipfs.com
+- +.cloudflare-ipfs.com
 - +.4everland.io
 - +.c4rex.co
 - +.crustwebsites.net

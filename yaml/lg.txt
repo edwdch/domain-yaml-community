@@ -8,3 +8,4 @@ payload:
 - +.lghvacstory.com
 - +.lgrecyclingprogram.com
 - +.lgsalesportal.com
+- lgelectronics.122.2o7.net

@@ -1,5 +1,4 @@
 payload:
-- +.flickr
 - +.flic.kr
 - +.flickr.com
 - +.flickr.net

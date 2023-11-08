@@ -1,5 +1,15 @@
 payload:
-- +.intel
+- +.01.org
+- +.hyperscan.io
+- +.intellinuxgraphics.com
+- +.intellinuxgraphics.net
+- +.oneapi.com
+- +.openvinotoolkit.org
+- +.snap-telemetry.io
+- +.acpica.com
+- +.clearlinux.org
+- +.ospray.net
+- +.ospray.org
 - +.intel.ac
 - +.intel.ae
 - +.intel.af
@@ -245,5 +255,6 @@ payload:
 - +.vpro.com
 - +.vpro.net
 - +.xeon.com
+- +.xn--ztsq84g.cn
 - +.xscale.com
 - +.barefootnetworks.com

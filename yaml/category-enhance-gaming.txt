@@ -1,4 +1,6 @@
 payload:
+- +.playcover.io
+- +.playcover.workers.dev
 - +.bluestacks.com
 - +.lsplayer.com
 - +.yeshen.com

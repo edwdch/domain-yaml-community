@@ -91,3 +91,4 @@ payload:
 - +.stark-verlag.ch
 - +.talentlens.com
 - +.themathsfactor.com
+- +.xn--pearsonenespaol-brb.com

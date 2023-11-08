@@ -1,0 +1,6 @@
+payload:
+- +.gpsonextra.net
+- +.izatcloud.net
+- +.qceventscenter.com.cn
+- +.qualcomm.cn
+- +.xtracloud.cn

@@ -1,5 +1,4 @@
 payload:
-- +.cern
 - +.ams02.space
 - +.cern.ch
 - +.cixp.net

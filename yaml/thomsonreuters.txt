@@ -1,4 +1,8 @@
 payload:
+- +.reut.rs
+- +.reuters.com
+- +.reuters.tv
+- +.reutersmedia.net
 - +.aranzadi.es
 - +.corepublishingsolutions.com
 - +.elite.com

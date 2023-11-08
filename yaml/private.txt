@@ -1,11 +1,4 @@
 payload:
-- +.lan
-- +.localdomain
-- +.example
-- +.invalid
-- +.localhost
-- +.test
-- +.local
 - +.home.arpa
 - +.10.in-addr.arpa
 - +.16.172.in-addr.arpa
@@ -104,9 +97,18 @@ payload:
 - +.125.100.in-addr.arpa
 - +.126.100.in-addr.arpa
 - +.127.100.in-addr.arpa
+- instant.arubanetworks.com
+- setmeup.arubanetworks.com
 - +.captive.apple.com
 - +.connectivitycheck.gstatic.com
+- asusrouter.com
+- router.asus.com
+- www.asusrouter.com
+- cp.cloudflare.com
+- detectportal.firefox.com
 - +.networkcheck.kde.org
+- routerlogin.com
+- www.routerlogin.com
 - +.hiwifi.com
 - +.leike.cc
 - +.my.router
@@ -118,7 +120,10 @@ payload:
 - +.localhost.ptlogin2.qq.com
 - +.tendawifi.com
 - +.tplinkwifi.net
+- tplogin.cn
 - +.msftconnecttest.com
 - +.msftncsi.com
+- miwifi.com
+- www.mifiwi.com
 - +.zte.home
 - +.ts.net

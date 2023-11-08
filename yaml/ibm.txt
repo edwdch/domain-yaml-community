@@ -1,7 +1,4 @@
 payload:
-- +.ibm
-- +.weatherchannel
-- +.weather
 - +.appdomain.cloud
 - +.bluemix.com
 - +.bluemix.net

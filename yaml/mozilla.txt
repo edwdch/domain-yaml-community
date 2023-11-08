@@ -1,4 +1,19 @@
 payload:
+- +.firefox.com
+- +.firefoxusercontent.com
+- +.developer.allizom.org
+- +.developer.mozilla.org
+- +.mdn.allizom.net
+- +.mdn.dev
+- +.mdn.mozilla.net
+- +.mdn.mozit.cloud
+- +.mdnplay.dev
+- +.mdnyalp.dev
+- mdn.mozillademos.org
+- +.rust-lang.org
+- +.rustup.rs
+- +.crates.io
+- +.docs.rs
 - +.mozgcp.net
 - +.mozilla.com
 - +.mozilla.community

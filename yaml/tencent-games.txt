@@ -49,6 +49,7 @@ payload:
 - +.yzyxgame.com
 - +.zcjbgame.com
 - +.zhuoyuegame.com
+- +.xn--owtw8cc49ajfl.cn
 - +.roblox.cn
 - +.roblox.qq.com
 - +.robloxdev.cn

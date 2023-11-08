@@ -1,4 +1,8 @@
 payload:
+- +.58ganji.com
+- +.58ganji-corp.com
+- +.ganji.com
+- +.ganjistatic1.com
 - +.58.com
 - +.58.com.cn
 - +.5858.com

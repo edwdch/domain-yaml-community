@@ -46,3 +46,4 @@ payload:
 - +.registerhulu.com
 - +.thehulubraintrust.com
 - +.wwwhuluplus.com
+- hulu.playback.edge.bamgrid.com

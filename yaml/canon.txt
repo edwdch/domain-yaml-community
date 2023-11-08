@@ -1,5 +1,4 @@
 payload:
-- +.canon
 - +.c-ij.com
 - +.canon-cee.com
 - +.canon-cmos-sensors.com

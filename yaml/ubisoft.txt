@@ -3,3 +3,7 @@ payload:
 - +.ubisoft.com
 - +.ubisoftconnect.com
 - +.uplay.com
+- ubisoft-uplay-savegames.s3.amazonaws.com
+- ubisoft-orbit-savegames.s3.amazonaws.com
+- ubistatic3-a.akamaihd.net
+- uplaypc-s-ubisoft.cdn.ubi.com

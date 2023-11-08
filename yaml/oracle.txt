@@ -1,5 +1,4 @@
 payload:
-- +.oracle
 - +.oracle.com
 - +.oraclecloud.com
 - +.oraclefoundation.org
@@ -10,3 +9,8 @@ payload:
 - +.covid19-rx.org
 - +.covid19rx.org
 - +.sun.com
+- +.addthis.com
+- +.addthiscdn.com
+- +.addthisedge.com
+- +.java.com
+- +.java.net

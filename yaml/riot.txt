@@ -48,6 +48,7 @@ payload:
 - +.pvp.net
 - +.pvp.tv
 - +.ulol.com
+- lolstatic-a.akamaihd.net
 - +.playvalorant.com
 - +.riotforgegames.com
 - +.ruinedking.com

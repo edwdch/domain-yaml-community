@@ -1,4 +1,9 @@
 payload:
+- +.aparat.com
+- +.aparatkids.com
+- +.aparatsport.com
+- +.filimo.com
+- +.filimo.school
 - +.cinematicket.org
 - +.filmnet.ir
 - +.irib.ir

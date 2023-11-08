@@ -1,4 +1,14 @@
 payload:
+- +.fontexplorerx.com
+- +.fonts.com
+- +.fonts.net
+- +.fontbook.com
+- +.fontshop.com
+- +.fstopimages.com
+- fontshop-prod-responsive-images.s3.amazonaws.com
+- +.linotype.com
+- +.myfonts.com
+- +.myfonts.net
 - +.monotype.com
 - +.monotypeimaging.com
 - +.bitstream.com

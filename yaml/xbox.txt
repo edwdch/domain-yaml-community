@@ -1,5 +1,14 @@
 payload:
-- +.xbox
+- +.beth.games
+- +.bethesda.net
+- +.bethesdagamestudios.com
+- +.bethsoft.com
+- +.doom.com
+- +.elderscrolls.com
+- +.callersbane.com
+- +.minecraft.net
+- +.minecraftshop.com
+- +.mojang.com
 - +.forzamotorsport.net
 - +.forzaracingchampionship.com
 - +.forzarc.com

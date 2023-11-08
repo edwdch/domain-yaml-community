@@ -1,4 +1,7 @@
 payload:
+- +.75.team
+- +.75team.com
+- +.baomitu.com
 - +.360.cn
 - +.360.com
 - +.360.net

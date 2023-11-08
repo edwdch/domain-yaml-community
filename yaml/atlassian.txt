@@ -4,3 +4,5 @@ payload:
 - +.bitbucket.io
 - +.bitbucket.org
 - +.statuspage.io
+- +.trello.com
+- +.trellocdn.com

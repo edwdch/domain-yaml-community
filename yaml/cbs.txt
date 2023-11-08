@@ -1,6 +1,4 @@
 payload:
-- +.cbs
-- +.showtime
 - +.cbs.com
 - +.cbscorporation.com
 - +.cbsi.com
@@ -26,3 +24,7 @@ payload:
 - +.mtvnservices.com
 - +.paramountplus.com
 - +.pplusstatic.com
+- cbsi.live.ott.irdeto.com
+- cbsplaylistserver.aws.syncbak.com
+- cbsservice.aws.syncbak.com
+- link.theplatform.com

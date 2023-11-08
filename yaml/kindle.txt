@@ -1,5 +1,4 @@
 payload:
-- +.kindle
 - +.kindle.cn
 - +.kindle.co.jp
 - +.kindle.co.uk

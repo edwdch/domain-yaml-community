@@ -1,5 +1,12 @@
 payload:
+- +.bilibiligame.cn
+- +.bilibiligame.co
+- +.bilibiligame.net
+- +.biligame.co
+- +.biligame.com
+- +.biligame.net
 - +.bilicomics.com
+- manga.bilibili.com
 - +.acg.tv
 - +.acgvideo.com
 - +.animetamashi.cn
@@ -40,3 +47,4 @@ payload:
 - +.maoercdn.com
 - +.mincdn.com
 - +.yo9.com
+- upos-hz-mirrorakam.akamaized.net

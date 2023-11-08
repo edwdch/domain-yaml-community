@@ -1,5 +1,20 @@
 payload:
-- +.cisco
+- +.webex.ca
+- +.webex.co.in
+- +.webex.co.it
+- +.webex.co.jp
+- +.webex.co.kr
+- +.webex.co.nz
+- +.webex.co.uk
+- +.webex.com
+- +.webex.com.au
+- +.webex.com.br
+- +.webex.com.cn
+- +.webex.com.hk
+- +.webex.com.mx
+- +.webex.de
+- +.webex.es
+- +.webex.fr
 - +.academynetriders.com
 - +.cciernslabs.com
 - +.cciesecuritylabs.com
@@ -99,3 +114,5 @@ payload:
 - +.merakigo.com
 - +.tail-f.com
 - +.tailf.com
+- cisco.evergage.com
+- ciscolivehls-i.akamaihd.net

@@ -1,3 +1,7 @@
 payload:
+- +.517lppz.com
+- +.lppz.com
+- +.lppzimg.com
+- +.heytea.com
 - +.3songshu.com
 - +.haidilao.com

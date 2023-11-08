@@ -1,5 +1,4 @@
 payload:
-- +.mini
 - +.4myminicard.com
 - +.aboutyourmini.com
 - +.atlantaminidealers.com

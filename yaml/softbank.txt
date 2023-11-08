@@ -1,5 +1,4 @@
 payload:
-- +.softbank
 - +.sb-mobile.jp
 - +.sb-telecom.net
 - +.softbank-ipo.com

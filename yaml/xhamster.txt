@@ -1,4 +1,5 @@
 payload:
+- +.collector.xhamster.com
 - +.xhamster.com
 - +.xhamster.desi
 - +.xhamster.xxx
@@ -6,3 +7,4 @@ payload:
 - +.xhamster18.desi
 - +.xhamsterlive.com
 - +.xhcdn.com
+- widgets.stripst.com
