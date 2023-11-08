@@ -1,4 +1,4 @@
 payload:
-- bigbuckbunny.org
-- blender.org
-- elephantsdream.org
+- +.bigbuckbunny.org
+- +.blender.org
+- +.elephantsdream.org

@@ -1,3 +1,3 @@
 payload:
-- ruby-lang.org
-- rubygems.org
+- +.ruby-lang.org
+- +.rubygems.org

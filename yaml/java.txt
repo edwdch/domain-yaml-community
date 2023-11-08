@@ -1,4 +1,4 @@
 payload:
-- java
-- java.com
-- java.net
+- +.java
+- +.java.com
+- +.java.net

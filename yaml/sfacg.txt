@@ -1,2 +1,2 @@
 payload:
-- sfacg.com
+- +.sfacg.com

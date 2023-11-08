@@ -1,2 +1,2 @@
 payload:
-- xueyuanjun.com
+- +.xueyuanjun.com

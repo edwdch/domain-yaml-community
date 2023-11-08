@@ -1,10 +1,10 @@
 payload:
-- intellij.com
-- intellij.net
-- intellij.org
-- jetbrains.com
-- jetbrains.net
-- jetbrains.space
-- jetbrains.team
-- datalore.io
-- kotlinlang.org
+- +.intellij.com
+- +.intellij.net
+- +.intellij.org
+- +.jetbrains.com
+- +.jetbrains.net
+- +.jetbrains.space
+- +.jetbrains.team
+- +.datalore.io
+- +.kotlinlang.org

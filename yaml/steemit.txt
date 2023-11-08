@@ -1,2 +1,2 @@
 payload:
-- steemit.com
+- +.steemit.com

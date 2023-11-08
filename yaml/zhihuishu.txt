@@ -1,2 +1,2 @@
 payload:
-- zhihuishu.com
+- +.zhihuishu.com

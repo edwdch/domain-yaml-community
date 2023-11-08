@@ -1,5 +1,5 @@
 payload:
-- ccstatic.org
-- creativecommons.org
-- creativecommons.engineering
-- licensebuttons.net
+- +.ccstatic.org
+- +.creativecommons.org
+- +.creativecommons.engineering
+- +.licensebuttons.net

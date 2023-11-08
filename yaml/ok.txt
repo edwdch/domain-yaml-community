@@ -1,2 +1,2 @@
 payload:
-- ok.ru
+- +.ok.ru

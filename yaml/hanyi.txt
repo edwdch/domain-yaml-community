@@ -1,4 +1,4 @@
 payload:
-- include:hellofont
-- hanyi.com.cn
-- fontstar.com.cn
+- +.include:hellofont
+- +.hanyi.com.cn
+- +.fontstar.com.cn

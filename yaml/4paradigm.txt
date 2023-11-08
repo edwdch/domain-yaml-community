@@ -1,2 +1,2 @@
 payload:
-- 4paradigm.com
+- +.4paradigm.com

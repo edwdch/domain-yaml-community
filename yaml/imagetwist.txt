@@ -1,2 +1,2 @@
 payload:
-- imagetwist.com
+- +.imagetwist.com

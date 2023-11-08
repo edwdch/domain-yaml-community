@@ -1,2 +1,2 @@
 payload:
-- btdig.com
+- +.btdig.com

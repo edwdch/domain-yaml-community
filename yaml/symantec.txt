@@ -1,5 +1,5 @@
 payload:
-- managedpki.com
-- symantec.com
-- symcb.com
-- symcd.com
+- +.managedpki.com
+- +.symantec.com
+- +.symcb.com
+- +.symcd.com

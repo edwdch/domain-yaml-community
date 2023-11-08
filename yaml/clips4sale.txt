@@ -1,4 +1,4 @@
 payload:
-- c4slive.com
-- clips4sale.com
-- videos4sale.com
+- +.c4slive.com
+- +.clips4sale.com
+- +.videos4sale.com

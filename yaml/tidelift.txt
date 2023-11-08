@@ -1,2 +1,2 @@
 payload:
-- tidelift.com
+- +.tidelift.com

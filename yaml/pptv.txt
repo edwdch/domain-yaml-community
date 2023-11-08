@@ -1,4 +1,4 @@
 payload:
-- pplive.cn
-- pplive.com
-- pptv.com
+- +.pplive.cn
+- +.pplive.com
+- +.pptv.com

@@ -1,2 +1,2 @@
 payload:
-- censorship.no
+- +.censorship.no

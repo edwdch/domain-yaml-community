@@ -1,5 +1,5 @@
 payload:
-- go2map.com
-- sogo.com
-- sogou.com
-- sogoucdn.com
+- +.go2map.com
+- +.sogo.com
+- +.sogou.com
+- +.sogoucdn.com

@@ -1,4 +1,4 @@
 payload:
-- include:duowan
-- yy.com
-- yystatic.com
+- +.include:duowan
+- +.yy.com
+- +.yystatic.com

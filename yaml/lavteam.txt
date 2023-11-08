@@ -1,2 +1,2 @@
 payload:
-- lavteam.org
+- +.lavteam.org

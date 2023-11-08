@@ -1,2 +1,2 @@
 payload:
-- 3dmgame.com
+- +.3dmgame.com

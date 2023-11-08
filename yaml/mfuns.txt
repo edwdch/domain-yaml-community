@@ -1,2 +1,2 @@
 payload:
-- mfuns.cn
+- +.mfuns.cn

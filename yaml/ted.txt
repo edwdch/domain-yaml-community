@@ -1,3 +1,3 @@
 payload:
-- ted.com
-- tedcdn.com
+- +.ted.com
+- +.tedcdn.com

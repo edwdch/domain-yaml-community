@@ -1,5 +1,5 @@
 payload:
-- nudevista.com
-- nudevista.es
-- nudevista.net
-- nudevista.vip
+- +.nudevista.com
+- +.nudevista.es
+- +.nudevista.net
+- +.nudevista.vip

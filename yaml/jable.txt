@@ -1,4 +1,4 @@
 payload:
-- cdnlab.live
-- jable.tv
-- mushroomtrack.com
+- +.cdnlab.live
+- +.jable.tv
+- +.mushroomtrack.com

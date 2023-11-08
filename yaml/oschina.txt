@@ -1,3 +1,3 @@
 payload:
-- include:gitee
-- oschina.net
+- +.include:gitee
+- +.oschina.net

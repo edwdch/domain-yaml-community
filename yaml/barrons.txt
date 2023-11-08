@@ -1,5 +1,5 @@
 payload:
-- barrons-advisor.com
-- barrons-conferences.com
-- barrons.com
-- wsjbarrons.com
+- +.barrons-advisor.com
+- +.barrons-conferences.com
+- +.barrons.com
+- +.wsjbarrons.com

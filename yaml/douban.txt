@@ -1,4 +1,4 @@
 payload:
-- douban.com
-- douban.fm
-- doubanio.com
+- +.douban.com
+- +.douban.fm
+- +.doubanio.com

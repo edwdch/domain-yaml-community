@@ -1,2 +1,2 @@
 payload:
-- evt.mxplay.com
+- +.evt.mxplay.com

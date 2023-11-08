@@ -1,7 +1,7 @@
 payload:
-- coolbuy.com
-- ifanr.com
-- ifanr.in
-- ifanrusercontent.com
-- ifanrx.com
-- minapp.com
+- +.coolbuy.com
+- +.ifanr.com
+- +.ifanr.in
+- +.ifanrusercontent.com
+- +.ifanrx.com
+- +.minapp.com

@@ -1,5 +1,5 @@
 payload:
-- kakao.com
-- kakaocdn.net
-- kakaocorp.com
-- kakaotalk.jp
+- +.kakao.com
+- +.kakaocdn.net
+- +.kakaocorp.com
+- +.kakaotalk.jp

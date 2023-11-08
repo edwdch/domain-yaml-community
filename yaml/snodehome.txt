@@ -1,4 +1,4 @@
 payload:
-- szbdyd.com
-- snodehome.com
-- snodehome.cn
+- +.szbdyd.com
+- +.snodehome.com
+- +.snodehome.cn

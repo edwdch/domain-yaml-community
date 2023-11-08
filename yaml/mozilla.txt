@@ -1,14 +1,14 @@
 payload:
-- include:firefox
-- include:mdn
-- include:rust
-- mozgcp.net
-- mozilla.com
-- mozilla.community
-- mozilla.net
-- mozilla.org
-- extensionworkshop.com
-- bugzilla.org
-- getpocket.com
-- seamonkey-project.org
-- thunderbird.net
+- +.include:firefox
+- +.include:mdn
+- +.include:rust
+- +.mozgcp.net
+- +.mozilla.com
+- +.mozilla.community
+- +.mozilla.net
+- +.mozilla.org
+- +.extensionworkshop.com
+- +.bugzilla.org
+- +.getpocket.com
+- +.seamonkey-project.org
+- +.thunderbird.net

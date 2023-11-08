@@ -1,2 +1,2 @@
 payload:
-- static.hotjar.com
+- +.static.hotjar.com

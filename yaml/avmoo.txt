@@ -1,4 +1,4 @@
 payload:
-- avmoo.click
-- avmoo.com
-- tellme.pw
+- +.avmoo.click
+- +.avmoo.com
+- +.tellme.pw

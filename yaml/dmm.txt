@@ -1,7 +1,7 @@
 payload:
-- include:dmm-ads
-- include:dmm-porn
-- dmm.com
-- dmm-extension.com
-- dmmapis.com
+- +.include:dmm-ads
+- +.include:dmm-porn
+- +.dmm.com
+- +.dmm-extension.com
+- +.dmmapis.com
 - api-p.videomarket.jp

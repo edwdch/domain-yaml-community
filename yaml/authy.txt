@@ -1,2 +1,2 @@
 payload:
-- authy.com
+- +.authy.com

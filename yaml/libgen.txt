@@ -1,8 +1,8 @@
 payload:
-- libgen.life
-- libgen.fun
-- gen.lib.rus.ec
-- libgen.is
-- libgen.me
-- libgen.rs
-- libgen.st
+- +.libgen.life
+- +.libgen.fun
+- +.gen.lib.rus.ec
+- +.libgen.is
+- +.libgen.me
+- +.libgen.rs
+- +.libgen.st

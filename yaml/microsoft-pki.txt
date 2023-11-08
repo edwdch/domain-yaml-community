@@ -1,5 +1,5 @@
 payload:
-- msocsp.com
+- +.msocsp.com
 - crl.microsoft.com
 - mscrl.microsoft.com
 - ocsp.microsoft.com

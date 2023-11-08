@@ -1,2 +1,2 @@
 payload:
-- betterexplained.com
+- +.betterexplained.com

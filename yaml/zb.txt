@@ -1,5 +1,5 @@
 payload:
-- zb.app
-- zb.com
-- zb.io
-- zb.live
+- +.zb.app
+- +.zb.com
+- +.zb.io
+- +.zb.live

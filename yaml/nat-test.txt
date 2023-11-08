@@ -1,2 +1,2 @@
 payload:
-- nattest-china.com
+- +.nattest-china.com

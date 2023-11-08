@@ -1,4 +1,4 @@
 payload:
-- internetdownloadmanager.com
-- registeridm.com
-- tonec.com
+- +.internetdownloadmanager.com
+- +.registeridm.com
+- +.tonec.com

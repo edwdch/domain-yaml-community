@@ -1,4 +1,4 @@
 payload:
-- 4gtv.tv
-- ftv.com.tw
-- ftvnews.com.tw
+- +.4gtv.tv
+- +.ftv.com.tw
+- +.ftvnews.com.tw

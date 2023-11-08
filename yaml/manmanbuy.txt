@@ -1,2 +1,2 @@
 payload:
-- manmanbuy.com
+- +.manmanbuy.com

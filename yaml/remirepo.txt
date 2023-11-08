@@ -1,2 +1,2 @@
 payload:
-- remirepo.net
+- +.remirepo.net

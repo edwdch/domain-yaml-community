@@ -1,5 +1,5 @@
 payload:
-- lancdn.com
-- landiannews.com
-- wsoso.com
-- landian.vip
+- +.lancdn.com
+- +.landiannews.com
+- +.wsoso.com
+- +.landian.vip

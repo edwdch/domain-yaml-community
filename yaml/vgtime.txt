@@ -1,2 +1,2 @@
 payload:
-- vgtime.com
+- +.vgtime.com

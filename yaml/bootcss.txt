@@ -1,4 +1,4 @@
 payload:
-- bootcss.com
-- bootcdn.cn
-- phpcomposer.com
+- +.bootcss.com
+- +.bootcdn.cn
+- +.phpcomposer.com

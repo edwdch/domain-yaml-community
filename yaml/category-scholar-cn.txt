@@ -1,11 +1,11 @@
 payload:
-- include:cas
-- include:chaoxing
-- include:cnki
-- include:wanfang
-- apabi.com
-- ccf.org.cn
-- cnsciedu.com
-- cnthinkers.com
-- cqvip.com
-- er07.com
+- +.include:cas
+- +.include:chaoxing
+- +.include:cnki
+- +.include:wanfang
+- +.apabi.com
+- +.ccf.org.cn
+- +.cnsciedu.com
+- +.cnthinkers.com
+- +.cqvip.com
+- +.er07.com

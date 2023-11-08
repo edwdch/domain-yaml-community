@@ -1,4 +1,4 @@
 payload:
-- compose-spec.io
-- docker.com
-- docker.io
+- +.compose-spec.io
+- +.docker.com
+- +.docker.io

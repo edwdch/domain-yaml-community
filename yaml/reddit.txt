@@ -1,6 +1,6 @@
 payload:
-- reddit.com
-- redditstatic.com
-- redditmail.com
-- redditmedia.com
-- redd.it
+- +.reddit.com
+- +.redditstatic.com
+- +.redditmail.com
+- +.redditmedia.com
+- +.redd.it

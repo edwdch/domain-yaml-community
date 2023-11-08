@@ -1,2 +1,2 @@
 payload:
-- adblockplus.org
+- +.adblockplus.org

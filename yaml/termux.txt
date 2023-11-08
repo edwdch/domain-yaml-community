@@ -1,4 +1,4 @@
 payload:
-- termux.com
-- termux.dev
-- termux.org
+- +.termux.com
+- +.termux.dev
+- +.termux.org

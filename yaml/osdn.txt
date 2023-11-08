@@ -1,2 +1,2 @@
 payload:
-- osdn.net
+- +.osdn.net

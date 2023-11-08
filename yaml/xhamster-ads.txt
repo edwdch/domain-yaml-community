@@ -1,2 +1,2 @@
 payload:
-- collector.xhamster.com
+- +.collector.xhamster.com

@@ -1,5 +1,5 @@
 payload:
-- launchpad.net
-- launchpadlibrarian.com
-- launchpadlibrarian.net
-- launchpadlibrarian.org
+- +.launchpad.net
+- +.launchpadlibrarian.com
+- +.launchpadlibrarian.net
+- +.launchpadlibrarian.org

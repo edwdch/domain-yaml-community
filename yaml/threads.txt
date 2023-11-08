@@ -1,2 +1,2 @@
 payload:
-- threads.net
+- +.threads.net

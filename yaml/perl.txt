@@ -1,4 +1,4 @@
 payload:
-- perl.org
-- cpan.org
-- metacpan.org
+- +.perl.org
+- +.cpan.org
+- +.metacpan.org

@@ -1,2 +1,2 @@
 payload:
-- geekpark.net
+- +.geekpark.net

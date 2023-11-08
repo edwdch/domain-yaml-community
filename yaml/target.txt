@@ -1,4 +1,4 @@
 payload:
-- target
-- target.com
-- targetimg1.com
+- +.target
+- +.target.com
+- +.targetimg1.com

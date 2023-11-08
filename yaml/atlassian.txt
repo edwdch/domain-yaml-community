@@ -1,7 +1,7 @@
 payload:
-- atlassian.com
-- atlassian.net
-- bitbucket.io
-- bitbucket.org
-- statuspage.io
-- include:trello
+- +.atlassian.com
+- +.atlassian.net
+- +.bitbucket.io
+- +.bitbucket.org
+- +.statuspage.io
+- +.include:trello

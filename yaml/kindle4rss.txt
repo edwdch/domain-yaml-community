@@ -1,2 +1,2 @@
 payload:
-- kindle4rss.com
+- +.kindle4rss.com

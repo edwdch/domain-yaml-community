@@ -1,2 +1,2 @@
 payload:
-- paskoocheh.com
+- +.paskoocheh.com

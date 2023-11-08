@@ -1,5 +1,5 @@
 payload:
-- pki.goog
+- +.pki.goog
 - clients1.google.com
 - pki.google.com
 - crl.pki.goog

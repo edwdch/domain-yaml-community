@@ -1,8 +1,8 @@
 payload:
-- arewereadyyet.com
-- element.io
-- matrix.org
-- matrix.to
-- modular.im
-- riot.im
-- vector.im
+- +.arewereadyyet.com
+- +.element.io
+- +.matrix.org
+- +.matrix.to
+- +.modular.im
+- +.riot.im
+- +.vector.im

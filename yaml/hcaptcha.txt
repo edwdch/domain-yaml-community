@@ -1,4 +1,4 @@
 payload:
-- botstop.com
-- hcaptcha.com
-- hcaptchastatus.com
+- +.botstop.com
+- +.hcaptcha.com
+- +.hcaptchastatus.com

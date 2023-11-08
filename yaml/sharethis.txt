@@ -1,2 +1,2 @@
 payload:
-- sharethis.com
+- +.sharethis.com

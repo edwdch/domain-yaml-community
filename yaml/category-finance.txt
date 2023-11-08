@@ -1,5 +1,5 @@
 payload:
-- include:wise
-- fxcorporate.com
-- mql5.com
-- tradingview.com
+- +.include:wise
+- +.fxcorporate.com
+- +.mql5.com
+- +.tradingview.com

@@ -1,2 +1,2 @@
 payload:
-- yinxiang.com
+- +.yinxiang.com

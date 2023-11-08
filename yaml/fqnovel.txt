@@ -1,10 +1,10 @@
 payload:
-- changdunovel.com
-- fanqienovel.com
-- fqnovel.com
-- fqnovelpic.com
-- fqnovelvod.com
-- muyewx.com
+- +.changdunovel.com
+- +.fanqienovel.com
+- +.fqnovel.com
+- +.fqnovelpic.com
+- +.fqnovelvod.com
+- +.muyewx.com
 - p3-novel.byteimg.com
 - p6-novel.byteimg.com
 - ads3-normal-hl.zijieapi.com

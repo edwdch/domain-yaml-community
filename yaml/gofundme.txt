@@ -1,2 +1,2 @@
 payload:
-- gofundme.com
+- +.gofundme.com

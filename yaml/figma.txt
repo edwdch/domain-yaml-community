@@ -1,2 +1,2 @@
 payload:
-- figma.com
+- +.figma.com

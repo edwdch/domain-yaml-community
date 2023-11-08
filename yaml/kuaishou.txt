@@ -1,8 +1,8 @@
 payload:
-- gifshow.com
-- ksapisrv.com
-- kuaishou.com
-- yximgs.com
-- kwaizt.com
-- kuaishouzt.com
-- include:kuaishou-ads
+- +.gifshow.com
+- +.ksapisrv.com
+- +.kuaishou.com
+- +.yximgs.com
+- +.kwaizt.com
+- +.kuaishouzt.com
+- +.include:kuaishou-ads

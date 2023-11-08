@@ -1,4 +1,4 @@
 payload:
-- telekom.com
-- telekom.de
-- telesec.de
+- +.telekom.com
+- +.telekom.de
+- +.telesec.de

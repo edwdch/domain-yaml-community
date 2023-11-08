@@ -1,2 +1,2 @@
 payload:
-- laracasts.com
+- +.laracasts.com

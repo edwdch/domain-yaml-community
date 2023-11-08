@@ -1,2 +1,2 @@
 payload:
-- inner-active.mobi
+- +.inner-active.mobi

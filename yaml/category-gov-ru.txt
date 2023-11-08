@@ -1,8 +1,8 @@
 payload:
-- government.ru
-- gov.ru
-- gosuslugi.ru
-- gu-st.ru
-- emias.info
-- mgfoms.ru
-- edu.ru
+- +.government.ru
+- +.gov.ru
+- +.gosuslugi.ru
+- +.gu-st.ru
+- +.emias.info
+- +.mgfoms.ru
+- +.edu.ru
