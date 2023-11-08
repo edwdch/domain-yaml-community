@@ -13,6 +13,3 @@ payload:
 - +.spyjinx.com
 - +.unrealengine.com
 - +.unrealtournament.com
-- +.regexp:^cdn\d-epicgames-\d+\.file\.myqcloud\.com$
-- +.regexp:^epicgames-download\d\.akamaized\.net$
-- +.regexp:^epicgames-download\d-\d+\.file\.myqcloud\.com$

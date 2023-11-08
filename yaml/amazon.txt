@@ -1,11 +1,4 @@
 payload:
-- +.include:amazon-ads
-- +.include:amazontrust
-- +.include:aws
-- +.include:imdb
-- +.include:kindle
-- +.include:primevideo
-- +.include:wholefoodsmarket
 - +.amazon
 - +.xn--cckwcxetd
 - +.xn--jlq480n2rg
@@ -103,5 +96,3 @@ payload:
 - +.alexa.com
 - +.audible.com
 - +.createspace.com
-- images-cn.ssl-images-amazon.com
-- images-cn-8.ssl-images-amazon.com

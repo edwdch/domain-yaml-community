@@ -1,6 +1,4 @@
 payload:
-- +.include:discuz
-- +.include:dnspod
 - +.acctdns.com
 - +.acctdns.net
 - +.aitransfy.com
@@ -192,8 +190,6 @@ payload:
 - +.yufuid.com.cn
 - +.yufuid.net
 - +.yunjitele.com
-- +.regexp:.+\.dnse[0-5]\.(cn|com)$
-- +.regexp:.+\.tdnsv([1-9]|1[0-5])\.(com|net)$
 - +.oracle-tencent.cn
 - +.oracle-tencent.com
 - +.oracle-tencent.com.cn

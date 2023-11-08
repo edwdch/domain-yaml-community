@@ -1,5 +1,4 @@
 payload:
-- +.include:mini
 - +.bmw
 - +.approvedusedbmw.com
 - +.baltimorebmw.com

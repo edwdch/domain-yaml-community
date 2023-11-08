@@ -1,4 +1,1 @@
 payload:
-- adeventtracker.spotify.com
-- adstudio-assets.scdn.co
-- bloodhound.spotify.com

@@ -1,5 +1,4 @@
 payload:
-- +.include:mytvsuper
 - +.bigbigchannel.com.hk
 - +.bigbigshop.com
 - +.encoretvb.com

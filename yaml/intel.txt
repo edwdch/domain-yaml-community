@@ -1,5 +1,4 @@
 payload:
-- +.include:intel-dev
 - +.intel
 - +.intel.ac
 - +.intel.ae

@@ -1,5 +1,3 @@
 payload:
-- +.include:bestore
-- +.include:heytea
 - +.3songshu.com
 - +.haidilao.com

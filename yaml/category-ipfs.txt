@@ -1,5 +1,4 @@
 payload:
-- +.include:cloudflare-ipfs
 - +.4everland.io
 - +.c4rex.co
 - +.crustwebsites.net

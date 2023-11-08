@@ -10,4 +10,3 @@ payload:
 - +.cortexrpg.com
 - +.fanatical.com
 - +.wikia.nocookie.net
-- fandom.zendesk.com

@@ -14,8 +14,3 @@ payload:
 - +.hayabusa.io
 - +.hayabusa.media
 - +.winticket.jp
-- abematv.akamaized.net
-- ds-linear-abematv.akamaized.net
-- ds-vod-abematv.akamaized.net
-- linear-abematv.akamaized.net
-- vod-abematv.akamaized.net

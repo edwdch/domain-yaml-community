@@ -1,6 +1,4 @@
 payload:
-- +.include:aparat
-- +.include:filimo
 - +.cinematicket.org
 - +.filmnet.ir
 - +.irib.ir

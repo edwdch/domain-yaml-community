@@ -1,8 +1,4 @@
 payload:
-- +.include:tencent-ads
-- +.include:tencent-dev
-- +.include:tencent-games
-- +.include:yuewen
 - +.qq.xn--fiqs8s
 - +.xn--r70as2s.xn--fiqs8s
 - +.apcdns.net

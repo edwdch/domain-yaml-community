@@ -1,6 +1,4 @@
 payload:
-- +.include:bethesda
-- +.include:mojang
 - +.xbox
 - +.forzamotorsport.net
 - +.forzaracingchampionship.com

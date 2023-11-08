@@ -1,6 +1,4 @@
 payload:
-- +.include:baidu-ads
-- +.include:zuoyebang
 - +.baidu
 - +.91.com
 - +.aipage.com

@@ -10,6 +10,3 @@ payload:
 - +.videojs.com
 - +.zencdn.net
 - +.zencoder.com
-- bcovlive-a.akamaihd.net
-- bcsecure01-a.akamaihd.net
-- brightcove.imgix.net

@@ -242,4 +242,3 @@ payload:
 - +.xoom.net.cn
 - +.xoom.us
 - +.xoomcom.com
-- venmo.s3.amazonaws.com

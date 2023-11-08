@@ -1,3 +1,2 @@
 payload:
-- +.include:osu
 - +.ppy.sh

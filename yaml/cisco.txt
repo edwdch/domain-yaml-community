@@ -1,5 +1,4 @@
 payload:
-- +.include:webex
 - +.cisco
 - +.academynetriders.com
 - +.cciernslabs.com
@@ -100,5 +99,3 @@ payload:
 - +.merakigo.com
 - +.tail-f.com
 - +.tailf.com
-- cisco.evergage.com
-- ciscolivehls-i.akamaihd.net

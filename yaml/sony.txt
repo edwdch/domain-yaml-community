@@ -1,6 +1,4 @@
 payload:
-- +.include:playstation
-- +.include:sonypictures
 - +.sony
 - +.ginzasonypark.jp
 - +.sony-africa.com

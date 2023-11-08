@@ -1,13 +1,4 @@
 payload:
-- +.include:17zuoye
-- +.include:applysquare
-- +.include:hujiang
-- +.include:koolearn
-- +.include:shanbay
-- +.include:xueersi
-- +.include:yuanfudao
-- +.include:zhihuishu
-- +.include:yuketang
 - +.yudou.cn
 - +.yushiyan.net
 - +.xuetangx.com

@@ -1,5 +1,4 @@
 payload:
-- +.include:reuters
 - +.aranzadi.es
 - +.corepublishingsolutions.com
 - +.elite.com

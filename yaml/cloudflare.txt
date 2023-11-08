@@ -1,6 +1,4 @@
 payload:
-- +.include:cloudflare-cn
-- +.include:cloudflare-ipfs
 - +.argotunnel.com
 - +.cloudflare-dns.com
 - +.cloudflare-ech.com

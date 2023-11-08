@@ -43,4 +43,3 @@ payload:
 - +.wirelessreach.com
 - +.xtracloud.cn
 - +.brewmp.com
-- qualcomm.sc.omtrdc.net

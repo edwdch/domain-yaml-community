@@ -1,17 +1,4 @@
 payload:
-- +.include:4chan
-- +.include:5ch
-- +.include:6park
-- +.include:ck101
-- +.include:dcard
-- +.include:dslreports
-- +.include:hkgolden
-- +.include:lihkg
-- +.include:mobile01
-- +.include:pixnet
-- +.include:ptt
-- +.include:quora
-- +.include:reddit
 - +.18p2p.com
 - +.avsforum.com
 - +.disp.cc

@@ -1,6 +1,4 @@
 payload:
-- +.include:huawei-dev
-- +.include:huaweicloud
 - +.abhouses.com
 - +.agconnect.link
 - +.dbank.com

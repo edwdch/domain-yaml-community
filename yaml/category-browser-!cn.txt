@@ -1,8 +1,4 @@
 payload:
-- +.include:ceno
-- +.include:epicbrowser
-- +.include:firefox
-- +.include:torproject
 - +.chrome
 - +.chrome.com
 - +.chromium.org

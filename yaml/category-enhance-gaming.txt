@@ -1,5 +1,4 @@
 payload:
-- +.include:playcover
 - +.bluestacks.com
 - +.lsplayer.com
 - +.yeshen.com

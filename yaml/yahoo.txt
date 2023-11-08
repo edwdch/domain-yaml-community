@@ -1,6 +1,4 @@
 payload:
-- +.include:flickr
-- +.include:yahoo-ads
 - +.yahoo
 - +.yahoo.ae
 - +.yahoo.am

@@ -10,5 +10,3 @@ payload:
 - +.covid19-rx.org
 - +.covid19rx.org
 - +.sun.com
-- +.include:addthis
-- +.include:java

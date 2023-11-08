@@ -1,5 +1,4 @@
 payload:
-- +.include:yahoo
 - +.oath.cloud
 - +.oath.com
 - +.ouroath.com

@@ -5,4 +5,3 @@ payload:
 - +.yximgs.com
 - +.kwaizt.com
 - +.kuaishouzt.com
-- +.include:kuaishou-ads

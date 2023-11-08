@@ -16,5 +16,3 @@ payload:
 - +.track.sohu.com
 - +.uranus.sogou.com
 - +.v2.reachmax.cn
-- e8aeb8bbdbbd7.cdn.sohucs.com
-- 643108e7617ef.cdn.sohucs.com

@@ -25,4 +25,3 @@ payload:
 - +.watchanimeattheoffice.com
 - +.discordapp.io
 - +.discordcdn.com
-- hammerandchisel.ssl.zendesk.com

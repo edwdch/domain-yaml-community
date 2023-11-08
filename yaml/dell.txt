@@ -1,5 +1,4 @@
 payload:
-- +.include:vmware
 - +.dell
 - +.dell-brand.com
 - +.dell.com
