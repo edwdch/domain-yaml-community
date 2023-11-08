@@ -2,5 +2,4 @@ payload:
 - hainanairlines.com
 - hnacargo.com
 - hnair.com
-- # HNA Telecom
 - 10044.cn

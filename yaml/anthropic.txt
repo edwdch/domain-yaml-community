@@ -1,5 +1,4 @@
 payload:
 - anthropic.com
 - claude.ai
-- # CDN
-- full:servd-anthropic-website.b-cdn.net
+- servd-anthropic-website.b-cdn.net

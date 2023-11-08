@@ -1,2 +1,2 @@
 payload:
-- uberads.com @ads
+- uberads.com

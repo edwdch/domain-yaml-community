@@ -3,4 +3,4 @@ payload:
 - amd.com.cn
 - amdfanstore.com
 - radeon.com
-- full:www.amd.com @cn
+- www.amd.com

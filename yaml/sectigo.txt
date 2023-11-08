@@ -2,16 +2,15 @@ payload:
 - enterprisessl.com
 - hackerguardian.com
 - instantssl.com
-- oemssl.cn @cn
-- oemssl.cn.cdn.cloudflare.net @cn
+- oemssl.cn
+- oemssl.cn.cdn.cloudflare.net
 - optimumssl.com
 - positivessl.com
 - sectigo.com
-- sectigochina.com @cn
-- trust-provider.cn @cn
+- sectigochina.com
+- trust-provider.cn
 - trust-provider.com
 - usertrust.com
-- # Sub brand
 - aoc.cat
 - catcert.cat
 - incommon-rsa.org

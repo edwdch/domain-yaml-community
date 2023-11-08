@@ -229,6 +229,5 @@ payload:
 - yihaodianimg.com
 - yiyaojd.com
 - yizhitou.com
-- # 哆啦宝
 - duolabao.com
 - include:jd-ads

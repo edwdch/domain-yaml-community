@@ -3,4 +3,4 @@ payload:
 - gitlab.io
 - gitlab.net
 - gitlab-static.net
-- full:gitlab-assets.oss-cn-hongkong.aliyuncs.com
+- gitlab-assets.oss-cn-hongkong.aliyuncs.com

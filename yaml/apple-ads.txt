@@ -1,4 +1,4 @@
 payload:
-- iadsdk.apple.com @ads
-- iad.apple.com @ads
-- qwapi.com @ads
+- iadsdk.apple.com
+- iad.apple.com
+- qwapi.com

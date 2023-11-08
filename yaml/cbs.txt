@@ -1,7 +1,5 @@
 payload:
-- # All .cbs domains
 - cbs
-- # All .showtime domains
 - showtime
 - cbs.com
 - cbscorporation.com
@@ -22,15 +20,13 @@ payload:
 - viacom.com
 - viacomcbs.com
 - viacomcbspressexpress.com
-- # Paramount
 - paramount.com
-- # Paramount Plus
 - amlg.io
 - cbsaavideo.com
 - mtvnservices.com
 - paramountplus.com
 - pplusstatic.com
-- full:cbsi.live.ott.irdeto.com
-- full:cbsplaylistserver.aws.syncbak.com
-- full:cbsservice.aws.syncbak.com
-- full:link.theplatform.com
+- cbsi.live.ott.irdeto.com
+- cbsplaylistserver.aws.syncbak.com
+- cbsservice.aws.syncbak.com
+- link.theplatform.com

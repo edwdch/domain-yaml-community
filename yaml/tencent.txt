@@ -1,12 +1,9 @@
 payload:
-- include:qcloud #腾讯云
 - include:tencent-ads
 - include:tencent-dev
 - include:tencent-games
 - include:yuewen
-- # qq.中国
 - qq.xn--fiqs8s
-- # 腾讯.中国
 - xn--r70as2s.xn--fiqs8s
 - apcdns.net
 - foxmail.com
@@ -28,7 +25,7 @@ payload:
 - rtx.com.cn
 - servicewechat.com
 - tencent.cn
-- tencent.co.id @!cn
+- tencent.co.id
 - tencent.com
 - tencent.com.cn
 - tencent.com.hk
@@ -41,7 +38,6 @@ payload:
 - alloyteam.com
 - imweb.io
 - ivweb.io
-- # 腾讯枫叶
 - fyeds.com
 - fyeds0.com
 - fyeds1.com

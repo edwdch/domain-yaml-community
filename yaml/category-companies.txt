@@ -1,5 +1,4 @@
 payload:
-- # This list contains Tech & Cyber companies and organizations outside China mainland.
 - include:acer
 - include:adobe
 - include:alibabacloud
@@ -70,7 +69,6 @@ payload:
 - include:wisekey
 - include:yahoo
 - include:yandex
-- # Remote Control
 - include:category-remote-control
 - auth0.com
 - porkbun.com

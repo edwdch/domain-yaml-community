@@ -1,6 +1,4 @@
 payload:
-- # This list contains well-known Certificate Authorities (CA) outside China mainland.
-- # Reference: https://en.wikipedia.org/wiki/Certificate_authority
 - include:actalis
 - include:amazontrust
 - include:apple-pki

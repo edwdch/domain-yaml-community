@@ -1,2 +1,2 @@
 payload:
-- cdn.segment.com @ads
+- cdn.segment.com

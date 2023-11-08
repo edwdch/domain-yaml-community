@@ -1,5 +1,4 @@
 payload:
-- # Iranian technology websites
 - afranet.com
 - arvancloud.com
 - arvancloud.ir

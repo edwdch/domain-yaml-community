@@ -1,10 +1,10 @@
 payload:
-- geforce.cn @cn
+- geforce.cn
 - geforce.co.kr
 - geforce.co.uk
 - geforce.com
 - geforce.com.tw
-- gputechconf.cn @cn
+- gputechconf.cn
 - gputechconf.co.kr
 - gputechconf.com
 - gputechconf.com.au
@@ -16,7 +16,7 @@ payload:
 - nvidia.at
 - nvidia.be
 - nvidia.ch
-- nvidia.cn @cn
+- nvidia.cn
 - nvidia.co.at
 - nvidia.co.in
 - nvidia.co.jp
@@ -59,4 +59,4 @@ payload:
 - tegrazone.com
 - tegrazone.jp
 - tegrazone.kr
-- full:nvidia.tt.omtrdc.net
+- nvidia.tt.omtrdc.net

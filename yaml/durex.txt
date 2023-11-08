@@ -16,7 +16,7 @@ payload:
 - durex.com
 - durex.com.au
 - durex.com.bd
-- durex.com.cn @cn
+- durex.com.cn
 - durex.com.co
 - durex.com.hr
 - durex.com.my
@@ -50,12 +50,12 @@ payload:
 - durexcam.com
 - durexcanada.com
 - durexchina.com
-- durexchina.com.cn @cn
+- durexchina.com.cn
 - durexindia.com
 - durexloveclub.com
 - durexukraine.com
 - durexusa.com
-- lovesexdurex.cn @cn
+- lovesexdurex.cn
 - lovesexdurex.com
 - playbydurex.com
 - shopdurex.com

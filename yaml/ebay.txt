@@ -1,9 +1,9 @@
 payload:
 - 21centuryaccess.com
 - 4ebaytraders.com
-- adcommerce.cn @cn
+- adcommerce.cn
 - adcommerce.tv
-- appforebay.cn @cn
+- appforebay.cn
 - appsonebay.net
 - asebay.com
 - baazee.com
@@ -28,18 +28,18 @@ payload:
 - cebay.com
 - collective99.com
 - commerceos.com
-- connectcommerce.cn @cn
-- connectcommerce.com.cn @cn
+- connectcommerce.cn
+- connectcommerce.com.cn
 - connectcommerce.hk
 - connectcommerce.info
 - connectcommerce.tv
-- connectedcommerce.cn @cn
+- connectedcommerce.cn
 - connectedcommerce.com
 - connectedcommerce.tv
 - crececonebay.com
 - creditcardsbay.com
-- cyber-bay.cn @cn
-- cyber-bay.com.cn @cn
+- cyber-bay.cn
+- cyber-bay.com.cn
 - cyber-bay.info
 - cyber-bay.org
 - dba.dk
@@ -73,7 +73,7 @@ payload:
 - ebay.be
 - ebay.ca
 - ebay.ch
-- ebay.cn @cn
+- ebay.cn
 - ebay.co.nz
 - ebay.co.uk
 - ebay.co.ve
@@ -81,7 +81,7 @@ payload:
 - ebay.com
 - ebay.com.ar
 - ebay.com.au
-- ebay.com.cn @cn
+- ebay.com.cn
 - ebay.com.ec
 - ebay.com.hk
 - ebay.com.mt
@@ -97,24 +97,24 @@ payload:
 - ebay.jp
 - ebay.lt
 - ebay.mn
-- ebay.net.cn @cn
+- ebay.net.cn
 - ebay.nl
 - ebay.org
-- ebay.org.cn @cn
+- ebay.org.cn
 - ebay.ph
 - ebay.pk
 - ebay.pl
 - ebay.sg
 - ebay.us
 - ebay.vn
-- ebay.yn.cn @cn
-- ebay.zj.cn @cn
+- ebay.yn.cn
+- ebay.zj.cn
 - ebay25.com
 - ebay68.com
 - ebaya.com
 - ebayads.com
 - ebayads.net
-- ebayadvertising.cn @cn
+- ebayadvertising.cn
 - ebayadvertising.com
 - ebayanunsios.net
 - ebayauction.com
@@ -133,9 +133,9 @@ payload:
 - ebaycdn.net
 - ebaychina.net
 - ebayclassifiedsgroup.com
-- ebayclassifieds.cn @cn
+- ebayclassifieds.cn
 - ebayclassifieds.com
-- ebayclassifieds.com.cn @cn
+- ebayclassifieds.com.cn
 - ebayclassifieds.info
 - ebayclassifieds.org
 - ebayclassifieds.tv
@@ -150,16 +150,16 @@ payload:
 - ebaycourse.com
 - ebayd.com
 - ebayde.com
-- ebaydesc.cn @cn
-- ebaydesc.com.cn @cn
+- ebaydesc.cn
+- ebaydesc.com.cn
 - ebaydlassifieds.com
-- ebaydns.cn @cn
+- ebaydns.cn
 - ebaydts.com
 - ebayedu.com
 - ebayeletro.com
-- ebayenterprise.cn @cn
+- ebayenterprise.cn
 - ebayenterprise.com
-- ebayenterprise.com.cn @cn
+- ebayenterprise.com.cn
 - ebayenterprise.info
 - ebayenterprise.net
 - ebayenterprise.tv
@@ -194,9 +194,9 @@ payload:
 - ebaymall.com
 - ebaymarketplace.net
 - ebaymotors.ca
-- ebaymotors.cn @cn
+- ebaymotors.cn
 - ebaymotors.com
-- ebaymotors.com.cn @cn
+- ebaymotors.com.cn
 - ebaymotors.org
 - ebaymotorsblog.com
 - ebaynow.com
@@ -210,8 +210,8 @@ payload:
 - ebaypakistan.net
 - ebaypark.com
 - ebayparts.com
-- ebaypedia.cn @cn
-- ebaypedia.com.cn @cn
+- ebaypedia.cn
+- ebaypedia.com.cn
 - ebayprivacycenter.com
 - ebayqq.com
 - ebayradio.com
@@ -220,18 +220,18 @@ payload:
 - ebayshoesstore.com
 - ebayshop.com
 - ebayshop111.com
-- ebayshopping.cn @cn
-- ebayshopping.com.cn @cn
+- ebayshopping.cn
+- ebayshopping.com.cn
 - ebayshopping.org
 - ebaysocial.com
 - ebaysocial.ru
 - ebaysoho.com
 - ebaysohos.com
-- ebaystatic.cn @cn
+- ebaystatic.cn
 - ebaystatic.com
 - ebaystore.com
 - ebaystore77.com
-- ebaystores.cn @cn
+- ebaystores.cn
 - ebaystyle.com
 - ebaysweden.com
 - ebayt.com
@@ -255,7 +255,7 @@ payload:
 - fragrancebay.com
 - francemail.com
 - half.com
-- half.com.cn @cn
+- half.com.cn
 - half.tv
 - halfcanada.com
 - halfjapan.com
@@ -276,9 +276,9 @@ payload:
 - premobay.com
 - privatemarketplaces.net
 - privatemarketplaces.us
-- prostores.cn @cn
+- prostores.cn
 - prostores.com
-- prostores.com.cn @cn
+- prostores.com.cn
 - rethink.net
 - shopibay.net
 - shoping.com
@@ -302,26 +302,10 @@ payload:
 - wwwebay.net
 - wwwwebay.com
 - xindelu.com
-- xn--3et96bj49ahpq.com # 巴特菲尔.com
-- xn--4vq475g.com # 益倍.com
-- xn--4vq477m.com # 逸倍.com
-- xn--7hv594h.com # 易钡.com
-- xn--7hvy28f.cn @cn # 易贝.cn
-- xn--hb4aw0g.com # 逸钡.com
-- xn--q41am8x.com # 藝鋇.com
-- xn--qoq462m.com # 伊贝.com
-- xn--tkry91n.com # 半額.com
-- xn--ubt498knmf.com # 客集齐.com
-- xn--xsq421m.com # 依贝.com
-- xn--xsq605n.com # 依鋇.com
-- xn--xsq959n.com # 依钡.com
-- xn--yf1at58a.com # 艺钡.com
 - xxbay.com
 - yibei.org
-- # GittiGidiyor
 - gittigidiyor.net
 - gittigidiyorsikayet.com
-- # kijiji
 - gumtree.sg
 - jijiji.ca
 - kiji.ca
@@ -330,22 +314,19 @@ payload:
 - kijiji.ca
 - kijijiauto.ca
 - kijijiautos.ca
-- kijijidns.cn @cn
-- kijijidns.com.cn @cn
+- kijijidns.cn
+- kijijidns.com.cn
 - kijijiforbusiness.ca
 - kijijii.ca
 - kijijiraps.ca
 - kijji.ca
 - kijjiji.ca
-- # Mobile.de
 - automobile.fr
 - mobile.de
 - mobileinternational.com
-- mobileinternational.com.cn @cn
-- # Qoo10
+- mobileinternational.com.cn
 - q10.jp
 - qoo10.jp
-- # Terapeak
 - achievementanalytics.com
 - cdn-terapeak.com
 - listinganalytics.net
@@ -353,7 +334,7 @@ payload:
 - tearapeak.com
 - terapeack.com
 - terapeak.ca
-- terapeak.cn @cn
+- terapeak.cn
 - terapeak.com
 - terapeak.com.hk
 - terapeak.hk
@@ -361,11 +342,10 @@ payload:
 - teraperk.com
 - terrapeak.com
 - thebayuk.com
-- # WHI
 - nexcat.com
 - nexpart.com
 - nexpart.tv
 - renchead.com
 - whisolutions.com
 - wrenchead.com
-- full:ebay-25-assets.s3-us-west-1.amazonaws.com
+- ebay-25-assets.s3-us-west-1.amazonaws.com

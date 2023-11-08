@@ -1,5 +1,4 @@
 payload:
-- # https://support.apple.com/en-us/HT210060
 - appldnld.apple.com
 - gg.apple.com
 - gnf-mdn.apple.com

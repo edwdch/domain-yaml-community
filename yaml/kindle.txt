@@ -1,8 +1,6 @@
 payload:
-- # All .kindle domains
 - kindle
-- # Kindle
-- kindle.cn @cn
+- kindle.cn
 - kindle.co.jp
 - kindle.co.uk
 - kindle.com
@@ -12,9 +10,9 @@ payload:
 - kindle.in
 - kindle.it
 - kindle.jp
-- kindleoasis.cn @cn
+- kindleoasis.cn
 - kindleoasis.com
-- kindleoasis.com.cn @cn
+- kindleoasis.com.cn
 - kindleoasis.info
 - kindleoasis.jp
 - kindleoasis.org

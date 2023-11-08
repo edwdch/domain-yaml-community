@@ -6,6 +6,6 @@ payload:
 - mooc.cn
 - openlearning.com
 - pmphmooc.com
-- full:moocs.unipus.cn
-- full:opencourse.pku.edu.cn
-- full:study.163.com
+- moocs.unipus.cn
+- opencourse.pku.edu.cn
+- study.163.com

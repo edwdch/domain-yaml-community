@@ -6,13 +6,13 @@ payload:
 - repsils.no
 - strepsils.at
 - strepsils.ch
-- strepsils.cn @cn
+- strepsils.cn
 - strepsils.co.kr
 - strepsils.co.nz
 - strepsils.co.za
 - strepsils.com.ar
 - strepsils.com.br
-- strepsils.com.cn @cn
+- strepsils.com.cn
 - strepsils.com.co
 - strepsils.com.au
 - strepsils.com.hk

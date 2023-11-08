@@ -1,5 +1,4 @@
 payload:
-- # All .nike domains
 - nike
 - air-nike-shoes.com
 - airmax360.com
@@ -23,7 +22,7 @@ payload:
 - hightopnikes.com
 - idnike.com
 - inikesneakers.com
-- just-do-it.cn @cn
+- just-do-it.cn
 - justdoit.us
 - kicksnike1.com
 - kidsnikeshoes.com
@@ -32,12 +31,12 @@ payload:
 - nike-dunksb.com
 - nike-fr.com
 - nike-org.com
-- nike-shox.cn @cn
+- nike-shox.cn
 - nike-uk.com
 - nike-us.com
 - nike-usa.com
 - nike.ci
-- nike.cn @cn
+- nike.cn
 - nike.com
 - nike.com.br
 - nike.com.hk
@@ -46,7 +45,6 @@ payload:
 - nike.host
 - nike.shop
 - nike.us
-- nike.xn--hxt814e # nike.网店
 - nike0594.com
 - nike23.com
 - nikeadidas.com
@@ -61,9 +59,9 @@ payload:
 - nikeb.com
 - nikebbn.com
 - nikebetrue.com
-- nikebetterworld.cn @cn
+- nikebetterworld.cn
 - nikebetterworld.com
-- nikebetterworld.com.cn @cn
+- nikebetterworld.com.cn
 - nikebetterworld.info
 - nikebetterworld.net
 - nikebetterworld.org
@@ -73,7 +71,7 @@ payload:
 - nikecdn.com
 - nikecompany.com
 - nikeconfluence.com
-- nikechina.cn @cn
+- nikechina.cn
 - nikechosen.com
 - nikecloud.com
 - nikeclub.com
@@ -99,16 +97,16 @@ payload:
 - nikegadgets.com
 - nikegenealogy.com
 - nikegolf.ca
-- nikegolf.cn @cn
+- nikegolf.cn
 - nikegrid.com
 - nikehelp.com
 - nikehightops.com
 - nikehyperdunk.com
-- nikeid.cn @cn
-- nikeid.com.cn @cn
+- nikeid.cn
+- nikeid.com.cn
 - nikeidshoes.com
 - nikeinc.com
-- nikeinc.com.cn @cn
+- nikeinc.com.cn
 - nikeincchemistry.com
 - nikeinstock.com
 - nikeit.com
@@ -116,16 +114,16 @@ payload:
 - nikeitaly.com
 - nikekd.com
 - nikekid.com
-- nikelab.cn @cn
-- nikelab.com.cn @cn
+- nikelab.cn
+- nikelab.com.cn
 - nikelink.com
-- nikeliuxiang.cn @cn
+- nikeliuxiang.cn
 - nikeliuxiang.com
-- nikeliuxiang.com.cn @cn
+- nikeliuxiang.com.cn
 - nikelives.com
 - nikelunarglide.com
-- nikemall.cn @cn
-- nikemall.com.cn @cn
+- nikemall.cn
+- nikemall.com.cn
 - nikemarketing.com
 - nikenews.com
 - niken7.com
@@ -141,10 +139,10 @@ payload:
 - nikepromax.com
 - nikeresponsibility.com
 - nikereuseashoe.com
-- nikerunclub.cn @cn
-- nikerunclub.com.cn @cn
+- nikerunclub.cn
+- nikerunclub.com.cn
 - nikerunner.com
-- nikerunning.com.cn @cn
+- nikerunning.com.cn
 - nikerunningshoes.com
 - nikesb.com
 - nikesbdunks.net
@@ -168,7 +166,7 @@ payload:
 - nikesoccercleats.com
 - nikesportswear.com
 - nikestares.com
-- nikestore.cn @cn
+- nikestore.cn
 - nikestore.com
 - nikestore.com.au
 - nikestyles.com
@@ -195,4 +193,3 @@ payload:
 - thedailysnkr.com
 - verygoodnike.com
 - womensnikeshox.com
-- xn--74q035i.xn--hxt814e # 耐克.网店

@@ -19,4 +19,4 @@ payload:
 - rolfoundation.org
 - rolsociety.org
 - yiqiedoushiganggangkaishi.org
-- full:himalaya-exchange.zendesk.com
+- himalaya-exchange.zendesk.com

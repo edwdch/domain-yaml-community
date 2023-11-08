@@ -1,4 +1,4 @@
 payload:
-- ads.service.kugou.com @ads
-- adserviceretry.kglink.cn @ads
-- adserviceretry.kugou.com @ads
+- ads.service.kugou.com
+- adserviceretry.kglink.cn
+- adserviceretry.kugou.com

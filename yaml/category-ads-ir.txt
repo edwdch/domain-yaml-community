@@ -1,5 +1,4 @@
 payload:
-- # Iranian Advertising websites
 - adivery.com
 - adivery.ir
 - kaprila.com

@@ -1,12 +1,8 @@
 payload:
-- # 本项目不对金融机构提供任何保证或担保
-- # The project does not provide any guarantees or warranties to financial institutions.
-- # Stock Exchange 证券交易所
 - sse.com.cn
 - sseinfo.com
 - szse.cn
 - cninfo.com.cn
-- # Securities Company 证券公司
 - ajzq.com
 - avicsec.com
 - ccnew.com
@@ -105,7 +101,6 @@ payload:
 - zszq.com
 - ztfsec.com
 - zts.com.cn
-- # Public Fund Company 公募基金公司
 - 99fund.com
 - abc-ca.com
 - avicfund.cn
@@ -161,7 +156,6 @@ payload:
 - yhfund.com.cn
 - zhfund.com
 - zofund.com
-- # Fund Sales 基金销售公司
 - 5ifund.com
 - fund123.cn
 - howbuy.com

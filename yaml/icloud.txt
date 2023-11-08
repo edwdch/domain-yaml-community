@@ -1,14 +1,14 @@
 payload:
 - include:icloudprivaterelay
-- apple-icloud.cn @cn
-- appleicloud.cn @cn
+- apple-icloud.cn
+- appleicloud.cn
 - applemx-icloud.com
-- icloud-apple.cn @cn
+- icloud-apple.cn
 - icloud-content.com
 - icloud-isupport.com
 - icloud.ch
 - icloud.com
-- icloud.com.cn @cn
+- icloud.com.cn
 - icloud.de
 - icloud.ee
 - icloud.fi
@@ -18,7 +18,7 @@ payload:
 - icloud.is
 - icloud.jp
 - icloud.lv
-- icloud.net.cn @cn
+- icloud.net.cn
 - icloud.om
 - icloud.org
 - icloud.pt
@@ -28,7 +28,7 @@ payload:
 - icloud.sk
 - icloud.vn
 - icloudads.net
-- icloudapple.cn @cn
+- icloudapple.cn
 - icloudbox.net
 - icloudbrowser.net
 - icloude.com
@@ -49,4 +49,4 @@ payload:
 - myicloud.net
 - mylcloud.net
 - wwwicloud.com
-- full:www-cdn.icloud.com.akadns.net
+- www-cdn.icloud.com.akadns.net

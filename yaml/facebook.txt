@@ -389,9 +389,8 @@ payload:
 - wwwmfacebook.com
 - zuckerberg.com
 - zuckerberg.net
-- # Workplace
 - facebookwork.com
 - redkix.com
 - workplace.com
 - workplaceusecases.com
-- full:fbcdn-a.akamaihd.net
+- fbcdn-a.akamaihd.net

@@ -1,8 +1,7 @@
 payload:
-- dcocsp.cn @cn
-- digicert-cn.com # Not in Chinese Mainland
+- dcocsp.cn
 - digicert-validation.com
-- digicert.cn @cn
+- digicert.cn
 - digicert.com
 - digitalcertvalidation.com
 - freessl.com
@@ -11,7 +10,5 @@ payload:
 - thawte.com
 - thawte.de
 - thawte.fr
-- # Quovadis
 - quovadisglobal.com
-- # Public Trust
 - public-trust.com

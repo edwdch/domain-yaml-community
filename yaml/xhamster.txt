@@ -7,5 +7,4 @@ payload:
 - xhamster18.desi
 - xhamsterlive.com
 - xhcdn.com
-- # xhamsterlive thumbnails
-- full:widgets.stripst.com
+- widgets.stripst.com

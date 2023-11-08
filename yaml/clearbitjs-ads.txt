@@ -1,2 +1,2 @@
 payload:
-- x.clearbitjs.com @ads
+- x.clearbitjs.com

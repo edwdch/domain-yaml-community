@@ -1,5 +1,4 @@
 payload:
-- # Beijing Kuaishou Technology Co., Ltd.
 - gifshow.com
 - ksapisrv.com
 - kuaishou.com

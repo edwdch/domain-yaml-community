@@ -1,6 +1,5 @@
 payload:
 - include:mini
-- # All .bmw domains
 - bmw
 - approvedusedbmw.com
 - baltimorebmw.com
@@ -232,7 +231,7 @@ payload:
 - bmw.com.bn
 - bmw.com.bo
 - bmw.com.br
-- bmw.com.cn @cn
+- bmw.com.cn
 - bmw.com.co
 - bmw.com.cy
 - bmw.com.do
@@ -445,7 +444,6 @@ payload:
 - tristatebmw.com
 - vancouverbmwretailers.ca
 - washingtondcbmw.com
-- # Alphera
 - alfera.com.hk
 - alfera.com.my
 - alfera.in
@@ -477,7 +475,6 @@ payload:
 - alpherafs.in
 - alpherafs.my
 - premiumfs.de
-- # Alphabet
 - alphabet.asia
 - alphabet.at
 - alphabet.be
@@ -487,7 +484,7 @@ payload:
 - alphabet.co.uk
 - alphabet.co.za
 - alphabet.com
-- alphabet.com.cn @cn
+- alphabet.com.cn
 - alphabet.com.es
 - alphabet.com.lv
 - alphabet.com.mx
@@ -504,7 +501,7 @@ payload:
 - alphabet.lu
 - alphabet.lv
 - alphabet.mx
-- alphabet.net.cn @cn
+- alphabet.net.cn
 - alphabet.no
 - alphabet.org.uk
 - alphabet.pl
@@ -512,7 +509,6 @@ payload:
 - alphabet.uk
 - alphabet.us
 - alphabetfinance.net
-- # Rolls-Royce
 - electricluxury.com
 - rolls-roycecullinan.com
 - rolls-roycemotorcars.com

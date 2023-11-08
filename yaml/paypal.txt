@@ -5,12 +5,12 @@ payload:
 - accountpaypal.com
 - accountpaypal.net
 - accountpaypal.org
-- anfutong.cn @cn
+- anfutong.cn
 - anfutong.com
-- anfutong.com.cn @cn
-- beibao.cn @cn
+- anfutong.com.cn
+- beibao.cn
 - beibao.com
-- beibao.com.cn @cn
+- beibao.com.cn
 - bill-safe.com
 - billmelater.com
 - billmelater.info
@@ -134,21 +134,21 @@ payload:
 - paypal-viewpoints.net
 - paypal.ca
 - paypal.com
-- paypal.com.cn @cn
+- paypal.com.cn
 - paypal.com.hk
 - paypal.com.sg
 - paypal.hk
 - paypal.info
 - paypal.jp
 - paypal.me
-- paypal.net.cn @cn
-- paypal.org.cn @cn
+- paypal.net.cn
+- paypal.org.cn
 - paypal.so
 - paypal.us
 - paypalbeacon.com
 - paypalbenefits.com
 - paypalbrasil.com
-- paypalcommunity.cn @cn
+- paypalcommunity.cn
 - paypalcommunity.com
 - paypalcommunity.net
 - paypalcommunity.org
@@ -156,9 +156,9 @@ payload:
 - paypalcredit.com
 - paypalcreditcard.com
 - paypalgivingfund.org
-- paypalhere.cn @cn
+- paypalhere.cn
 - paypalhere.com
-- paypalhere.com.cn @cn
+- paypalhere.com.cn
 - paypalhere.info
 - paypalhere.net
 - paypalhere.org
@@ -203,8 +203,6 @@ payload:
 - theshoppingexpresslane.net
 - www-paypal.info
 - www-paypal.us
-- xn--bnq297cix3a.cn @cn # 易付通.cn
-- # Braintree
 - braintreegateway.com
 - braintreegateway.tv
 - braintreepayments.com
@@ -217,27 +215,21 @@ payload:
 - briantreepayments.tv
 - card.io
 - getbraintree.com
-- # krakenjs
 - krakenjs.com
-- # LoanBuilder
 - loanbuilder.com
 - swiftcapital.com
-- # Simility
 - simility.com
-- # Swift Financial
 - cashify.net
 - swiftbank.info
 - swiftbank.us
 - swiftfinancial.com
 - swiftfinancial.info
 - swiftfinancial.net
-- # Venmo
 - venmo-touch.com
 - venmo.com
 - venmo.info
 - venmo.net
 - venmo.org
-- # Xoom
 - cash2.com
 - filipino-music.net
 - s-xoom.com
@@ -247,7 +239,7 @@ payload:
 - xoom-experience.com
 - xoom.com
 - xoom.io
-- xoom.net.cn @cn
+- xoom.net.cn
 - xoom.us
 - xoomcom.com
-- full:venmo.s3.amazonaws.com
+- venmo.s3.amazonaws.com

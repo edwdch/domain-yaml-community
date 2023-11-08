@@ -1,5 +1,4 @@
 payload:
-- # This list contains social media platforms outside China mainland.
 - include:facebook
 - include:instagram
 - include:linkedin

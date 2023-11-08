@@ -1,5 +1,4 @@
 payload:
-- # All .sky domains
 - sky
 - sky.com
 - skyassets.com

@@ -1,5 +1,4 @@
 payload:
-- # Akamai Technologies, INC.
 - ak1.net
 - aka-ai.com
 - aka-ai.net

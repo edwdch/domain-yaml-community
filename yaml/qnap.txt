@@ -1,9 +1,7 @@
 payload:
-- # Global
 - myqnapcloud.com
 - qlink.to
 - qnap.com
-- # China Mainland
-- myqnapcloud.cn @cn
-- qlinkto.cn @cn
-- qnap.com.cn @cn
+- myqnapcloud.cn
+- qlinkto.cn
+- qnap.com.cn

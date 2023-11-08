@@ -1,4 +1,4 @@
 payload:
-- thetype.cloud @cn
+- thetype.cloud
 - thetype.com
 - typeisbeautiful.com

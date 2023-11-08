@@ -36,7 +36,6 @@ payload:
 - zhengwunet.org
 - zhenxiang.biz
 - zhuichaguoji.org
-- # 神韻
 - shenyun.com
 - shenyun.org
 - shenyuncreations.com

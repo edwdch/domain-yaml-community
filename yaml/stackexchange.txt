@@ -1,7 +1,4 @@
 payload:
-- # References:
-- # https://stackexchange.com/sites
-- # https://meta.stackexchange.com/questions/81379/can-we-have-a-list-of-all-the-stack-exchange-domains-somewhere-for-firewall-pur
 - askubuntu.com
 - blogoverflow.com
 - codeforaliving.io

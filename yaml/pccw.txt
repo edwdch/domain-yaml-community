@@ -5,5 +5,4 @@ payload:
 - pccw.com
 - pccwglobal.com
 - pccwsolutions.com
-- # Moov
 - moov.hk

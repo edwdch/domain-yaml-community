@@ -1,7 +1,5 @@
 payload:
-- # AvaxHome main site:
 - avxhm.se
-- # AvaxHome mirror sites:
 - avh.world
 - avxde.org
 - avxhm.is

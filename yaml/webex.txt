@@ -9,7 +9,7 @@ payload:
 - webex.com
 - webex.com.au
 - webex.com.br
-- webex.com.cn @cn
+- webex.com.cn
 - webex.com.hk
 - webex.com.mx
 - webex.de

@@ -1,11 +1,8 @@
 payload:
-- # Iranian education and learning websites
-- # Course
 - faradars.org
 - git.ir
 - learnby.ir
 - toplearn.com
-- # Webinar
 - done.ir
 - iranlms.org
 - webinarplus.online

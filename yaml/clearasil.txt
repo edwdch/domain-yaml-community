@@ -1,4 +1,4 @@
 payload:
-- clearasil.cn @cn
-- clearasil.com.cn @cn
+- clearasil.cn
+- clearasil.com.cn
 - clearasil.us

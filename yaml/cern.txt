@@ -1,5 +1,4 @@
 payload:
-- # All .cern domains
 - cern
 - ams02.space
 - cern.ch

@@ -9,6 +9,5 @@ payload:
 - unionpay.com
 - unionpay.net
 - unionpaysecure.com
-- # UnionPay International
 - unionpayintl.cn
 - unionpayintl.com

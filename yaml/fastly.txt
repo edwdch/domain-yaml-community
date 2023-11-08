@@ -4,5 +4,4 @@ payload:
 - fastlylabs.com
 - fastlylb.net
 - fastly-terrarium.com
-- # Video.js CDN
 - zencdn.net

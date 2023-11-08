@@ -1,10 +1,7 @@
 payload:
-- # RARBG image hosting site
 - dyncdn.me
-- # RARBG official site
 - rarbg.me
 - rarbg.to
-- # RARBG proxy sites
 - proxyrarbg.org
 - rarbg.is
 - rarbgaccess.org

@@ -1,8 +1,6 @@
 payload:
-- # Main domain which weblogs are registered in
 - blogger.com
 - blogblog.com
-- # Subdomains which weblogs can be accessed from
 - blogspot.ae
 - blogspot.al
 - blogspot.am

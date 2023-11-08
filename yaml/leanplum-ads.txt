@@ -1,2 +1,2 @@
 payload:
-- leanplum.com @ads
+- leanplum.com

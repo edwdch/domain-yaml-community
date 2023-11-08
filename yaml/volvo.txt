@@ -1,5 +1,4 @@
 payload:
-- # All .volvo domains
 - volvo
 - dynafleetonline.com
 - escandinavia-arg.com
@@ -17,7 +16,7 @@ payload:
 - vfsco.com
 - vfsco.com.au
 - vfsco.com.br
-- vfsco.com.cn @cn
+- vfsco.com.cn
 - vfsco.com.tr
 - vfsco.cz
 - vfsco.de
@@ -47,9 +46,9 @@ payload:
 - vgcareers.net
 - volvo-truck.nl
 - volvo.ca
-- volvo.cn @cn
+- volvo.cn
 - volvo.com
-- volvo.com.cn @cn
+- volvo.com.cn
 - volvo.se
 - volvobrandshop.com
 - volvobuses.at
@@ -94,10 +93,10 @@ payload:
 - volvoce.com
 - volvodefense.com
 - volvogroup.be
-- volvogroup.cn @cn
+- volvogroup.cn
 - volvogroup.com
 - volvogroup.com.br
-- volvogroup.com.cn @cn
+- volvogroup.com.cn
 - volvogroup.de
 - volvogroup.fr
 - volvogroup.jp
@@ -147,7 +146,7 @@ payload:
 - volvotrucks.com.au
 - volvotrucks.com.bn
 - volvotrucks.com.br
-- volvotrucks.com.cn @cn
+- volvotrucks.com.cn
 - volvotrucks.com.co
 - volvotrucks.com.kw
 - volvotrucks.com.pt
@@ -210,5 +209,4 @@ payload:
 - volvotruckcenter.no
 - volvotruckcenter.se
 - volvotruckrental.be
-- # UD Trucks
 - udtrucksmeena.com

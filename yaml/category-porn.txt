@@ -60,7 +60,6 @@ payload:
 - include:youjizz
 - include:yunlaopo
 - include:zhimeishe
-- # No Name Sites - Group 1
 - dmthin.com
 - dmthus.com
 - dmtiny.com
@@ -136,7 +135,6 @@ payload:
 - ystry.com
 - ysvia.com
 - yswet.com
-- # The top domains of the pornographic website.
 - adult
 - porn
 - 02weqj32.com
@@ -5902,9 +5900,7 @@ payload:
 - zzcartoon.com
 - zzgays.com
 - zzitube.com
-- # Full Domain Name
-- full:anime-rule34-world.b-cdn.net
-- # Internationalized Domain Name
+- anime-rule34-world.b-cdn.net
 - xn--80aaazx1an0a.lol
 - xn--8uq428d76d.tokyo
 - xn--cck4d8b3009a.com
@@ -5919,7 +5915,6 @@ payload:
 - xn--urs05q.jp
 - xn--x-qeu1ji09tzlg.biz
 - xn--x-qeu1ji09tzlg.net
-- # Regular Expression
 - regexp:(^|\.)[1-5]gaoap\.com$
 - regexp:(^|\.)[1-9]+aipai\.(com|net)$
 - regexp:(^|\.)[1-9]+zipai\.(com|net)$

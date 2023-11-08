@@ -1,6 +1,4 @@
 payload:
-- # Iranian news websites
-- # News
 - aftabnews.ir
 - alef.ir
 - asriran.com
@@ -37,7 +35,6 @@ payload:
 - tasnimnews.com
 - tejaratnews.com
 - yjc.ir
-- # Newspapers
 - 7sobh.com
 - abrarnews.com
 - aftabeyazd.ir

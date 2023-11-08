@@ -1,5 +1,4 @@
 payload:
-- # All .bloomberg domains
 - bloomberg
 - bbgevent.com
 - bbhub.io

@@ -1,3 +1,3 @@
 payload:
 - kechuang.org
-- full:kc.kexinshe.com @cn
+- kc.kexinshe.com

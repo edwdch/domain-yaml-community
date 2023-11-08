@@ -1,5 +1,4 @@
 payload:
-- # 上海帝联网络科技有限公司
 - acadn.cn
 - acadn.com
 - bbbcdns.com

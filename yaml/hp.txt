@@ -1,5 +1,4 @@
 payload:
-- # HP Development Company, L.P.
 - 123-hp.com
 - 123hplaserjet.com
 - 8008206616.com
@@ -120,7 +119,7 @@ payload:
 - hpsso.com
 - hpstore-china.com
 - hpstore-emea.com
-- hpstore.cn @cn
+- hpstore.cn
 - hpstore.com
 - hpstorethailand.com
 - hpsupport.com
@@ -155,6 +154,4 @@ payload:
 - touchsmartpc.org
 - workstations.tv
 - www8-hp.com
-- xn--6eup7j.com # 惠普.com
-- xn--6eup7j.net # 惠普.net
-- full:hpstore.corpmerchandise.com
+- hpstore.corpmerchandise.com

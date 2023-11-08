@@ -1,4 +1,4 @@
 payload:
-- booking.cn @cn
+- booking.cn
 - booking.com
 - bstatic.com

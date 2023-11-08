@@ -1,5 +1,4 @@
 payload:
-- # All .theguardian domains
 - theguardian
 - dev-guardianapis.com
 - dev-theguardian.com

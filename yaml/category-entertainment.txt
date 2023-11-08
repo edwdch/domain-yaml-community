@@ -1,5 +1,4 @@
 payload:
-- # This list contains services related to entertainment & games & music & podcasts & videos outside China mainland.
 - include:abema
 - include:anime
 - include:archiveofourown
@@ -81,7 +80,6 @@ payload:
 - thetvdb.com
 - weverse.io
 - yande.re
-- # Apple Podcast
 - amp-api.podcast.apple.com
 - bag.itunes.apple.com
 - bookeeper.itunes.apple.com

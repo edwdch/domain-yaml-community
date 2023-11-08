@@ -1,7 +1,6 @@
 payload:
 - include:playstation
 - include:sonypictures
-- # All .sony domains
 - sony
 - ginzasonypark.jp
 - sony-africa.com

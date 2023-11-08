@@ -2,4 +2,4 @@ payload:
 - patreon.com
 - patreoncommunity.com
 - patreonusercontent.com
-- full:live-patreon-marketing.pantheonsite.io
+- live-patreon-marketing.pantheonsite.io

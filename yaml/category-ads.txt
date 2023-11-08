@@ -1,5 +1,4 @@
 payload:
-- # This file contains domains that clearly serving ads
 - include:acfun-ads
 - include:adcolony-ads
 - include:adjust-ads
@@ -58,7 +57,6 @@ payload:
 - include:yahoo-ads
 - include:youku-ads
 - include:zynga-ads
-- # Other domains for ads serving
 - 51y5.net
 - a.adtng.com
 - aaxads.com
@@ -105,21 +103,13 @@ payload:
 - trafficfactory.biz
 - tsyndicate.com
 - wwads.cn
-- # 36Kr
 - adx.36kr.com
-- # ali213
 - click.ali213.net
 - pbmp.ali213.net
-- # Caixin
 - regexp:^pinggai\d\.caixin\.com$
-- # Chinaso
 - adq.chinaso.com
 - stat.chinaso.com
-- # Httpool
 - toboads.com
-- # Qiniu
 - dn-growing.qbox.me
-- # UNI Marketing
 - ad.unimhk.com
-- # UCloud
 - das-rpt-log.ucloud.cn

@@ -1,8 +1,7 @@
 payload:
 - include:bilibili-game
-- # 哔哩哔哩漫画
 - bilicomics.com
-- full:manga.bilibili.com
+- manga.bilibili.com
 - acg.tv
 - acgvideo.com
 - animetamashi.cn
@@ -22,7 +21,7 @@ payload:
 - bilibili.cn
 - bilibili.com
 - bilibili.net
-- bilibili.tv @!cn
+- bilibili.tv
 - bilibilipay.cn
 - bilibilipay.com
 - bilicdn1.com
@@ -32,7 +31,7 @@ payload:
 - bilicdn5.com
 - biligo.com
 - biliimg.com
-- biliintl.com @!cn
+- biliintl.com
 - bilivideo.cn
 - bilivideo.com
 - bilivideo.net
@@ -43,4 +42,4 @@ payload:
 - maoercdn.com
 - mincdn.com
 - yo9.com
-- full:upos-hz-mirrorakam.akamaized.net
+- upos-hz-mirrorakam.akamaized.net

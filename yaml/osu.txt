@@ -1,12 +1,10 @@
 payload:
-- # osu
-- full:a.ppy.sh
-- full:assets.ppy.sh
-- full:c.ppy.sh
-- full:osu.ppy.sh
-- full:m1.ppy.sh
-- # osu lazer
-- full:lazer.ppy.sh
-- full:notify.ppy.sh
-- full:sentry.ppy.sh
-- full:spectator.ppy.sh
+- a.ppy.sh
+- assets.ppy.sh
+- c.ppy.sh
+- osu.ppy.sh
+- m1.ppy.sh
+- lazer.ppy.sh
+- notify.ppy.sh
+- sentry.ppy.sh
+- spectator.ppy.sh

@@ -1,13 +1,10 @@
 payload:
 - include:playcover
-- # Android Emulator
 - bluestacks.com
-- lsplayer.com @cn
-- yeshen.com @cn
-- # Arknights
+- lsplayer.com
+- yeshen.com
 - maa.plus
 - prts.plus
-- # KanColle
-- heavenlywind.cc @cn
+- heavenlywind.cc
 - poi.moe
-- steampp.net @cn
+- steampp.net

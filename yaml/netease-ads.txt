@@ -1,5 +1,5 @@
 payload:
-- analytics.163.com @ads
-- crash.163.com @ads
-- crashlytics.163.com @ads
-- g.163.com @ads
+- analytics.163.com
+- crash.163.com
+- crashlytics.163.com
+- g.163.com

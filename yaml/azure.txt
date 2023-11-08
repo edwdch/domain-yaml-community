@@ -1,31 +1,30 @@
 payload:
-- # All .azure domains
 - azure
-- 21vbc.com @cn
-- 21vbluecloud.com @cn
-- 21vbluecloud.net @cn
-- aadrm.cn @cn
-- aggresmart.com @cn
-- apihub-internal.cn @cn
-- appserviceenvironment.cn @cn
-- azcrmc-test.cn @cn
-- azcrmc.cn @cn
-- azk8s.cn @cn
-- aznbcontent.cn @cn
-- aztask.cn @cn
-- azure-api.cn @cn
-- azure-apihub.cn @cn
-- azure-automation.cn @cn
-- azure-connectedvehicles-stage.cn @cn
-- azure-connectedvehicles.cn @cn
+- 21vbc.com
+- 21vbluecloud.com
+- 21vbluecloud.net
+- aadrm.cn
+- aggresmart.com
+- apihub-internal.cn
+- appserviceenvironment.cn
+- azcrmc-test.cn
+- azcrmc.cn
+- azk8s.cn
+- aznbcontent.cn
+- aztask.cn
+- azure-api.cn
+- azure-apihub.cn
+- azure-automation.cn
+- azure-connectedvehicles-stage.cn
+- azure-connectedvehicles.cn
 - azure-devices-int.net
-- azure-devices-provisioning.cn @cn
-- azure-devices.cn @cn
+- azure-devices-provisioning.cn
+- azure-devices.cn
 - azure-devices.net
 - azure-mobile.net
 - azure-sphere.com
 - azure-test.net
-- azure.cn @cn
+- azure.cn
 - azure.com
 - azure.net
 - azurecomcdn.net
@@ -35,8 +34,8 @@ payload:
 - azurecosmosdb.com
 - azurecosmosdb.info
 - azurecosmosdb.net
-- azurecr-test.cn @cn
-- azurecr.cn @cn
+- azurecr-test.cn
+- azurecr.cn
 - azuredatabricks.net
 - azuredevopslaunch.com
 - azuredigitaltwin.com
@@ -47,69 +46,68 @@ payload:
 - azureedge-test.net
 - azureedge.net
 - azurefd.net
-- azurehdinsight.cn @cn
+- azurehdinsight.cn
 - azureiotcentral.com
 - azureiotsolutions.com
-- azureiotsuite.cn @cn
+- azureiotsuite.cn
 - azureiotsuite.com
-- azuremresolver.cn @cn
+- azuremresolver.cn
 - azureplanetscale.info
 - azureplanetscale.net
-- azureprivatedns.cn @cn
-- azurerms.cn @cn
-- azuresandbox.cn @cn
+- azureprivatedns.cn
+- azurerms.cn
+- azuresandbox.cn
 - azureserviceprofiler.com
 - azuresmartspaces.net
 - azurestackvalidation.com
 - azurewebsites.net
-- b2clogin.cn @cn
-- b3itech.cn @cn
-- blueaggrestore.com @cn
-- bluecloudprod.com @cn
-- cegid-cloud.cn @cn
-- chinacloud-mobile.cn @cn
-- chinacloudapi.cn @cn
-- chinacloudapp.cn @cn
-- chinacloudsites.cn @cn
+- b2clogin.cn
+- b3itech.cn
+- blueaggrestore.com
+- bluecloudprod.com
+- cegid-cloud.cn
+- chinacloud-mobile.cn
+- chinacloudapi.cn
+- chinacloudapp.cn
+- chinacloudsites.cn
 - cosmosdb.info
 - cosmosdb.net
 - devopsms.com
 - gotcosmos.com
-- hdinsightservices.cn @cn
+- hdinsightservices.cn
 - management-azure-devices-int.net
-- management-azure-devices-provisioning.cn @cn
-- management-azure-devices.cn @cn
+- management-azure-devices-provisioning.cn
+- management-azure-devices.cn
 - management-azure-devices.net
-- mcchcdn.com @cn
-- mgmt-azure-api.cn @cn
+- mcchcdn.com
+- mgmt-azure-api.cn
 - microsoftazuresponsorships.com
-- microsoftazurestatus.cn @cn
+- microsoftazurestatus.cn
 - microsofteca.com
 - microsoftiotcentral.com
-- microsoftmetrics.cn @cn
-- mncmsidlab1.cn @cn
-- msappproxy.cn @cn
-- mschcdn.com @cn
-- msftcloudes.cn @cn
-- msidentity.cn @cn
-- msidlabpbmc.cn @cn
+- microsoftmetrics.cn
+- mncmsidlab1.cn
+- msappproxy.cn
+- mschcdn.com
+- msftcloudes.cn
+- msidentity.cn
+- msidlabpbmc.cn
 - msn.net
 - serverlesslibrary.net
-- trafficmanager.cn @cn
+- trafficmanager.cn
 - trafficmanager.net
-- trustcenter.cn @cn
+- trustcenter.cn
 - tryfunctions.com
-- unity3dcloud.cn @cn
-- windowsazure.cn @cn
+- unity3dcloud.cn
+- windowsazure.cn
 - windowsazure.com
-- windowsazurestatus.cn @cn
-- regexp:.+\.azchcdn[a-s]\.com$ @cn
-- full:azure.microsoft.com
-- full:azuremarketplace.microsoft.com
-- # Azure DNS
-- azure-dns.cn @cn
+- windowsazurestatus.cn
+- regexp:.+\.azchcdn[a-s]\.com$
+- azure.microsoft.com
+- azuremarketplace.microsoft.com
+- azure-dns.cn
 - azure-dns.com
 - azure-dns.info
 - azure-dns.net
 - azure-dns.org
-- regexp:.+\.azure-dns-([1-9]|10)\.cn$ @cn
+- regexp:.+\.azure-dns-([1-9]|10)\.cn$

@@ -20,4 +20,4 @@ payload:
 - zeebiz.com
 - zeeentertainment.com
 - zeenews.com
-- full:zeenews-fonts.s3.amazonaws.com
+- zeenews-fonts.s3.amazonaws.com

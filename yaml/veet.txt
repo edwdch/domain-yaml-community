@@ -4,7 +4,7 @@ payload:
 - veet.ca
 - veet.ch
 - veet.cl
-- veet.cn @cn
+- veet.cn
 - veet.co.id
 - veet.co.in
 - veet.co.kr
@@ -16,7 +16,7 @@ payload:
 - veet.com.au
 - veet.com.bd
 - veet.com.br
-- veet.com.cn @cn
+- veet.com.cn
 - veet.com.co
 - veet.com.hk
 - veet.com.mx

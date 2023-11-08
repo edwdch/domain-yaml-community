@@ -1,2 +1,2 @@
 payload:
-- static.sensorsdata.cn @ads
+- static.sensorsdata.cn

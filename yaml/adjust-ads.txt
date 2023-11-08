@@ -1,2 +1,2 @@
 payload:
-- adjust.com @ads
+- adjust.com

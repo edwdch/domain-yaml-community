@@ -1,8 +1,7 @@
 payload:
-- # All .gucci domains
 - gucci
 - chimeforchange.org
-- gucci.cn @cn
+- gucci.cn
 - gucci.com
 - guccimuseo.com
 - guccitimeless.com

@@ -1,5 +1,4 @@
 payload:
-- # Iranian governmental websites
 - adliran.ir
 - agrieng.org
 - bazresi.ir

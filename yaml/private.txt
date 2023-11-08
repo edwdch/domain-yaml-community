@@ -1,21 +1,12 @@
 payload:
-- # References:
-- # https://www.iana.org/assignments/special-use-domain-names/special-use-domain-names.xhtml
-- # https://unix.stackexchange.com/questions/92441/whats-the-difference-between-local-home-and-lan
 - lan
 - localdomain
-- # https://tools.ietf.org/html/rfc2606
-- # https://tools.ietf.org/html/rfc6761
 - example
 - invalid
 - localhost
 - test
-- # https://tools.ietf.org/html/rfc6762
 - local
-- # https://tools.ietf.org/html/rfc8375
 - home.arpa
-- # References: https://www.iana.org/assignments/locally-served-dns-zones/locally-served-dns-zones.xhtml
-- # https://www.rfc-editor.org/rfc/rfc6303.html
 - 10.in-addr.arpa
 - 16.172.in-addr.arpa
 - 17.172.in-addr.arpa
@@ -49,7 +40,6 @@ payload:
 - a.e.f.ip6.arpa
 - b.e.f.ip6.arpa
 - 8.b.d.0.1.0.0.2.ip6.arpa
-- # https://www.rfc-editor.org/rfc/rfc7793.html
 - 64.100.in-addr.arpa
 - 65.100.in-addr.arpa
 - 66.100.in-addr.arpa
@@ -114,59 +104,34 @@ payload:
 - 125.100.in-addr.arpa
 - 126.100.in-addr.arpa
 - 127.100.in-addr.arpa
-- # Dotless domains
 - regexp:^[a-z]([a-z0-9-]{0,61}[a-z0-9])?$
-- # Aruba router
-- full:instant.arubanetworks.com
-- full:setmeup.arubanetworks.com
-- # Apple
+- instant.arubanetworks.com
+- setmeup.arubanetworks.com
 - captive.apple.com
-- # Android
 - connectivitycheck.gstatic.com
-- # ASUS router
-- # Reference: https://www.asus.com/support/FAQ/1005263/
-- full:asusrouter.com
-- full:router.asus.com
-- full:www.asusrouter.com
-- # Cloudflare
-- full:cp.cloudflare.com
-- # Firefox
-- full:detectportal.firefox.com
-- # KDE
+- asusrouter.com
+- router.asus.com
+- www.asusrouter.com
+- cp.cloudflare.com
+- detectportal.firefox.com
 - networkcheck.kde.org
-- # Netgear router
-- # Reference: https://kb.netgear.com/27199/I-can-t-access-my-router-what-do-I-do
-- # https://www.netgear.com/business/services/aplogincom/
-- full:routerlogin.com
-- full:www.routerlogin.com
-- # Other router
+- routerlogin.com
+- www.routerlogin.com
 - hiwifi.com
 - leike.cc
 - my.router
 - peiluyou.com
 - phicomm.me
 - router.ctc
-- # Plex Media Server
-- # Reference: https://support.plex.tv/articles/206225077-how-to-use-secure-server-connections/
 - plex.direct
-- # QQ SSO for quick login
 - localhost.sec.qq.com
 - localhost.ptlogin2.qq.com
-- # Tenda router
 - tendawifi.com
-- # TP-Link router
-- # Reference: https://resource.tp-link.com.cn/m/productClass/product_document?id=1655112502304621
 - tplinkwifi.net
-- full:tplogin.cn
-- # Windows
+- tplogin.cn
 - msftconnecttest.com
 - msftncsi.com
-- # Xiaomi router
-- # Reference: https://www1.miwifi.com/miwifi_faq.html
-- full:miwifi.com
-- full:www.mifiwi.com
-- # ZTE router
+- miwifi.com
+- www.mifiwi.com
 - zte.home
-- # Tailscale Magic DNS
-- # Reference: https://tailscale.com/kb/1081/magicdns/#fully-qualified-domain-names-vs-machine-names
 - ts.net

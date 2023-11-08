@@ -1,5 +1,5 @@
 payload:
-- mortein.cn @cn
+- mortein.cn
 - mortein.co.in
 - mortein.co.nz
 - mortein.co.za

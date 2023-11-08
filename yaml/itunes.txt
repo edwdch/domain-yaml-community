@@ -15,11 +15,11 @@ payload:
 - 12diasderegalosdeitunes.hn
 - 12diasderegalosdeitunes.pe
 - 12joursdecadeauxdeitunes.com
-- apple-itunes.cn @cn
+- apple-itunes.cn
 - itun.es
 - itunbes.com
 - ituneas.com
-- itunes-apple.cn @cn
+- itunes-apple.cn
 - itunes-apple.com.akadns.net
 - itunes-radio.net
 - itunes.ca
@@ -32,7 +32,7 @@ payload:
 - itunes.rio
 - itunes.us
 - itunes12days.com
-- itunesapple.cn @cn
+- itunesapple.cn
 - itunesessentials.com
 - itunesfestivals.com
 - itunesiradio.com
@@ -40,9 +40,9 @@ payload:
 - ituneslogin.net
 - itunesmatch.com
 - itunesparty.com
-- itunesradio.cn @cn
+- itunesradio.cn
 - itunesradio.com
-- itunesradio.com.cn @cn
+- itunesradio.com.cn
 - itunesradio.rio
 - itunesradio.tv
 - itunesradio.tw

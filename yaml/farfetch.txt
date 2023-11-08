@@ -1,9 +1,9 @@
 payload:
 - farfetch-apps.com
 - farfetch-contents.com
-- farfetch.cn @cn
+- farfetch.cn
 - farfetch.com
-- farfetch.com.cn @cn
+- farfetch.com.cn
 - farfetch.net
-- farfetch.net.cn @cn
+- farfetch.net.cn
 - fflnk.net

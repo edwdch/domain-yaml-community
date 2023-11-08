@@ -1,5 +1,4 @@
 payload:
-- # This list contains social media platforms inside Iran.
 - bale.ai
 - eitaa.com
 - eitaa.ir

@@ -1,7 +1,6 @@
 payload:
 - entrust.net
 - entrustdatacard.com
-- # Sub brand
 - affirmtrust.com
 - atos.net
 - myatos.net

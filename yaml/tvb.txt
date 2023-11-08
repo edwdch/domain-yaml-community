@@ -7,7 +7,7 @@ payload:
 - tvb.com.au
 - tvbanywhere.com
 - tvbanywhere.com.sg
-- tvbc.com.cn @cn
+- tvbc.com.cn
 - tvbeventpower.com.hk
 - tvbusa.com
 - tvbweekly.com

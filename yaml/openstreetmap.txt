@@ -6,6 +6,5 @@ payload:
 - openstreetmaps.org
 - osm.org
 - osmfoundation.org
-- # State of the Map
 - stateofthemap.com
 - stateofthemap.org

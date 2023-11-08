@@ -1,2 +1,2 @@
 payload:
-- static.hotjar.com @ads
+- static.hotjar.com

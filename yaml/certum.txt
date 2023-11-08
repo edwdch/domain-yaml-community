@@ -1,5 +1,3 @@
 payload:
 - certum.pl
 - ocsp-certum.com
-- # Sub brand
-- ocsp-responder.com # Yandex

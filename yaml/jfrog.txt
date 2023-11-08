@@ -2,4 +2,4 @@ payload:
 - jfrog.com
 - jfrog.org
 - bintray.com
-- full:d29vzk4ow07wi7.cloudfront.net
+- d29vzk4ow07wi7.cloudfront.net

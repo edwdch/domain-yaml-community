@@ -1,16 +1,16 @@
 payload:
-- ad.intl.xiaomi.com @ads
-- ad.mi.com @ads
-- ad.xiaomi.com @ads
-- ad1.xiaomi.com @ads
-- admob.xiaomi.com @ads
-- adv.sec.intl.miui.com @ads
-- adv.sec.miui.com @ads
-- misc.in.duokanbox.com @ads
-- mistat.xiaomi.com @ads
-- tjqonline.cn @ads
-- tracking.miui.com @ads
-- ad.hpplay.cn @ads
-- adeng.hpplay.cn @ads
-- kuyun.com @ads
-- umeng.com @ads
+- ad.intl.xiaomi.com
+- ad.mi.com
+- ad.xiaomi.com
+- ad1.xiaomi.com
+- admob.xiaomi.com
+- adv.sec.intl.miui.com
+- adv.sec.miui.com
+- misc.in.duokanbox.com
+- mistat.xiaomi.com
+- tjqonline.cn
+- tracking.miui.com
+- ad.hpplay.cn
+- adeng.hpplay.cn
+- kuyun.com
+- umeng.com

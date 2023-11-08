@@ -1,3 +1,3 @@
 payload:
-- amazon-adsystem.com @ads
-- serving-sys.com @ads
+- amazon-adsystem.com
+- serving-sys.com

@@ -1,7 +1,6 @@
 payload:
 - include:baidu-ads
 - include:zuoyebang
-- # All .baidu domains
 - baidu
 - 91.com
 - aipage.com

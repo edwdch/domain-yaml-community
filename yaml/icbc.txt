@@ -1,5 +1,4 @@
 payload:
-- # All .icbc domains
 - icbc
 - 95588.com
 - 95588.com.cn

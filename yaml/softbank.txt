@@ -1,5 +1,4 @@
 payload:
-- # All .softbank domains
 - softbank
 - sb-mobile.jp
 - sb-telecom.net

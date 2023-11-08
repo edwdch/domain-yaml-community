@@ -1,6 +1,5 @@
 payload:
 - include:intel-dev
-- # All .intel domains
 - intel
 - intel.ac
 - intel.ae
@@ -23,7 +22,7 @@ payload:
 - intel.ch
 - intel.cl
 - intel.cm
-- intel.cn @cn
+- intel.cn
 - intel.co.ae
 - intel.co.cr
 - intel.co.id
@@ -37,7 +36,7 @@ payload:
 - intel.com.au
 - intel.com.bo
 - intel.com.br
-- intel.com.cn @cn
+- intel.com.cn
 - intel.com.co
 - intel.com.ec
 - intel.com.hk
@@ -200,7 +199,7 @@ payload:
 - intelnet.Component
 - intelplay.com
 - intelquark.com
-- intelrealsense.cn @cn
+- intelrealsense.cn
 - intelrealsense.com
 - intelrxt.com
 - intelsalestraining.com
@@ -247,7 +246,5 @@ payload:
 - vpro.com
 - vpro.net
 - xeon.com
-- xn--ztsq84g.cn # 奔腾.cn
 - xscale.com
-- # Barefoot Networks
 - barefootnetworks.com

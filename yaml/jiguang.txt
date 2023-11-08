@@ -1,5 +1,4 @@
 payload:
-- #极光推送
 - 42r.cn
 - 5566ua.com
 - aurorapush.cn

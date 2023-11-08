@@ -1,5 +1,4 @@
 payload:
-- # Best Buy Co., Inc
 - bby.com
 - bbycastatic.ca
 - bbycloud.com
@@ -15,9 +14,9 @@ payload:
 - bestbuy-int.com
 - bestbuy-jobs.com
 - bestbuy.ca
-- bestbuy.cn @cn
+- bestbuy.cn
 - bestbuy.com
-- bestbuy.com.cn @cn
+- bestbuy.com.cn
 - bestbuy.com.mx
 - bestbuy.info
 - bestbuy24x7solutions.com
@@ -47,7 +46,7 @@ payload:
 - cowboom.com
 - futureshop.ca
 - initproducts.com
-- magnoliaav.com.cn @cn
+- magnoliaav.com.cn
 - mybestbuy.com
 - mybestbuyclaims.com
 - myrewardzone.com
@@ -59,7 +58,6 @@ payload:
 - wolfatbestbuy.com
 - wolfatbestbuy.net
 - www-bestbuystores.com
-- # Geek Squad
 - geek-squad-support.com
 - geek-squad.net
 - geek-squad.org
@@ -80,8 +78,6 @@ payload:
 - gsccdn.com
 - gslink.us
 - onlinegeeksquad.com
-- # RocketFish
 - rocketfishproducts.com
-- # Tech Liquidators
 - dealtree.org
 - techliquidators.com

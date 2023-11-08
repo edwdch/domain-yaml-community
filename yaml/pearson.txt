@@ -36,7 +36,7 @@ payload:
 - pearson.com
 - pearson.com.ar
 - pearson.com.au
-- pearson.com.cn @cn
+- pearson.com.cn
 - pearson.com.hk
 - pearson.com.uy
 - pearson.es
@@ -91,4 +91,3 @@ payload:
 - stark-verlag.ch
 - talentlens.com
 - themathsfactor.com
-- xn--pearsonenespaol-brb.com # pearsonenespañol.com

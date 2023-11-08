@@ -1,5 +1,4 @@
 payload:
-- # This file contains domains of pirate chinese online novel sites that are blocked by GFW
 - ptzwx.com
 - quanben-xiaoshuo.com
 - quanben.io

@@ -1,4 +1,4 @@
 payload:
-- ads.yahoo.com @ads
-- gemini.yahoo.com @ads
-- ysm.yahoo.com @ads
+- ads.yahoo.com
+- gemini.yahoo.com
+- ysm.yahoo.com

@@ -1,5 +1,4 @@
 payload:
-- # Reference: https://bitcoin.org/en/exchanges
 - include:asproex
 - include:binance
 - include:bitflyer

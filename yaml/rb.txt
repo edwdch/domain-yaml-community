@@ -33,9 +33,9 @@ payload:
 - rbrandlibrary.com
 - rbspeakup.com
 - reckitt.net
-- reckittbenckiser.cn @cn
+- reckittbenckiser.cn
 - reckittbenckiser.com
-- reckittbenckiser.com.cn @cn
+- reckittbenckiser.com.cn
 - reckittbenckiser.net
 - reckittbenckiser.tv
 - reckittprofessional.com

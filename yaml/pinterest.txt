@@ -49,6 +49,5 @@ payload:
 - pinterest.uk
 - pinterest.vn
 - pinterestmail.com
-- #CDN
 - pinimg.com.cdn.cloudflare.net
 - pinterest.map.fastly.net

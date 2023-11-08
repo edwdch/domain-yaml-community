@@ -1,5 +1,4 @@
 payload:
-- # All .nico domains
 - nico
 - nicodic.jp
 - nicomanga.jp

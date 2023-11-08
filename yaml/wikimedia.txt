@@ -13,7 +13,6 @@ payload:
 - wiktionary.org
 - wmfusercontent.org
 - w.wiki
-- # Wikimedia Cloud Services
 - toolforge.org
 - wikimediacloud.org
 - wmcloud.org

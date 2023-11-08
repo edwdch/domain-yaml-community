@@ -7,7 +7,7 @@ payload:
 - vanish.be
 - vanish.ch
 - vanish.cl
-- vanish.cn @cn
+- vanish.cn
 - vanish.co.id
 - vanish.co.il
 - vanish.co.in

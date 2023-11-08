@@ -1,25 +1,24 @@
 payload:
-- # This file contains domains of all ads providers, including both the domains that serves ads, and the domains of providers themselves.
-- 7box.vip @ads
-- ad-delivery.net @ads
-- adinplay.com @ads
-- adnxs.com @ads
-- ads.trafficjunky.net @ads
-- advertserve.com @ads
-- casalemedia.com @ads
-- contextual.media.net @ads
-- cpmstar.com @ads
-- demdex.net @ads
-- httpool.com @ads
-- lijit.com @ads
-- 1rx.io @ads
-- mfadsrvr.com @ads
-- mgid.com @ads
-- ns1p.net @ads
-- pubmatic.com @ads
-- snapads.com @ads
-- spotxchange.com @ads
-- unimhk.com @ads
-- upapi.net @ads
+- 7box.vip
+- ad-delivery.net
+- adinplay.com
+- adnxs.com
+- ads.trafficjunky.net
+- advertserve.com
+- casalemedia.com
+- contextual.media.net
+- cpmstar.com
+- demdex.net
+- httpool.com
+- lijit.com
+- 1rx.io
+- mfadsrvr.com
+- mgid.com
+- ns1p.net
+- pubmatic.com
+- snapads.com
+- spotxchange.com
+- unimhk.com
+- upapi.net
 - include:taboola
 - include:category-ads

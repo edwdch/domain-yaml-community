@@ -1,5 +1,4 @@
 payload:
-- # All .mit domains
 - mit
 - mit.edu
 - mit.net

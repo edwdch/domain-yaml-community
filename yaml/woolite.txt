@@ -1,8 +1,8 @@
 payload:
 - woolite.ca
-- woolite.cn @cn
+- woolite.cn
 - woolite.com
-- woolite.com.cn @cn
+- woolite.com.cn
 - woolite.pl
 - woolite.us
 - woolitecarpet.com

@@ -1,5 +1,4 @@
 payload:
-- # Iranian payment websites
 - asanpardakht.com
 - asanpardakht.net
 - behpardakht.com

@@ -1,2 +1,2 @@
 payload:
-- mopub.com @ads
+- mopub.com

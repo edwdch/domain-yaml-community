@@ -2,7 +2,7 @@ payload:
 - calgon.at
 - calgon.be
 - calgon.ch
-- calgon.cn @cn
+- calgon.cn
 - calgon.co.uk
 - calgon.com
 - calgon.com.tr

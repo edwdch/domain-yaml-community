@@ -1,5 +1,4 @@
 payload:
-- # Reference: https://ipfs.github.io/public-gateway-checker/
 - include:cloudflare-ipfs
 - 4everland.io
 - c4rex.co

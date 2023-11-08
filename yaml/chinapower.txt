@@ -1,2 +1,2 @@
 payload:
-- full:chinapower.csis.org
+- chinapower.csis.org

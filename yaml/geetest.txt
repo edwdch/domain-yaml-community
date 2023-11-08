@@ -1,3 +1,3 @@
 payload:
 - geetest.com
-- full:geetest.datasink.sensorsdata.cn
+- geetest.datasink.sensorsdata.cn

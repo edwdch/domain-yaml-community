@@ -4,20 +4,20 @@ payload:
 - cdmatech.com
 - dragoniscoming.com
 - gobianywhere.com
-- gpsonextra.net @cn
+- gpsonextra.net
 - hellosmartbook.com
 - imod.com
 - ipleadership.org
 - iskoot.com
-- izatcloud.net @cn
+- izatcloud.net
 - meetsmartbook.com
 - patenttruth.org
 - pixtronix.com
-- qceventscenter.com.cn @cn
+- qceventscenter.com.cn
 - qctconnect.com
 - qprize.com
 - qualcomm-email.com
-- qualcomm.cn @cn
+- qualcomm.cn
 - qualcomm.co.id
 - qualcomm.co.in
 - qualcomm.co.jp
@@ -41,7 +41,6 @@ payload:
 - uplinq.com
 - wipower.com
 - wirelessreach.com
-- xtracloud.cn @cn
-- # brew
+- xtracloud.cn
 - brewmp.com
-- full:qualcomm.sc.omtrdc.net
+- qualcomm.sc.omtrdc.net

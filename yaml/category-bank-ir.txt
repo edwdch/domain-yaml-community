@@ -1,5 +1,4 @@
 payload:
-- # Iranian bank websites
 - agri-bank.com
 - ansarbank.com
 - bank-maskan.ir

@@ -1,4 +1,3 @@
 payload:
 - iyf.tv
-- # CDN used by iyf
 - dnvodcdn.me

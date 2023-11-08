@@ -1,6 +1,6 @@
 payload:
-- teamviewer.cn @cn
+- teamviewer.cn
 - teamviewer.com
 - teamviewer.us
-- full:client-teamviewer-com.trafficmanager.net
-- full:teamviewer.com.cdn.cloudflare.net
+- client-teamviewer-com.trafficmanager.net
+- teamviewer.com.cdn.cloudflare.net

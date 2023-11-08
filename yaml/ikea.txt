@@ -1,5 +1,4 @@
 payload:
-- # Reginol Store
 - ikea.ae
 - ikea.at
 - ikea.au
@@ -9,7 +8,7 @@ payload:
 - ikea.ca
 - ikea.ch
 - ikea.cl
-- ikea.cn @cn
+- ikea.cn
 - ikea.co.at
 - ikea.co.ca
 - ikea.co.de
@@ -89,9 +88,9 @@ payload:
 - ikea.us
 - ikea.com
 - ikea.net
-- ingka-dt.cn @cn
-- ingka-internal.cn @cn
-- ingka-system.cn @cn
+- ingka-dt.cn
+- ingka-internal.cn
+- ingka-system.cn
 - ingka.com
 - ingka.dev
 - ingkacentres.com

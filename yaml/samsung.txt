@@ -1,7 +1,5 @@
 payload:
-- # All .samsung domains
 - samsung
-- # All .삼성 domains
 - xn--cg4bki
 - galaxyappstore.com
 - galaxymobile.jp
@@ -11,7 +9,7 @@ payload:
 - samsungapps.com
 - samsungcloud.com
 - samsungdm.com
-- samsungeshop.com.cn @cn
+- samsungeshop.com.cn
 - samsunggalaxyfriends.com
 - samsungknox.com
 - samsungqbe.com

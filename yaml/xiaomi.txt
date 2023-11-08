@@ -7,5 +7,4 @@ payload:
 - xiaomi.cn
 - xiaomi.com
 - xiaomi.net
-- # Xiaomi YouPin
 - xiaomiyoupin.com

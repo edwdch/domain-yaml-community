@@ -1,4 +1,4 @@
 payload:
-- atom-data.io @ads
-- analytics-data.io @ads
-- ironbeast.io @ads
+- atom-data.io
+- analytics-data.io
+- ironbeast.io

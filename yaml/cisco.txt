@@ -1,6 +1,5 @@
 payload:
 - include:webex
-- # All .cisco domains
 - cisco
 - academynetriders.com
 - cciernslabs.com
@@ -9,9 +8,9 @@ payload:
 - ccna5.net
 - cisco-returns.com
 - cisco-warrantyfinder.com
-- cisco.cn @cn
+- cisco.cn
 - cisco.com
-- cisco.com.cn @cn
+- cisco.com.cn
 - cisco.mobi
 - ciscoccservice.com
 - ciscoconnectcloud.com
@@ -70,7 +69,7 @@ payload:
 - mysdn.net
 - netacad.com
 - netacad.net
-- network-auth.cn @cn
+- network-auth.cn
 - observable.net
 - obsrvbl.com
 - parstream.com
@@ -87,7 +86,6 @@ payload:
 - whyiwantciscotelepresence.com
 - wifi-mx.com
 - youtubecisco.com
-- # App Dynamic
 - app-dynamics.com
 - appdynamics.co.uk
 - appdynamics.com
@@ -96,13 +94,11 @@ payload:
 - appdynamics.info
 - appdynamics.jp
 - appdynamics.org
-- # Meraki Go
 - mearki.com
 - meraki-go.com
 - meraki.hk
 - merakigo.com
-- # Tail-f
 - tail-f.com
 - tailf.com
-- full:cisco.evergage.com
-- full:ciscolivehls-i.akamaihd.net
+- cisco.evergage.com
+- ciscolivehls-i.akamaihd.net

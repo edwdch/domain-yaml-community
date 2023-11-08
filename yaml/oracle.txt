@@ -1,5 +1,4 @@
 payload:
-- # All .oracle domains
 - oracle
 - oracle.com
 - oraclecloud.com

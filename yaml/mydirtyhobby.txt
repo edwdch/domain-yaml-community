@@ -1,4 +1,3 @@
 payload:
 - mydirtyhobby.com
-- # CDN
 - mdhcdn.com

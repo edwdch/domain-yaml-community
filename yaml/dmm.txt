@@ -4,4 +4,4 @@ payload:
 - dmm.com
 - dmm-extension.com
 - dmmapis.com
-- full:api-p.videomarket.jp
+- api-p.videomarket.jp

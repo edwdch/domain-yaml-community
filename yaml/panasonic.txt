@@ -1,7 +1,6 @@
 payload:
-- # All .panasonic domains
 - panasonic
-- panasonic.cn @cn
+- panasonic.cn
 - panasonic.com
 - panasonic.jp
 - technics.com

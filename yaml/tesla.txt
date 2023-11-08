@@ -1,14 +1,14 @@
 payload:
 - solarcity.com
-- tesla.cn @cn
+- tesla.cn
 - tesla.com
-- tesla.com.cn @cn
+- tesla.com.cn
 - tesla.services
 - teslaenergy.services
-- teslamotors.cn @cn
+- teslamotors.cn
 - teslamotors.com
-- teslamotors.com.cn @cn
+- teslamotors.com.cn
 - teslazta.net
 - ts.la
-- full:tesla-cdn.thron.cn @cn
-- full:tesla-cdn.thron.com
+- tesla-cdn.thron.cn
+- tesla-cdn.thron.com

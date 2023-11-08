@@ -1,5 +1,4 @@
 payload:
-- # Reference: https://zh.wikipedia.org/wiki/%E6%96%B0%E9%97%BB%E9%9B%86%E5%9B%A2
 - include:barrons
 - include:dowjones
 - include:harpercollins

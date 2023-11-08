@@ -1,2 +1,2 @@
 payload:
-- decide.mixpanel.com @ads
+- decide.mixpanel.com

@@ -1,8 +1,4 @@
 payload:
-- # DISCLAIMER:
-- # We do NOT endorse or claim that the VPN services below are legal or safe.
-- # Please use at your own risk and observe local laws, rules and regulations.
-- # Reference: https://duyaoss.com/archives/3/
 - include:928plus
 - include:boslife
 - include:cylink

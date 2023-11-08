@@ -1,5 +1,4 @@
 payload:
-- # All .bridgestone domains
 - bridgestone
 - bandag.cc
 - bandag.com
@@ -13,7 +12,7 @@ payload:
 - bridgestone-plt-eng.com
 - bridgestone-tac-oman.com
 - bridgestone.cl
-- bridgestone.cn @cn
+- bridgestone.cn
 - bridgestone.co.cr
 - bridgestone.co.id
 - bridgestone.co.in
@@ -22,7 +21,7 @@ payload:
 - bridgestone.com
 - bridgestone.com.ar
 - bridgestone.com.br
-- bridgestone.com.cn @cn
+- bridgestone.com.cn
 - bridgestone.com.co
 - bridgestone.com.mx
 - bridgestone.com.sg
@@ -72,9 +71,7 @@ payload:
 - store-bridgestonesports.com
 - thetread.com
 - tiresplus.com
-- # Credit First National Association
 - cfna.com
-- # Firestone
 - bastropfirestone.com
 - crossfitfirestone.com
 - firestone.cl
@@ -98,6 +95,5 @@ payload:
 - firestonetire.com
 - hibdontire.com
 - wheelworks.net
-- # Nokian Tyres
-- nokiantyres.cn @cn
+- nokiantyres.cn
 - nokiantyres.com

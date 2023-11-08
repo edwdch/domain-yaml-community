@@ -1,5 +1,5 @@
 payload:
-- ads-pixiv.net @ads
+- ads-pixiv.net
 - booth.pm
 - fanbox.cc
 - pixiv.net

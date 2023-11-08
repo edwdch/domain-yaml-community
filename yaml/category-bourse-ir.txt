@@ -1,6 +1,4 @@
 payload:
-- # Iranian stock exchange websites
-- # Bourse
 - arman-ati.com
 - bourseiness.com
 - codal.ir
@@ -12,7 +10,6 @@ payload:
 - talarebourse.com
 - tse.ir
 - tsetmc.ir
-- # Brokers
 - abanbroker.com
 - bahmanbroker.com
 - bkisecurities.com
@@ -37,7 +34,6 @@ payload:
 - sdbhouse.com
 - sepahbourse.com
 - tadbirgar.com
-- # Exchanges
 - abantether.com
 - bit24.cash
 - bitpin.ir

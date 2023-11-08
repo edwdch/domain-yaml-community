@@ -67,7 +67,6 @@ payload:
 - artixlinux.org
 - atom.io
 - badgen.net
-- # Bitvise official website.
 - bitvise.com
 - cdnjs.com
 - centos.org
@@ -89,7 +88,6 @@ payload:
 - getzola.org
 - git-scm.com
 - gnu.org
-- # PuTTY and some software official websites.
 - greenend.org.uk
 - hex.pm
 - hexdocs.pm
@@ -104,7 +102,6 @@ payload:
 - macports.org
 - mariadb.org
 - mingw.org
-- # Mobatek official website.
 - mobatek.net
 - mysql.com
 - nixos.org
@@ -117,7 +114,6 @@ payload:
 - pcre.org
 - phantomjs.org
 - php.net
-- # PuTTY unofficial website, owned by Bitvise.
 - putty.org
 - postgresql.org
 - r-project.org
@@ -131,7 +127,6 @@ payload:
 - shields.io
 - sqlite.org
 - sublimetext.com
-- # Termius official website.
 - termius.com
 - unpkg.com
 - videojs.com
@@ -143,5 +138,4 @@ payload:
 - xposed.info
 - yarnpkg.com
 - zsh.org
-- # Hugging Face official website.
 - huggingface.co

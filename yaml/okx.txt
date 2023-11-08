@@ -1,5 +1,4 @@
 payload:
 - okex.com
 - okx.com
-- # OKC Browser
-- oklink.com @cn
+- oklink.com

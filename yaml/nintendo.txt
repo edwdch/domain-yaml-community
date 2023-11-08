@@ -9,10 +9,10 @@ payload:
 - hackyourconsole.com
 - kirbysuperstarultra.com
 - kirbysepicyarn.com
-- legendofzelda.cn @cn
-- legendofzelda.com.cn @cn
+- legendofzelda.cn
+- legendofzelda.com.cn
 - miitomo.com
-- miitomo.com.cn @cn
+- miitomo.com.cn
 - miiverse.com
 - nentindo.net
 - nintendo-europe-sales.com
@@ -44,34 +44,30 @@ payload:
 - nintendo3ds.com
 - nintendodsi.com
 - nintendoeurope.com
-- nintendolabo.cn @cn
+- nintendolabo.cn
 - nintendonetwork.net
 - nintendonyc.com
 - nintendostore.com
-- nintendoswitch.cn @cn
+- nintendoswitch.cn
 - nintendoswitch.com
-- nintendoswitch.com.cn @cn
+- nintendoswitch.com.cn
 - nintendoswitch.net
 - nintendoswitchtogether.com
 - personaltrainermath.com
 - playnintendo.com
-- supersmashbros.cn @cn
-- supersmashbros.com.cn @cn
+- supersmashbros.cn
+- supersmashbros.com.cn
 - thelegendarystarfy.com
 - thewonderful101.com
 - wariolandshakeit.com
 - wariowarediy.com
 - yoshisnewisland.com
-- # Animal Croosing 动物森友会
 - ac-pocketcamp.com
-- # Donkey Kong Country
 - diddykongracing.com
 - dkr.com
 - donkeykongcountryreturns.com
-- # Fire Emblem
 - fire-emblem-heroes.com
 - fireemblemawakening.com
-- # Pokemon
 - dialga.com
 - giratina.com
 - kyurem.com
@@ -98,29 +94,23 @@ payload:
 - pokemonultrasunmoon.com
 - pokemonvgc.com
 - pokemonwifi.net
-- xn--mts47c3w9b1qr.cn @cn # 神奇宝贝.cn
-- xn--mts47c3w9b1qr.net # 神奇宝贝.net
-- # Splatoon 2 Tournament
 - splatoon2tournament.com
-- # Star Fox
 - starfox.com
-- # Super Mario
 - drmario-world.com
 - marioandluigidreamteam.com
 - mariobroswii.com
-- mariokart.cn @cn
-- mariokart.com.cn @cn
+- mariokart.cn
+- mariokart.com.cn
 - mariokart7.com
 - mariokart8.com
 - mariosupersluggers.com
 - newsupermariobrosu.com
 - supermario.com
 - supermario3dworld.com
-- supermariobros.com.cn @cn
+- supermariobros.com.cn
 - supermariogalaxy.com
 - supermariorun.com
 - superpapermario.com
-- # Wii
 - nintendowii.com
 - wii-u.com
 - wiifit.com
@@ -130,5 +120,4 @@ payload:
 - wiisportsresort.com
 - wiiugamepad.com
 - wiivc.net
-- # Xenoblade Chronicles
 - xenoblade.com

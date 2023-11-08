@@ -1,2 +1,2 @@
 payload:
-- ads.wteam.xyz @ads
+- ads.wteam.xyz

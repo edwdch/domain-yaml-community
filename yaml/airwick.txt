@@ -11,7 +11,7 @@ payload:
 - airwick.com
 - airwick.com.au
 - airwick.com.br
-- airwick.com.cn @cn
+- airwick.com.cn
 - airwick.com.mx
 - airwick.com.tr
 - airwick.cz

@@ -1,5 +1,4 @@
 payload:
-- # American Broadcasting Company
 - abc-studios.com
 - abc.com
 - edgedatg.com

@@ -1,6 +1,6 @@
 payload:
 - microsoftnews.cc
-- microsoftnews.cn @cn
+- microsoftnews.cn
 - microsoftnews.com
 - microsoftnews.net
 - microsoftnews.org
@@ -10,7 +10,7 @@ payload:
 - microsoftnewskids.com
 - microsoftnewskids.net
 - microsoftnewskids.org
-- msn.cn @cn
+- msn.cn
 - msn.com
 - msnewskids.com
 - msnewskids.net

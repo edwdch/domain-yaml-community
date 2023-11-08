@@ -64,12 +64,12 @@ payload:
 - beats-seller.com
 - beats-soaho.com
 - beats1.cc
-- beats1.cn @cn
+- beats1.cn
 - beats1.tv
-- beats1.com.cn @cn
+- beats1.com.cn
 - beats123.com
-- beats2.com.cn @cn
-- beats4.cn @cn
+- beats2.com.cn
+- beats4.cn
 - beats4.net
 - beats4outlets.com
 - beats4salecheap.com
@@ -112,8 +112,8 @@ payload:
 - beatsbydre-store.com
 - beatsbydre-studio.com
 - beatsbydre-us.com
-- beatsbydre.com @cn
-- beatsbydre.com.cn @cn
+- beatsbydre.com
+- beatsbydre.com.cn
 - beatsbydre.jp
 - beatsbydre2081.com
 - beatsbydre411.com
@@ -247,7 +247,7 @@ payload:
 - beatsfranceofficiel.com
 - beatselectronic.net
 - beatselectronics.com
-- beatsep.cn @cn
+- beatsep.cn
 - beatsep.com
 - beatsep.net
 - beatsheadphones-discount.com
@@ -714,4 +714,4 @@ payload:
 - wholesaleonlinemart.com
 - worldcoinpay.com
 - yourmonsterbeats.com
-- full:beatselectronicsllc.tt.omtrdc.net
+- beatselectronicsllc.tt.omtrdc.net

@@ -1,5 +1,4 @@
 payload:
-- # This list contains organizations outside China mainland.
 - include:archive
 - include:creativecommons
 - include:csis

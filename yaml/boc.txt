@@ -1,11 +1,8 @@
 payload:
 - boc.cn
-- # BOC International
 - bank-of-china.com
 - bankofchina.com
-- # BOC Fullerton Community Bank
 - bocfullertonbank.com
-- # Comprehensive management
 - bocamchina.com
 - bocaviation.com
 - boccfc.cc

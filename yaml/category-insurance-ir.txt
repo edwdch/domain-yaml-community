@@ -1,5 +1,4 @@
 payload:
-- # Iranian insurance websites
 - alborzinsurance.ir
 - bimeh.com
 - bimehasia.com

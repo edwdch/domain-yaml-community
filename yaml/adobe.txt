@@ -16,7 +16,7 @@ payload:
 - adobeawards.com
 - adobecontent.io
 - adobecreativityawards.com
-- adobedc.cn @cn
+- adobedc.cn
 - adobedc.net
 - adobedemo.com
 - adobedtm.com
@@ -71,19 +71,15 @@ payload:
 - sundanceignite2016.com
 - worldsecureemail.com
 - worldsecuresystems.com
-- # Adobe Dev
 - adobe.io
 - developria.com
-- # Behance
 - behance.net
 - s2stagehance.com
-- # Creative Cloud
 - adobecc.com
 - adobecce.com
 - adobeccstatic.com
 - creativecloud.com
 - creativesdk.com
-- # Fotolia
 - cotolia.com
 - ffotolia.com
 - fiotolia.com
@@ -102,7 +98,6 @@ payload:
 - photolia.net
 - tenbyfotolia.com
 - votolia.com
-- # Magento
 - bluefootcms.com
 - mageconf.com
 - mageconf.com.ua
@@ -110,7 +105,6 @@ payload:
 - magento.net
 - magentocommerce.com
 - magentomobile.com
-- # Marketo
 - marketing-cloud.com
 - marketo.co.uk
 - marketo.com
@@ -125,9 +119,7 @@ payload:
 - mobilemarketo.com
 - revenue-performance-management.com
 - toutapp.com
-- # Tools
 - compresspdf.new
 - pdf.new
 - sign.new
-- # Adobe Dynamic Media Delivery
 - scene7.com

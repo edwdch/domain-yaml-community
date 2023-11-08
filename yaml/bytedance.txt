@@ -27,7 +27,7 @@ payload:
 - byteimg.com
 - byteintl.net
 - bytelb.net
-- byteoversea.com @!cn
+- byteoversea.com
 - bytescm.com
 - bytetcc.com
 - bytetos.com
@@ -35,8 +35,8 @@ payload:
 - feelgood.cn
 - huaxiong.com
 - ibytedapm.com
-- ibytedtos.com @!cn
-- ibyteimg.com @!cn
+- ibytedtos.com
+- ibyteimg.com
 - pstatp.com
 - snssdk.com
 - wtturl.cn
@@ -45,7 +45,6 @@ payload:
 - zijiecdn.net
 - zjbyte.cn
 - zjcdn.com
-- # 今日头条
 - toutiao.com
 - toutiaoapi.com
 - toutiaocdn.com
@@ -59,35 +58,28 @@ payload:
 - toutiaopage.com
 - toutiaostatic.com
 - toutiaovod.com
-- # 抖音
 - douyin.com
 - douyincdn.com
 - douyinliving.com
 - douyinpic.com
 - douyinstatic.com
 - douyinvod.com
-- # 抖音火山版
 - huoshan.com
 - huoshanstatic.com
 - huoshanzhibo.com
-- # 西瓜视频
 - ixigua.com
 - ixiguavideo.com
 - ixgvideo.com
 - bdxiguaimg.com
 - bdxiguastatic.com
-- # 快懂百科
 - baike.com
-- # 飞书
 - feishu.cn
 - feishu.net
 - feishucdn.com
 - feishupkg.com
-- # 悟空问答
 - wukong.com
 - wukongwenda.cn
 - wukongwenda.com
-- # 懂车帝
 - dcarapi.com
 - dcarimg.com
 - dcarlive.com
@@ -96,14 +88,9 @@ payload:
 - dcdapp.com
 - dongchedi.com
 - dongchediapp.com
-- # 阳关宽频网
 - 365yg.com
-- # GoGoKid
 - gogokid.com.cn
 - gogokid.com
-- # 皮皮虾
 - pipix.com
-- # faceu
 - faceu.com
-- # 轻颜相机
 - ulikecam.com

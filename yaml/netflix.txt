@@ -11,7 +11,6 @@ payload:
 - nflxsearch.net
 - nflxso.net
 - nflxvideo.net
-- # DNS test
 - netflixdnstest1.com
 - netflixdnstest2.com
 - netflixdnstest3.com
@@ -22,8 +21,6 @@ payload:
 - netflixdnstest8.com
 - netflixdnstest9.com
 - netflixdnstest10.com
-- # regular expression
 - regexp:(^|\.)dualstack\.apiproxy-.+\.amazonaws\.com$
 - regexp:(^|\.)dualstack\.ichnaea-web-.+\.amazonaws\.com$
-- # Full
-- full:netflix.com.edgesuite.net
+- netflix.com.edgesuite.net

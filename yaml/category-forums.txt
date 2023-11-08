@@ -1,5 +1,4 @@
 payload:
-- # Forums & Social network
 - include:4chan
 - include:5ch
 - include:6park

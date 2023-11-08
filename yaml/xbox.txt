@@ -1,7 +1,6 @@
 payload:
 - include:bethesda
 - include:mojang
-- # All .xbox domains
 - xbox
 - forzamotorsport.net
 - forzaracingchampionship.com
@@ -21,7 +20,7 @@ payload:
 - xboxab.com
 - xboxgamepass.com
 - xboxgamestudios.com
-- xboxlive.cn @cn
+- xboxlive.cn
 - xboxlive.com
 - xboxone.co
 - xboxone.com
