@@ -1,6 +1,9 @@
 payload:
 - +.playcover.io
 - +.playcover.workers.dev
+- +.fflogs.com
+- +.rpglogs.com
+- +.rpglogs.cn
 - +.bluestacks.com
 - +.lsplayer.com
 - +.yeshen.com

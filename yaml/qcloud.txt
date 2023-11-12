@@ -15,6 +15,7 @@ payload:
 - +.dnsv4.com
 - +.dnsv5.com
 - +.doh.pub
+- +.dot.pub
 - +.acctdns.com
 - +.acctdns.net
 - +.aitransfy.com

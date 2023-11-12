@@ -80,6 +80,7 @@ payload:
 - +.slackcertified.com
 - +.slackdemo.com
 - +.slackhq.com
+- +.cdn-telegram.org
 - +.comments.app
 - +.contest.com
 - +.graph.org

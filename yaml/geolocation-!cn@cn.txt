@@ -329,6 +329,7 @@ payload:
 - +.etnetchina.com.cn
 - +.thetype.cloud
 - +.tvbc.com.cn
+- +.rpglogs.cn
 - +.lsplayer.com
 - +.yeshen.com
 - +.heavenlywind.cc

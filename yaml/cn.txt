@@ -2437,10 +2437,12 @@ payload:
 - +.musical.ly
 - +.tik-tokapi.com
 - +.tiktok.com
+- +.tiktokcdn-us.com
+- +.tiktokcdn.com
 - +.tiktokd.net
 - +.tiktokd.org
-- +.tiktokcdn.com
 - +.tiktokv.com
+- +.ttwstatic.com
 - p16-tiktokcdn-com.akamaized.net
 - +.bds.snssdk.com
 - +.ctobsnssdk.com
@@ -3032,6 +3034,7 @@ payload:
 - +.dnsv4.com
 - +.dnsv5.com
 - +.doh.pub
+- +.dot.pub
 - +.acctdns.com
 - +.acctdns.net
 - +.aitransfy.com
@@ -3424,6 +3427,7 @@ payload:
 - +.tencent.net.cn
 - +.tencentmusic.com
 - +.tenpay.com
+- +.tfogc.com
 - +.wechat.com
 - +.weiyun.com
 - +.alloyteam.com

@@ -2518,6 +2518,7 @@ payload:
 - +.slackcertified.com
 - +.slackdemo.com
 - +.slackhq.com
+- +.cdn-telegram.org
 - +.comments.app
 - +.contest.com
 - +.graph.org
@@ -5323,10 +5324,12 @@ payload:
 - +.musical.ly
 - +.tik-tokapi.com
 - +.tiktok.com
+- +.tiktokcdn-us.com
+- +.tiktokcdn.com
 - +.tiktokd.net
 - +.tiktokd.org
-- +.tiktokcdn.com
 - +.tiktokv.com
+- +.ttwstatic.com
 - p16-tiktokcdn-com.akamaized.net
 - +.themoviedb.org
 - +.tmdb.org
@@ -14177,6 +14180,9 @@ payload:
 - +.waterfox.net
 - +.playcover.io
 - +.playcover.workers.dev
+- +.fflogs.com
+- +.rpglogs.com
+- +.rpglogs.cn
 - +.bluestacks.com
 - +.lsplayer.com
 - +.yeshen.com

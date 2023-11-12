@@ -1179,10 +1179,12 @@ payload:
 - +.musical.ly
 - +.tik-tokapi.com
 - +.tiktok.com
+- +.tiktokcdn-us.com
+- +.tiktokcdn.com
 - +.tiktokd.net
 - +.tiktokd.org
-- +.tiktokcdn.com
 - +.tiktokv.com
+- +.ttwstatic.com
 - p16-tiktokcdn-com.akamaized.net
 - +.themoviedb.org
 - +.tmdb.org

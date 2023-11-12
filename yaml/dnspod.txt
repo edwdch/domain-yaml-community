@@ -12,3 +12,4 @@ payload:
 - +.dnsv4.com
 - +.dnsv5.com
 - +.doh.pub
+- +.dot.pub

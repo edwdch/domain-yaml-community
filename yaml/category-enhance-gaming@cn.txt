@@ -1,4 +1,5 @@
 payload:
+- +.rpglogs.cn
 - +.lsplayer.com
 - +.yeshen.com
 - +.heavenlywind.cc
