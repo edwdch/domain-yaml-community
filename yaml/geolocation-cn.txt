@@ -1267,6 +1267,9 @@ payload:
 - +.chinanews.com.cn
 - +.cns.com.cn
 - +.ecns.cn
+- +.cnbeta.com
+- +.cnbeta.com.tw
+- +.cnbetacdn.com
 - +.dgtle.com
 - +.geekpark.net
 - +.hoopchina.com.cn
