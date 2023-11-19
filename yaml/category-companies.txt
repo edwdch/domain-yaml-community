@@ -5399,6 +5399,7 @@ payload:
 - statics-marketingsites-wcus-ms-com.akamaized.net
 - +.mikrotik.com
 - +.mt.lv
+- +.mynetname.net
 - +.routerboard.com
 - +.brazzer.com
 - +.brazzers.com

@@ -1698,10 +1698,8 @@ payload:
 - +.daddyslilangel.com
 - +.daft.sex
 - +.daftporn.com
-- +.daftpost.github.io
 - +.daftsex-hd.com
 - +.daftsex.com
-- +.daftsex.github.io
 - +.dagfs.com
 - +.dailybasis.com
 - +.dailyporn.club
@@ -1717,6 +1715,7 @@ payload:
 - +.darknessporn.com
 - +.darknun.com
 - +.darksidemagazine.com
+- +.dasaob.online
 - +.dastanhisexy.cc
 - +.datawav.club
 - +.date2night.xyz
@@ -3337,6 +3336,7 @@ payload:
 - +.korewaeroi.com
 - +.koskade.com
 - +.kostenlosepornoclips.com
+- +.kouwobb.com
 - +.kphimsex.net
 - +.krhentai.com
 - +.kristenbjorn.com
@@ -3842,7 +3842,6 @@ payload:
 - +.naughtysophie.com
 - +.naughtywomenpics.com
 - +.needgayporn.com
-- +.nekora.main.jp
 - +.nekoxxx.com
 - +.nenitas.club
 - +.neotokyo.supertop-100.com
@@ -4728,6 +4727,7 @@ payload:
 - +.sambaporno.com
 - +.sankakucomplex.com
 - +.sanwapub.com
+- +.saobjpg.com
 - +.saoni91.xyz
 - +.saonidh01.cc
 - +.sapphicerotica.com
@@ -6146,9 +6146,6 @@ payload:
 - +.yespornplease.com
 - +.yespornpleasexxx.com
 - +.yeswegays.com
-- +.yeyuehuachao11.com
-- +.yeyuehuachao12.com
-- +.yeyuehuachao13.com
 - +.ygugu4.com
 - +.yhy.cool
 - +.yieamnd.com
@@ -6273,7 +6270,6 @@ payload:
 - +.zweiporn.com
 - +.zzcartoon.com
 - +.zzgays.com
-- +.zzitube.com
 - anime-rule34-world.b-cdn.net
 - +.xn--80aaazx1an0a.lol
 - +.xn--8uq428d76d.tokyo
