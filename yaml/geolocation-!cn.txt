@@ -1997,6 +1997,7 @@ payload:
 - +.cloudflaretest.com
 - +.cloudflarewarp.com
 - +.every1dns.net
+- +.isbgpsafeyet.com
 - +.one.one.one
 - +.pacloudflare.com
 - +.pages.dev
