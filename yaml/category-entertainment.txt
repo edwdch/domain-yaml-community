@@ -1020,6 +1020,8 @@ payload:
 - +.kktv.com.tw
 - +.kktv.me
 - +.theater-kktv.cdn.hinet.net
+- +.last.fm
+- lastfm.freetls.fastly.net
 - +.litv.tv
 - +.litvfreepc.akamaized.net
 - +.manhuagui.com
