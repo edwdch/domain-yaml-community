@@ -3467,6 +3467,7 @@ payload:
 - +.xiaomi.com
 - +.xiaomi.net
 - +.xiaomiyoupin.com
+- +.saxyit.com
 - +.sandai.net
 - +.thunderurl.com
 - +.xunlei.com
