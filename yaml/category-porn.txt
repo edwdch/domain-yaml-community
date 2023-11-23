@@ -253,6 +253,9 @@ payload:
 - +.yingpianqu.com
 - +.jhxl.org
 - +.xn--sgt856gbjl.cc
+- +.spankbang.com
+- +.spankbang.party
+- +.sb-cd.com
 - +.porndude2.com
 - +.porndudecasting.com
 - +.pornsites.com
@@ -5103,8 +5106,6 @@ payload:
 - +.south-plus.net
 - +.sp.cool
 - +.spankandbang.com
-- +.spankbang.com
-- +.spankbang.party
 - +.spankbang1.com
 - +.spanking.wiki
 - +.spankingstudio.com
