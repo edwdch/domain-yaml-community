@@ -410,6 +410,7 @@ payload:
 - +.tenpay.com
 - +.tfogc.com
 - +.wechat.com
+- +.wechatpay.cn
 - +.weiyun.com
 - +.alloyteam.com
 - +.imweb.io

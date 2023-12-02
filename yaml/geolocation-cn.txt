@@ -2153,6 +2153,7 @@ payload:
 - +.alipay.hk
 - +.alipaymo.com
 - +.alicloudccp.com
+- +.alipan.com
 - +.aliyundrive.com
 - +.aliyundrive.net
 - +.cainiao.com
@@ -2827,6 +2828,8 @@ payload:
 - +.crash.163.com
 - +.crashlytics.163.com
 - +.g.163.com
+- +.nubia.cn
+- +.nubia.com
 - +.coloros.com
 - +.finzfin.com
 - +.heytap.com
@@ -3432,6 +3435,7 @@ payload:
 - +.tenpay.com
 - +.tfogc.com
 - +.wechat.com
+- +.wechatpay.cn
 - +.weiyun.com
 - +.alloyteam.com
 - +.imweb.io
