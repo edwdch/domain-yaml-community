@@ -1,5 +1,7 @@
 payload:
 - +.baidupan.com
+- +.ilanzou.com
+- +.lanosso.com
 - +.lanzou.com
 - +.lanzoub.com
 - +.lanzouc.com
@@ -22,4 +24,5 @@ payload:
 - +.lanzouw.com
 - +.lanzoux.com
 - +.lanzouy.com
+- +.lanzov.com
 - +.woozooo.com
