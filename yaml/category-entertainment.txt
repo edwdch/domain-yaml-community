@@ -86,6 +86,8 @@ payload:
 - blizzcon-a.akamaihd.net
 - blzmedia-a.akamaihd.net
 - blznav.akamaized.net
+- +.bluearchive.jp
+- +.bluearchive.nexon.com
 - +.bluearchive-cn.com
 - +.sl916.com
 - +.curseforge.com
@@ -327,6 +329,9 @@ payload:
 - +.bhsr.com
 - +.themisweeps.com
 - +.yuanshen.com
+- +.nexon.co.jp
+- +.nexon.com
+- +.nexoncdn.co.kr
 - +.100classicbooks.com
 - +.amiibo.com
 - +.ayudanintendo.com

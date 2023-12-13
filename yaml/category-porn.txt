@@ -231,6 +231,7 @@ payload:
 - +.moxing.news
 - +.netflav.com
 - +.netflav1.com
+- +.netflav5.com
 - +.nudevista.com
 - +.nudevista.es
 - +.nudevista.net
@@ -587,6 +588,7 @@ payload:
 - +.2022.dev
 - +.21hub.com
 - +.21naturals.com
+- +.21vv.cc
 - +.2371tom.com
 - +.249dw7.cn
 - +.24hjav.com
@@ -675,6 +677,7 @@ payload:
 - +.52hyse.com
 - +.531tr.com
 - +.55dndn.com
+- +.567321.online
 - +.568xe.com
 - +.58avgo.com
 - +.592r.com
@@ -758,7 +761,10 @@ payload:
 - +.91porn.best
 - +.91porn.com
 - +.91porn.party
+- +.91porn.plus
+- +.91porn.store
 - +.91porn.work
+- +.91pornplus.com
 - +.91porny.com
 - +.91qk41rf.com
 - +.91quanji.com
@@ -771,6 +777,8 @@ payload:
 - +.920share.com
 - +.921bb.com
 - +.922tp.com
+- +.92hm.life
+- +.92hm.top
 - +.941tube.com
 - +.9550.fun
 - +.978.life
@@ -1676,6 +1684,7 @@ payload:
 - +.cumshotlist.com
 - +.cumswappingsis.com
 - +.cumteenporn.com
+- +.cunhua.pics
 - +.cuntempire.com
 - +.curvybbwwives.com
 - +.curvyerotic.com
@@ -2525,6 +2534,7 @@ payload:
 - +.hadesex.com
 - +.haha888.xyz
 - +.haho.moe
+- +.haijiao.com
 - +.hairy-amateurs.com
 - +.hairy-beauty.com
 - +.hairy-women-pussy.net
@@ -2758,9 +2768,12 @@ payload:
 - +.hitbdsm.com
 - +.hitomi.la
 - +.hitxhot.com
+- +.hjb246.top
+- +.hjb7e9.top
 - +.hkbigman.net
 - +.hlbelygl.com
 - +.hmd.site
+- +.hmfby.com
 - +.hnalady.com
 - +.hnext.jp
 - +.hnntube.com
@@ -2934,6 +2947,9 @@ payload:
 - +.iijav.com
 - +.iirmll.com
 - +.ijavhd.com
+- +.ijavtorrent.com
+- +.ikanhm.xyz
+- +.ikanmh.xyz
 - +.iknowthatgirl.com
 - +.ilove-movies.com
 - +.iloveinterracial.com
@@ -3211,8 +3227,8 @@ payload:
 - +.jinmantiankong.com
 - +.jinnaju.com
 - +.jinsilubanzhao.com
-- +.jiuse904.com
-- +.jiuse905.com
+- +.jiuse.ai
+- +.jiuse.icu
 - +.jiuzhouyihuo.com
 - +.jiyou520.com
 - +.jizzboom.com
@@ -3280,6 +3296,7 @@ payload:
 - +.kama-nk.ru
 - +.kamababa.com
 - +.kampalaexclusiveescorts.com
+- +.kanav.info
 - +.kanporno.com
 - +.kaob3.xyz
 - +.karupsha.com
@@ -3754,6 +3771,7 @@ payload:
 - +.muyzorras.com
 - +.mvideoporno.xxx
 - +.mwhentai.net
+- +.mxshm.site
 - +.my-enema.com
 - +.my3dhentai.com
 - +.myamateurgirls.net
@@ -4059,7 +4077,6 @@ payload:
 - +.otaku18a.info
 - +.otaku55.xyz
 - +.otakuboo.com
-- +.otakuboo.com
 - +.otbm.com
 - +.otokonokoland.com
 - +.oudoll.com
@@ -4239,6 +4256,7 @@ payload:
 - +.pornaxo.com
 - +.pornbest.org
 - +.pornbit.cc
+- +.pornbl.com
 - +.pornbozz.com
 - +.pornbraze.com
 - +.pornbrb.com
@@ -5328,6 +5346,7 @@ payload:
 - +.thepornmap.com
 - +.thepornscat.com
 - +.theporntoplist.com
+- +.theporny.com
 - +.thesafeporn.com
 - +.thesexbible.com
 - +.theteenhome.com
@@ -5553,6 +5572,7 @@ payload:
 - +.uhtube.me
 - +.uiporn.com
 - +.ujapanesesex.com
+- +.ujizzcn.com
 - +.uk-exhibitionist.com
 - +.ultradonkey.com
 - +.ultrayoungsex.com
@@ -5936,6 +5956,7 @@ payload:
 - +.xsela.cc
 - +.xshaker.net
 - +.xshr.online
+- +.xsijishe.com
 - +.xsrxpwvg.com
 - +.xstas.biz
 - +.xsvod.xyz
@@ -6282,6 +6303,7 @@ payload:
 - +.xn--mtswd61ejxq.com
 - +.xn--r8jwklh769h2mc880dk1o431a.com
 - +.xn--r8jwklh769hk43amcfoyl3z3a.com
+- +.xn--sjqr38j.com
 - +.xn--uis17aj9kmuf.com
 - +.xn--urs05q.jp
 - +.xn--x-qeu1ji09tzlg.biz

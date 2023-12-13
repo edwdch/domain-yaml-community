@@ -102,6 +102,7 @@ payload:
 - +.sharepoint.cn
 - +.dl.delivery.mp.microsoft.com
 - +.download.windowsupdate.com
+- res.cdn.office.net
 - bg.v4.a.dl.ws.microsoft.com
 - bg4.v4.a.dl.ws.microsoft.com
 - cdn.marketplaceimages.windowsphone.com
