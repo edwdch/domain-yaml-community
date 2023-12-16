@@ -83,6 +83,7 @@ payload:
 - +.cdn-telegram.org
 - +.comments.app
 - +.contest.com
+- +.fragment.com
 - +.graph.org
 - +.quiz.directory
 - +.t.me

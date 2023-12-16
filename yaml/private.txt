@@ -118,6 +118,7 @@ payload:
 - +.plex.direct
 - +.localhost.sec.qq.com
 - +.localhost.ptlogin2.qq.com
+- +.test.steampowered.com
 - +.tendawifi.com
 - +.tplinkwifi.net
 - tplogin.cn

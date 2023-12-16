@@ -1987,6 +1987,7 @@ payload:
 - +.cloudflareclient.com
 - +.cloudflareinsights.com
 - +.cloudflareok.com
+- +.cloudflarepartners.com
 - +.cloudflareportal.com
 - +.cloudflarepreview.com
 - +.cloudflareresolve.com
@@ -2523,6 +2524,7 @@ payload:
 - +.cdn-telegram.org
 - +.comments.app
 - +.contest.com
+- +.fragment.com
 - +.graph.org
 - +.quiz.directory
 - +.t.me
@@ -8479,6 +8481,7 @@ payload:
 - +.69gayporno.com
 - +.69loli.com
 - +.69luolie.com
+- +.69re.net
 - +.69story.com
 - +.69tubesex.com
 - +.69vj.com
@@ -8537,12 +8540,17 @@ payload:
 - +.91oo.xyz
 - +.91porn.best
 - +.91porn.com
+- +.91porn.group
 - +.91porn.party
 - +.91porn.plus
-- +.91porn.store
+- +.91porn.tw
 - +.91porn.work
+- +.91pornf.com
 - +.91pornplus.com
+- +.91pornv.com
+- +.91pornx.com
 - +.91porny.com
+- +.91porny.store
 - +.91qk41rf.com
 - +.91quanji.com
 - +.91rb.com
@@ -8662,6 +8670,7 @@ payload:
 - +.aebn.com
 - +.afappyending.com
 - +.affect3dstore.com
+- +.afkv28.com
 - +.aflamporn.com
 - +.aflamsex.net
 - +.aflamsexhd.com
@@ -8682,6 +8691,7 @@ payload:
 - +.ahtranny.com
 - +.ahvideosexe.com
 - +.ahxxx.club
+- +.ai91porn.cc
 - +.aibaobei.me
 - +.aimei133.com
 - +.aipa553.com
@@ -8849,6 +8859,7 @@ payload:
 - +.apornvideo.com
 - +.appyq.com
 - +.apyarstorybooks.blogspot.com
+- +.aqdlt.net
 - +.arabgirls.us
 - +.arabianchicks.com
 - +.arabnek.com
@@ -8942,6 +8953,7 @@ payload:
 - +.avhbo.com
 - +.avhd101.com
 - +.avhome.one
+- +.avhu.com
 - +.avinin.com
 - +.avizoon.site
 - +.avizoone.com
@@ -11135,6 +11147,7 @@ payload:
 - +.kostenlosepornoclips.com
 - +.kouwobb.com
 - +.kphimsex.net
+- +.kpht85.com
 - +.krhentai.com
 - +.kristenbjorn.com
 - +.ksd235qw.com
@@ -11264,6 +11277,7 @@ payload:
 - +.lovemstudios.com
 - +.lovepartners.life
 - +.lovesexbody.com
+- +.lovex.life
 - +.lowergiseries.com
 - +.lp99.pw
 - +.lpsg.com
@@ -11315,6 +11329,7 @@ payload:
 - +.madou.la
 - +.madou.tv
 - +.madouav.one
+- +.madouqu.com
 - +.madouzx.monster
 - +.madouzx.top
 - +.madpeople.net
@@ -11458,6 +11473,7 @@ payload:
 - +.mm9841.cc
 - +.mm9c63ae.xyz
 - +.mmaaxx.com
+- +.mmgy.cc
 - +.mmtv.life
 - +.moapi.site
 - +.moapi1.club
@@ -11547,6 +11563,7 @@ payload:
 - +.muycerdas.xxx
 - +.muyzorras.com
 - +.mvideoporno.xxx
+- +.mwcu00.com
 - +.mwhentai.net
 - +.mxshm.site
 - +.my-enema.com
@@ -11882,6 +11899,7 @@ payload:
 - +.pandamovies.pw
 - +.pankwire.com
 - +.pantswalker.net
+- +.paon.site
 - +.papalah.com
 - +.paradisehill.cc
 - +.pasionmujeres.com
@@ -12397,6 +12415,7 @@ payload:
 - +.qinav.com
 - +.qingenporn.net
 - +.qingse.one
+- +.qise100.com
 - +.qkjuyet.com
 - +.qmov.com
 - +.qmov.net
@@ -12894,6 +12913,7 @@ payload:
 - +.sokmil.com
 - +.somanylolies.com
 - +.sonorousporn.com
+- +.soporn.com
 - +.soolakhi.com
 - +.sora6.com
 - +.sorairi.info
@@ -13734,11 +13754,13 @@ payload:
 - +.xshaker.net
 - +.xshr.online
 - +.xsijishe.com
+- +.xslist.org
 - +.xsrxpwvg.com
 - +.xstas.biz
 - +.xsvod.xyz
 - +.xsz-av.com
 - +.xtapes.to
+- +.xtegvk.xyz
 - +.xtube.com
 - +.xtubebdsm.com
 - +.xtubezoo.com
@@ -13927,6 +13949,7 @@ payload:
 - +.yaeby.info
 - +.yamoon.club
 - +.yande.re
+- +.yantaqu.com
 - +.yaohubaba.com
 - +.yaoimangaonline.com
 - +.yaoiotaku.com
@@ -14018,6 +14041,7 @@ payload:
 - +.ywoos.com
 - +.yy55.tv
 - +.yyfb.cyou
+- +.yyyzgdl.cn
 - +.yzld188.top
 - +.z00.world
 - +.z676869.com
@@ -20472,14 +20496,17 @@ payload:
 - res.cdn.office.net
 - bg.v4.a.dl.ws.microsoft.com
 - bg4.v4.a.dl.ws.microsoft.com
+- build.microsoft.com
 - cdn.marketplaceimages.windowsphone.com
 - cn.windowssearch.com
 - ctldl.windowsupdate.com
+- devblogs.microsoft.com
 - developer.microsoft.com
 - docs.microsoft.com
 - download.microsoft.com
 - download.visualstudio.microsoft.com
 - fs.microsoft.com
+- learn.microsoft.com
 - msgr.dlservice.microsoft.com
 - msgruser.dlservice.microsoft.com
 - officecdn.microsoft.com
@@ -20488,6 +20515,7 @@ payload:
 - silverlight.dlservice.microsoft.com
 - slupdate.dlservice.microsoft.com
 - storeedgefd.dsx.mp.microsoft.com
+- vscode.download.prss.microsoft.com
 - wl.dlservice.microsoft.com
 - wscont1.apps.microsoft.com
 - wscont2.apps.microsoft.com
