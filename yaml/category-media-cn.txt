@@ -63,8 +63,10 @@ payload:
 - +.jiemian.com.cn
 - +.lancdn.com
 - +.landiannews.com
-- +.wsoso.com
 - +.landian.vip
+- +.landian.xyz
+- +.ourl.co
+- +.wsoso.com
 - +.fengcx.com
 - +.ifeng.com
 - +.ifengimg.com
