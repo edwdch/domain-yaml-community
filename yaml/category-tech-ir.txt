@@ -1,4 +1,5 @@
 payload:
+- +.abrha.net
 - +.afranet.com
 - +.arvancloud.com
 - +.arvancloud.ir
@@ -21,6 +22,7 @@ payload:
 - +.p30download.com
 - +.p30download.ir
 - +.parsonline.com
+- +.parspack.com
 - +.picofile.com
 - +.pishgaman.net
 - +.rightel.ir

@@ -1005,6 +1005,7 @@ payload:
 - +.biligame.co
 - +.biligame.com
 - +.biligame.net
+- +.bilicomic.com
 - +.bilicomics.com
 - manga.bilibili.com
 - +.acg.tv
@@ -4018,6 +4019,9 @@ payload:
 - +.fymallqa4.com
 - +.fymallqa7.com
 - +.fymallqa9.com
+- +.vivo.com
+- +.vivo.com.cn
+- +.vivoglobal.com
 - +.mi.com
 - +.mi-img.com
 - +.mifile.cn

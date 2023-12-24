@@ -5,6 +5,7 @@ payload:
 - +.biligame.co
 - +.biligame.com
 - +.biligame.net
+- +.bilicomic.com
 - +.bilicomics.com
 - manga.bilibili.com
 - +.acg.tv

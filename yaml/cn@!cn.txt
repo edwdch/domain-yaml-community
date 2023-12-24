@@ -71,3 +71,4 @@ payload:
 - +.ger.file.myqcloud.com
 - +.supercell.com
 - +.tencent.co.id
+- +.vivoglobal.com
