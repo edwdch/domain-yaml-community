@@ -23,4 +23,5 @@ payload:
 - +.opensource.guide
 - +.repo.new
 - +.thegithubshop.com
+- +.blob.core.windows.net
 - github-cloud.s3.amazonaws.com

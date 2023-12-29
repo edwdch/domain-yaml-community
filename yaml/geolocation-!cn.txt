@@ -15066,6 +15066,7 @@ payload:
 - +.opensource.guide
 - +.repo.new
 - +.thegithubshop.com
+- +.blob.core.windows.net
 - github-cloud.s3.amazonaws.com
 - +.gitlab.com
 - +.gitlab.io
@@ -20371,6 +20372,7 @@ payload:
 - +.opensource.guide
 - +.repo.new
 - +.thegithubshop.com
+- +.blob.core.windows.net
 - github-cloud.s3.amazonaws.com
 - +.adaptivecards.io
 - +.api-extractor.com
