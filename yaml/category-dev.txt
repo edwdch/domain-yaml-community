@@ -372,6 +372,8 @@ payload:
 - +.redhat.org
 - +.scala-lang.org
 - +.scala-sbt.org
+- +.sourcehut.org
+- +.sr.ht
 - +.askubuntu.com
 - +.blogoverflow.com
 - +.codeforaliving.io

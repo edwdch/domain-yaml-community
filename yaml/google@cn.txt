@@ -7,7 +7,6 @@ payload:
 - firebase-settings.crashlytics.com
 - +.g.cn
 - +.gkecnapps.cn
-- +.googleapis.cn
 - +.googlecnapps.cn
 - +.gstatic.cn
 - +.gstaticcnapps.cn
