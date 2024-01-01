@@ -2246,7 +2246,6 @@ payload:
 - +.bar.baidu.com
 - +.bdimg.share.baidu.com
 - +.bdplus.baidu.com
-- +.bj.bcebos.com
 - +.btlaunch.baidu.com
 - +.c.baidu.com
 - +.cb.baidu.com

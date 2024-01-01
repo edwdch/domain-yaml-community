@@ -4948,6 +4948,7 @@ payload:
 - +.office365tw.com
 - +.renovacionoffice.com
 - +.sprinklesapp.com
+- location.microsoft.com
 - +.cn.bing.com
 - +.cn.bing.net
 - +.ditu.live.com
