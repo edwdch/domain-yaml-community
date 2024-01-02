@@ -363,6 +363,7 @@ payload:
 - +.owsgo.com
 - +.teleows.com
 - +.saasops.tech
+- download.jetbrains.com
 - +.microsoftreactor.cn
 - +.microsoftreactor.com.cn
 - +.reactorms.com.cn

@@ -1,0 +1,2 @@
+payload:
+- download.jetbrains.com
