@@ -241,7 +241,7 @@ payload:
 - +.jetbrains.team
 - +.datalore.io
 - +.kotlinlang.org
-- download.jetbrains.com
+- +.cdn.jetbrains.com
 - +.grazie.ai
 - +.grazie.aws.intellij.net
 - +.jfrog.com

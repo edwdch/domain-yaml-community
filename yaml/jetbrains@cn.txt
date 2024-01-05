@@ -1,2 +1,2 @@
 payload:
-- download.jetbrains.com
+- +.cdn.jetbrains.com

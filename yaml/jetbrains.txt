@@ -8,4 +8,4 @@ payload:
 - +.jetbrains.team
 - +.datalore.io
 - +.kotlinlang.org
-- download.jetbrains.com
+- +.cdn.jetbrains.com
