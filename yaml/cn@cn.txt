@@ -40,6 +40,7 @@ payload:
 - +.biligame.co
 - +.biligame.com
 - +.biligame.net
+- +.mhystatic.com
 - +.mhyurl.cn
 - +.mihayo.com
 - +.mihayou.com
@@ -54,6 +55,10 @@ payload:
 - +.themisweeps.com
 - +.yuanshen.com
 - kc.kexinshe.com
+- +.cn.pool.ntp.org
+- +.ntp.neu.edu.cn
+- +.ntp.ntsc.ac.cn
+- +.ntp.org.cn
 - +.sl916.com
 - +.bluepoch.com
 - +.bisheng.cn

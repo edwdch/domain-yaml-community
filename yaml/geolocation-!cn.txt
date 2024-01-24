@@ -1945,6 +1945,7 @@ payload:
 - +.akastream.com
 - +.akastream.net
 - +.akatns.net
+- +.edgekey.net
 - +.iamakamai.com
 - +.iamakamai.net
 - +.soasta-dswb.com
@@ -2084,9 +2085,11 @@ payload:
 - +.trendmicro.com
 - +.gandi.net
 - +.alphassl.com
+- +.easy-signing.com
 - +.globalsign-media.com
 - +.globalsign.be
 - +.globalsign.ch
+- +.globalsign.cn
 - +.globalsign.co.uk
 - +.globalsign.com
 - +.globalsign.com.au
@@ -2098,13 +2101,8 @@ payload:
 - +.globalsign.fr
 - +.globalsign.net
 - +.globalsign.nl
-- crl.alphassl.com
-- crl2.alphassl.com
-- global.prd.cdn.globalsign.com
-- ocsp.globalsign.com
-- ocsp2.globalsign.com
-- secure.globalsign.com
-- secure2.alphassl.com
+- +.globalsigncdn.com
+- cdn.globalsigncdn.com.cdn.cloudflare.net
 - +.godaddy.com
 - +.x.co
 - +.pki.goog
@@ -2143,6 +2141,7 @@ payload:
 - +.positivessl.com
 - +.sectigo.com
 - +.sectigochina.com
+- +.sectigochina.com.cdn.cloudflare.net
 - +.trust-provider.cn
 - +.trust-provider.com
 - +.usertrust.com
@@ -4503,6 +4502,7 @@ payload:
 - +.hoyolab.com
 - +.hoyoverse.com
 - +.n0vadesktop.com
+- +.mhystatic.com
 - +.mhyurl.cn
 - +.mihayo.com
 - +.mihayou.com
@@ -5224,6 +5224,7 @@ payload:
 - +.hoyolab.com
 - +.hoyoverse.com
 - +.n0vadesktop.com
+- +.mhystatic.com
 - +.mhyurl.cn
 - +.mihayo.com
 - +.mihayou.com
@@ -5630,6 +5631,7 @@ payload:
 - +.linetv.tw
 - +.litv.tv
 - +.megaphone.fm
+- +.mikanani.me
 - +.moov.hk
 - +.odysee.com
 - +.omobi.cc
@@ -10506,6 +10508,7 @@ payload:
 - +.hmd.site
 - +.hmfby.com
 - +.hmfun.top
+- +.hmovie-moe.us
 - +.hnalady.com
 - +.hnext.jp
 - +.hnntube.com
@@ -14259,6 +14262,22 @@ payload:
 - +.heavenlywind.cc
 - +.poi.moe
 - +.steampp.net
+- +.clock.isc.org
+- +.ntp.fiord.ru
+- +.ntp.nat.ms
+- +.ntp.nic.cz
+- +.ntp.nict.jp
+- +.ntp.ripe.net
+- +.ntp.se
+- +.ntp.ufe.cz
+- +.pool.ntp.org
+- +.time.cloudflare.com
+- +.time.nrc.ca
+- +.time.windows.com
+- +.cn.pool.ntp.org
+- +.ntp.neu.edu.cn
+- +.ntp.ntsc.ac.cn
+- +.ntp.org.cn
 - +.decrypt.day
 - +.accuweather.com
 - +.getadblock.com
@@ -17338,6 +17357,7 @@ payload:
 - www.apple.com.edgekey.net
 - www.apple.com
 - xp.apple.com
+- testflight.apple.com
 - +.asus.com
 - +.asus.com.cn
 - +.atlassian.com
@@ -20035,6 +20055,7 @@ payload:
 - +.bing.com
 - +.bing.com.cn
 - +.bing.net
+- +.bing123.com
 - +.bingads.com
 - +.bingagencyawards.com
 - +.bingapis.com
@@ -20272,6 +20293,7 @@ payload:
 - +.microsoft.vn
 - +.femalefounderscomp.com
 - +.m12.vc
+- +.a-msedge.net
 - +.aka.ms
 - +.ankarazirvesi2018.com
 - +.applicationinsights.io
@@ -20444,7 +20466,9 @@ payload:
 - +.projectmurphy.net
 - +.projectsangam.com
 - +.pxt.io
+- +.s-dc-msedge.net
 - +.s-microsoft.com
+- +.s-msedge.net
 - +.s-msft.com
 - +.s-msn.com
 - +.sfbassets.com
@@ -21003,6 +21027,8 @@ payload:
 - +.sonytc.co.jp
 - +.sovec.net
 - +.spacex.com
+- +.st.com
+- +.stmicroelectronics.com.cn
 - +.boringcompany.com
 - +.internetdownloadmanager.com
 - +.registeridm.com

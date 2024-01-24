@@ -3,6 +3,7 @@ payload:
 - +.cnmooc.org
 - +.icourse163.org
 - +.icourses.cn
+- +.icve.com.cn
 - +.mooc.cn
 - +.openlearning.com
 - +.pmphmooc.com

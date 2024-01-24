@@ -1,4 +1,5 @@
 payload:
+- +.mhystatic.com
 - +.mhyurl.cn
 - +.mihayo.com
 - +.mihayou.com

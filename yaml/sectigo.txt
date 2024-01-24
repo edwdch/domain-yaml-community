@@ -8,6 +8,7 @@ payload:
 - +.positivessl.com
 - +.sectigo.com
 - +.sectigochina.com
+- +.sectigochina.com.cdn.cloudflare.net
 - +.trust-provider.cn
 - +.trust-provider.com
 - +.usertrust.com

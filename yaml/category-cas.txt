@@ -53,9 +53,11 @@ payload:
 - +.trendmicro.com
 - +.gandi.net
 - +.alphassl.com
+- +.easy-signing.com
 - +.globalsign-media.com
 - +.globalsign.be
 - +.globalsign.ch
+- +.globalsign.cn
 - +.globalsign.co.uk
 - +.globalsign.com
 - +.globalsign.com.au
@@ -67,13 +69,8 @@ payload:
 - +.globalsign.fr
 - +.globalsign.net
 - +.globalsign.nl
-- crl.alphassl.com
-- crl2.alphassl.com
-- global.prd.cdn.globalsign.com
-- ocsp.globalsign.com
-- ocsp2.globalsign.com
-- secure.globalsign.com
-- secure2.alphassl.com
+- +.globalsigncdn.com
+- cdn.globalsigncdn.com.cdn.cloudflare.net
 - +.godaddy.com
 - +.x.co
 - +.pki.goog
@@ -112,6 +109,7 @@ payload:
 - +.positivessl.com
 - +.sectigo.com
 - +.sectigochina.com
+- +.sectigochina.com.cdn.cloudflare.net
 - +.trust-provider.cn
 - +.trust-provider.com
 - +.usertrust.com

@@ -333,3 +333,4 @@ payload:
 - +.koubei.com
 - +.zhisheng.com
 - +.npmmirror.com
+- +.goofish.com

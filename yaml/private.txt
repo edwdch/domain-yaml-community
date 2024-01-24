@@ -125,6 +125,6 @@ payload:
 - +.msftconnecttest.com
 - +.msftncsi.com
 - miwifi.com
-- www.mifiwi.com
+- www.miwifi.com
 - +.zte.home
 - +.ts.net

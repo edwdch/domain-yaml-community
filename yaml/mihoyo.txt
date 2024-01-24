@@ -6,6 +6,7 @@ payload:
 - +.hoyolab.com
 - +.hoyoverse.com
 - +.n0vadesktop.com
+- +.mhystatic.com
 - +.mhyurl.cn
 - +.mihayo.com
 - +.mihayou.com

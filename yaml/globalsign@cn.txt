@@ -1,8 +1,7 @@
 payload:
-- crl.alphassl.com
-- crl2.alphassl.com
-- global.prd.cdn.globalsign.com
-- ocsp.globalsign.com
-- ocsp2.globalsign.com
-- secure.globalsign.com
-- secure2.alphassl.com
+- +.alphassl.com
+- +.easy-signing.com
+- +.globalsign.cn
+- +.globalsign.com
+- +.globalsigncdn.com
+- cdn.globalsigncdn.com.cdn.cloudflare.net

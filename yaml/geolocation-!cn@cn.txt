@@ -67,13 +67,12 @@ payload:
 - ocsp2.apple.com
 - +.dcocsp.cn
 - +.digicert.cn
-- crl.alphassl.com
-- crl2.alphassl.com
-- global.prd.cdn.globalsign.com
-- ocsp.globalsign.com
-- ocsp2.globalsign.com
-- secure.globalsign.com
-- secure2.alphassl.com
+- +.alphassl.com
+- +.easy-signing.com
+- +.globalsign.cn
+- +.globalsign.com
+- +.globalsigncdn.com
+- cdn.globalsigncdn.com.cdn.cloudflare.net
 - crl.pki.goog
 - ocsp.pki.goog
 - pki-goog.l.google.com
@@ -81,6 +80,7 @@ payload:
 - +.oemssl.cn
 - +.oemssl.cn.cdn.cloudflare.net
 - +.sectigochina.com
+- +.sectigochina.com.cdn.cloudflare.net
 - +.trust-provider.cn
 - +.sslcom.cn
 - +.yahoo.cn
@@ -180,6 +180,7 @@ payload:
 - productcard.gog-statics.com
 - static-login.gog-statics.com
 - www4-static.gog-statics.com
+- +.mhystatic.com
 - +.mhyurl.cn
 - +.mihayo.com
 - +.mihayou.com
@@ -307,6 +308,7 @@ payload:
 - +.roco.qq.com
 - uplaypc-s-ubisoft.cdn.ubi.com
 - +.xboxlive.cn
+- +.mhystatic.com
 - +.mhyurl.cn
 - +.mihayo.com
 - +.mihayou.com
@@ -334,6 +336,10 @@ payload:
 - +.yeshen.com
 - +.heavenlywind.cc
 - +.steampp.net
+- +.cn.pool.ntp.org
+- +.ntp.neu.edu.cn
+- +.ntp.ntsc.ac.cn
+- +.ntp.org.cn
 - +.mapbox.cn
 - +.reabble.cn
 - +.swiftui.cn
@@ -672,6 +678,7 @@ payload:
 - www.apple.com.edgekey.net
 - www.apple.com
 - xp.apple.com
+- testflight.apple.com
 - +.asus.com.cn
 - +.att.cn
 - +.attcorp.cn
@@ -1007,6 +1014,7 @@ payload:
 - +.qualcomm.cn
 - +.xtracloud.cn
 - +.samsungeshop.com.cn
+- +.stmicroelectronics.com.cn
 - +.yahoo.cn
 - +.yahoo.com.cn
 - +.sandisk.cn
