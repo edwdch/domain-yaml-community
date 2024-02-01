@@ -14945,6 +14945,7 @@ payload:
 - +.mongodb.org
 - +.nginx.com
 - +.nginx.org
+- +.nixos.org
 - +.chatgpt.com
 - +.oaistatic.com
 - +.oaiusercontent.com
