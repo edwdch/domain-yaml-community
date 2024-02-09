@@ -1,0 +1,8 @@
+payload:
+- +.accdn.com.cn
+- +.akamai.com
+- +.akcdn.com.cn
+- +.aptdn.net
+- +.janrain.biz
+- +.janrainservices.com
+- +.skycdn.com.cn

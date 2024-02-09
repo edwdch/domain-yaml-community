@@ -1881,6 +1881,7 @@ payload:
 - +.visasavingsedge.ca
 - +.visasignature.co.kr
 - +.visb.org
+- +.accdn.com.cn
 - +.ak1.net
 - +.aka-ai.com
 - +.aka-ai.net
@@ -1889,6 +1890,7 @@ payload:
 - +.akadns.com
 - +.akadns.net
 - +.akadns6.net
+- +.akadns88.net
 - +.akaeai.com
 - +.akafms.net
 - +.akagtm.org
@@ -1945,9 +1947,16 @@ payload:
 - +.akastream.com
 - +.akastream.net
 - +.akatns.net
+- +.akcdn.com.cn
+- +.aptdn.net
 - +.edgekey.net
+- +.edgekey88.net
+- +.edgesuite.net
 - +.iamakamai.com
 - +.iamakamai.net
+- +.janrain.biz
+- +.janrainservices.com
+- +.skycdn.com.cn
 - +.soasta-dswb.com
 - +.srtcdn.net
 - +.awempire.com
@@ -2397,6 +2406,7 @@ payload:
 - +.yimg.jp
 - +.ymail.com
 - +.yusercontent.com
+- cdn.js7k.com
 - +.oath.cloud
 - +.oath.com
 - +.ouroath.com
@@ -2564,6 +2574,7 @@ payload:
 - +.binance.org
 - +.binance.us
 - +.binance.vision
+- +.binancecnt.com
 - +.binancezh.be
 - +.binancezh.biz
 - +.binancezh.cc
@@ -2582,6 +2593,7 @@ payload:
 - +.binanceapi.com
 - +.bnbstatic.com
 - +.saasexch.com
+- +.saasexch.io
 - +.appsflayer.com
 - +.bitflyer.com
 - +.bitflyer.jp
@@ -8902,6 +8914,7 @@ payload:
 - +.avizoon.site
 - +.avizoone.com
 - +.avjb.com
+- +.avjiasu.com
 - +.avjoy.me
 - +.avjzy67.xyz
 - +.avking-mp4.sbs
@@ -10888,6 +10901,7 @@ payload:
 - +.javmost.cx
 - +.javmost.xyz
 - +.javmuch.com
+- +.javmulu.net
 - +.javnew.net
 - +.javopen.co
 - +.javout.co
@@ -14666,6 +14680,7 @@ payload:
 - +.forthebadge.com
 - +.stockagainstphotography.com
 - +.launchpad.net
+- +.launchpadcontent.net
 - +.launchpadlibrarian.com
 - +.launchpadlibrarian.net
 - +.launchpadlibrarian.org
@@ -15607,6 +15622,7 @@ payload:
 - +.amdfanstore.com
 - +.radeon.com
 - www.amd.com
+- +.api-adservices.apple.com
 - +.iadsdk.apple.com
 - +.iad.apple.com
 - +.qwapi.com
@@ -17822,6 +17838,10 @@ payload:
 - +.digitaloceanspaces.com
 - +.do.co
 - +.nginxconfig.io
+- +.ads-api.duolingo.com
+- +.excess.duolingo.com
+- +.metrics.duolingo.com
+- +.analytics.vpc.duolingo.com
 - +.duolingo.com
 - +.duolingo.cn
 - +.clickedu.co.uk
@@ -20745,16 +20765,17 @@ payload:
 - openaicom.imgix.net
 - +.openweather.co.uk
 - +.openweathermap.org
+- +.ateam-oracle.com
+- +.bronto.com
+- +.covid19-rx.org
+- +.covid19rx.org
 - +.oracle.com
 - +.oraclecloud.com
 - +.oraclefoundation.org
 - +.oracleimg.com
 - +.oracleinfinity.io
-- +.ateam-oracle.com
-- +.bronto.com
-- +.covid19-rx.org
-- +.covid19rx.org
 - +.sun.com
+- +.virtualbox.org
 - +.addthis.com
 - +.addthiscdn.com
 - +.addthisedge.com
@@ -21215,6 +21236,7 @@ payload:
 - +.yimg.jp
 - +.ymail.com
 - +.yusercontent.com
+- cdn.js7k.com
 - +.oath.cloud
 - +.oath.com
 - +.ouroath.com
@@ -21431,6 +21453,7 @@ payload:
 - +.yimg.jp
 - +.ymail.com
 - +.yusercontent.com
+- cdn.js7k.com
 - +.xn--d1acpjx3f.xn--p1ai
 - +.dzen.ru
 - +.ya.ru

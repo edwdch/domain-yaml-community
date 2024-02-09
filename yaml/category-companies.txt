@@ -473,6 +473,7 @@ payload:
 - +.amdfanstore.com
 - +.radeon.com
 - www.amd.com
+- +.api-adservices.apple.com
 - +.iadsdk.apple.com
 - +.iad.apple.com
 - +.qwapi.com
@@ -2688,6 +2689,10 @@ payload:
 - +.digitaloceanspaces.com
 - +.do.co
 - +.nginxconfig.io
+- +.ads-api.duolingo.com
+- +.excess.duolingo.com
+- +.metrics.duolingo.com
+- +.analytics.vpc.duolingo.com
 - +.duolingo.com
 - +.duolingo.cn
 - +.clickedu.co.uk
@@ -5611,16 +5616,17 @@ payload:
 - openaicom.imgix.net
 - +.openweather.co.uk
 - +.openweathermap.org
+- +.ateam-oracle.com
+- +.bronto.com
+- +.covid19-rx.org
+- +.covid19rx.org
 - +.oracle.com
 - +.oraclecloud.com
 - +.oraclefoundation.org
 - +.oracleimg.com
 - +.oracleinfinity.io
-- +.ateam-oracle.com
-- +.bronto.com
-- +.covid19-rx.org
-- +.covid19rx.org
 - +.sun.com
+- +.virtualbox.org
 - +.addthis.com
 - +.addthiscdn.com
 - +.addthisedge.com
@@ -6081,6 +6087,7 @@ payload:
 - +.yimg.jp
 - +.ymail.com
 - +.yusercontent.com
+- cdn.js7k.com
 - +.oath.cloud
 - +.oath.com
 - +.ouroath.com
@@ -6297,6 +6304,7 @@ payload:
 - +.yimg.jp
 - +.ymail.com
 - +.yusercontent.com
+- cdn.js7k.com
 - +.xn--d1acpjx3f.xn--p1ai
 - +.dzen.ru
 - +.ya.ru

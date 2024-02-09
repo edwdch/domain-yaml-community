@@ -1,14 +1,15 @@
 payload:
+- +.ateam-oracle.com
+- +.bronto.com
+- +.covid19-rx.org
+- +.covid19rx.org
 - +.oracle.com
 - +.oraclecloud.com
 - +.oraclefoundation.org
 - +.oracleimg.com
 - +.oracleinfinity.io
-- +.ateam-oracle.com
-- +.bronto.com
-- +.covid19-rx.org
-- +.covid19rx.org
 - +.sun.com
+- +.virtualbox.org
 - +.addthis.com
 - +.addthiscdn.com
 - +.addthisedge.com

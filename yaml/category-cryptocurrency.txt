@@ -12,6 +12,7 @@ payload:
 - +.binance.org
 - +.binance.us
 - +.binance.vision
+- +.binancecnt.com
 - +.binancezh.be
 - +.binancezh.biz
 - +.binancezh.cc
@@ -30,6 +31,7 @@ payload:
 - +.binanceapi.com
 - +.bnbstatic.com
 - +.saasexch.com
+- +.saasexch.io
 - +.appsflayer.com
 - +.bitflyer.com
 - +.bitflyer.jp

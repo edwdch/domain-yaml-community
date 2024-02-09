@@ -49,6 +49,7 @@ payload:
 - +.forthebadge.com
 - +.stockagainstphotography.com
 - +.launchpad.net
+- +.launchpadcontent.net
 - +.launchpadlibrarian.com
 - +.launchpadlibrarian.net
 - +.launchpadlibrarian.org

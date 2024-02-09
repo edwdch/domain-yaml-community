@@ -3,5 +3,3 @@ payload:
 - +.excess.duolingo.com
 - +.metrics.duolingo.com
 - +.analytics.vpc.duolingo.com
-- +.duolingo.com
-- +.duolingo.cn

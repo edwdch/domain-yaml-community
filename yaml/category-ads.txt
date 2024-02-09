@@ -93,6 +93,7 @@ payload:
 - +.yiliao.hupan.com
 - +.amazon-adsystem.com
 - +.serving-sys.com
+- +.api-adservices.apple.com
 - +.iadsdk.apple.com
 - +.iad.apple.com
 - +.qwapi.com
@@ -290,6 +291,10 @@ payload:
 - +.microad.co.jp
 - +.microad.jp
 - +.socdm.com
+- +.ads-api.duolingo.com
+- +.excess.duolingo.com
+- +.metrics.duolingo.com
+- +.analytics.vpc.duolingo.com
 - +.emogi.com
 - +.data.flurry.com
 - +.2mdn-cn.net
@@ -676,6 +681,8 @@ payload:
 - +.tsyndicate.com
 - +.wwads.cn
 - +.adx.36kr.com
+- +.hubcloud.com.cn
+- +.beizi.biz
 - +.click.ali213.net
 - +.pbmp.ali213.net
 - +.adq.chinaso.com
@@ -684,3 +691,6 @@ payload:
 - +.dn-growing.qbox.me
 - +.ad.unimhk.com
 - +.das-rpt-log.ucloud.cn
+- +.telecome.cn
+- +.unioncom.cc
+- +.shuzilm.cn

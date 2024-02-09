@@ -171,6 +171,7 @@ payload:
 - +.yimg.jp
 - +.ymail.com
 - +.yusercontent.com
+- cdn.js7k.com
 - +.oath.cloud
 - +.oath.com
 - +.ouroath.com

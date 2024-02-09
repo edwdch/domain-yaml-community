@@ -43,6 +43,13 @@ payload:
 - +.visapay.cn
 - +.visaplatinum.cn
 - +.visaplatinum.com.cn
+- +.accdn.com.cn
+- +.akamai.com
+- +.akcdn.com.cn
+- +.aptdn.net
+- +.janrain.biz
+- +.janrainservices.com
+- +.skycdn.com.cn
 - +.cf-ns.com
 - +.cf-ns.net
 - +.cf-ns.site

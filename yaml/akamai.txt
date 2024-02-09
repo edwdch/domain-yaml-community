@@ -1,4 +1,5 @@
 payload:
+- +.accdn.com.cn
 - +.ak1.net
 - +.aka-ai.com
 - +.aka-ai.net
@@ -7,6 +8,7 @@ payload:
 - +.akadns.com
 - +.akadns.net
 - +.akadns6.net
+- +.akadns88.net
 - +.akaeai.com
 - +.akafms.net
 - +.akagtm.org
@@ -63,8 +65,15 @@ payload:
 - +.akastream.com
 - +.akastream.net
 - +.akatns.net
+- +.akcdn.com.cn
+- +.aptdn.net
 - +.edgekey.net
+- +.edgekey88.net
+- +.edgesuite.net
 - +.iamakamai.com
 - +.iamakamai.net
+- +.janrain.biz
+- +.janrainservices.com
+- +.skycdn.com.cn
 - +.soasta-dswb.com
 - +.srtcdn.net

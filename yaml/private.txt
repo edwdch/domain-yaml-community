@@ -107,6 +107,7 @@ payload:
 - cp.cloudflare.com
 - detectportal.firefox.com
 - +.networkcheck.kde.org
+- +.location.services.mozilla.com
 - routerlogin.com
 - www.routerlogin.com
 - +.hiwifi.com
