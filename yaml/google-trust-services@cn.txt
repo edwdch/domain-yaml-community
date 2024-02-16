@@ -1,4 +1,5 @@
 payload:
 - crl.pki.goog
+- crls.pki.goog
 - ocsp.pki.goog
 - pki-goog.l.google.com

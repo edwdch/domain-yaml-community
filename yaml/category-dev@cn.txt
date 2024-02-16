@@ -3,6 +3,7 @@ payload:
 - +.swiftui.com.cn
 - +.researchkit.cn
 - +.researchkit.com.cn
+- firebase-settings.crashlytics.com
 - +.bisheng.cn
 - +.bishengcompiler.cn
 - +.devui.design

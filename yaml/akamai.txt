@@ -9,6 +9,7 @@ payload:
 - +.akadns.net
 - +.akadns6.net
 - +.akadns88.net
+- +.akadns99.net
 - +.akaeai.com
 - +.akafms.net
 - +.akagtm.org

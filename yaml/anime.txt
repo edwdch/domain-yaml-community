@@ -12,3 +12,5 @@ payload:
 - +.gogocdn.net
 - +.hidive.com
 - +.vrv.co
+- +.age.tv
+- +.agedm.org

@@ -1,10 +1,11 @@
 payload:
+- firebase-settings.crashlytics.com
 - crl.pki.goog
+- crls.pki.goog
 - ocsp.pki.goog
 - pki-goog.l.google.com
 - +.ggpht.cn
 - +.google.cn
-- firebase-settings.crashlytics.com
 - +.g.cn
 - +.gkecnapps.cn
 - +.googlecnapps.cn
