@@ -1,4 +1,15 @@
 payload:
+- +.b-graph.facebook.com
+- +.b-graph-fallback.facebook.com
+- +.star.fallback.c10r.facebook.com
+- +.star.c10r.facebook.com
+- +.connect.facebook.com
+- +.connect.facebook.net
+- +.graph.facebook.com
+- +.graph-fallback.facebook.com
+- +.z-m-graph.facebook.com
+- +.graph.fbpigeon.com
+- +.mqtt-mini.facebook.com
 - +.aboutfacebook.com
 - +.accessfacebookfromschool.com
 - +.acebooik.com
@@ -394,6 +405,8 @@ payload:
 - +.workplace.com
 - +.workplaceusecases.com
 - fbcdn-a.akamaihd.net
+- +.graph.instagram.com
+- +.graph-fallback.instagram.com
 - +.achat-followers-instagram.com
 - +.acheter-followers-instagram.com
 - +.acheterdesfollowersinstagram.com

@@ -413,6 +413,9 @@ payload:
 - +.wechat.com
 - +.wechatpay.cn
 - +.weiyun.com
+- +.wetv.vip
+- +.wetvinfo.com
+- wetv.qq.com
 - +.alloyteam.com
 - +.imweb.io
 - +.ivweb.io

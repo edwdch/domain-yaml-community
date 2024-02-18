@@ -4276,6 +4276,17 @@ payload:
 - +.imgsmail.ru
 - +.mail.ru
 - +.mycdn.me
+- +.b-graph.facebook.com
+- +.b-graph-fallback.facebook.com
+- +.star.fallback.c10r.facebook.com
+- +.star.c10r.facebook.com
+- +.connect.facebook.com
+- +.connect.facebook.net
+- +.graph.facebook.com
+- +.graph-fallback.facebook.com
+- +.z-m-graph.facebook.com
+- +.graph.fbpigeon.com
+- +.mqtt-mini.facebook.com
 - +.aboutfacebook.com
 - +.accessfacebookfromschool.com
 - +.acebooik.com
@@ -4715,6 +4726,8 @@ payload:
 - +.rocksdb.org
 - +.yogalayout.com
 - developers.facebook.com
+- +.graph.instagram.com
+- +.graph-fallback.instagram.com
 - +.achat-followers-instagram.com
 - +.acheter-followers-instagram.com
 - +.acheterdesfollowersinstagram.com
@@ -4809,6 +4822,8 @@ payload:
 - +.oculusvr.com
 - +.powersunitedvr.com
 - +.threads.net
+- +.graph.whatsapp.com
+- +.graph.whatsapp.net
 - +.wa.me
 - +.whatsapp-plus.info
 - +.whatsapp-plus.me
@@ -4938,6 +4953,7 @@ payload:
 - +.bingagencyawards.com
 - +.bingapis.com
 - +.bingapistatistics.com
+- +.bingparachute.com
 - +.bingsandbox.com
 - +.bingvisualsearch.com
 - +.bingworld.com

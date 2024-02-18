@@ -458,8 +458,12 @@ payload:
 - +.cftest7.com
 - +.cftest8.com
 - +.cloudflare-cn.com
+- +.cloudflareanycast.net
+- +.cloudflarechina.cn
 - +.cloudflarecn.net
+- +.cloudflareglobal.net
 - +.cloudflareinsights-cn.com
+- +.cloudflareperf.com
 - +.cloudflareprod.com
 - +.cloudflarestaging.com
 - +.cloudflarestoragegw.com
@@ -4044,6 +4048,9 @@ payload:
 - +.wechat.com
 - +.wechatpay.cn
 - +.weiyun.com
+- +.wetv.vip
+- +.wetvinfo.com
+- wetv.qq.com
 - +.alloyteam.com
 - +.imweb.io
 - +.ivweb.io

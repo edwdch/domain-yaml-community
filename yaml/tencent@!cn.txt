@@ -23,3 +23,6 @@ payload:
 - +.ger.file.myqcloud.com
 - +.supercell.com
 - +.tencent.co.id
+- +.wetv.vip
+- +.wetvinfo.com
+- wetv.qq.com
