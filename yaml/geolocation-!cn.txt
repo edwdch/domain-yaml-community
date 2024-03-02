@@ -14264,6 +14264,7 @@ payload:
 - +.apkcombo.com
 - +.apkmirror.com
 - +.apkpure.com
+- +.apkpure.net
 - +.cdnpure.com
 - +.pureapk.com
 - +.winudf.com
@@ -14656,6 +14657,9 @@ payload:
 - +.cloudlatex.io
 - +.overleaf.com
 - +.auroraoss.com
+- +.cookiepro.com
+- +.cookielaw.org
+- +.onetrust.com
 - +.anaconda.cloud
 - +.anaconda.com
 - +.anaconda.org
@@ -14917,6 +14921,7 @@ payload:
 - +.datalore.io
 - +.kotlinlang.org
 - +.cdn.jetbrains.com
+- +.download-cdn.jetbrains.com.cn
 - +.grazie.ai
 - +.grazie.aws.intellij.net
 - +.jfrog.com
@@ -15105,6 +15110,10 @@ payload:
 - +.topcoder.com
 - +.unity.com
 - +.unity3d.com
+- +.ads.unitychina.cn
+- +.splash-ads.cdn.unity.cn
+- +.splash-ads.unitychina.cn
+- +.unityads.unity.cn
 - +.unityads.unity3d.com
 - +.unityads.unitychina.cn
 - +.v8.dev
@@ -20899,6 +20908,7 @@ payload:
 - +.qprize.com
 - +.qualcomm-email.com
 - +.qualcomm.cn
+- +.qualcomm.cn.cdn.cloudflare.net
 - +.qualcomm.co.id
 - +.qualcomm.co.in
 - +.qualcomm.co.jp

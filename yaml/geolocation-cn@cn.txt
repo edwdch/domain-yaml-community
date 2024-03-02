@@ -65,6 +65,8 @@ payload:
 - +.ntp.org.cn
 - +.sl916.com
 - +.bluepoch.com
+- +.doubao.com
+- +.coze.cn
 - +.bisheng.cn
 - +.bishengcompiler.cn
 - +.devui.design

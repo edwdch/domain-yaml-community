@@ -573,6 +573,9 @@ payload:
 - +.huoshan.com
 - +.huoshanstatic.com
 - +.huoshanzhibo.com
+- +.doubao.com
+- +.coze.cn
+- +.coze.com
 - +.ixigua.com
 - +.ixiguavideo.com
 - +.ixgvideo.com
@@ -600,3 +603,4 @@ payload:
 - +.pipix.com
 - +.faceu.com
 - +.ulikecam.com
+- +.rsproxy.cn

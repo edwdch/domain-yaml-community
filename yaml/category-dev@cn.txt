@@ -28,6 +28,7 @@ payload:
 - +.teleows.com
 - +.saasops.tech
 - +.cdn.jetbrains.com
+- +.download-cdn.jetbrains.com.cn
 - +.microsoftreactor.cn
 - +.microsoftreactor.com.cn
 - +.reactorms.com.cn

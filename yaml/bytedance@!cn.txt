@@ -14,3 +14,4 @@ payload:
 - +.byteoversea.com
 - +.ibytedtos.com
 - +.ibyteimg.com
+- +.coze.com

@@ -35,6 +35,7 @@ payload:
 - +.byteoversea.com
 - +.ibytedtos.com
 - +.ibyteimg.com
+- +.coze.com
 - +.huaweicloud-dns.net
 - +.huaweicloud-dns.org
 - +.ae-ad-1.myhuaweicloud.com

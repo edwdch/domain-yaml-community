@@ -18,6 +18,7 @@ payload:
 - +.qprize.com
 - +.qualcomm-email.com
 - +.qualcomm.cn
+- +.qualcomm.cn.cdn.cloudflare.net
 - +.qualcomm.co.id
 - +.qualcomm.co.in
 - +.qualcomm.co.jp
