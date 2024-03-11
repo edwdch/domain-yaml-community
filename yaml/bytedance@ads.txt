@@ -13,7 +13,6 @@ payload:
 - +.dig.bdurl.net
 - +.extlog.snssdk.com
 - +.i.snssdk.com
-- +.is.snssdk.com
 - +.mcs.snssdk.com
 - +.pangolin-dsp-toutiao-b.com
 - +.pangolin-dsp-toutiao.com

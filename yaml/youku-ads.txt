@@ -15,8 +15,6 @@ payload:
 - +.e.stat.ykimg.com
 - +.gamex.mobile.youku.com
 - +.guanggaoad.youku.com
-- +.hudong.pl.youku.com
-- +.huodong.pl.youku.com
 - +.huodong.vip.youku.com
 - +.hz.youku.com
 - +.iyes.youku.com
@@ -39,7 +37,6 @@ payload:
 - +.store.xl.api.3g.youku.com
 - +.tdrec.youku.com
 - +.test.ott.youku.com
-- +.test.sdk.m.youku.com
 - +.v.l.youku.com
 - +.val.api.youku.com
 - +.wan.youku.com

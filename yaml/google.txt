@@ -124,7 +124,6 @@ payload:
 - +.adwordsexpress.com
 - +.app-measurement-cn.com
 - +.app-measurement.com
-- +.clickserver.googleads.com
 - +.doubleclick-cn.net
 - +.doubleclick.cn
 - +.doubleclick.com

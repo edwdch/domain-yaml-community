@@ -8,7 +8,6 @@ payload:
 - +.iad.apple.com
 - +.qwapi.com
 - +.ads-api.duolingo.com
-- +.excess.duolingo.com
 - +.metrics.duolingo.com
 - +.analytics.vpc.duolingo.com
 - +.2mdn-cn.net
@@ -27,7 +26,6 @@ payload:
 - +.adwordsexpress.com
 - +.app-measurement-cn.com
 - +.app-measurement.com
-- +.clickserver.googleads.com
 - +.doubleclick-cn.net
 - +.doubleclick.cn
 - +.doubleclick.com
@@ -57,8 +55,6 @@ payload:
 - analytics.google.com
 - +.b-graph.facebook.com
 - +.b-graph-fallback.facebook.com
-- +.star.fallback.c10r.facebook.com
-- +.star.c10r.facebook.com
 - +.connect.facebook.com
 - +.connect.facebook.net
 - +.graph.facebook.com

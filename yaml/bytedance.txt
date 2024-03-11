@@ -72,7 +72,6 @@ payload:
 - +.dig.bdurl.net
 - +.extlog.snssdk.com
 - +.i.snssdk.com
-- +.is.snssdk.com
 - +.mcs.snssdk.com
 - +.pangolin-dsp-toutiao-b.com
 - +.pangolin-dsp-toutiao.com
@@ -221,6 +220,7 @@ payload:
 - +.volctraffic.com
 - +.volctranscdn.com
 - +.volcvideo.com
+- +.volcvideos.com
 - +.volcvms.com
 - +.volcvod.com
 - +.volcwaf001.com

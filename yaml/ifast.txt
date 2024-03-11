@@ -13,8 +13,3 @@ payload:
 - +.ifastnetwork.com
 - +.ifastps.com.cn
 - +.ifasttv.com
-- +.transferwise.com
-- +.wise.com
-- +.fxcorporate.com
-- +.mql5.com
-- +.tradingview.com

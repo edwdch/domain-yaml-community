@@ -41,6 +41,7 @@ payload:
 - +.qr.ae
 - +.quora.com
 - +.quoracdn.net
+- +.reddit.app.link
 - +.reddit.com
 - +.redditstatic.com
 - +.redditmail.com

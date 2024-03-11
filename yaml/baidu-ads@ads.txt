@@ -17,7 +17,6 @@ payload:
 - +.baidutv.baidu.com
 - +.banlv.baidu.com
 - +.bar.baidu.com
-- +.bdimg.share.baidu.com
 - +.bdplus.baidu.com
 - +.btlaunch.baidu.com
 - +.c.baidu.com
@@ -26,11 +25,8 @@ payload:
 - +.cjhq.baidu.com
 - +.cleaner.baidu.com
 - +.click.bes.baidu.com
-- +.click.hm.baidu.com
 - +.click.qianqian.com
-- +.cm.baichuan.baidu.com
 - +.cm.baidu.com
-- +.cm.pos.baidu.com
 - +.cpro.baidu.cn
 - +.cpro.baidu.com
 - +.cpro.baidustatic.com
@@ -68,7 +64,6 @@ payload:
 - +.fc-feed.cdn.bcebos.com
 - +.fclick.baidu.com
 - +.feed.baidu.com
-- +.fexclick.baidu.com
 - +.g.baidu.com
 - +.gimg.baidu.com
 - +.guanjia.baidu.com
@@ -107,13 +102,11 @@ payload:
 - +.rj.baidu.com
 - +.rplog.baidu.com
 - +.s.baidu.com
-- +.s.cpro.baidu.com
 - +.sa.tuisong.baidu.com
 - +.sclick.baidu.com
 - +.sestat.baidu.com
 - +.shadu.baidu.com
 - +.share.baidu.com
-- +.snippet.pos.baidu.com
 - +.sobar.baidu.com
 - +.sobartop.baidu.com
 - +.spcode.baidu.com
@@ -145,7 +138,6 @@ payload:
 - +.wenku-cms.bj.bcebos.com
 - +.wisepush.video.baidu.com
 - +.wm.baidu.com
-- +.wn.pos.baidu.com
 - +.znsv.baidu.com
 - +.zz.bdstatic.com
 - +.zzy1.quyaoya.com

@@ -362,9 +362,11 @@ payload:
 - +.openwrt.org
 - +.lede-project.org
 - +.osdn.net
+- +.perl.apache.org
 - +.perl.org
 - +.cpan.org
 - +.metacpan.org
+- +.modperl.pl
 - +.polymer-project.org
 - +.polymerproject.org
 - +.pycon.org

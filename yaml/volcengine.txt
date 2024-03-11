@@ -133,6 +133,7 @@ payload:
 - +.volctraffic.com
 - +.volctranscdn.com
 - +.volcvideo.com
+- +.volcvideos.com
 - +.volcvms.com
 - +.volcvod.com
 - +.volcwaf001.com
