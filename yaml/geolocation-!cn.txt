@@ -5411,6 +5411,8 @@ payload:
 - +.tiktokd.net
 - +.tiktokd.org
 - +.tiktokv.com
+- +.tiktokv.us
+- +.tiktokw.us
 - +.ttwstatic.com
 - p16-tiktokcdn-com.akamaized.net
 - +.themoviedb.org
@@ -5771,6 +5773,7 @@ payload:
 - +.redditmail.com
 - +.redditmedia.com
 - +.redd.it
+- +.yamibo.com
 - +.18p2p.com
 - +.avsforum.com
 - +.disp.cc
@@ -14523,6 +14526,8 @@ payload:
 - +.pros.ee
 - +.pse.is
 - +.ping.pe
+- +.ping.sx
+- public-us-pingsx.api.clonoth.com
 - +.playcover.io
 - +.playcover.workers.dev
 - +.pm.me

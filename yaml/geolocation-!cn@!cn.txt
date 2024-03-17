@@ -10,5 +10,7 @@ payload:
 - +.tiktokd.net
 - +.tiktokd.org
 - +.tiktokv.com
+- +.tiktokv.us
+- +.tiktokw.us
 - +.ttwstatic.com
 - p16-tiktokcdn-com.akamaized.net

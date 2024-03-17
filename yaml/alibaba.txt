@@ -1,11 +1,17 @@
 payload:
 - +.a.alimama.cn
 - +.acjs.aliyun.com
+- +.adash-c.m.taobao.com
+- +.adash-c.ut.taobao.com
+- +.adash-emas.cn-hangzhou.aliyuncs.com
 - +.adash.m.taobao.com
+- +.adash.man.aliyuncs.com
 - +.adashbc.m.taobao.com
 - +.adashbc.ut.taobao.com
-- +.adash-c.ut.taobao.com
 - +.adashx.m.taobao.com
+- +.adashx.ut.amap.com
+- +.adashx.ut.ele.me
+- +.adashx.ut.youku.com
 - +.adashx4ae.ut.taobao.com
 - +.adashx4yt.m.taobao.com
 - +.adashxgc.ut.taobao.com
@@ -21,6 +27,7 @@ payload:
 - +.apoll.m.taobao.com
 - +.atanx.alicdn.com
 - +.atanx2.alicdn.com
+- +.c-adash.m.taobao.com
 - +.cdn0.mobmore.com
 - +.click.aliyun.com
 - +.click.mz.simba.taobao.com
@@ -39,6 +46,10 @@ payload:
 - +.gtms02.alicdn.com
 - +.gtms03.alicdn.com
 - +.gtms04.alicdn.com
+- +.h-adashx.ut.ele.me
+- +.h-adashx.ut.taobao.com
+- +.h-adashx.ut.youku.com
+- +.h-adashx4yt.ut.taobao.com
 - +.hydra.alibaba.com
 - +.hz.pre.tbusergw.taobao.net
 - +.hz.tbusergw.taobao.net
@@ -48,6 +59,7 @@ payload:
 - +.intl.waptest.taobao.com
 - +.jxlog.istreamsche.com
 - +.log.umtrack.com
+- +.m-adash.m.taobao.com
 - +.m.intl.taobao.com
 - +.m.simba.taobao.com
 - +.match.p4p.1688.com
@@ -79,6 +91,10 @@ payload:
 - +.tvupgrade.yunos.com
 - +.tyh.taobao.com
 - +.userimg.qunar.com
+- +.v6-adashx.ut.amap.com
+- +.v6-adashx.ut.cainiao.com
+- +.v6-adashx.ut.ele.me
+- +.v6-adashx.ut.taobao.com
 - +.w.m.taobao.com
 - +.yiliao.hupan.com
 - +.alibabacloud.co.in
