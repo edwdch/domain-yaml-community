@@ -83,3 +83,4 @@ payload:
 - +.wetvinfo.com
 - wetv.qq.com
 - +.vivoglobal.com
+- ztedevices.com
