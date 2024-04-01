@@ -1756,4 +1756,3 @@ payload:
 - www.apple.com.edgekey.net
 - www.apple.com
 - xp.apple.com
-- testflight.apple.com

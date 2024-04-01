@@ -17445,7 +17445,6 @@ payload:
 - www.apple.com.edgekey.net
 - www.apple.com
 - xp.apple.com
-- testflight.apple.com
 - +.asus.com
 - +.asus.com.cn
 - +.atlassian.com
