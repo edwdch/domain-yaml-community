@@ -373,6 +373,7 @@ payload:
 - +.crmdynint-gcc.com
 - +.crmdynint.com
 - +.crossborderexpansion.com
+- +.dcg.microsoft.com
 - +.docs.com
 - +.dynamics.cn
 - +.dynamics.com

@@ -6580,6 +6580,7 @@ payload:
 - +.edninfo.com
 - +.epoch.cloud
 - +.epoch.org.il
+- +.epochbase.com
 - +.epochbuy.com
 - +.epochcar.com
 - +.epochhk.com
@@ -14150,6 +14151,7 @@ payload:
 - +.edninfo.com
 - +.epoch.cloud
 - +.epoch.org.il
+- +.epochbase.com
 - +.epochbuy.com
 - +.epochcar.com
 - +.epochhk.com
@@ -20478,6 +20480,7 @@ payload:
 - +.crmdynint-gcc.com
 - +.crmdynint.com
 - +.crossborderexpansion.com
+- +.dcg.microsoft.com
 - +.docs.com
 - +.dynamics.cn
 - +.dynamics.com
