@@ -252,6 +252,7 @@ payload:
 - +.singlelogin.re
 - +.singlelogin.site
 - +.z-lib.org
+- +.z-library.se
 - +.zlib.life
 - +.zlibcdn.com
 - +.zlibcdn2.com
