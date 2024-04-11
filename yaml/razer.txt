@@ -1,5 +1,8 @@
 payload:
 - +.razer.com
+- +.razerapi.com
+- +.razerofficial.com
+- +.razersynapse.com
 - +.razersupport.com
 - +.razerzone.com
 - +.razerzone.jp

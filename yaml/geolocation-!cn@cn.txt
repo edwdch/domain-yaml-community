@@ -1092,6 +1092,9 @@ payload:
 - +.qualcomm.cn
 - +.qualcomm.cn.cdn.cloudflare.net
 - +.xtracloud.cn
+- +.razerapi.com
+- +.razersynapse.com
+- +.razerzone.com
 - +.samsungeshop.com.cn
 - +.stmicroelectronics.com.cn
 - +.yahoo.cn
