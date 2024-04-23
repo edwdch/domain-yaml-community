@@ -200,6 +200,9 @@ payload:
 - +.cnbcfm.com
 - +.nbcuni.com
 - +.nbcudigitaladops.com
+- +.cnbeta.com
+- +.cnbeta.com.tw
+- +.cnbetacdn.com
 - +.cnn.com
 - +.cnn.io
 - +.cnn.it

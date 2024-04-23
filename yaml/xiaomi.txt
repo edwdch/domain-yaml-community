@@ -23,5 +23,6 @@ payload:
 - +.xiaomi.com
 - +.xiaomi.net
 - +.xiaomiev.com
+- +.xiaomimobile.com
 - +.xiaomiyoupin.com
 - +.saxyit.com

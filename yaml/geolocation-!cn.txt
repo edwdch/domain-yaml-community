@@ -4945,6 +4945,7 @@ payload:
 - +.xbx.lv
 - +.ynoproject.net
 - +.fanatical.com
+- +.fitgirl-repacks.site
 - +.humblebundle.com
 - +.loverslab.com
 - +.modrinth.com
@@ -6535,6 +6536,9 @@ payload:
 - +.cnbcfm.com
 - +.nbcuni.com
 - +.nbcudigitaladops.com
+- +.cnbeta.com
+- +.cnbeta.com.tw
+- +.cnbetacdn.com
 - +.cnn.com
 - +.cnn.io
 - +.cnn.it
@@ -20240,6 +20244,7 @@ payload:
 - location.microsoft.com
 - +.cn.bing.com
 - +.cn.bing.net
+- +.cn.mm.bing.net
 - +.ditu.live.com
 - bj1.api.bing.com
 - emoi-cncdn.bing.com
