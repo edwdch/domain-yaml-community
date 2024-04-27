@@ -4030,6 +4030,14 @@ payload:
 - hpstore.corpmerchandise.com
 - +.hubblephone.com
 - +.tsi.ai
+- +.consul.io
+- +.hashicorp.com
+- +.nomadproject.io
+- +.packer.io
+- +.terraform.io
+- +.vagrantcloud.com
+- +.vagrantup.com
+- +.vaultproject.io
 - +.appdomain.cloud
 - +.bluemix.com
 - +.bluemix.net

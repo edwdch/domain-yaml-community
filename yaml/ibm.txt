@@ -1,4 +1,12 @@
 payload:
+- +.consul.io
+- +.hashicorp.com
+- +.nomadproject.io
+- +.packer.io
+- +.terraform.io
+- +.vagrantcloud.com
+- +.vagrantup.com
+- +.vaultproject.io
 - +.appdomain.cloud
 - +.bluemix.com
 - +.bluemix.net
