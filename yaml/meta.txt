@@ -547,4 +547,5 @@ payload:
 - +.whatsapp.org
 - +.whatsapp.tv
 - +.whatsappbrand.com
+- +.meta.ai
 - +.meta.com
