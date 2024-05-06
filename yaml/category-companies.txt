@@ -3271,6 +3271,17 @@ payload:
 - +.digitaloceanspaces.com
 - +.do.co
 - +.nginxconfig.io
+- +.drweb.by
+- +.drweb.cn
+- +.drweb.co.jp
+- +.drweb.com
+- +.drweb.fr
+- +.drweb.kz
+- +.drweb.uz
+- +.drweb-av.de
+- +.drweb-av.es
+- +.drweb-av.it
+- +.drweb-av.pl
 - +.ads-api.duolingo.com
 - +.metrics.duolingo.com
 - +.analytics.vpc.duolingo.com
