@@ -261,6 +261,7 @@ payload:
 - +.kotlinlang.org
 - +.cdn.jetbrains.com
 - +.download-cdn.jetbrains.com.cn
+- +.jb.gg
 - +.grazie.ai
 - +.grazie.aws.intellij.net
 - +.jfrog.com
