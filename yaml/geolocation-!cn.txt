@@ -81,6 +81,7 @@ payload:
 - +.ooni.org
 - +.openvpn.net
 - +.privacytools.io
+- +.psiphon.ca
 - +.psiphon3.com
 - +.sagernet.org
 - +.shadowsocks.org
@@ -5297,6 +5298,7 @@ payload:
 - +.nflxsearch.net
 - +.nflxso.net
 - +.nflxvideo.net
+- +.netflixdnstest0.com
 - +.netflixdnstest1.com
 - +.netflixdnstest2.com
 - +.netflixdnstest3.com
@@ -6677,6 +6679,7 @@ payload:
 - +.fayuanbooks.com
 - +.fgmtv.org
 - +.ganjing.com
+- +.ganjing.world
 - +.ganjingworld.com
 - +.guangming.org
 - +.mhradio.org
@@ -14262,6 +14265,7 @@ payload:
 - +.fayuanbooks.com
 - +.fgmtv.org
 - +.ganjing.com
+- +.ganjing.world
 - +.ganjingworld.com
 - +.guangming.org
 - +.mhradio.org
@@ -14838,6 +14842,7 @@ payload:
 - +.flatpak.org
 - +.flutter.dev
 - +.flutterapp.com
+- +.pub.dev
 - +.fontawesome.com
 - +.fortawesome.com
 - +.fury.blog
@@ -18646,6 +18651,7 @@ payload:
 - firebaseremoteconfig.googleapis.com
 - +.flutter.dev
 - +.flutterapp.com
+- +.pub.dev
 - +.go-lang.com
 - +.go-lang.net
 - +.go-lang.org

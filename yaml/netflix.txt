@@ -11,6 +11,7 @@ payload:
 - +.nflxsearch.net
 - +.nflxso.net
 - +.nflxvideo.net
+- +.netflixdnstest0.com
 - +.netflixdnstest1.com
 - +.netflixdnstest2.com
 - +.netflixdnstest3.com

@@ -152,6 +152,7 @@ payload:
 - +.flatpak.org
 - +.flutter.dev
 - +.flutterapp.com
+- +.pub.dev
 - +.fontawesome.com
 - +.fortawesome.com
 - +.fury.blog
