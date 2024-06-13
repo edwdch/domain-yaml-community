@@ -5792,6 +5792,9 @@ payload:
 - +.safechat.com
 - +.sis001.com
 - +.v2ex.com
+- +.bsky.app
+- +.bsky.network
+- +.bsky.social
 - +.aboutfacebook.com
 - +.accessfacebookfromschool.com
 - +.acebooik.com

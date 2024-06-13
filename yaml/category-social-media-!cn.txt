@@ -1,4 +1,7 @@
 payload:
+- +.bsky.app
+- +.bsky.network
+- +.bsky.social
 - +.aboutfacebook.com
 - +.accessfacebookfromschool.com
 - +.acebooik.com
