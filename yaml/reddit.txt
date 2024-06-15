@@ -1,7 +1,10 @@
 payload:
+- +.redd.it
 - +.reddit.app.link
 - +.reddit.com
-- +.redditstatic.com
+- +.reddithelp.com
 - +.redditmail.com
 - +.redditmedia.com
+- +.redditstatic.com
 - +.redd.it
+- reddit.map.fastly.net

@@ -85,6 +85,8 @@ payload:
 - +.wiseid.com
 - +.wisekey.com
 - +.wisekey.com.hk
+- +.wyndlabs.ai
+- +.wynd.network
 - +.zb.app
 - +.zb.com
 - +.zb.io

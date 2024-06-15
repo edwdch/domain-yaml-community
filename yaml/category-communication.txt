@@ -34,6 +34,8 @@ payload:
 - +.intercom.io
 - +.intercomassets.com
 - +.intercomcdn.com
+- +.keybase.io
+- +.keybaseapi.com
 - +.gcld-line.com
 - +.lin.ee
 - +.line-apps-beta.com

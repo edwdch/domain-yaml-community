@@ -195,6 +195,8 @@ payload:
 - productcard.gog-statics.com
 - static-login.gog-statics.com
 - www4-static.gog-statics.com
+- +.kurogames.com
+- +.aki-game.com
 - +.mhystatic.com
 - +.mhyurl.cn
 - +.mihayo.com
@@ -357,6 +359,7 @@ payload:
 - +.ntp.org.cn
 - +.mapbox.cn
 - +.reabble.cn
+- +.testipv6.cn
 - +.swiftui.cn
 - +.swiftui.com.cn
 - +.researchkit.cn

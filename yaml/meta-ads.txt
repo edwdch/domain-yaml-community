@@ -1,13 +1,6 @@
 payload:
-- +.b-graph.facebook.com
-- +.b-graph-fallback.facebook.com
-- +.connect.facebook.com
-- +.connect.facebook.net
-- +.graph.facebook.com
-- +.graph-fallback.facebook.com
-- +.z-m-graph.facebook.com
-- +.graph.fbpigeon.com
-- +.mqtt-mini.facebook.com
+- +.analytics.facebook.com
+- +.pixel.facebook.com
 - +.graph.instagram.com
 - +.graph-fallback.instagram.com
 - +.graph.whatsapp.com

@@ -502,6 +502,7 @@ payload:
 - +.18doujin.com
 - +.18doujinshi.xyz
 - +.18exgfs.com
+- +.18fby.com
 - +.18h.mm-cg.com
 - +.18h.tv
 - +.18hmanga.click
@@ -516,7 +517,9 @@ payload:
 - +.18qt.com
 - +.18sex.org
 - +.18tube.xxx
+- +.18ww.life
 - +.18yiren.tv
+- +.191porn.com
 - +.1992qq.xyz
 - +.1bigclub.com
 - +.1bokeponline.top
@@ -694,6 +697,7 @@ payload:
 - +.8xxx.net
 - +.90seconds.asia
 - +.91avfuli.com
+- +.91beiyong.com
 - +.91cy.app
 - +.91dy.club
 - +.91fans.org
@@ -702,18 +706,7 @@ payload:
 - +.91md.me
 - +.91moxiong.com
 - +.91oo.xyz
-- +.91porn.best
-- +.91porn.com
-- +.91porn.group
-- +.91porn.party
-- +.91porn.plus
-- +.91porn.tw
-- +.91porn.work
-- +.91pornf.com
 - +.91pornplus.com
-- +.91pornv.com
-- +.91pornx.com
-- +.91porny.com
 - +.91porny.store
 - +.91qk41rf.com
 - +.91quanji.com
@@ -723,6 +716,7 @@ payload:
 - +.91sesex.xyz
 - +.91sew.xyz
 - +.91sew40.buzz
+- +.91vhome.com
 - +.920share.com
 - +.921bb.com
 - +.922tp.com
@@ -1025,6 +1019,7 @@ payload:
 - +.apornotube.net
 - +.aporntv.com
 - +.apornvideo.com
+- +.app756.com
 - +.appyq.com
 - +.apyarstorybooks.blogspot.com
 - +.aqdlt.net
@@ -1143,6 +1138,7 @@ payload:
 - +.avstar.me
 - +.avwong.com
 - +.avwto.com
+- +.avxxc.com
 - +.awflapp.top
 - +.awjq.cc
 - +.awwcn.buzz
@@ -2882,6 +2878,7 @@ payload:
 - +.hypnotube.com
 - +.hzmn.net
 - +.i69.com.tw
+- +.i91dz.com
 - +.iafd.com
 - +.iavnight.com
 - +.ibradome.com
@@ -3851,6 +3848,7 @@ payload:
 - +.naughtysophie.com
 - +.naughtywomenpics.com
 - +.nbdh15.buzz
+- +.nee4you.com
 - +.needgayporn.com
 - +.nekora.main.jp
 - +.nekoxxx.com
@@ -4194,6 +4192,7 @@ payload:
 - +.poisontube.com
 - +.pojapp.cfd
 - +.pojbayj1030.top
+- +.pojie7.com
 - +.pojiefuli20033.xyz
 - +.pojiefuli9113.xyz
 - +.ponyanimalsex.com
@@ -5530,6 +5529,7 @@ payload:
 - +.twavking.com
 - +.twcomix.com
 - +.twhentai.com
+- +.twidouga.net
 - +.twifuli.com
 - +.twinkboyfriends.tv
 - +.twinkspornos.com

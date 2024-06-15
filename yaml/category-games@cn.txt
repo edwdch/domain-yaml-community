@@ -13,6 +13,8 @@ payload:
 - productcard.gog-statics.com
 - static-login.gog-statics.com
 - www4-static.gog-statics.com
+- +.kurogames.com
+- +.aki-game.com
 - +.mhystatic.com
 - +.mhyurl.cn
 - +.mihayo.com

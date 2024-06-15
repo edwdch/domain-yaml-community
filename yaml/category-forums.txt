@@ -41,12 +41,15 @@ payload:
 - +.qr.ae
 - +.quora.com
 - +.quoracdn.net
+- +.redd.it
 - +.reddit.app.link
 - +.reddit.com
-- +.redditstatic.com
+- +.reddithelp.com
 - +.redditmail.com
 - +.redditmedia.com
+- +.redditstatic.com
 - +.redd.it
+- reddit.map.fastly.net
 - +.yamibo.com
 - +.18p2p.com
 - +.avsforum.com

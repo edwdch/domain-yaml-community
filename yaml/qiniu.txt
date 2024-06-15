@@ -1,4 +1,5 @@
 payload:
+- +.staticfile.net
 - +.staticfile.org
 - +.qbox.me
 - +.qiniu.com
