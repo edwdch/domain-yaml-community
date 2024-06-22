@@ -3520,6 +3520,7 @@ payload:
 - +.testplus.cn
 - +.wps.cn
 - +.wps.com
+- +.kscord.com
 - +.51dzt.com
 - +.iciba.com
 - +.docer.com
