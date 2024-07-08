@@ -1,4 +1,10 @@
 payload:
+- +.alibabacloud.co.in
+- +.alibabacloud.com.au
+- +.alibabacloud.com.hk
+- +.alibabacloud.com.my
+- +.alibabacloud.com.sg
+- +.alibabacloud.com.tw
 - +.oss-ap-northeast-1.aliyuncs.com
 - +.oss-ap-northeast-2.aliyuncs.com
 - +.oss-ap-south-1.aliyuncs.com
@@ -14,5 +20,9 @@ payload:
 - +.oss-me-east-1.aliyuncs.com
 - +.oss-us-east-1.aliyuncs.com
 - +.oss-us-west-1.aliyuncs.com
+- +.alihealth.hk
+- +.aliexpress.ru
 - +.alipay.hk
 - +.alipaymo.com
+- +.tmall.ru
+- +.fliggy.hk

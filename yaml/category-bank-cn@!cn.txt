@@ -1,5 +1,9 @@
 payload:
 - +.bochk.com
+- +.ccbintl.com.hk
+- +.ccbseoul.com
+- +.cmbi.com.hk
+- +.cmbwinglungbank.com
 - +.icbc-at.com
 - +.icbc-cz.com
 - +.icbc-ltd.com

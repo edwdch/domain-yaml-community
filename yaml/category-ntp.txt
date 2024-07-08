@@ -11,6 +11,8 @@ payload:
 - +.time.cloudflare.com
 - +.time.nrc.ca
 - +.time.windows.com
+- time.izatcloud.net
+- time.xtracloud.net
 - +.cn.pool.ntp.org
 - +.ntp.neu.edu.cn
 - +.ntp.ntsc.ac.cn

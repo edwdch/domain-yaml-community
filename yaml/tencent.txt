@@ -278,7 +278,10 @@ payload:
 - +.openmidas.com
 - +.qq.design
 - +.qqgamedesign.com
+- +.tencent-cloud.cn
+- +.tencent-cloud.com
 - +.tencent.design
+- +.tencentcloud.com
 - +.tjstats.com
 - +.wegamedeveloper.com
 - +.weixinbridge.com
@@ -382,6 +385,7 @@ payload:
 - +.qq.xn--fiqs8s
 - +.xn--r70as2s.xn--fiqs8s
 - +.apcdns.net
+- +.cdn-go.cn
 - +.foxmail.com
 - +.foxmail.com.cn
 - +.gtimg.cn
@@ -410,11 +414,14 @@ payload:
 - +.tencentmusic.com
 - +.tenpay.com
 - +.tfogc.com
+- +.tlivepush.com
+- +.txlivecdn.com
 - +.wechat.com
 - +.wechatpay.cn
 - +.weiyun.com
 - +.wetv.vip
 - +.wetvinfo.com
+- +.wxlivecdn.com
 - wetv.qq.com
 - +.alloyteam.com
 - +.imweb.io

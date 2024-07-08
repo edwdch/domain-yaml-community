@@ -1154,6 +1154,7 @@ payload:
 - +.bhsr.com
 - +.themisweeps.com
 - +.yuanshen.com
+- +.juequling.com
 - +.muwai.com
 - +.pplive.cn
 - +.pplive.com
@@ -1657,6 +1658,8 @@ payload:
 - +.doc88.com
 - +.docin.com
 - +.douding.cn
+- time.izatcloud.net
+- time.xtracloud.net
 - +.cn.pool.ntp.org
 - +.ntp.neu.edu.cn
 - +.ntp.ntsc.ac.cn
@@ -2129,7 +2132,9 @@ payload:
 - +.teambition.net
 - +.teambitionapis.com
 - +.uc.cn
+- +.uc123.com
 - +.ucweb.com
+- +.uczzd.cn
 - +.mobmore.com
 - +.umeng.com
 - +.umengcloud.com
@@ -2450,6 +2455,7 @@ payload:
 - +.baidu.cn
 - +.baidu.com
 - +.baidu.com.cn
+- +.baiduapp.com
 - +.baidubce.com
 - +.baiducontent.com
 - +.baidupcs.com
@@ -2484,6 +2490,18 @@ payload:
 - +.tiebaimg.com
 - +.xianfae.com
 - +.xiaodutv.com
+- +.duxiaoman-int.com
+- +.duxiaoman.com
+- +.duxiaomanfintech.com
+- +.duxiaomantech.com
+- +.dxm-cdn.com
+- +.dxm-int.com
+- +.dxmlcf.com
+- +.dxmlcfintech.com
+- +.dxmpay.com
+- +.dxmstatic.com
+- +.dxmyqh.com
+- +.paydxm.com
 - +.sl916.com
 - +.bluepoch.com
 - +.bcy.net
@@ -3520,6 +3538,8 @@ payload:
 - +.testplus.cn
 - +.wps.cn
 - +.wps.com
+- +.wpscdn.cn
+- +.wpscdn.com
 - +.kscord.com
 - +.51dzt.com
 - +.iciba.com
@@ -4112,7 +4132,10 @@ payload:
 - +.openmidas.com
 - +.qq.design
 - +.qqgamedesign.com
+- +.tencent-cloud.cn
+- +.tencent-cloud.com
 - +.tencent.design
+- +.tencentcloud.com
 - +.tjstats.com
 - +.wegamedeveloper.com
 - +.weixinbridge.com
@@ -4216,6 +4239,7 @@ payload:
 - +.qq.xn--fiqs8s
 - +.xn--r70as2s.xn--fiqs8s
 - +.apcdns.net
+- +.cdn-go.cn
 - +.foxmail.com
 - +.foxmail.com.cn
 - +.gtimg.cn
@@ -4244,11 +4268,14 @@ payload:
 - +.tencentmusic.com
 - +.tenpay.com
 - +.tfogc.com
+- +.tlivepush.com
+- +.txlivecdn.com
 - +.wechat.com
 - +.wechatpay.cn
 - +.weiyun.com
 - +.wetv.vip
 - +.wetvinfo.com
+- +.wxlivecdn.com
 - wetv.qq.com
 - +.alloyteam.com
 - +.imweb.io
@@ -4299,6 +4326,7 @@ payload:
 - +.mi-img.com
 - +.mi.com
 - +.mifile.cn
+- +.mijia.tech
 - +.miui.com
 - +.miwifi.com
 - +.xiaomi.cn
@@ -4306,6 +4334,7 @@ payload:
 - +.xiaomi.net
 - +.xiaomiev.com
 - +.xiaomimobile.com
+- +.xiaomixiaoai.com
 - +.xiaomiyoupin.com
 - +.saxyit.com
 - +.sandai.net
@@ -4361,6 +4390,7 @@ payload:
 - +.chinatelecom.com.cn
 - +.chinatelecomglobal.com
 - +.chntel.com
+- +.chinatelecomhk.com
 - +.10010.com
 - +.10010.com.cn
 - +.114menhu.com
@@ -4372,6 +4402,7 @@ payload:
 - +.wo.cn
 - +.wo.com.cn
 - +.wo116114.com
+- +.cuniq.com
 - +.jikipedia.com
 - +.qiuwen.wiki
 - +.shidianbaike.com
@@ -5226,7 +5257,6 @@ payload:
 - +.qunarzz.com
 - +.qunjielong.com
 - +.qyer.com
-- +.rfchost.com
 - +.rockyenglish.com
 - +.rong360.com
 - +.rtbasia.com

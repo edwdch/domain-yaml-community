@@ -4,9 +4,5 @@ payload:
 - +.ctexcel.com.hk
 - +.ctexcel.fr
 - +.ctexcel.us
-- +.189.cn
-- +.chinatelecom-h.com
-- +.chinatelecom.com.cn
 - +.chinatelecomglobal.com
-- +.chntel.com
 - +.chinatelecomhk.com

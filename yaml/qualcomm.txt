@@ -43,5 +43,6 @@ payload:
 - +.wipower.com
 - +.wirelessreach.com
 - +.xtracloud.cn
+- +.xtracloud.net
 - +.brewmp.com
 - qualcomm.sc.omtrdc.net

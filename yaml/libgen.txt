@@ -1,6 +1,7 @@
 payload:
 - +.libgen.life
 - +.libgen.fun
+- +.library.lol
 - +.gen.lib.rus.ec
 - +.libgen.is
 - +.libgen.me

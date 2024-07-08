@@ -214,6 +214,7 @@ payload:
 - +.bhsr.com
 - +.themisweeps.com
 - +.yuanshen.com
+- +.juequling.com
 - +.legendofzelda.cn
 - +.legendofzelda.com.cn
 - +.miitomo.com.cn
@@ -342,6 +343,7 @@ payload:
 - +.bhsr.com
 - +.themisweeps.com
 - +.yuanshen.com
+- +.juequling.com
 - +.amazonprimevideo.cn
 - +.amazonprimevideo.com.cn
 - +.ggpht.cn
@@ -356,6 +358,8 @@ payload:
 - +.yeshen.com
 - +.heavenlywind.cc
 - +.steampp.net
+- time.izatcloud.net
+- time.xtracloud.net
 - +.cn.pool.ntp.org
 - +.ntp.neu.edu.cn
 - +.ntp.ntsc.ac.cn

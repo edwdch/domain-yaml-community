@@ -4102,6 +4102,7 @@ payload:
 - +.laracasts.com
 - +.libgen.life
 - +.libgen.fun
+- +.library.lol
 - +.gen.lib.rus.ec
 - +.libgen.is
 - +.libgen.me
@@ -4561,6 +4562,7 @@ payload:
 - +.bhsr.com
 - +.themisweeps.com
 - +.yuanshen.com
+- +.juequling.com
 - +.nexon.co.jp
 - +.nexon.com
 - +.nexon.io
@@ -5289,6 +5291,7 @@ payload:
 - +.bhsr.com
 - +.themisweeps.com
 - +.yuanshen.com
+- +.juequling.com
 - +.biggggg.com
 - +.mudvod.tv
 - +.nbys.tv
@@ -5790,11 +5793,14 @@ payload:
 - +.redd.it
 - +.reddit.app.link
 - +.reddit.com
+- +.redditblog.com
 - +.reddithelp.com
+- +.redditinc.com
 - +.redditmail.com
 - +.redditmedia.com
+- +.redditspace.com
 - +.redditstatic.com
-- +.redd.it
+- +.redditstatus.com
 - reddit.map.fastly.net
 - +.yamibo.com
 - +.18p2p.com
@@ -9894,12 +9900,14 @@ payload:
 - +.fapality.com
 - +.fapcat.com
 - +.fapdude.com
+- +.fapello.com
 - +.faperoni.com
 - +.fapforfun.net
 - +.faphdporn.com
 - +.faphouse.com
 - +.fapmovz.com
 - +.fapnado.com
+- +.fapomania.com
 - +.fapopedia.net
 - +.fappcelebs.com
 - +.fappeningbook.com
@@ -11219,6 +11227,7 @@ payload:
 - +.lbtube.com
 - +.lcgirls.com
 - +.leakedmeat.com
+- +.leakedzone.com
 - +.leaksmodels.com
 - +.leakxxx.com
 - +.leliao1.com
@@ -11828,6 +11837,7 @@ payload:
 - +.nudistvoyeurbeach.com
 - +.nudity911.com
 - +.nudography.com
+- +.nudostar.tv
 - +.nuespournous.com
 - +.nuita.net
 - +.nukemanga.com
@@ -14367,6 +14377,8 @@ payload:
 - +.time.cloudflare.com
 - +.time.nrc.ca
 - +.time.windows.com
+- time.izatcloud.net
+- time.xtracloud.net
 - +.cn.pool.ntp.org
 - +.ntp.neu.edu.cn
 - +.ntp.ntsc.ac.cn
@@ -15163,7 +15175,10 @@ payload:
 - +.openmidas.com
 - +.qq.design
 - +.qqgamedesign.com
+- +.tencent-cloud.cn
+- +.tencent-cloud.com
 - +.tencent.design
+- +.tencentcloud.com
 - +.tjstats.com
 - +.wegamedeveloper.com
 - +.weixinbridge.com
@@ -19303,6 +19318,7 @@ payload:
 - +.devsitetest.how
 - +.dialogflow.com
 - +.digitalassetlinks.org
+- +.docs.new
 - +.episodic.com
 - +.feedburner.com
 - +.fflick.com
@@ -19457,6 +19473,8 @@ payload:
 - +.schemer.com
 - +.screenwisetrends.com
 - +.screenwisetrendspanel.com
+- +.sheets.new
+- +.slides.new
 - +.snapseed.com
 - +.solveforx.com
 - +.stadia.dev
@@ -19500,6 +19518,7 @@ payload:
 - +.webrtc.org
 - +.weltweitwachsen.de
 - +.whatbrowser.org
+- +.whats.new
 - +.widevine.com
 - +.withgoogle.com
 - +.womenwill.com
@@ -21723,6 +21742,7 @@ payload:
 - +.wipower.com
 - +.wirelessreach.com
 - +.xtracloud.cn
+- +.xtracloud.net
 - +.brewmp.com
 - qualcomm.sc.omtrdc.net
 - +.qwant.com

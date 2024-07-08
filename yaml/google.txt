@@ -704,6 +704,7 @@ payload:
 - +.devsitetest.how
 - +.dialogflow.com
 - +.digitalassetlinks.org
+- +.docs.new
 - +.episodic.com
 - +.feedburner.com
 - +.fflick.com
@@ -858,6 +859,8 @@ payload:
 - +.schemer.com
 - +.screenwisetrends.com
 - +.screenwisetrendspanel.com
+- +.sheets.new
+- +.slides.new
 - +.snapseed.com
 - +.solveforx.com
 - +.stadia.dev
@@ -901,6 +904,7 @@ payload:
 - +.webrtc.org
 - +.weltweitwachsen.de
 - +.whatbrowser.org
+- +.whats.new
 - +.widevine.com
 - +.withgoogle.com
 - +.womenwill.com

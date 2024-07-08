@@ -13,3 +13,4 @@ payload:
 - +.bhsr.com
 - +.themisweeps.com
 - +.yuanshen.com
+- +.juequling.com

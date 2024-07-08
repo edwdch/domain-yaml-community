@@ -58,7 +58,10 @@ payload:
 - +.bhsr.com
 - +.themisweeps.com
 - +.yuanshen.com
+- +.juequling.com
 - kc.kexinshe.com
+- time.izatcloud.net
+- time.xtracloud.net
 - +.cn.pool.ntp.org
 - +.ntp.neu.edu.cn
 - +.ntp.ntsc.ac.cn

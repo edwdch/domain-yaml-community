@@ -187,7 +187,9 @@ payload:
 - +.teambition.net
 - +.teambitionapis.com
 - +.uc.cn
+- +.uc123.com
 - +.ucweb.com
+- +.uczzd.cn
 - +.mobmore.com
 - +.umeng.com
 - +.umengcloud.com

@@ -14,3 +14,9 @@ payload:
 - +.tiktokw.us
 - +.ttwstatic.com
 - p16-tiktokcdn-com.akamaized.net
+- +.alibabacloud.co.in
+- +.alibabacloud.com.au
+- +.alibabacloud.com.hk
+- +.alibabacloud.com.my
+- +.alibabacloud.com.sg
+- +.alibabacloud.com.tw
