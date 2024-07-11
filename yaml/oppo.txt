@@ -1,4 +1,5 @@
 payload:
+- +.allawntech.com
 - +.coloros.com
 - +.finzfin.com
 - +.heytap.com
