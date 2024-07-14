@@ -2258,6 +2258,8 @@ payload:
 - xp.apple.com
 - +.asus.com
 - +.asus.com.cn
+- +.asuscloud.com
+- +.asuswebstorage.com
 - +.atlassian.com
 - +.atlassian.net
 - +.bitbucket.io

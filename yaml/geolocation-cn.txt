@@ -3535,6 +3535,8 @@ payload:
 - +.seasungames.com
 - +.xishanju.com
 - +.xoyo.com
+- +.xoyocdn.com
+- +.cbjq.com
 - +.testplus.cn
 - +.wps.cn
 - +.wps.com
