@@ -3706,6 +3706,7 @@ payload:
 - +.opstatics.com
 - +.oneplusbbs.com
 - +.h2os.com
+- community.oneplus.com
 - +.75.team
 - +.75team.com
 - +.baomitu.com
@@ -4487,6 +4488,10 @@ payload:
 - +.jindidata.com
 - +.tianyancha.com
 - +.x315.com
+- +.ehaier.com
+- +.haier.com
+- +.haier.net
+- +.haiersmarthomes.com
 - +.winos.me
 - +.upe.net
 - +.suzuki-china.com
@@ -4548,6 +4553,11 @@ payload:
 - +.learnywhere.com.cn
 - +.qlisten.cn
 - +.qtyy.cn
+- +.i2oo.cn
+- +.laoban100.com
+- +.shengyi.ai
+- +.shengyizhuanjia.com
+- +.yuanbei.biz
 - +.0123456789.com
 - +.0379home.com
 - +.055110.com

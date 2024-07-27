@@ -5,3 +5,4 @@ payload:
 - +.opstatics.com
 - +.oneplusbbs.com
 - +.h2os.com
+- community.oneplus.com

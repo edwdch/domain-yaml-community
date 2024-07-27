@@ -16,6 +16,7 @@ payload:
 - +.volvogroup.cn
 - +.volvogroup.com.cn
 - +.volvotrucks.com.cn
+- +.ifastps.com.cn
 - +.mastercard.cn
 - +.mastercard.com.cn
 - +.priceless.com.cn
@@ -818,8 +819,6 @@ payload:
 - gstatic-cn.com
 - gstaticadssl.l.google.com
 - gtm.oasisfeng.com
-- gvt1-cn.com
-- gvt2-cn.com
 - imasdk.googleapis.com
 - monitoring.qatp1.net
 - monitoring.qcpp1.net
@@ -926,6 +925,8 @@ payload:
 - uberproxy-with-cn4.l.google.com
 - uberproxy-with-cn6.l.google.com
 - qiao-cn.com
+- +.gvt1-cn.com
+- +.gvt2-cn.com
 - +.hpstore.cn
 - +.intel.cn
 - +.intel.com.cn

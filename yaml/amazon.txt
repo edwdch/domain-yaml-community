@@ -29,8 +29,12 @@ payload:
 - +.acmvalidationsaws.com
 - +.aesworkshops.com
 - +.amazonaws-china.com
+- +.amazonaws.biz
 - +.amazonaws.co.uk
 - +.amazonaws.com
+- +.amazonaws.info
+- +.amazonaws.net
+- +.amazonaws.org
 - +.amazonaws.tv
 - +.amazonses.com
 - +.amazonworkdocs.com

@@ -303,8 +303,12 @@ payload:
 - +.acmvalidationsaws.com
 - +.aesworkshops.com
 - +.amazonaws-china.com
+- +.amazonaws.biz
 - +.amazonaws.co.uk
 - +.amazonaws.com
+- +.amazonaws.info
+- +.amazonaws.net
+- +.amazonaws.org
 - +.amazonaws.tv
 - +.amazonses.com
 - +.amazonworkdocs.com
@@ -4033,6 +4037,7 @@ payload:
 - +.feedburner.com
 - +.fflick.com
 - +.financeleadsonline.com
+- +.fitbit.com
 - +.foofle.com
 - +.froogle.com
 - +.fuchsia.dev
@@ -4330,8 +4335,6 @@ payload:
 - gstatic-cn.com
 - gstaticadssl.l.google.com
 - gtm.oasisfeng.com
-- gvt1-cn.com
-- gvt2-cn.com
 - imasdk.googleapis.com
 - monitoring.qatp1.net
 - monitoring.qcpp1.net
@@ -4438,6 +4441,8 @@ payload:
 - uberproxy-with-cn4.l.google.com
 - uberproxy-with-cn6.l.google.com
 - qiao-cn.com
+- +.gvt1-cn.com
+- +.gvt2-cn.com
 - +.hetzner.cloud
 - +.hetzner.com
 - +.hetzner.de
@@ -6564,6 +6569,11 @@ payload:
 - +.wheelpop.com
 - +.wwtbam.com
 - +.yourfantasybeginsnow.com
+- +.sonynetwork.co.jp
+- +.nuro.jp
+- +.so-net.ne.jp
+- +.sony-semicon.co.jp
+- +.sony-semicon.com
 - +.ginzasonypark.jp
 - +.sony-africa.com
 - +.sony-asia.com
@@ -6573,11 +6583,11 @@ payload:
 - +.sony-mea.com
 - +.sony-olympus-medical.com
 - +.sony-promotion.eu
-- +.sony-semicon.co.jp
 - +.sony.at
 - +.sony.ba
 - +.sony.be
 - +.sony.bg
+- +.sony.biz
 - +.sony.ca
 - +.sony.ch
 - +.sony.cl
@@ -6654,6 +6664,7 @@ payload:
 - +.sonystoragemedia.co.jp
 - +.sonytc.co.jp
 - +.sovec.net
+- +.so-net.net.tw
 - +.spacex.com
 - +.spacemail.com
 - +.spaceship.com

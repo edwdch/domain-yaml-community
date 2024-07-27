@@ -139,6 +139,7 @@ payload:
 - +.ru-northwest-2.myhuaweicloud.com
 - +.sa-brazil-1.myhuaweicloud.com
 - +.tr-west-1.myhuaweicloud.com
+- community.oneplus.com
 - +.intltencentcos.com
 - +.ap-hongkong.myqcloud.com
 - +.ap-singapore.myqcloud.com

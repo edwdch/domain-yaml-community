@@ -709,6 +709,7 @@ payload:
 - +.feedburner.com
 - +.fflick.com
 - +.financeleadsonline.com
+- +.fitbit.com
 - +.foofle.com
 - +.froogle.com
 - +.fuchsia.dev
@@ -1006,8 +1007,6 @@ payload:
 - gstatic-cn.com
 - gstaticadssl.l.google.com
 - gtm.oasisfeng.com
-- gvt1-cn.com
-- gvt2-cn.com
 - imasdk.googleapis.com
 - monitoring.qatp1.net
 - monitoring.qcpp1.net
@@ -1114,3 +1113,5 @@ payload:
 - uberproxy-with-cn4.l.google.com
 - uberproxy-with-cn6.l.google.com
 - qiao-cn.com
+- +.gvt1-cn.com
+- +.gvt2-cn.com
