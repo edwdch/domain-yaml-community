@@ -21,6 +21,8 @@ payload:
 - +.hsbc.com.bh
 - +.hsbc.com.br
 - +.hsbc.com.cn
+- +.hsbcqh.com.cn
+- +.hsbcinsurance.com.cn
 - +.hsbc.com.eg
 - +.hsbc.com.hk
 - +.hsbc.com.mo

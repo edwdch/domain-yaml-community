@@ -1,3 +1,5 @@
 payload:
 - +.smzdm.com
+- +.smzdmimg.com
 - +.zdmimg.com
+- +.zhidemai.com

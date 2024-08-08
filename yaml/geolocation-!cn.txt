@@ -1284,6 +1284,8 @@ payload:
 - +.hsbc.com.bh
 - +.hsbc.com.br
 - +.hsbc.com.cn
+- +.hsbcqh.com.cn
+- +.hsbcinsurance.com.cn
 - +.hsbc.com.eg
 - +.hsbc.com.hk
 - +.hsbc.com.mo
@@ -4029,6 +4031,7 @@ payload:
 - +.cmu.edu
 - +.cochranelibrary.com
 - +.computingreviews.com
+- +.csrankings.org
 - +.degruyter.com
 - +.dentalhypotheses.com
 - +.ebsco.com
@@ -5267,7 +5270,9 @@ payload:
 - static-hamivideo.cdn.hinet.net
 - tvcastlive-hamivideo.cdn.hinet.net
 - weblive-hamivideo.cdn.hinet.net
+- +.brightline.tv
 - +.cinemax.com
+- +.discomax.com
 - +.forthethrone.com
 - +.hbo.com
 - +.hboasia.com
@@ -5848,6 +5853,9 @@ payload:
 - +.6parkbbs.com
 - +.6parknews.com
 - +.cool18.com
+- +.popo8.com
+- +.parkvv.com
+- +.xwbo.com
 - +.ck101.com
 - +.ckcdn.com
 - +.ckck.fun
@@ -6460,6 +6468,9 @@ payload:
 - +.6parkbbs.com
 - +.6parknews.com
 - +.cool18.com
+- +.popo8.com
+- +.parkvv.com
+- +.xwbo.com
 - +.9cdn.net
 - +.9nation.com.au
 - +.9news.com.au
@@ -8488,7 +8499,6 @@ payload:
 - +.21naturals.com
 - +.21vv.cc
 - +.2371tom.com
-- +.249dw7.cn
 - +.24hjav.com
 - +.24porn.com
 - +.24porn.pro
@@ -10046,7 +10056,6 @@ payload:
 - +.fetlife.com
 - +.fffucked.com
 - +.fgirl.ch
-- +.fi11.cn
 - +.fi11.com
 - +.fi11av1.com
 - +.fi11tv1.com
@@ -13964,7 +13973,6 @@ payload:
 - +.xvxx.stream
 - +.xvxxtube.com
 - +.xx-map.com
-- +.xx159.com.cn
 - +.xx9.app
 - +.xxbook.cc
 - +.xxbrits.com
@@ -14200,7 +14208,6 @@ payload:
 - +.yy7y.com
 - +.yy8y.com
 - +.yyfb.cyou
-- +.yyyzgdl.cn
 - +.yzld188.top
 - +.z00.world
 - +.z676869.com
@@ -18353,6 +18360,7 @@ payload:
 - +.bwh81.net
 - +.bwh88.net
 - +.bwh89.net
+- +.bwhstatus.com
 - +.blurams.com
 - +.c-ij.com
 - +.canon-cee.com

@@ -1,9 +1,11 @@
 payload:
 - +.gifshow.com
+- +.inkwai.com
 - +.ksapisrv.com
 - +.kuaishou.com
-- +.yximgs.com
 - +.kwaizt.com
 - +.kuaishouzt.com
+- +.kwimgs.com
+- +.yximgs.com
 - log-sdk.gifshow.com
 - wlog.kuaishou.com

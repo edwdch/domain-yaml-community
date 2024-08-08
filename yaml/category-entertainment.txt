@@ -964,7 +964,9 @@ payload:
 - static-hamivideo.cdn.hinet.net
 - tvcastlive-hamivideo.cdn.hinet.net
 - weblive-hamivideo.cdn.hinet.net
+- +.brightline.tv
 - +.cinemax.com
+- +.discomax.com
 - +.forthethrone.com
 - +.hbo.com
 - +.hboasia.com

@@ -309,6 +309,7 @@ payload:
 - +.cmu.edu
 - +.cochranelibrary.com
 - +.computingreviews.com
+- +.csrankings.org
 - +.degruyter.com
 - +.dentalhypotheses.com
 - +.ebsco.com
