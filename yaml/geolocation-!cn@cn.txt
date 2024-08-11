@@ -1099,6 +1099,8 @@ payload:
 - +.teamviewer.cn
 - +.familymart.com.cn
 - +.4008-517-517.cn
+- +.mcd.cn
+- +.mcdonalds.com.cn
 - +.aerogard.com.cn
 - +.airwick.com.cn
 - +.calgon.cn
