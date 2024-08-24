@@ -260,6 +260,7 @@ payload:
 - +.abhouses.com
 - +.agconnect.link
 - +.dbank.com
+- +.dbankcdn.cn
 - +.dbankcdn.com
 - +.dbankcloud.com
 - +.hicloud.com
