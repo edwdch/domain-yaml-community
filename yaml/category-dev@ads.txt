@@ -1,6 +1,4 @@
 payload:
-- o33249.ingest.sentry.io
-- openaicom.imgix.net
 - +.ads.unitychina.cn
 - +.splash-ads.cdn.unity.cn
 - +.splash-ads.unitychina.cn

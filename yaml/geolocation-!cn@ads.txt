@@ -1,4 +1,6 @@
 payload:
+- o33249.ingest.sentry.io
+- openaicom.imgix.net
 - +.ads.pubmatic.com
 - +.ads.yahoo.com
 - +.gemini.yahoo.com
@@ -21,8 +23,6 @@ payload:
 - +.graph.instagram.com
 - +.graph-fallback.instagram.com
 - +.collector.xhamster.com
-- o33249.ingest.sentry.io
-- openaicom.imgix.net
 - +.ads.unitychina.cn
 - +.splash-ads.cdn.unity.cn
 - +.splash-ads.unitychina.cn

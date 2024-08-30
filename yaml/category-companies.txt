@@ -477,6 +477,9 @@ payload:
 - +.amdfanstore.com
 - +.radeon.com
 - www.amd.com
+- +.anthropic.com
+- +.claude.ai
+- servd-anthropic-website.b-cdn.net
 - +.api-adservices.apple.com
 - +.iadsdk.apple.com
 - +.iad.apple.com
@@ -3490,11 +3493,15 @@ payload:
 - +.marketingplatform.google.com
 - +.urchin.com
 - analytics.google.com
-- +.gemini.google.com
+- +.deepmind.com
+- +.deepmind.google
 - +.ai.google.dev
 - +.aistudio.google.com
+- +.bard.google.com
+- +.gemini.google.com
 - +.generativelanguage.googleapis.com
-- +.alkalimakersuite-pa.clients6.google.com
+- +.makersuite.google.com
+- alkalimakersuite-pa.clients6.google.com
 - +.charlestonroadregistry.com
 - +.crr.com
 - +.registry.google
@@ -4043,7 +4050,6 @@ payload:
 - +.dataliberation.org
 - +.debug.com
 - +.debugproject.com
-- +.deepmind.com
 - +.devsitetest.how
 - +.dialogflow.com
 - +.digitalassetlinks.org
@@ -7121,6 +7127,7 @@ payload:
 - +.yandex.uz
 - +.yandexcloud.net
 - +.yastatic.net
+- +.x.ai
 - +.teamviewer.cn
 - +.teamviewer.com
 - +.teamviewer.us
