@@ -25,7 +25,10 @@ payload:
 - +.poe.com
 - +.poecdn.net
 - +.x.ai
+- +.notebooklm.google
+- +.notebooklm.google.com
 - +.meta.ai
+- +.openart.ai
 - +.colorfulstage.com
 - +.crypton.co.jp
 - +.lapriere.jp
