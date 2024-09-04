@@ -1,4 +1,5 @@
 payload:
+- +.ai.com
 - +.chatgpt.com
 - +.oaistatic.com
 - +.oaiusercontent.com
