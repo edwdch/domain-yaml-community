@@ -7,6 +7,7 @@ payload:
 - +.elderscrolls.com
 - +.callersbane.com
 - +.minecraft.net
+- +.minecraftservices.com
 - +.minecraftshop.com
 - +.mojang.com
 - +.forzamotorsport.net

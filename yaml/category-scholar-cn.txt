@@ -36,6 +36,7 @@ payload:
 - +.zhihang100.com
 - +.cnki.com.cn
 - +.cnki.net
+- +.chndoi.org
 - +.wanfangdata.com.cn
 - +.wf.pub
 - +.51ccd.com

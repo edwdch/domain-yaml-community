@@ -2,6 +2,14 @@ payload:
 - +.75.team
 - +.75team.com
 - +.baomitu.com
+- +.fenxi.com
+- +.lianmeng.360.cn
+- +.mediav.com
+- +.mvad.com
+- +.qhupdate.com
+- +.s.360.cn
+- +.s.so.360.cn
+- +.s.union.360.cn
 - +.360.cn
 - +.360.com
 - +.360.net
@@ -44,7 +52,6 @@ payload:
 - +.qhres.com
 - +.qhres2.com
 - +.qhstatic.com
-- +.qhupdate.com
 - +.qihuapi.cn
 - +.qihucdn.com
 - +.qihoo.com

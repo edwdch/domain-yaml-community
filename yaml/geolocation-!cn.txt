@@ -5060,6 +5060,7 @@ payload:
 - +.elderscrolls.com
 - +.callersbane.com
 - +.minecraft.net
+- +.minecraftservices.com
 - +.minecraftshop.com
 - +.mojang.com
 - +.forzamotorsport.net
@@ -18918,6 +18919,7 @@ payload:
 - +.googletraveladservices-cn.com
 - +.googletraveladservices.com
 - +.googlevads-cn.com
+- +.mail-ads.google.com
 - +.marketingplatform.google.com
 - +.urchin.com
 - analytics.google.com
@@ -21268,6 +21270,7 @@ payload:
 - +.elderscrolls.com
 - +.callersbane.com
 - +.minecraft.net
+- +.minecraftservices.com
 - +.minecraftshop.com
 - +.mojang.com
 - +.forzamotorsport.net

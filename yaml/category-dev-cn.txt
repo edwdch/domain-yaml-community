@@ -3,6 +3,8 @@ payload:
 - +.nnthink.com
 - +.apifox.cn
 - +.apifox.com
+- +.apipost.cn
+- +.apipost.net
 - +.baltamatica.com
 - +.blogjava.net
 - +.cnblogs.com

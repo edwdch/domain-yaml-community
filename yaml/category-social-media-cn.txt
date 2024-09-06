@@ -103,6 +103,10 @@ payload:
 - +.xhscdn.com
 - +.xhscdn.net
 - +.xiaohongshu.com
+- +.duowan.com
+- +.dwstatic.com
+- +.yy.com
+- +.yystatic.com
 - +.zhihu.com
 - +.zhimg.com
 - +.tieba.baidu.com

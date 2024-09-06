@@ -5,3 +5,4 @@ payload:
 - hospital.pku.edu.cn
 - ss.bjmu.edu.cn
 - +.yctdyy.com
+- +.smuszh.com
