@@ -19900,8 +19900,10 @@ payload:
 - +.gvt2-cn.com
 - +.hetzner.cloud
 - +.hetzner.com
+- +.hetzner.company
 - +.hetzner.de
 - +.your-server.de
+- sentry.hetzner.company
 - +.eca.hinet.net
 - +.gtlsca.nat.gov.tw
 - +.cht.com.tw

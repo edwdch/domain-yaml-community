@@ -67,6 +67,11 @@ payload:
 - +.jd.hk
 - +.jd.id
 - +.jd.ru
+- +.bilibili.tv
+- +.biliintl.com
+- +.dreamcast.hk
+- upos-hz-mirrorakam.akamaized.net
+- +.iq.com
 - +.myip.la
 - +.alibabacloud.co.in
 - +.alibabacloud.com.au

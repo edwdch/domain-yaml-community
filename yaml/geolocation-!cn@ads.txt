@@ -84,6 +84,7 @@ payload:
 - +.marketingplatform.google.com
 - +.urchin.com
 - analytics.google.com
+- sentry.hetzner.company
 - +.graph.instagram.com
 - +.graph-fallback.instagram.com
 - +.graph.whatsapp.com
