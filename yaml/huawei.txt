@@ -262,7 +262,10 @@ payload:
 - +.dbank.com
 - +.dbankcdn.cn
 - +.dbankcdn.com
+- +.dbankcloud.cn
 - +.dbankcloud.com
+- +.dbankedge.cn
+- +.dbankedge.net
 - +.hicloud.com
 - +.hihonor.com
 - +.honor.cn

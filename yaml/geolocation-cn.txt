@@ -1737,6 +1737,7 @@ payload:
 - +.mojichina.com
 - +.newcoder.com
 - +.nowcoder.com
+- +.nowcoder.net
 - +.nowcoder.org
 - +.polyv.net
 - +.videocc.net
@@ -1752,6 +1753,11 @@ payload:
 - +.cpatrk.net
 - +.vaptcha.com
 - +.vaptcha.net
+- +.hf-aw.cn
+- +.hf-aw.com
+- +.huafeng-accuweather.cn
+- +.huafengaw.com
+- +.weathercn.com
 - +.wamawama.com
 - +.wiwide.com
 - +.sojump.com
@@ -2530,6 +2536,7 @@ payload:
 - +.zybang.com
 - +.91.com
 - +.aipage.com
+- +.antpcdn.com
 - +.apollo.auto
 - +.baidu.cn
 - +.baidu.com
@@ -3557,7 +3564,10 @@ payload:
 - +.dbank.com
 - +.dbankcdn.cn
 - +.dbankcdn.com
+- +.dbankcloud.cn
 - +.dbankcloud.com
+- +.dbankedge.cn
+- +.dbankedge.net
 - +.hicloud.com
 - +.hihonor.com
 - +.honor.cn
@@ -3778,6 +3788,7 @@ payload:
 - +.360kuai.com
 - +.360os.com
 - +.360panyun.cn
+- +.360qhcdn.com
 - +.360safe.com
 - +.360shouji.com
 - +.360taojin.com
@@ -3787,6 +3798,8 @@ payload:
 - +.360webcache.com
 - +.360zqaq.com
 - +.anquanke.com
+- +.appjiagu.com
+- +.baomitu.com
 - +.haoso.com
 - +.haosou.com
 - +.haosou.com.cn
@@ -3795,6 +3808,7 @@ payload:
 - +.ludashi.com
 - +.nicaifu.com
 - +.nzwgs.com
+- +.qhcdn.com
 - +.qhimg.com
 - +.qhimgs0.com
 - +.qhimgs1.com
@@ -3807,10 +3821,11 @@ payload:
 - +.qhres.com
 - +.qhres2.com
 - +.qhstatic.com
-- +.qihuapi.cn
-- +.qihucdn.com
 - +.qihoo.com
 - +.qihoo.net
+- +.qihuapi.cn
+- +.qihucdn.com
+- +.qiku.com
 - +.qikucdn.com
 - +.so.com
 - +.sou.com
@@ -4459,6 +4474,7 @@ payload:
 - www.ztedevices.com
 - ztedevices.com
 - +.ezpro.pro
+- +.51togic.com
 - +.10099.com.cn
 - +.chn.cn
 - +.ahitv.com
@@ -4552,10 +4568,26 @@ payload:
 - +.jindidata.com
 - +.tianyancha.com
 - +.x315.com
+- +.gree.cn
+- +.gree.com
+- +.gree.com.cn
+- +.greeyun.com
+- +.kinghomechina.com
+- +.tosot.com.cn
+- +.zhlyen.com
 - +.ehaier.com
 - +.haier.com
 - +.haier.net
 - +.haiersmarthomes.com
+- +.irsnp.com
+- +.mdcdn.cn
+- +.midea.cn
+- +.midea.com
+- +.midea.com.cn
+- +.mideaepayuat.com
+- +.msmartlife.cn
+- +.msmartlife.com
+- +.smartmidea.net
 - +.winos.me
 - +.upe.net
 - +.suzuki-china.com
@@ -4896,7 +4928,6 @@ payload:
 - +.cwxzx.com
 - +.cyagen.com
 - +.cybtc.com
-- +.cyol.com
 - +.cyts.com
 - +.cztv.com
 - +.cztvcloud.com
@@ -4965,7 +4996,6 @@ payload:
 - +.eayyou.com
 - +.ebico.com
 - +.ebrun.com
-- +.ecitic.com
 - +.ecjobhome.com
 - +.eeyy.com
 - +.eflycloud.com
@@ -5022,7 +5052,6 @@ payload:
 - +.gongxiangcj.com
 - +.goosail.com
 - +.goufw.com
-- +.gree.com
 - +.greenxiazai.com
 - +.growingio.com
 - +.gtags.net
@@ -5119,7 +5148,6 @@ payload:
 - +.izuche.com
 - +.jandan.net
 - +.jb51.com
-- +.jdair.net
 - +.jia.com
 - +.jiameng.com
 - +.jianbihua.com
@@ -5139,7 +5167,6 @@ payload:
 - +.jinse.com
 - +.jinti.com
 - +.jiqizhixin.com
-- +.jisuanke.com
 - +.jisuxia.com
 - +.jiuzhilan.com
 - +.jj20.com
@@ -5207,7 +5234,6 @@ payload:
 - +.lieyunwang.com
 - +.lightonus.com
 - +.likuso.com
-- +.lingkou.com
 - +.linkvans.com
 - +.linsn.com
 - +.linuxidc.com
@@ -5225,7 +5251,6 @@ payload:
 - +.lotpc.com
 - +.loupan.com
 - +.lu.com
-- +.luckyair.net
 - +.lufax.com
 - +.lufaxcdn.com
 - +.lunwengo.net
@@ -5233,7 +5258,6 @@ payload:
 - +.lvmama.com
 - +.lvsexitong.com
 - +.lxway.com
-- +.magedu.com
 - +.maisanqi.com
 - +.mamecn.com
 - +.manhuatai.com
@@ -5265,9 +5289,6 @@ payload:
 - +.mmbang.info
 - +.mofang.com
 - +.mofazhu.com
-- +.mogu.com
-- +.mogucdn.com
-- +.mogujie.com
 - +.mokahr.com
 - +.moleecel.com
 - +.moocollege.com
@@ -5289,8 +5310,6 @@ payload:
 - +.newbandeng.com
 - +.newyx.net
 - +.noknok.cn
-- +.nowcoder.com
-- +.nowcoder.net
 - +.nowscore.com
 - +.nruan.com
 - +.ntalker.com
@@ -5312,7 +5331,6 @@ payload:
 - +.onlinesjtu.com
 - +.onlylady.com
 - +.opdown.com
-- +.oray.com
 - +.ottcn.com
 - +.oupeng.com
 - +.p2peye.com
@@ -5421,7 +5439,6 @@ payload:
 - +.softwhy.com
 - +.sojson.com
 - +.somode.com
-- +.soso.com
 - +.souqian.com
 - +.southmoney.com
 - +.sparkletour.com
@@ -5429,7 +5446,6 @@ payload:
 - +.ssports.com
 - +.starbaby.cc
 - +.starbaby.com
-- +.stockstar.com
 - +.sun0769.com
 - +.sunrtb.com
 - +.supermap.com
@@ -5496,7 +5512,6 @@ payload:
 - +.veryzhun.com
 - +.vic18.com
 - +.videojj.com
-- +.vijos.org
 - +.vip.com
 - +.vobao.com
 - +.vpgame.com
@@ -5509,7 +5524,6 @@ payload:
 - +.wdjimg.com
 - +.wdzj.com
 - +.weand.com
-- +.webterren.com
 - +.weicaifu.com
 - +.weidian.com
 - +.weilaicaijing.com
@@ -5562,7 +5576,6 @@ payload:
 - +.xiayx.com
 - +.xiazaiba.com
 - +.xingjiesj.com
-- +.xinhuanet.com
 - +.xinrenxinshi.com
 - +.xinshipu.com
 - +.xingtan001.com

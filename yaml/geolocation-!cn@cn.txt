@@ -731,6 +731,7 @@ payload:
 - +.aoruszone.cn
 - +.gigabyte.cn
 - firebase-settings.crashlytics.com
+- redirector.c.play.google.com
 - pki-goog.l.google.com
 - c.pki.goog
 - i.pki.goog
@@ -859,7 +860,6 @@ payload:
 - redirector.c.chat.google.com
 - redirector.c.mail.google.com
 - redirector.c.pack.google.com
-- redirector.c.play.google.com
 - redirector.c.youtubeeducation.com
 - redirector.gcpcdn.gvt1.com
 - redirector.gvt1.com
