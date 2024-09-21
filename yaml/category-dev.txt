@@ -439,6 +439,7 @@ payload:
 - +.cnpmjs.org
 - +.cygwin.com
 - +.cython.org
+- +.deno.com
 - +.deno.land
 - +.dev.to
 - +.elixir-lang.org

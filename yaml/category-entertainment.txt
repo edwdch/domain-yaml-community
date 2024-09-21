@@ -1232,6 +1232,7 @@ payload:
 - p16-tiktokcdn-com.akamaized.net
 - +.themoviedb.org
 - +.tmdb.org
+- tmdb-image-prod.b-cdn.net
 - +.thetvdb.com
 - +.dogatch.jp
 - +.gorin.jp
