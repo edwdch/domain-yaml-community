@@ -959,6 +959,7 @@ payload:
 - +.xn--gogl-1nd42e.com
 - +.xplr.co
 - +.zukunftswerkstatt.de
+- google-ohttp-relay-safebrowsing.fastly-edge.com
 - www.recaptcha.net
 - 265.com
 - 2mdn-cn.net

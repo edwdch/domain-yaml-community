@@ -156,6 +156,7 @@ payload:
 - +.github.io
 - +.githubapp.com
 - +.githubassets.com
+- +.githubcopilot.com
 - +.githubhackathon.com
 - +.githubnext.com
 - +.githubpreview.dev
@@ -537,6 +538,7 @@ payload:
 - +.sharepoint.cn
 - +.sharepoint.com
 - +.sharepointonline.com
+- +.signalr.net
 - +.skype.com
 - +.skype.net
 - +.skypeassets.com

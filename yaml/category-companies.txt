@@ -479,6 +479,7 @@ payload:
 - www.amd.com
 - +.anthropic.com
 - +.claude.ai
+- +.claudeusercontent.com
 - servd-anthropic-website.b-cdn.net
 - +.api-adservices.apple.com
 - +.iadsdk.apple.com
@@ -4300,6 +4301,7 @@ payload:
 - +.xn--gogl-1nd42e.com
 - +.xplr.co
 - +.zukunftswerkstatt.de
+- google-ohttp-relay-safebrowsing.fastly-edge.com
 - www.recaptcha.net
 - 265.com
 - 2mdn-cn.net
@@ -5738,6 +5740,7 @@ payload:
 - +.github.io
 - +.githubapp.com
 - +.githubassets.com
+- +.githubcopilot.com
 - +.githubhackathon.com
 - +.githubnext.com
 - +.githubpreview.dev
@@ -6119,6 +6122,7 @@ payload:
 - +.sharepoint.cn
 - +.sharepoint.com
 - +.sharepointonline.com
+- +.signalr.net
 - +.skype.com
 - +.skype.net
 - +.skypeassets.com
@@ -6733,6 +6737,19 @@ payload:
 - +.uber-assets.com
 - +.uber.com
 - +.ubereats.com
+- +.amplifi.com
+- +.amplifi.com.cn
+- +.frontrow.com.cn
+- +.frontrow.com
+- +.ubncloud.com
+- +.ubnt.com
+- +.ubnt.com.cn
+- +.ui.com
+- +.ui.com.cn
+- +.uisp.com
+- +.uum.com.cn
+- +.uwn.com
+- +.wifiman.com
 - +.flic.kr
 - +.flickr.com
 - +.flickr.net

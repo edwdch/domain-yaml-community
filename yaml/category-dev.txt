@@ -179,6 +179,7 @@ payload:
 - +.github.io
 - +.githubapp.com
 - +.githubassets.com
+- +.githubcopilot.com
 - +.githubhackathon.com
 - +.githubnext.com
 - +.githubpreview.dev

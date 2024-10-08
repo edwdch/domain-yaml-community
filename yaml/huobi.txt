@@ -1,4 +1,5 @@
 payload:
+- +.htx.com
 - +.hbabit.com
 - +.hbfile.net
 - +.huobi.com

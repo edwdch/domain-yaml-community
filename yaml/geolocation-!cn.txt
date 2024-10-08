@@ -1,6 +1,7 @@
 payload:
 - +.anthropic.com
 - +.claude.ai
+- +.claudeusercontent.com
 - servd-anthropic-website.b-cdn.net
 - +.deepmind.com
 - +.deepmind.google
@@ -2166,11 +2167,13 @@ payload:
 - +.videodelivery.net
 - +.warp.plus
 - +.workers.dev
+- +.fastly-edge.com
+- +.fastly-terrarium.com
 - +.fastly.com
+- +.fastly.io
 - +.fastly.net
 - +.fastlylabs.com
 - +.fastlylb.net
-- +.fastly-terrarium.com
 - +.zencdn.net
 - +.imgix.com
 - +.imgix.net
@@ -2786,6 +2789,7 @@ payload:
 - +.gateimg.com
 - +.gateio.live
 - +.gateio.services
+- +.htx.com
 - +.hbabit.com
 - +.hbfile.net
 - +.huobi.com
@@ -10277,6 +10281,7 @@ payload:
 - +.hoyolab.com
 - +.hoyoverse.com
 - +.n0vadesktop.com
+- +.zenlesszonezero.com
 - +.mhystatic.com
 - +.mhyurl.cn
 - +.mihayo.com
@@ -11014,6 +11019,7 @@ payload:
 - +.hoyolab.com
 - +.hoyoverse.com
 - +.n0vadesktop.com
+- +.zenlesszonezero.com
 - +.mhystatic.com
 - +.mhyurl.cn
 - +.mihayo.com
@@ -12101,6 +12107,7 @@ payload:
 - +.vk.design
 - +.vk.link
 - +.vk.me
+- +.vk.ru
 - +.vkcache.com
 - +.vkgo.app
 - +.vklive.app
@@ -20734,6 +20741,7 @@ payload:
 - +.github.io
 - +.githubapp.com
 - +.githubassets.com
+- +.githubcopilot.com
 - +.githubhackathon.com
 - +.githubnext.com
 - +.githubpreview.dev
@@ -21538,6 +21546,7 @@ payload:
 - www.amd.com
 - +.anthropic.com
 - +.claude.ai
+- +.claudeusercontent.com
 - servd-anthropic-website.b-cdn.net
 - +.api-adservices.apple.com
 - +.iadsdk.apple.com
@@ -25359,6 +25368,7 @@ payload:
 - +.xn--gogl-1nd42e.com
 - +.xplr.co
 - +.zukunftswerkstatt.de
+- google-ohttp-relay-safebrowsing.fastly-edge.com
 - www.recaptcha.net
 - 265.com
 - 2mdn-cn.net
@@ -26797,6 +26807,7 @@ payload:
 - +.github.io
 - +.githubapp.com
 - +.githubassets.com
+- +.githubcopilot.com
 - +.githubhackathon.com
 - +.githubnext.com
 - +.githubpreview.dev
@@ -27178,6 +27189,7 @@ payload:
 - +.sharepoint.cn
 - +.sharepoint.com
 - +.sharepointonline.com
+- +.signalr.net
 - +.skype.com
 - +.skype.net
 - +.skypeassets.com
@@ -27792,6 +27804,19 @@ payload:
 - +.uber-assets.com
 - +.uber.com
 - +.ubereats.com
+- +.amplifi.com
+- +.amplifi.com.cn
+- +.frontrow.com.cn
+- +.frontrow.com
+- +.ubncloud.com
+- +.ubnt.com
+- +.ubnt.com.cn
+- +.ui.com
+- +.ui.com.cn
+- +.uisp.com
+- +.uum.com.cn
+- +.uwn.com
+- +.wifiman.com
 - +.flic.kr
 - +.flickr.com
 - +.flickr.net
