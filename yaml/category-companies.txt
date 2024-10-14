@@ -4492,10 +4492,15 @@ payload:
 - qiao-cn.com
 - +.gvt1-cn.com
 - +.gvt2-cn.com
+- +.first-ns.de
 - +.hetzner.cloud
 - +.hetzner.com
 - +.hetzner.company
 - +.hetzner.de
+- +.htznr.li
+- +.second-ns.com
+- +.second-ns.de
+- +.your-objectstorage.com
 - +.your-server.de
 - sentry.hetzner.company
 - +.eca.hinet.net

@@ -340,6 +340,7 @@ payload:
 - +.raah.ir
 - +.varzesh3.com
 - +.isignal.ir
+- +.signalpardazgroup.com
 - +.tgju.org
 - +.bama.ir
 - +.car.ir
