@@ -6406,6 +6406,7 @@ payload:
 - +.tegrazone.jp
 - +.tegrazone.kr
 - nvidia.tt.omtrdc.net
+- cn.download.nvidia.com
 - +.ai.com
 - +.chatgpt.com
 - +.oaistatic.com
@@ -6732,6 +6733,13 @@ payload:
 - +.spaceship.com
 - +.st.com
 - +.stmicroelectronics.com.cn
+- +.gofile.me
+- +.quickconnect.to
+- +.synology.com
+- +.synologydownload.com
+- +.synologyupdate.com
+- +.quickconnect.cn
+- +.synology.cn
 - +.tailscale.com
 - +.tailscale.io
 - +.ts.net

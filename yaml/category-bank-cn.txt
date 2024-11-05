@@ -134,6 +134,7 @@ payload:
 - +.bosc.cn
 - +.bsb.com.cn
 - +.ccb.com
+- +.cebbank.com
 - +.cgbchina.com.cn
 - +.cib.com.cn
 - +.citibank.com.cn

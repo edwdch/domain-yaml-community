@@ -52,4 +52,8 @@ payload:
 - +.thinkprinter.com.cn
 - +.thinkprinter.net
 - +.zxsales.cn
+- +.bestrhy.com
+- +.filez.com
+- +.lenovofile.com
+- +.lenovopoc.com
 - +.lenovo.com.cdn.cloudflare.net

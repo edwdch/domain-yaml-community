@@ -705,6 +705,7 @@ payload:
 - +.geforce.cn
 - +.gputechconf.cn
 - +.nvidia.cn
+- cn.download.nvidia.com
 - +.panasonic.cn
 - +.myqnapcloud.cn
 - +.qlinkto.cn
@@ -720,6 +721,8 @@ payload:
 - +.razerzone.com
 - +.samsungeshop.com.cn
 - +.stmicroelectronics.com.cn
+- +.quickconnect.cn
+- +.synology.cn
 - +.amplifi.com.cn
 - +.frontrow.com.cn
 - +.ubnt.com

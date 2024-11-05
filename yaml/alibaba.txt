@@ -115,6 +115,7 @@ payload:
 - +.aliyun-iot-share.com
 - +.aliyun.com
 - +.aliyuncdn.com
+- +.aliyunfile.com
 - +.cdngslb.com
 - +.hichina.com
 - +.ica-alliance.org
@@ -209,6 +210,7 @@ payload:
 - +.alibaba-inc.com
 - +.alibaba.com
 - +.alibabacapital.com
+- +.alibabachengdun.com
 - +.alibabacorp.com
 - +.alibabadoctor.com
 - +.alibabafuturehotel.com
@@ -217,6 +219,7 @@ payload:
 - +.alibabaued.com
 - +.alibabausercontent.com
 - +.alifanyi.com
+- +.aligames.com
 - +.alihealth.com.cn
 - +.alihealth.hk
 - +.aliimg.com
@@ -229,6 +232,7 @@ payload:
 - +.alipay.com
 - +.alipay.com.cn
 - +.alipaydns.com
+- +.alipaylog.com
 - +.alipayobjects.com
 - +.aliplus.com
 - +.aliresearch.com

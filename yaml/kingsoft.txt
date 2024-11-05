@@ -25,7 +25,9 @@ payload:
 - +.wpspdf.cn
 - +.kimg.cn
 - +.kingsoft.com
+- +.ks-live.com
 - +.ksmobile.com
+- +.ksosoft.com
 - +.ks-cdn.com
 - +.ks-cdn1.com
 - +.ksyun.com

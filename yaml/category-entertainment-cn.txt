@@ -137,6 +137,19 @@ payload:
 - +.gcores.com
 - +.gitv.cn
 - +.gitv.tv
+- +.click.hunantv.com
+- +.da.hunantv.com
+- +.da.mgtv.com
+- +.log.hunantv.com
+- +.log.v2.hunantv.com
+- +.res.hunantv.com
+- +.hifuntv.com
+- +.hitv.com
+- +.hnbntv.com
+- +.hunaniptv.com
+- +.hunantv.com
+- +.imgo.tv
+- +.mgtv.com
 - +.huya.com
 - +.msstatic.com
 - +.71.am
@@ -184,6 +197,9 @@ payload:
 - wlog.kuaishou.com
 - +.kgimg.com
 - +.kugou.com
+- +.koowo.cn
+- +.koowo.com
+- +.kuwo.cn
 - +.le.com
 - +.lecloud.com
 - +.lemall.com
@@ -250,4 +266,5 @@ payload:
 - +.lsplayer.com
 - +.yeshen.com
 - +.ledu.com
+- +.pearvideo.com
 - +.wo1wan.com

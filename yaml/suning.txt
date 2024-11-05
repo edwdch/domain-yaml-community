@@ -1,5 +1,6 @@
 payload:
 - +.cnsuning.com
+- +.suning.cn
 - +.suning.com
 - +.suningcloud.com
 - +.suningestate.com

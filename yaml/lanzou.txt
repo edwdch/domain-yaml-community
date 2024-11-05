@@ -2,6 +2,7 @@ payload:
 - +.baidupan.com
 - +.ilanzou.com
 - +.lanosso.com
+- +.lanrar.com
 - +.lanzou.com
 - +.lanzoub.com
 - +.lanzouc.com

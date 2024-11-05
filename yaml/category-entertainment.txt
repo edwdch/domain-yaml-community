@@ -566,6 +566,7 @@ payload:
 - videos-rockstargames-com.akamaized.net
 - +.playartifact.com
 - +.s.team
+- +.steam.tv
 - +.steam-api.com
 - +.steam-chat.com
 - +.steamcommunity.com

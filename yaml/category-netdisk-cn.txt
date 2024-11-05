@@ -1,18 +1,24 @@
 payload:
-- +.123pan.com
 - +.cloud.189.cn
 - +.ctfile.com
 - +.feimaoyun.com
+- +.filez.com
+- +.jianguoyun.com
 - +.pan.baidu.com
 - +.pan.quark.cn
+- +.pan.xunlei.com
 - +.weiyun.com
 - +.yun.139.com
 - +.yunpan.com
+- +.123pan.cn
+- +.123pan.com
+- +.alipan.com
 - +.aliyundrive.com
 - +.yunpan.aliyun.com
 - +.baidupan.com
 - +.ilanzou.com
 - +.lanosso.com
+- +.lanrar.com
 - +.lanzou.com
 - +.lanzoub.com
 - +.lanzouc.com

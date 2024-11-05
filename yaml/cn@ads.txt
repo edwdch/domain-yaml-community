@@ -10,6 +10,12 @@ payload:
 - +.stat.m.jd.com
 - +.img-x.jd.com
 - apilog-web.acfun.cn
+- +.click.hunantv.com
+- +.da.hunantv.com
+- +.da.mgtv.com
+- +.log.hunantv.com
+- +.log.v2.hunantv.com
+- +.res.hunantv.com
 - +.a.ckm.iqiyi.com
 - +.ad.m.iqiyi.com
 - +.afp.iqiyi.com

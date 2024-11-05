@@ -245,6 +245,7 @@ payload:
 - +.jb.gg
 - +.grazie.ai
 - +.grazie.aws.intellij.net
+- +.jetbrains.ai
 - +.jfrog.com
 - +.jfrog.org
 - +.bintray.com
