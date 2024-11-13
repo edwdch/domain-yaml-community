@@ -1273,6 +1273,7 @@ payload:
 - +.icloud-apple.cn
 - +.icloud-content.com
 - +.icloud-isupport.com
+- +.icloud-sandbox.com
 - +.icloud.ch
 - +.icloud.com
 - +.icloud.com.cn
@@ -6413,6 +6414,7 @@ payload:
 - cn.download.nvidia.com
 - +.ai.com
 - +.chatgpt.com
+- +.chat.com
 - +.oaistatic.com
 - +.oaiusercontent.com
 - +.openai.com
