@@ -6,5 +6,8 @@ payload:
 - +.sunlogin.net
 - +.todesk.com
 - +.tower.im
+- +.tritoninfo.net
+- +.xiumi.us
+- +.xiumius.com
 - +.shimo.im
 - +.yuque.com

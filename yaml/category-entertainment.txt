@@ -288,6 +288,7 @@ payload:
 - +.easyanticheat.net
 - +.epicgames.com
 - +.epicgames.dev
+- +.epicgamescdn.com
 - +.fortnite.com
 - +.paragon.com
 - +.playparagon.com
@@ -564,6 +565,8 @@ payload:
 - gamedownloads-rockstargames-com.akamaized.net
 - media-rockstargames-com.akamaized.net
 - videos-rockstargames-com.akamaized.net
+- +.snk-corp.co.jp
+- +.snkplaymore.info
 - +.playartifact.com
 - +.s.team
 - +.steam.tv
@@ -614,6 +617,9 @@ payload:
 - xz.pphimalayanrt.com
 - +.steamchina.com
 - +.steamunlocked.net
+- +.supercell.com
+- +.supercell.net
+- +.supercell.helpshift.com
 - +.battlecare.net
 - +.gameitop.com
 - +.gameloop.com
@@ -1224,13 +1230,17 @@ payload:
 - +.musical.ly
 - +.tik-tokapi.com
 - +.tiktok.com
+- +.tiktokcdn-eu.com
 - +.tiktokcdn-us.com
 - +.tiktokcdn.com
 - +.tiktokd.net
 - +.tiktokd.org
 - +.tiktokv.com
+- +.tiktokv.eu
 - +.tiktokv.us
+- +.tiktokw.eu
 - +.tiktokw.us
+- +.ttlivecdn.com
 - +.ttwstatic.com
 - p16-tiktokcdn-com.akamaized.net
 - +.themoviedb.org

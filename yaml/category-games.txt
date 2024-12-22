@@ -220,6 +220,7 @@ payload:
 - +.easyanticheat.net
 - +.epicgames.com
 - +.epicgames.dev
+- +.epicgamescdn.com
 - +.fortnite.com
 - +.paragon.com
 - +.playparagon.com
@@ -496,6 +497,8 @@ payload:
 - gamedownloads-rockstargames-com.akamaized.net
 - media-rockstargames-com.akamaized.net
 - videos-rockstargames-com.akamaized.net
+- +.snk-corp.co.jp
+- +.snkplaymore.info
 - +.playartifact.com
 - +.s.team
 - +.steam.tv
@@ -546,6 +549,9 @@ payload:
 - xz.pphimalayanrt.com
 - +.steamchina.com
 - +.steamunlocked.net
+- +.supercell.com
+- +.supercell.net
+- +.supercell.helpshift.com
 - +.battlecare.net
 - +.gameitop.com
 - +.gameloop.com

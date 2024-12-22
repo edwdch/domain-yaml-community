@@ -5,6 +5,7 @@ payload:
 - +.aty.sohu.com
 - +.data.vod.itc.cn
 - +.epro.sogou.com
+- +.fpb.sohu.com
 - +.go.sohu.com
 - +.golden1.sogou.com
 - +.imp.optaim.com
@@ -12,6 +13,8 @@ payload:
 - +.inte.sogoucdn.com
 - +.lu.sogoucdn.com
 - +.pv.sohu.com
+- +.qpb.sohu.com
+- +.qpb1.sohu.com
 - +.theta.sogoucdn.com
 - +.track.sohu.com
 - +.uranus.sogou.com

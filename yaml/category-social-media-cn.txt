@@ -86,7 +86,11 @@ payload:
 - +.woocall.sina.com.cn
 - +.zymo.mps.weibo.com
 - +.97973.com
+- +.hk.weibo.com
+- +.my.weibo.com
+- +.overseas.weibo.com
 - +.picself.cn
+- +.sg.weibo.com
 - +.sina.cn
 - +.sina.com
 - +.sina.com.cn
@@ -98,6 +102,9 @@ payload:
 - +.sinajs.cn
 - +.sinajs.com
 - +.t.cn
+- +.th.weibo.com
+- +.tw.weibo.com
+- +.us.weibo.com
 - +.videoself.cn
 - +.wbimg.com
 - +.wbimg.cn

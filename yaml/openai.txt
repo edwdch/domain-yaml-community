@@ -13,3 +13,7 @@ payload:
 - production-openaicom-storage.azureedge.net
 - o33249.ingest.sentry.io
 - openaicom.imgix.net
+- browser-intake-datadoghq.com
+- +.chatgpt.livekit.cloud
+- +.host.livekit.cloud
+- +.turn.livekit.cloud

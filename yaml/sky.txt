@@ -1,6 +1,7 @@
 payload:
 - +.sky.com
 - +.skyassets.com
+- +.skymansion.net
 - +.skyoceanrescue.com
 - +.skyoceanrescue.de
 - +.skyoceanrescue.it
@@ -9,3 +10,4 @@ payload:
 - +.skysports.ie
 - +.skysportsonline.com
 - +.skysportsracing.com
+- +.cn-cdn1.skymansion.net

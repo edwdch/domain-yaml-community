@@ -292,6 +292,7 @@ payload:
 - +.zz.bdstatic.com
 - +.zzy1.quyaoya.com
 - +.bds.snssdk.com
+- +.byteadverts.com
 - +.ctobsnssdk.com
 - +.dig.bdurl.net
 - +.extlog.snssdk.com
@@ -412,6 +413,11 @@ payload:
 - +.jzt.jd.com
 - +.stat.m.jd.com
 - +.img-x.jd.com
+- +.adbkwai.com
+- +.adkwai.com
+- +.adukwai.com
+- +.e.kuaishou.cn
+- +.e.kuaishou.com
 - log-sdk.gifshow.com
 - wlog.kuaishou.com
 - +.ads.service.kugou.com
@@ -434,10 +440,18 @@ payload:
 - +.decide.mixpanel.com
 - +.mopub.com
 - +.evt.mxplay.com
+- +.a.youdao.com
+- +.admusicpic.music.126.net
+- +.ads.music.126.net
 - +.analytics.163.com
 - +.crash.163.com
 - +.crashlytics.163.com
 - +.g.163.com
+- +.iadmat.nosdn.127.net
+- +.iadmatapk.nosdn.127.net
+- +.iadmusicmat.music.126.net
+- +.iadmusicmatvideo.music.126.net
+- +.sentry.music.163.com
 - +.js-agent.newrelic.com
 - +.ogury.com
 - +.presage.io
@@ -538,6 +552,7 @@ payload:
 - +.aty.sohu.com
 - +.data.vod.itc.cn
 - +.epro.sogou.com
+- +.fpb.sohu.com
 - +.go.sohu.com
 - +.golden1.sogou.com
 - +.imp.optaim.com
@@ -545,6 +560,8 @@ payload:
 - +.inte.sogoucdn.com
 - +.lu.sogoucdn.com
 - +.pv.sohu.com
+- +.qpb.sohu.com
+- +.qpb1.sohu.com
 - +.theta.sogoucdn.com
 - +.track.sohu.com
 - +.uranus.sogou.com
@@ -749,3 +766,4 @@ payload:
 - +.telecome.cn
 - +.unioncom.cc
 - +.shuzilm.cn
+- +.zxid-api.mobileservice.cn

@@ -187,12 +187,15 @@ payload:
 - +.timatrix.com.cn
 - +.timmerse.com
 - +.tlivecdn.com
+- +.tlivepush.com
+- +.tlivesource.com
 - +.tourismshow.cn
 - +.tourismuser.cn
 - +.tsparkling.com
 - +.tx-exhibition.com
 - +.txbyod.com
 - +.txidc.wang
+- +.txlivecdn.com
 - +.txtyxg.com
 - +.txyscdn.com
 - +.txyscdn.net
@@ -395,8 +398,8 @@ payload:
 - +.xxsy.net
 - +.qq.xn--fiqs8s
 - +.xn--r70as2s.xn--fiqs8s
+- +.acimg.cn
 - +.apcdns.net
-- +.cdn-go.cn
 - +.foxmail.com
 - +.foxmail.com.cn
 - +.gtimg.cn
@@ -425,8 +428,6 @@ payload:
 - +.tencentmusic.com
 - +.tenpay.com
 - +.tfogc.com
-- +.tlivepush.com
-- +.txlivecdn.com
 - +.wechat.com
 - +.wechatpay.cn
 - +.weiyun.com

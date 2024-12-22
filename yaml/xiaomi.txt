@@ -17,6 +17,7 @@ payload:
 - +.mi-img.com
 - +.mi.com
 - +.mifile.cn
+- +.migames.com
 - +.mijia.tech
 - +.miui.com
 - +.miwifi.com
@@ -26,5 +27,9 @@ payload:
 - +.xiaomiev.com
 - +.xiaomimobile.com
 - +.xiaomixiaoai.com
+- +.duokan.com
 - +.xiaomiyoupin.com
+- +.zmifi.com
 - +.saxyit.com
+- +.c.mi.com
+- +.global.market.xiaomi.com

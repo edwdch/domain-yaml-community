@@ -6,6 +6,7 @@ payload:
 - +.chaoxing.com
 - +.chaoxingv.com
 - +.cxbiji.com
+- +.dayainfo.com
 - +.hongbo100.com
 - +.lnlib.net
 - +.mndqlib.net
