@@ -2784,6 +2784,14 @@ payload:
 - +.byapis.com
 - +.bycbe.com
 - +.bymj.io
+- +.byabcde.com
+- +.byapps.net
+- +.byd3c3.com
+- +.bybit.biz
+- +.bybdc6.com
+- +.bybit-global.com
+- +.bybit.cloud
+- +.bybitglobal.com
 - bybit-exchange.github.io
 - bybit.ada.support
 - +.coinone.co.kr
@@ -2834,6 +2842,11 @@ payload:
 - +.zb.live
 - +.kucoin.com
 - +.kucoin.plus
+- +.redotpay.com
+- +.redotpay.zendesk.com
+- +.pod-15-sunco-ws.zendesk.com
+- +.xhpjc6-cdn-settings.appsflyersdk.com
+- +.rp-static-apne1.s3.ap-northeast-1.amazonaws.com
 - +.1inch.io
 - +.aave.com
 - +.bitbank.cc
@@ -11172,6 +11185,7 @@ payload:
 - +.spotifycodes.com
 - +.spotifyforbrands.com
 - +.spotifyjobs.com
+- +.spotify.link
 - audio-ak-spotify-com.akamaized.net
 - audio4-ak-spotify-com.akamaized.net
 - cdn-spotify-experiments.conductrics.com

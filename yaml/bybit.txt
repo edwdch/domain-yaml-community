@@ -5,5 +5,13 @@ payload:
 - +.byapis.com
 - +.bycbe.com
 - +.bymj.io
+- +.byabcde.com
+- +.byapps.net
+- +.byd3c3.com
+- +.bybit.biz
+- +.bybdc6.com
+- +.bybit-global.com
+- +.bybit.cloud
+- +.bybitglobal.com
 - bybit-exchange.github.io
 - bybit.ada.support
