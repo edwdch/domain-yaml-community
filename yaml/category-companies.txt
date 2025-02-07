@@ -4500,6 +4500,7 @@ payload:
 - qiao-cn.com
 - +.gvt1-cn.com
 - +.gvt2-cn.com
+- +.groq.com
 - +.first-ns.de
 - +.hetzner.cloud
 - +.hetzner.com

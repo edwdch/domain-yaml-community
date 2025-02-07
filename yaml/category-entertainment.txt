@@ -63,6 +63,9 @@ payload:
 - gamer-cds.cdn.hinet.net
 - +.bandcamp.com
 - +.bcbits.com
+- +.bangumi.tv
+- +.bgm.tv
+- +.chii.in
 - +.boomerang.com
 - +.wbdnbo.net
 - +.catchplay.com
@@ -1236,12 +1239,15 @@ payload:
 - +.tiktokcdn.com
 - +.tiktokd.net
 - +.tiktokd.org
+- +.tiktokeu-cdn.com
+- +.tiktokrow-cdn.com
 - +.tiktokv.com
 - +.tiktokv.eu
 - +.tiktokv.us
 - +.tiktokw.eu
 - +.tiktokw.us
 - +.ttlivecdn.com
+- +.ttoverseaus.net
 - +.ttwstatic.com
 - p16-tiktokcdn-com.akamaized.net
 - +.themoviedb.org
