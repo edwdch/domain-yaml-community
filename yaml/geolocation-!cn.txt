@@ -17,7 +17,6 @@ payload:
 - +.bard.google.com
 - +.gemini.google.com
 - +.groq.com
-- +.ai.com
 - +.chatgpt.com
 - +.chat.com
 - +.oaistatic.com
@@ -27652,7 +27651,6 @@ payload:
 - +.tegrazone.kr
 - nvidia.tt.omtrdc.net
 - cn.download.nvidia.com
-- +.ai.com
 - +.chatgpt.com
 - +.chat.com
 - +.oaistatic.com
