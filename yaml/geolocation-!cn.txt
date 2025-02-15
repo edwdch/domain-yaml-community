@@ -2818,6 +2818,8 @@ payload:
 - +.huobiasia.vip
 - +.huobigroup.com
 - +.huobitoken.com
+- +.kraken.com
+- +.kraken.onl
 - +.localbitcoins.com
 - +.localbitcoinschain.com
 - +.okex.com
@@ -2885,7 +2887,6 @@ payload:
 - +.mexc.com
 - +.mexcsensors.com
 - +.mytokenapi.com
-- +.kraken.com
 - +.opensea.io
 - +.osl.com
 - +.paxful.com
@@ -20269,6 +20270,9 @@ payload:
 - +.fflogs.com
 - +.rpglogs.com
 - +.rpglogs.cn
+- +.thetrackernetwork.com
+- +.tracker.gg
+- +.tracker.network
 - +.bluestacks.com
 - +.lsplayer.com
 - +.yeshen.com

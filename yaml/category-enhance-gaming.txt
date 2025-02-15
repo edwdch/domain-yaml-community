@@ -4,6 +4,9 @@ payload:
 - +.fflogs.com
 - +.rpglogs.com
 - +.rpglogs.cn
+- +.thetrackernetwork.com
+- +.tracker.gg
+- +.tracker.network
 - +.bluestacks.com
 - +.lsplayer.com
 - +.yeshen.com
