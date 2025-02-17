@@ -27539,6 +27539,11 @@ payload:
 - +.push.services.mozilla.com
 - +.musixmatch.com
 - +.mxmcdn.net
+- +.mxlogin.com
+- +.mxroute.com
+- +.mxroutedocs.com
+- +.mxroutehelp.com
+- +.mxrouting.net
 - +.gcld-line.com
 - +.lin.ee
 - +.line-apps-beta.com
