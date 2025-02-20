@@ -2699,6 +2699,7 @@ payload:
 - +.hentaitokyo.com
 - +.hentaitube.online
 - +.hentaivideos.net
+- +.hentaivox.com
 - +.hentaivvz.com
 - +.hentaiworld.eu
 - +.hentaiworld.tv
