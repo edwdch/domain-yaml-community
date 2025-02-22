@@ -37,6 +37,7 @@ payload:
 - +.perplexity.ai
 - +.poe.com
 - +.poecdn.net
+- +.grok.com
 - +.x.ai
 - +.cursor-cdn.com
 - +.cursor.com
@@ -2682,7 +2683,9 @@ payload:
 - +.linetv.tw
 - +.nhncorp.jp
 - +.arewereadyyet.com
+- +.cinny.in
 - +.element.io
+- +.fluffychat.im
 - +.matrix.org
 - +.matrix.to
 - +.modular.im
@@ -2822,6 +2825,8 @@ payload:
 - +.kraken.onl
 - +.localbitcoins.com
 - +.localbitcoinschain.com
+- +.nexo.com
+- +.nexo.io
 - +.okex.com
 - +.okx.com
 - +.okx-dns.com
@@ -11126,10 +11131,12 @@ payload:
 - +.ads-pixiv.net
 - +.booth.pm
 - +.fanbox.cc
+- +.pixiv.co.jp
+- +.pixiv.help
+- +.pixiv.me
 - +.pixiv.net
 - +.pixiv.org
-- +.pixiv.co.jp
-- +.pixiv.me
+- +.pixiv-recommend.net
 - +.pximg.net
 - +.pluto.tv
 - +.plutotv.net
@@ -24529,6 +24536,7 @@ payload:
 - +.drweb.com
 - +.drweb.fr
 - +.drweb.kz
+- +.drweb.ru
 - +.drweb.uz
 - +.drweb-av.de
 - +.drweb-av.es
@@ -28452,6 +28460,7 @@ payload:
 - +.yandex.uz
 - +.yandexcloud.net
 - +.yastatic.net
+- +.grok.com
 - +.x.ai
 - +.teamviewer.cn
 - +.teamviewer.com

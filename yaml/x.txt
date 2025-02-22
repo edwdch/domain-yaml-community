@@ -23,4 +23,5 @@ payload:
 - +.twvid.com
 - +.vine.co
 - +.x.com
+- +.grok.com
 - +.x.ai

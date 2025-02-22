@@ -82,6 +82,8 @@ payload:
 - +.kraken.onl
 - +.localbitcoins.com
 - +.localbitcoinschain.com
+- +.nexo.com
+- +.nexo.io
 - +.okex.com
 - +.okx.com
 - +.okx-dns.com

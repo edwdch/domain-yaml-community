@@ -37,6 +37,7 @@ payload:
 - +.perplexity.ai
 - +.poe.com
 - +.poecdn.net
+- +.grok.com
 - +.x.ai
 - +.cursor-cdn.com
 - +.cursor.com

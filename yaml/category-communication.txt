@@ -58,7 +58,9 @@ payload:
 - +.linetv.tw
 - +.nhncorp.jp
 - +.arewereadyyet.com
+- +.cinny.in
 - +.element.io
+- +.fluffychat.im
 - +.matrix.org
 - +.matrix.to
 - +.modular.im
