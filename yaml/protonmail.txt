@@ -4,3 +4,7 @@ payload:
 - +.protonmail.ch
 - +.protonmail.com
 - +.protonstatus.com
+- +.protontech.ch
+- +.protonvpn.ch
+- +.protonvpn.com
+- +.protonweb.com

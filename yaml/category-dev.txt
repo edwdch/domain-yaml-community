@@ -196,6 +196,8 @@ payload:
 - +.thegithubshop.com
 - +.blob.core.windows.net
 - github-cloud.s3.amazonaws.com
+- +.github1s.com
+- +.sourcegraph.com
 - +.gitlab.com
 - +.gitlab.io
 - +.gitlab.net
@@ -387,8 +389,13 @@ payload:
 - +.stackoverflow.co
 - +.stackoverflow.com
 - +.stackoverflow.email
+- +.stackoverflow.help
+- +.stackoverflow.net
 - +.stackoverflowbusiness.com
 - +.stackoverflowcareers.com
+- +.stackoverflowjobs.com
+- +.stackoverflowsolutions.com
+- +.stackoverflowteams.com
 - +.stacksnippets.net
 - +.superuser.com
 - +.tex-talk.net
@@ -431,6 +438,7 @@ payload:
 - +.xda-cdn.com
 - +.xda-developers.com
 - +.xdaforums.com
+- +.xdaimages.com
 - +.adventofcode.com
 - +.alpinelinux.org
 - +.apache.org

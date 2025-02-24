@@ -62,6 +62,7 @@ payload:
 - +.hr-welink.com
 - +.idcgcloudcs.com
 - +.iemiq.com
+- +.igtm-meeting-tencent.com
 - +.igtm.pub
 - +.intltencentcos.com
 - +.isd.com

@@ -20,3 +20,4 @@ payload:
 - +.cmfchina.com
 - +.cmfunds.cn
 - +.test-cignacmb.com
+- +.joying.com

@@ -300,6 +300,9 @@ payload:
 - +.spyjinx.com
 - +.unrealengine.com
 - +.unrealtournament.com
+- +.tarkov.com
+- +.eft-store.com
+- +.escapefromtarkov.com
 - avatargarenanow-a.akamaihd.net
 - cdngarenanow-a.akamaihd.net
 - dlgarenanow-a.akamaihd.net
@@ -619,6 +622,7 @@ payload:
 - +.steamstatic.com.8686c.com
 - xz.pphimalayanrt.com
 - +.steamchina.com
+- +.gstore.val.manlaxy.com
 - +.steamunlocked.net
 - +.supercell.com
 - +.supercell.net
@@ -1158,6 +1162,7 @@ payload:
 - +.pixiv.net
 - +.pixiv.org
 - +.pixiv-recommend.net
+- +.pixivision.net
 - +.pximg.net
 - +.pluto.tv
 - +.plutotv.net

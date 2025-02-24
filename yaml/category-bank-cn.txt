@@ -70,6 +70,7 @@ payload:
 - +.cmfchina.com
 - +.cmfunds.cn
 - +.test-cignacmb.com
+- +.joying.com
 - +.hsbc.com.cn
 - +.hsbcqh.com.cn
 - +.hsbcinsurance.com.cn

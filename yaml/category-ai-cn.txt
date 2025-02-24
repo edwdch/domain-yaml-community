@@ -1,4 +1,5 @@
 payload:
+- +.deepseek.com
 - +.rwkv.cn
 - +.rwkv.com
 - +.tongyi.aliyun.com
@@ -18,3 +19,5 @@ payload:
 - +.baichuan-ai.com
 - +.botvip.cn
 - +.liblib.art
+- +.cueme.cn
+- cueme-api.quark.cn

@@ -6,9 +6,12 @@ payload:
 - +.adguard.org
 - +.adtidy.net
 - +.adtidy.org
+- +.agrd.eu
 - +.agrd.io
 - +.adguard-dns.com
 - +.adguard-dns.io
+- +.adguard-mail.com
+- +.mask.me
 - +.adguardvpn.com
 - +.adguard-vpn.com
 - +.adguard-vpn.online

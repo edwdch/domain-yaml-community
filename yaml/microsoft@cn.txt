@@ -82,6 +82,7 @@ payload:
 - +.microsoftonline-p.cn
 - +.microsoftonline-p.net.cn
 - +.microsoftonline.cn
+- +.microsoftstore.com.cn
 - +.microsofttranslator-int.cn
 - +.msauth.cn
 - +.msauthimages.cn
@@ -93,6 +94,7 @@ payload:
 - +.o365files.cn
 - +.office365-net.cn
 - +.office365.cn
+- +.officeplus.cn
 - +.officewebapps.cn
 - +.onmschina.cn
 - +.outlook.cn

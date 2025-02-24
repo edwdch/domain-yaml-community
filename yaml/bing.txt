@@ -12,6 +12,7 @@ payload:
 - +.bingvisualsearch.com
 - +.bingworld.com
 - +.bluehatnights.com
+- +.copilot.microsoft.com
 - +.dictate.ms
 - +.flipwithsurface.com
 - +.masalladeloslimites.com

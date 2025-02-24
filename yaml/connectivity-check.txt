@@ -5,6 +5,8 @@ payload:
 - +.cp.cloudflare.com
 - +.network-test.debian.org
 - +.detectportal.firefox.com
+- connectivitycheck.platform.hihonorcloud.com
+- connectivitycheck.platform.hicloud.com
 - +.networkcheck.kde.org
 - connect.rom.miui.com
 - +.msftconnecttest.com

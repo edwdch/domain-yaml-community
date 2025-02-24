@@ -227,6 +227,7 @@ payload:
 - +.alimama.com
 - +.alimebot.com
 - +.alimei.com
+- +.alimmdn.com
 - +.alios.cn
 - +.alipay.cn
 - +.alipay.com
@@ -333,11 +334,13 @@ payload:
 - +.taopiaopiao.com
 - +.tb.cn
 - +.tbcache.com
+- +.tbcdn.cn
 - +.tburl.in
 - +.tmall.com
 - +.tmall.ru
 - +.tmalltv.com
 - +.tmjl.ai
+- +.cueme.cn
 - +.quark.cn
 - +.alitrip.com
 - +.feizhu.cn

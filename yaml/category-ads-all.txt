@@ -753,6 +753,7 @@ payload:
 - +.tsyndicate.com
 - +.wwads.cn
 - +.adx.36kr.com
+- +.ad.12306.cn
 - +.hubcloud.com.cn
 - +.beizi.biz
 - +.click.ali213.net
@@ -765,5 +766,8 @@ payload:
 - +.das-rpt-log.ucloud.cn
 - +.telecome.cn
 - +.unioncom.cc
+- +.yfanads.cn
+- +.yfanads.com
 - +.shuzilm.cn
 - +.zxid-api.mobileservice.cn
+- +.zxid-m.mobileservice.cn

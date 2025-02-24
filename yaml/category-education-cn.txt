@@ -15,6 +15,9 @@ payload:
 - +.17zuoye.net
 - +.applysquare.com
 - +.applysquare.net
+- +.hugecore.net
+- +.shareintelli.com
+- +.mojidict.com
 - +.cctalk.com
 - +.hjapi.com
 - +.hjfile.cn

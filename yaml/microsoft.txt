@@ -121,6 +121,7 @@ payload:
 - +.bingvisualsearch.com
 - +.bingworld.com
 - +.bluehatnights.com
+- +.copilot.microsoft.com
 - +.dictate.ms
 - +.flipwithsurface.com
 - +.masalladeloslimites.com
@@ -366,6 +367,7 @@ payload:
 - +.boswp.com
 - +.brazilpartneruniversity.com
 - +.breakdown.me
+- +.c-msedge.net
 - +.centralvalidation.com
 - +.ch9.ms
 - +.charticulator.com
@@ -399,18 +401,19 @@ payload:
 - +.hotmail.net
 - +.hotmail.org
 - +.hummingbird.ms
-- +.ie8.co
-- +.ie9.com
 - +.ie10.com
 - +.ie11.com
-- +.internetexplorer.co
-- +.internetexplorer.com
+- +.ie8.co
+- +.ie9.com
 - +.imaginecup.pl
 - +.ingads.com
+- +.internetexplorer.co
+- +.internetexplorer.com
 - +.intunewiki.com
 - +.iotinactionevents.com
 - +.kidgrid.tv
 - +.kumo.com
+- +.l-msedge.net
 - +.latampartneruniversity.com
 - +.live.com
 - +.live.com.au
@@ -423,6 +426,7 @@ payload:
 - +.meetfasttrack.com
 - +.meetyourdevices.com
 - +.mepn.com
+- +.microsoftedgeinsider.com
 - +.microsoft-falcon.io
 - +.microsoft-int.com
 - +.microsoft-ppe.com
@@ -459,6 +463,7 @@ payload:
 - +.microsoftready.com
 - +.microsoftsiteselection.com
 - +.microsoftstore.com
+- +.microsoftstore.com.cn
 - +.microsoftstore.com.hk
 - +.microsoftstream.com
 - +.microsoftteams.com
@@ -483,7 +488,9 @@ payload:
 - +.msftauth.cn
 - +.msftauth.net
 - +.msftauthimages.cn
+- +.msftconnecttest.com
 - +.msfteducation.ca
+- +.msftncsi.com
 - +.msftnet.org
 - +.msgamesresearch.com
 - +.msocdn.com
@@ -492,6 +499,7 @@ payload:
 - +.msturing.org
 - +.msudalosti.com
 - +.mymicrosoft.com
+- +.nelreports.net
 - +.nextechafrica.net
 - +.nxta.org
 - +.o365cn.com
@@ -504,6 +512,7 @@ payload:
 - +.office365-net.cn
 - +.office365.cn
 - +.office365.com
+- +.officeplus.cn
 - +.officewebapps.cn
 - +.onenote.com
 - +.onenote.net
@@ -543,6 +552,7 @@ payload:
 - +.skype.net
 - +.skypeassets.com
 - +.skypeassets.net
+- +.spo-msedge.net
 - +.staffhub.ms
 - +.successwithteams.com
 - +.surface.com
@@ -550,6 +560,7 @@ payload:
 - +.sway-cdn.com
 - +.sway.com
 - +.sysinternals.com
+- +.t-msedge.net
 - +.tailwindtraders.com
 - +.techhub.ms
 - +.tfsallin.net
@@ -576,7 +587,6 @@ payload:
 - +.winhec.com
 - +.winhec.net
 - +.yammer.com
-- +.edge-skype-com.s-0001.s-msedge.net
 - +.skype-edf.akadns.net
 - +.skypedata.akadns.net
 - +.dl.delivery.mp.microsoft.com

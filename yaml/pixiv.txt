@@ -8,4 +8,5 @@ payload:
 - +.pixiv.net
 - +.pixiv.org
 - +.pixiv-recommend.net
+- +.pixivision.net
 - +.pximg.net

@@ -56,6 +56,14 @@ payload:
 - +.redditstatic.com
 - +.redditstatus.com
 - reddit.map.fastly.net
+- +.maintracker.org
+- +.rutracker.cc
+- +.rutracker.cr
+- +.rutracker.me
+- +.rutracker.nl
+- +.rutracker.org
+- +.rutrecker.net
+- +.rutrk.org
 - +.yamibo.com
 - +.18p2p.com
 - +.avsforum.com

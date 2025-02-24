@@ -57,6 +57,7 @@ payload:
 - +.steamstatic.com.8686c.com
 - xz.pphimalayanrt.com
 - +.steamchina.com
+- +.gstore.val.manlaxy.com
 - +.battlecare.net
 - +.gameitop.com
 - +.gameloop.com

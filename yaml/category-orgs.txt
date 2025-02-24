@@ -74,6 +74,14 @@ payload:
 - +.signalprocessingsociety.org
 - +.technologyandsociety.org
 - +.vtsociety.org
+- +.acousticbrainz.org
+- +.bookbrainz.org
+- +.coverartarchive.org
+- +.critiquebrainz.org
+- +.listenbrainz.org
+- +.messybrainz.org
+- +.metabrainz.org
+- +.musicbrainz.org
 - +.nist.gov
 - +.time.gov
 - +.openmaps.org

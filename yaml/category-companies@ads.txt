@@ -59,6 +59,7 @@ payload:
 - +.graph-fallback.instagram.com
 - +.graph.whatsapp.com
 - +.graph.whatsapp.net
+- +.nelreports.net
 - o33249.ingest.sentry.io
 - openaicom.imgix.net
 - browser-intake-datadoghq.com
