@@ -25,6 +25,10 @@ payload:
 - +.nwcdinfosec.cn
 - +.route53.cn
 - +.sagemaker.com.cn
+- +.amzndns-cn.biz
+- +.amzndns-cn.cn
+- +.amzndns-cn.com
+- +.amzndns-cn.net
 - +.acmvalidations.com
 - +.acmvalidationsaws.com
 - +.aesworkshops.com
@@ -62,6 +66,10 @@ payload:
 - +.containersonaws.com
 - +.elasticbeanstalk.com
 - +.thinkboxsoftware.com
+- +.amzndns.co.uk
+- +.amzndns.com
+- +.amzndns.net
+- +.amzndns.org
 - +.boxofficemojo.com
 - +.imdb.com
 - +.imdb.to

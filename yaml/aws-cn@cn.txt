@@ -20,3 +20,7 @@ payload:
 - +.nwcdinfosec.cn
 - +.route53.cn
 - +.sagemaker.com.cn
+- +.amzndns-cn.biz
+- +.amzndns-cn.cn
+- +.amzndns-cn.com
+- +.amzndns-cn.net

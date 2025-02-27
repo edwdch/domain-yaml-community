@@ -758,6 +758,16 @@ payload:
 - +.beizi.biz
 - +.click.ali213.net
 - +.pbmp.ali213.net
+- pinggai0.caixin.com
+- pinggai1.caixin.com
+- pinggai2.caixin.com
+- pinggai3.caixin.com
+- pinggai4.caixin.com
+- pinggai5.caixin.com
+- pinggai6.caixin.com
+- pinggai7.caixin.com
+- pinggai8.caixin.com
+- pinggai9.caixin.com
 - +.adq.chinaso.com
 - +.stat.chinaso.com
 - +.toboads.com
