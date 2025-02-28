@@ -360,6 +360,8 @@ payload:
 - +.shenyunperformingarts.org
 - +.forbes.com
 - +.forbesimg.com
+- +.tubi.io
+- +.tubitv.com
 - +.fox-corporation.com
 - +.fox-news.com
 - +.fox.com

@@ -1,4 +1,6 @@
 payload:
+- +.tubi.io
+- +.tubitv.com
 - +.fox-corporation.com
 - +.fox-news.com
 - +.fox.com
