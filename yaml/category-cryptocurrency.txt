@@ -134,6 +134,7 @@ payload:
 - +.coinmarketcap.com
 - +.crypto.com
 - +.cryptocompare.com
+- +.cryptomus.com
 - +.curve.fi
 - +.cyberx.com
 - +.debank.com

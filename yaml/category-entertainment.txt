@@ -624,6 +624,7 @@ payload:
 - +.steamchina.com
 - +.gstore.val.manlaxy.com
 - +.steamunlocked.net
+- +.brawlstarsgame.com
 - +.supercell.com
 - +.supercell.net
 - +.supercell.helpshift.com

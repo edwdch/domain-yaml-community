@@ -2877,6 +2877,7 @@ payload:
 - +.coinmarketcap.com
 - +.crypto.com
 - +.cryptocompare.com
+- +.cryptomus.com
 - +.curve.fi
 - +.cyberx.com
 - +.debank.com
@@ -10603,6 +10604,7 @@ payload:
 - +.steamchina.com
 - +.gstore.val.manlaxy.com
 - +.steamunlocked.net
+- +.brawlstarsgame.com
 - +.supercell.com
 - +.supercell.net
 - +.supercell.helpshift.com
