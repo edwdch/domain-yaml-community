@@ -27520,6 +27520,7 @@ payload:
 - +.microsoftonline.cn
 - +.microsoftonline.com
 - +.microsoftpartnercommunity.com
+- +.microsoftpersonalcontent.com
 - +.microsoftready.com
 - +.microsoftsiteselection.com
 - +.microsoftstore.com
