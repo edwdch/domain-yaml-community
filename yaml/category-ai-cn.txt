@@ -4,6 +4,8 @@ payload:
 - +.rwkv.com
 - +.tongyi.aliyun.com
 - +.qianwen.aliyun.com
+- +.qwen.ai
+- +.qwenlm.ai
 - +.yiyan.baidu.com
 - +.tiangong.cn
 - +.doubao.com
