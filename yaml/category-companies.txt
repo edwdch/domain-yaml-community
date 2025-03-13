@@ -6623,6 +6623,8 @@ payload:
 - +.pccwsolutions.com
 - +.moov.hk
 - +.perplexity.ai
+- +.pplx.ai
+- pplx-res.cloudinary.com
 - +.myqnapcloud.com
 - +.qlink.to
 - +.qnap.com

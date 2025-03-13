@@ -1,2 +1,4 @@
 payload:
 - +.perplexity.ai
+- +.pplx.ai
+- pplx-res.cloudinary.com
