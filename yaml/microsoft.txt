@@ -64,6 +64,7 @@ payload:
 - +.b3itech.cn
 - +.blueaggrestore.com
 - +.bluecloudprod.com
+- +.botframework.com
 - +.cegid-cloud.cn
 - +.chinacloud-mobile.cn
 - +.chinacloudapi.cn

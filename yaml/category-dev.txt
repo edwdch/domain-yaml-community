@@ -516,4 +516,3 @@ payload:
 - +.xposed.info
 - +.yarnpkg.com
 - +.zsh.org
-- +.huggingface.co

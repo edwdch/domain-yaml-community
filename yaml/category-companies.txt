@@ -265,6 +265,7 @@ payload:
 - +.pdf.new
 - +.sign.new
 - +.scene7.com
+- +.adobestats.io
 - +.alibabacloud.co.in
 - +.alibabacloud.com
 - +.alibabacloud.com.au
@@ -3226,6 +3227,8 @@ payload:
 - +.tailf.com
 - cisco.evergage.com
 - ciscolivehls-i.akamaihd.net
+- +.umbrella.com
+- +.opendns.com
 - +.clco.cc
 - +.cloudc.one
 - +.cloudcone.com
@@ -4361,6 +4364,7 @@ payload:
 - +.zukunftswerkstatt.de
 - google-ohttp-relay-safebrowsing.fastly-edge.com
 - www.recaptcha.net
+- safebrowsing-cache.google.com
 - 265.com
 - 2mdn-cn.net
 - 2mdn.net
@@ -5741,6 +5745,7 @@ payload:
 - +.b3itech.cn
 - +.blueaggrestore.com
 - +.bluecloudprod.com
+- +.botframework.com
 - +.cegid-cloud.cn
 - +.chinacloud-mobile.cn
 - +.chinacloudapi.cn
@@ -6477,10 +6482,15 @@ payload:
 - +.naverlabs.com
 - +.plug.game
 - +.prismlive.com
+- +.bestsrv.de
 - +.customercontrolpanel.de
 - +.dnsserver1.de
 - +.dnsserver2.de
+- +.goodsrv.de
+- +.happysrv.de
+- +.hotsrv.de
 - +.luckysrv.de
+- +.megasrv.de
 - +.netcup.cafe
 - +.netcup.com
 - +.netcup.de
@@ -6489,8 +6499,12 @@ payload:
 - +.netcup-news.de
 - +.netcup-sonderangebote.de
 - +.netcup-wiki.de
+- +.nicesrv.de
+- +.powersrv.de
+- +.quicksrv.de
 - +.servercontrolpanel.de
 - +.supersrv.de
+- +.ultrasrv.de
 - +.yourvserver.net
 - +.neuralink.com
 - +.geforce.cn

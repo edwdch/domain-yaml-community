@@ -5,6 +5,9 @@ payload:
 - +.apifox.com
 - +.apipost.cn
 - +.apipost.net
+- +.baltamatica.cn
+- +.baltamatica.net
+- +.baltamatica.org.cn
 - +.baltamatica.com
 - +.blogjava.net
 - +.cnblogs.com

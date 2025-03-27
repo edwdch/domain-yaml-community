@@ -51,6 +51,11 @@ payload:
 - +.360qhcdn.com
 - +.360safe.com
 - +.360shouji.com
+- +.360so.com
+- +.360sou.cn
+- +.360sou.com
+- +.360sou.com.cn
+- +.360sou.net
 - +.360taojin.com
 - +.360totalsecurity.com
 - +.360tpcdn.com
@@ -60,12 +65,15 @@ payload:
 - +.anquanke.com
 - +.appjiagu.com
 - +.baomitu.com
+- +.dhsvc.cn
 - +.haoso.com
 - +.haosou.com
 - +.haosou.com.cn
 - +.haosou.net
 - +.i360mall.com
 - +.ludashi.com
+- +.n.cn
+- +.namiso.com
 - +.nicaifu.com
 - +.nzwgs.com
 - +.qhcdn.com
@@ -88,6 +96,7 @@ payload:
 - +.qiku.com
 - +.qikucdn.com
 - +.so.com
+- +.sou.cn
 - +.sou.com
 - +.urlqh.cn
 - +.xiaoluyouxuan.com
@@ -95,3 +104,6 @@ payload:
 - +.xjietiao.com
 - +.youhua.com
 - +.yunpan.cn
+- +.beifangsl.cn
+- +.zhaomi.cn
+- +.zhaomishijie.com

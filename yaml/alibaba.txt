@@ -168,6 +168,11 @@ payload:
 - +.oss-me-east-1.aliyuncs.com
 - +.oss-us-east-1.aliyuncs.com
 - +.oss-us-west-1.aliyuncs.com
+- +.cainiao-inc.com
+- +.cainiao.com
+- +.cainiao.com.cn
+- +.cainiaoyizhan.com
+- +.guoguo-app.com
 - +.ddurl.to
 - +.dingding.xin
 - +.dingtalk.cn
@@ -307,9 +312,6 @@ payload:
 - +.alipan.com
 - +.aliyundrive.com
 - +.aliyundrive.net
-- +.cainiao.com
-- +.cainiao.com.cn
-- +.cainiao-inc.com
 - +.freshhema.com
 - +.hemamax.com
 - +.hemaos.com

@@ -116,3 +116,5 @@ payload:
 - +.tailf.com
 - cisco.evergage.com
 - ciscolivehls-i.akamaihd.net
+- +.umbrella.com
+- +.opendns.com

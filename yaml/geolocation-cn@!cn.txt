@@ -76,7 +76,6 @@ payload:
 - +.dreamcast.hk
 - upos-hz-mirrorakam.akamaized.net
 - +.iq.com
-- +.myip.la
 - +.hk.weibo.com
 - +.my.weibo.com
 - +.overseas.weibo.com
@@ -251,3 +250,4 @@ payload:
 - +.cuniq.com
 - +.speedtest.hk.chinamobile.com
 - +.speedtestbb.hk.chinamobile.com
+- +.myip.la

@@ -79,3 +79,4 @@ payload:
 - +.oldboyedu.com
 - +.eduei.com
 - +.edu.cn
+- +.ystbds.com

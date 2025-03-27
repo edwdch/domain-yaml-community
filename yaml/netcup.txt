@@ -1,8 +1,13 @@
 payload:
+- +.bestsrv.de
 - +.customercontrolpanel.de
 - +.dnsserver1.de
 - +.dnsserver2.de
+- +.goodsrv.de
+- +.happysrv.de
+- +.hotsrv.de
 - +.luckysrv.de
+- +.megasrv.de
 - +.netcup.cafe
 - +.netcup.com
 - +.netcup.de
@@ -11,6 +16,10 @@ payload:
 - +.netcup-news.de
 - +.netcup-sonderangebote.de
 - +.netcup-wiki.de
+- +.nicesrv.de
+- +.powersrv.de
+- +.quicksrv.de
 - +.servercontrolpanel.de
 - +.supersrv.de
+- +.ultrasrv.de
 - +.yourvserver.net
