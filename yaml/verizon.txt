@@ -187,4 +187,3 @@ payload:
 - +.verizonwireless.com
 - +.vzw.com
 - +.xo.com
-- +.omniroot.com

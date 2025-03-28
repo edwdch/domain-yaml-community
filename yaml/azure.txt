@@ -3,6 +3,7 @@ payload:
 - +.21vbluecloud.com
 - +.21vbluecloud.net
 - +.aadrm.cn
+- +.aadrm.com
 - +.aggresmart.com
 - +.apihub-internal.cn
 - +.appserviceenvironment.cn
@@ -81,6 +82,7 @@ payload:
 - +.management-azure-devices.net
 - +.mcchcdn.com
 - +.mgmt-azure-api.cn
+- +.microsoftazuread-sso.com
 - +.microsoftazuresponsorships.com
 - +.microsoftazurestatus.cn
 - +.microsofteca.com
@@ -93,6 +95,8 @@ payload:
 - +.msidentity.cn
 - +.msidlabpbmc.cn
 - +.msn.net
+- +.playfab.com
+- +.playfabapi.com
 - +.serverlesslibrary.net
 - +.trafficmanager.cn
 - +.trafficmanager.net

@@ -19,3 +19,4 @@ payload:
 - +.globalsign.nl
 - +.globalsigncdn.com
 - cdn.globalsigncdn.com.cdn.cloudflare.net
+- crl.globalsign.net

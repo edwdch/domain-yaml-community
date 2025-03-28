@@ -1,6 +1,9 @@
 payload:
+- +.entrust.cn
+- +.entrust.com
 - +.entrust.net
 - +.entrustdatacard.com
+- www.entrust.cn
 - +.affirmtrust.com
 - +.atos.net
 - +.myatos.net

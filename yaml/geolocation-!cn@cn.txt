@@ -80,14 +80,17 @@ payload:
 - ocsp.apple.com
 - ocsp2-lb.apple.com.akadns.net
 - ocsp2.apple.com
+- valid.apple.com
 - +.dcocsp.cn
 - +.digicert.cn
+- www.entrust.cn
 - +.alphassl.com
 - +.easy-signing.com
 - +.globalsign.cn
 - +.globalsign.com
 - +.globalsigncdn.com
 - cdn.globalsigncdn.com.cdn.cloudflare.net
+- crl.globalsign.net
 - pki-goog.l.google.com
 - c.pki.goog
 - i.pki.goog
@@ -466,6 +469,7 @@ payload:
 - ocsp.apple.com
 - ocsp2-lb.apple.com.akadns.net
 - ocsp2.apple.com
+- valid.apple.com
 - +.beats1.cn
 - +.beats1.com.cn
 - +.beats2.com.cn
@@ -769,7 +773,6 @@ payload:
 - updates-http.cdn-apple.com
 - updates-http.cdn-apple.com.akadns.net
 - updates.cdn-apple.com
-- valid.apple.com
 - valid.origin-apple.com.akadns.net
 - weather-data.apple.com
 - weather-data.apple.com.akadns.net

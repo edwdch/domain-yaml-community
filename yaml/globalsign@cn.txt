@@ -5,3 +5,4 @@ payload:
 - +.globalsign.com
 - +.globalsigncdn.com
 - cdn.globalsigncdn.com.cdn.cloudflare.net
+- crl.globalsign.net

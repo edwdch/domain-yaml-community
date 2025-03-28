@@ -48,6 +48,15 @@ payload:
 - ocsp.apple.com
 - ocsp2-lb.apple.com.akadns.net
 - ocsp2.apple.com
+- valid.apple.com
+- apple-tv-plus-press.apple.com
+- hls-amt.itunes.apple.com
+- hls.itunes.apple.com
+- np-edge.itunes.apple.com
+- play-edge.itunes.apple.com
+- tv.applemusic.com
+- uts-api.itunes.apple.com
+- +.tv.apple.com
 - +.appldnld.apple.com
 - +.gg.apple.com
 - +.gnf-mdn.apple.com
@@ -1826,7 +1835,6 @@ payload:
 - updates-http.cdn-apple.com
 - updates-http.cdn-apple.com.akadns.net
 - updates.cdn-apple.com
-- valid.apple.com
 - valid.origin-apple.com.akadns.net
 - weather-data.apple.com
 - weather-data.apple.com.akadns.net

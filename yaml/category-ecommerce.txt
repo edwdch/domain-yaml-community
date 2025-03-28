@@ -850,6 +850,9 @@ payload:
 - +.xn--74q035i.xn--hxt814e
 - +.nordstrom.com
 - +.nordstrommedia.com
+- +.ozon.ru
+- +.ozone.ru
+- +.ozonusercontent.com
 - +.ecimg.tw
 - +.pchome.com.tw
 - +.pchomeec.tw
@@ -897,6 +900,14 @@ payload:
 - +.shopeemobile.com
 - +.shopeesz.com
 - +.shp.ee
+- +.myshopify.com
+- +.shop.app
+- +.shopify.com
+- +.shopify.dev
+- +.shopifycdn.com
+- +.shopifycloud.com
+- +.shopifystatus.com
+- +.shopifysvc.com
 - +.suruga-ya.com
 - +.suruga-ya.jp
 - +.target.com
