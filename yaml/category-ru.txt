@@ -121,6 +121,9 @@ payload:
 - +.mail.ru
 - +.mycdn.me
 - +.ok.ru
+- +.ozon.ru
+- +.ozone.ru
+- +.ozonusercontent.com
 - +.mvk.com
 - +.userapi.com
 - +.vk-apps.com
