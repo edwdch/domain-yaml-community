@@ -55,7 +55,7 @@ payload:
 - +.redditspace.com
 - +.redditstatic.com
 - +.redditstatus.com
-- reddit.map.fastly.net
+- +.reddit.map.fastly.net
 - +.maintracker.org
 - +.rutracker.cc
 - +.rutracker.cr
