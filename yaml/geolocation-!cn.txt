@@ -15270,6 +15270,7 @@ payload:
 - +.bravoteens.com
 - +.bravotube.net
 - +.bravotube.tv
+- +.brazz.org
 - +.brazzers-porno.online
 - +.brazzers-xxx.net
 - +.brazzersporn.mobi
@@ -15852,6 +15853,7 @@ payload:
 - +.everydayporn.co
 - +.evilangel.com
 - +.evilx.su
+- +.exeporn.net
 - +.exgfvideos.xxx
 - +.exgirlfriendmarket.com
 - +.exiporn.com
@@ -16620,6 +16622,7 @@ payload:
 - +.hnext.jp
 - +.hnntube.com
 - +.hobonichielog.com
+- +.hochu.tv
 - +.hoes.com
 - +.hoge.7jp.info
 - +.holaporno.xxx
@@ -17263,6 +17266,7 @@ payload:
 - +.leliao1.com
 - +.lemoncams.com
 - +.lenkino.xxx
+- +.lenporno.net
 - +.lenporno.red
 - +.leporno.org
 - +.lepornochaud.com
@@ -19567,6 +19571,7 @@ payload:
 - +.vixen.com
 - +.vixvids.to
 - +.vjav.com
+- +.vtrahe.page
 - +.vl4x.net
 - +.vmwxw.com
 - +.vnanchoi.ca
@@ -20054,6 +20059,7 @@ payload:
 - +.yaddal.tv
 - +.yadori.club
 - +.yaeby.info
+- +.yaeby.pro
 - +.yamoon.club
 - +.yande.re
 - +.yantaqu.com
