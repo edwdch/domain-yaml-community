@@ -239,13 +239,13 @@ payload:
 - +.dota2.wmsj.cn
 - +.wmsjsteam.com
 - +.dl.steam.clngaa.com
-- +.dl.steam.ksyna.com
 - +.st.dl.bscstorage.net
 - +.st.dl.eccdnx.com
 - +.st.dl.pinyuncloud.com
-- +.steampipe.steamcontent.tnkjmec.com
 - +.steampowered.com.8686c.com
 - +.steamstatic.com.8686c.com
+- alibaba.cdn.steampipe.steamcontent.com
+- lv.queniujq.cn
 - xz.pphimalayanrt.com
 - +.steamchina.com
 - +.gstore.val.manlaxy.com

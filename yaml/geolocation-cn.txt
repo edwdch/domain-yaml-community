@@ -1533,6 +1533,7 @@ payload:
 - +.steampp.net
 - +.lsplayer.com
 - +.yeshen.com
+- +.forevernine.com
 - +.ledu.com
 - +.pearvideo.com
 - +.wo1wan.com
@@ -1542,6 +1543,12 @@ payload:
 - +.xunyou.com
 - +.bohejiasuqi.com
 - +.jiasu.bohe.com
+- +.golink.com
+- +.golinkapi.com
+- +.golinkcn.com
+- +.steampp.net
+- +.rmbgame.net
+- +.steam302.xyz
 - +.chiphell.com
 - +.erji.net
 - +.hacpai.com
@@ -6524,3 +6531,4 @@ payload:
 - +.bdmozon.com
 - +.bdcat.top
 - +.ningtingche.com
+- +.immersivetranslate.com

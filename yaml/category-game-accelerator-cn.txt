@@ -5,3 +5,9 @@ payload:
 - +.xunyou.com
 - +.bohejiasuqi.com
 - +.jiasu.bohe.com
+- +.golink.com
+- +.golinkapi.com
+- +.golinkcn.com
+- +.steampp.net
+- +.rmbgame.net
+- +.steam302.xyz

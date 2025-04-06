@@ -361,6 +361,7 @@ payload:
 - +.steampp.net
 - +.lsplayer.com
 - +.yeshen.com
+- +.forevernine.com
 - +.ledu.com
 - +.pearvideo.com
 - +.wo1wan.com
