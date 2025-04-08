@@ -515,6 +515,8 @@ payload:
 - +.weiyun.com
 - +.wetv.vip
 - +.wetvinfo.com
+- +.wxcloudrun.com
+- +.wxgateway.com
 - +.wxlivecdn.com
 - wetv.qq.com
 - +.alloyteam.com
