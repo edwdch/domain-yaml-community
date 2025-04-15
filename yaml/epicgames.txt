@@ -1,4 +1,8 @@
 payload:
+- +.3lateral.com
+- +.artstation.com
+- +.capturingreality.com
+- +.cubicmotion.com
 - +.battlebreakers.com
 - +.eac-cdn.com
 - +.easy.ac
@@ -6,11 +10,19 @@ payload:
 - +.epicgames.com
 - +.epicgames.dev
 - +.epicgamescdn.com
+- +.fab.com
 - +.fortnite.com
+- +.hyprsense.com
 - +.paragon.com
 - +.playparagon.com
+- +.quixel.com
+- +.quixel.se
+- +.radgametools.com
+- +.realityscan.com
 - +.roborecall.com
 - +.shadowcomplex.com
+- +.sketchfab.com
 - +.spyjinx.com
+- +.twinmotion.com
 - +.unrealengine.com
 - +.unrealtournament.com

@@ -24,6 +24,9 @@ payload:
 - apilog-web.acfun.cn
 - +.adcolony.com
 - +.adjust.com
+- +.adjust.net.in
+- +.adjust.io
+- +.adjust.world
 - +.advertising.adobe.com
 - +.tubemogul.com
 - +.a.alimama.cn

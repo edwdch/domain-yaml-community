@@ -324,6 +324,7 @@ payload:
 - +.amplifyapp.com
 - +.amplifyframework.com
 - +.aws-iot-hackathon.com
+- +.aws.com
 - +.awsautopilot.com
 - +.awsautoscaling.com
 - +.awsbraket.com
@@ -1287,6 +1288,7 @@ payload:
 - +.worldcoinpay.com
 - +.yourmonsterbeats.com
 - beatselectronicsllc.tt.omtrdc.net
+- +.mask-api.icloud.com
 - +.mask-h2.icloud.com
 - +.mask.icloud.com
 - +.apple-icloud.cn

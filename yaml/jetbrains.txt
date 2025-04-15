@@ -11,3 +11,4 @@ payload:
 - +.cdn.jetbrains.com
 - +.download-cdn.jetbrains.com.cn
 - +.jb.gg
+- +.youtrack.cloud

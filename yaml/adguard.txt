@@ -1,4 +1,5 @@
 payload:
+- +.adguardaccount.com
 - +.adguard.app
 - +.adguard.com
 - +.adguard.info

@@ -51,9 +51,11 @@ payload:
 - +.jasper.ai
 - +.notebooklm.google
 - +.notebooklm.google.com
+- +.chutes.ai
 - +.dify.ai
 - +.gateway.ai.cloudflare.com
 - +.meta.ai
+- +.mistral.ai
 - +.openart.ai
 - +.openrouter.ai
 - +.colorfulstage.com
@@ -10321,6 +10323,10 @@ payload:
 - +.xdsummit.com
 - ea.tt.omtrdc.net
 - eaassets-a.akamaihd.net
+- +.3lateral.com
+- +.artstation.com
+- +.capturingreality.com
+- +.cubicmotion.com
 - +.battlebreakers.com
 - +.eac-cdn.com
 - +.easy.ac
@@ -10328,12 +10334,20 @@ payload:
 - +.epicgames.com
 - +.epicgames.dev
 - +.epicgamescdn.com
+- +.fab.com
 - +.fortnite.com
+- +.hyprsense.com
 - +.paragon.com
 - +.playparagon.com
+- +.quixel.com
+- +.quixel.se
+- +.radgametools.com
+- +.realityscan.com
 - +.roborecall.com
 - +.shadowcomplex.com
+- +.sketchfab.com
 - +.spyjinx.com
+- +.twinmotion.com
 - +.unrealengine.com
 - +.unrealtournament.com
 - +.tarkov.com
@@ -20435,6 +20449,7 @@ payload:
 - +.unlocktool.net
 - time.apple.com
 - time.euro.apple.com
+- time.aws.com
 - time.facebook.com
 - time1.facebook.com
 - time2.facebook.com
@@ -20498,6 +20513,7 @@ payload:
 - ntp5.aliyun.com
 - ntp6.aliyun.com
 - ntp7.aliyun.com
+- time.amazonaws.cn
 - time.izatcloud.net
 - time.xtracloud.net
 - ntp.tencent.com
@@ -20547,6 +20563,7 @@ payload:
 - +.addthiscdn.com
 - +.addthisedge.com
 - +.addtoany.com
+- +.adguardaccount.com
 - +.adguard.app
 - +.adguard.com
 - +.adguard.info
@@ -21170,6 +21187,7 @@ payload:
 - +.cdn.jetbrains.com
 - +.download-cdn.jetbrains.com.cn
 - +.jb.gg
+- +.youtrack.cloud
 - +.grazie.ai
 - +.grazie.aws.intellij.net
 - +.jetbrains.ai
@@ -21762,6 +21780,7 @@ payload:
 - +.amplifyapp.com
 - +.amplifyframework.com
 - +.aws-iot-hackathon.com
+- +.aws.com
 - +.awsautopilot.com
 - +.awsautoscaling.com
 - +.awsbraket.com
@@ -22725,6 +22744,7 @@ payload:
 - +.worldcoinpay.com
 - +.yourmonsterbeats.com
 - beatselectronicsllc.tt.omtrdc.net
+- +.mask-api.icloud.com
 - +.mask-h2.icloud.com
 - +.mask.icloud.com
 - +.apple-icloud.cn
