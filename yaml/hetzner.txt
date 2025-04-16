@@ -4,6 +4,7 @@ payload:
 - +.hetzner.com
 - +.hetzner.company
 - +.hetzner.de
+- +.hetzner.social
 - +.htznr.li
 - +.second-ns.com
 - +.second-ns.de
