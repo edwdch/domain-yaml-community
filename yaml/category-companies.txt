@@ -6231,6 +6231,7 @@ payload:
 - +.msftncsi.com
 - +.msftnet.org
 - +.msgamesresearch.com
+- +.mshome.net
 - +.msocdn.com
 - +.mspil.cn
 - +.msra.cn
