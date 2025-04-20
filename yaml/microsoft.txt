@@ -529,6 +529,7 @@ payload:
 - +.msftnet.org
 - +.msgamesresearch.com
 - +.mshome.net
+- +.msidentity.com
 - +.msocdn.com
 - +.mspil.cn
 - +.msra.cn

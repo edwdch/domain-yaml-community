@@ -20,6 +20,7 @@ payload:
 - +.cf-ipfs.com
 - +.cloudflare-ipfs.com
 - +.argotunnel.com
+- +.cfargotunnel.com
 - +.cfl.re
 - +.cloudflare-dns.com
 - +.cloudflare-ech.com

@@ -19,7 +19,6 @@ payload:
 - +.xingyeai.com
 - +.hunyuan.tencent.com
 - +.baichuan-ai.com
-- +.deepseek.com
 - +.botvip.cn
 - +.liblib.art
 - +.cueme.cn

@@ -64,8 +64,11 @@ payload:
 - +.rutracker.org
 - +.rutrecker.net
 - +.rutrk.org
+- +.soyjak.party
+- +.soyjak.st
 - +.yamibo.com
 - +.18p2p.com
+- +.8chan.moe
 - +.avsforum.com
 - +.disp.cc
 - +.doom9.org

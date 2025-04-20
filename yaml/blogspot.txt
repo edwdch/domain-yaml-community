@@ -74,3 +74,4 @@ payload:
 - +.blogspot.tw
 - +.blogspot.ug
 - +.blogspot.vn
+- +.blogger.googleusercontent.com

@@ -7,3 +7,4 @@ payload:
 - +.razerzone.com
 - +.razerzone.jp
 - +.respawnbyrazer.com
+- +.rzr.to

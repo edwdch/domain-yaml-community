@@ -38,6 +38,8 @@ payload:
 - +.huaweicloud-dns.org
 - +.huaweicloud-idme.cn
 - +.huaweicloud-idme.com
+- +.huaweicloud-koophone.cn
+- +.huaweicloud-koophone.com
 - +.huaweicloud-smn.cn
 - +.huaweicloud-smn.com
 - +.huaweicloud-smn.net
@@ -95,6 +97,8 @@ payload:
 - +.livehwc3.cn
 - +.modelarts-infer.cn
 - +.modelarts-infer.com
+- +.modelarts-maas.cn
+- +.modelarts-maas.com
 - +.myhuaweicloud-custom.cn
 - +.myhuaweicloud-custom.com
 - +.myhuaweicloud-koodrive.cn
