@@ -1834,6 +1834,7 @@ payload:
 - +.appleone.tech
 - +.appleone.website
 - +.shazam.com
+- ingest.apple-studies.com
 - +.1to1computing.com.au
 - +.1to1conference.com.au
 - +.5lml.com

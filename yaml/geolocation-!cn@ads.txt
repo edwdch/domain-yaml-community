@@ -19,6 +19,7 @@ payload:
 - +.microad.co.jp
 - +.microad.jp
 - +.socdm.com
+- disney.my.sentry.io
 - +.ads-pixiv.net
 - o4504926511693824.ingest.sentry.io
 - +.graph.instagram.com

@@ -10970,7 +10970,6 @@ payload:
 - +.disney-portal.my.onetrust.com
 - +.disney-studio.com
 - +.disney-studio.net
-- +.disney.my.sentry.io
 - +.disneyadsales.com
 - +.disneyarena.com
 - +.disneyaulani.com
@@ -11037,6 +11036,7 @@ payload:
 - +.thestationbymaker.com
 - +.thisispolaris.com
 - +.watchdisneyfe.com
+- disney.my.sentry.io
 - +.chobit.cc
 - +.ci-en.jp
 - +.ci-en.net
@@ -14599,6 +14599,7 @@ payload:
 - +.8thstreetlatinas.com
 - +.8xxx.net
 - +.90seconds.asia
+- +.91-cg.com
 - +.91av.one
 - +.91avfuli.com
 - +.91beiyong.com
@@ -14610,6 +14611,7 @@ payload:
 - +.91md.me
 - +.91moxiong.com
 - +.91oo.xyz
+- +.91porn.best
 - +.91pornplus.com
 - +.91porny.com
 - +.91porny.store
@@ -14622,6 +14624,7 @@ payload:
 - +.91sesex.xyz
 - +.91sew.xyz
 - +.91sew40.buzz
+- +.91short.com
 - +.91vhome.com
 - +.920share.com
 - +.921bb.com
@@ -15743,6 +15746,7 @@ payload:
 - +.dutrai.com
 - +.dvdtrailertube.com
 - +.dx9527.cc
+- +.dxk4h.com
 - +.dxyav.co
 - +.dyfl1.pw
 - +.dykycl.com
@@ -16418,6 +16422,7 @@ payload:
 - +.hanime.me
 - +.hanime.tv
 - +.hanime.xxx
+- +.hanime.xyz
 - +.hanime1.me
 - +.hanr-bao.mom
 - +.hao21.xyz
@@ -18432,6 +18437,7 @@ payload:
 - +.pornvideotop.com
 - +.pornvideotube.online
 - +.pornvidhd.club
+- +.pornvr.me
 - +.pornwatchers.com
 - +.pornwebmasters.com
 - +.pornwhite.com
@@ -19811,6 +19817,8 @@ payload:
 - +.xgtdr.buzz
 - +.xh-porn.com
 - +.xh.video
+- +.xhamster.com
+- +.xhamster.desi
 - +.xhamster2.com
 - +.xhot.pro
 - +.xhub.tv
@@ -19854,6 +19862,7 @@ payload:
 - +.xnertv.shop
 - +.xnostars.com
 - +.xnxvideos.org
+- +.xnxx.com
 - +.xnxx-sex-tube.com
 - +.xnxx-sex-videos.com
 - +.xnxx-teens.com
@@ -19919,6 +19928,7 @@ payload:
 - +.xvideo.run
 - +.xvideo.vlog.br
 - +.xvideoporno.tv
+- +.xvideos.com
 - +.xvideos-dl.top
 - +.xvideos-porn-video.com
 - +.xvideos-xxxx.com
@@ -20146,6 +20156,7 @@ payload:
 - +.youngsex.video
 - +.youngteenhomeporn.com
 - +.youngtube.me
+- +.youporn.com
 - +.youporn-germany.com
 - +.youporner.eu
 - +.youpornlist.com
@@ -23301,6 +23312,7 @@ payload:
 - +.appleone.tech
 - +.appleone.website
 - +.shazam.com
+- ingest.apple-studies.com
 - +.1to1computing.com.au
 - +.1to1conference.com.au
 - +.5lml.com
