@@ -28,3 +28,6 @@ payload:
 - +.trip.com
 - +.tripcdn.com
 - +.vipdlt.com
+- +.qunar.com
+- +.qunarcdn.com
+- +.qunarzz.com
