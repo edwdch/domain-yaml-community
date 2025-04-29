@@ -517,6 +517,7 @@ payload:
 - +.submarin.online
 - +.sushi.ski
 - +.trpger.us
+- +.threads.com
 - +.threads.net
 - +.ads-twitter.com
 - +.cms-twdigitalassets.com

@@ -12273,6 +12273,7 @@ payload:
 - +.submarin.online
 - +.sushi.ski
 - +.trpger.us
+- +.threads.com
 - +.threads.net
 - +.ads-twitter.com
 - +.cms-twdigitalassets.com
@@ -27131,6 +27132,7 @@ payload:
 - +.oculusrift.com
 - +.oculusvr.com
 - +.powersunitedvr.com
+- +.threads.com
 - +.threads.net
 - +.graph.whatsapp.com
 - +.graph.whatsapp.net

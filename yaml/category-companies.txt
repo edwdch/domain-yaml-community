@@ -5653,6 +5653,7 @@ payload:
 - +.oculusrift.com
 - +.oculusvr.com
 - +.powersunitedvr.com
+- +.threads.com
 - +.threads.net
 - +.graph.whatsapp.com
 - +.graph.whatsapp.net
