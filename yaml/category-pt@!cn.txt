@@ -5,4 +5,6 @@ payload:
 - +.m-team.io
 - +.myanonamouse.net
 - +.torrentleech.org
-- +.u2.dmhy.org
+- +.nebulance.io
+- +.dmhy.org
+- +.dmhy.best

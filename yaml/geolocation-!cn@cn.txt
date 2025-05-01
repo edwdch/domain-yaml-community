@@ -238,6 +238,7 @@ payload:
 - +.csgo.wmsj.cn
 - +.dota2.wmsj.cn
 - +.wmsjsteam.com
+- +.client-update.queniuqe.com
 - +.dl.steam.clngaa.com
 - +.st.dl.bscstorage.net
 - +.st.dl.eccdnx.com
@@ -787,6 +788,7 @@ payload:
 - +.asus.com.cn
 - +.att.cn
 - +.attcorp.cn
+- +.heptio.cn
 - +.canon.cn
 - +.canon.com.cn
 - +.webex.com.cn

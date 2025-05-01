@@ -6,6 +6,7 @@ payload:
 - +.qianwen.aliyun.com
 - +.qwen.ai
 - +.qwenlm.ai
+- +.tongyi.com
 - +.yiyan.baidu.com
 - +.tiangong.cn
 - +.doubao.com

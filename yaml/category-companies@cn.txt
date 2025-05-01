@@ -385,6 +385,7 @@ payload:
 - +.asus.com.cn
 - +.att.cn
 - +.attcorp.cn
+- +.heptio.cn
 - +.canon.cn
 - +.canon.com.cn
 - +.webex.com.cn

@@ -2,6 +2,7 @@ payload:
 - +.dji.com
 - +.dji.net
 - +.djicdn.com
+- +.djiits.com
 - +.djiops.com
 - +.djiservice.org
 - +.skypixel.com
