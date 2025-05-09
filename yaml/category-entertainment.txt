@@ -1145,6 +1145,8 @@ payload:
 - +.themisweeps.com
 - +.yuanshen.com
 - +.juequling.com
+- +.mubi.com
+- +.mubicdn.net
 - +.biggggg.com
 - +.mudvod.tv
 - +.nbys.tv
