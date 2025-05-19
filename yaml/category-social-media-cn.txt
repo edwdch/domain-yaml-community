@@ -14,6 +14,14 @@ payload:
 - +.hupu.com
 - +.hupucdn.com
 - +.shihuo.cn
+- +.ivwen.com
+- +.meipian.cn
+- +.meipian.me
+- +.jike.city
+- +.jikecdn.com
+- +.okjike.com
+- +.okjk.co
+- +.ruguoapp.com
 - +.2016.sina.cn
 - +.ad.sina.com.cn
 - +.adbox.sina.com.cn

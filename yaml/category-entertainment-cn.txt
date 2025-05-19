@@ -126,6 +126,10 @@ payload:
 - +.ciweimao.com
 - +.hbooker.com
 - +.kuangxiangit.com
+- +.copy-manga.com
+- +.mangacopy.com
+- +.mangafuna.xyz
+- +.mangafunb.fun
 - +.cowlevel.net
 - +.cdncl.net
 - +.biji.com
@@ -367,6 +371,8 @@ payload:
 - +.lsplayer.com
 - +.yeshen.com
 - +.forevernine.com
+- +.tgpro.top
+- +.tgprocs.net
 - +.ledu.com
 - +.pearvideo.com
 - +.wo1wan.com

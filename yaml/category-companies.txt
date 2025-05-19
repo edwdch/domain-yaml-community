@@ -3697,6 +3697,7 @@ payload:
 - ai.google.dev
 - alkalicore-pa.clients6.google.com
 - alkalimakersuite-pa.clients6.google.com
+- webchannel-alkalimakersuite-pa.clients6.google.com
 - +.generativeai.google
 - +.makersuite.google.com
 - +.aistudio.google.com
@@ -3711,6 +3712,7 @@ payload:
 - ai.google.dev
 - alkalicore-pa.clients6.google.com
 - alkalimakersuite-pa.clients6.google.com
+- webchannel-alkalimakersuite-pa.clients6.google.com
 - +.generativeai.google
 - +.makersuite.google.com
 - +.aistudio.google.com
@@ -4867,6 +4869,7 @@ payload:
 - +.s-bluemix.net
 - +.s81c.com
 - +.ibkr.com
+- +.ibllc.com
 - +.interactivebrokers.ca
 - +.interactivebrokers.co.in
 - +.interactivebrokers.co.jp
@@ -5951,6 +5954,8 @@ payload:
 - +.cn.bing.net
 - +.cn.mm.bing.net
 - +.ditu.live.com
+- +.r.bing.com
+- +.th.bing.com
 - bj1.api.bing.com
 - emoi-cncdn.bing.com
 - +.npm.community
@@ -7014,6 +7019,19 @@ payload:
 - +.synologyupdate.com
 - +.quickconnect.cn
 - +.synology.cn
+- +.diskstation.me
+- +.dscloud.biz
+- +.dscloud.me
+- +.dscloud.mobi
+- +.dsmynas.com
+- +.dsmynas.net
+- +.dsmynas.org
+- +.familyds.com
+- +.familyds.net
+- +.familyds.org
+- +.i234.me
+- +.myds.me
+- +.synology.me
 - +.symantec.com
 - +.tailscale.com
 - +.tailscale.io

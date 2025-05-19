@@ -32,5 +32,7 @@ payload:
 - +.cn.bing.net
 - +.cn.mm.bing.net
 - +.ditu.live.com
+- +.r.bing.com
+- +.th.bing.com
 - bj1.api.bing.com
 - emoi-cncdn.bing.com

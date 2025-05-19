@@ -80,6 +80,8 @@ payload:
 - +.huobitoken.com
 - +.kraken.com
 - +.kraken.onl
+- +.kucoin.com
+- +.kucoin.plus
 - +.localbitcoins.com
 - +.localbitcoinschain.com
 - +.nexo.com
@@ -94,6 +96,12 @@ payload:
 - +.onekey.so
 - +.onekeycn.com
 - onekey.zendesk.com
+- +.redotpay.com
+- +.redotpay.zendesk.com
+- +.pod-15-sunco-ws.zendesk.com
+- +.xhpjc6-cdn-settings.appsflyersdk.com
+- +.rp-static-apne1.s3.ap-northeast-1.amazonaws.com
+- +.trustwallet.com
 - +.wisecoin.com
 - +.wiseid.com
 - +.wisekey.com
@@ -104,13 +112,6 @@ payload:
 - +.zb.com
 - +.zb.io
 - +.zb.live
-- +.kucoin.com
-- +.kucoin.plus
-- +.redotpay.com
-- +.redotpay.zendesk.com
-- +.pod-15-sunco-ws.zendesk.com
-- +.xhpjc6-cdn-settings.appsflyersdk.com
-- +.rp-static-apne1.s3.ap-northeast-1.amazonaws.com
 - +.1inch.io
 - +.aave.com
 - +.bitbank.cc
