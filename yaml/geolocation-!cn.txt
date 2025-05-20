@@ -27697,6 +27697,7 @@ payload:
 - +.centralvalidation.com
 - +.ch9.ms
 - +.charticulator.com
+- +.clarity.ms
 - +.cloudapp.net
 - +.cloudappsecurity.com
 - +.cortanaanalytics.com
@@ -27815,6 +27816,7 @@ payload:
 - +.msftauth.cn
 - +.msftauth.net
 - +.msftauthimages.cn
+- +.msftauthimages.net
 - +.msftconnecttest.com
 - +.msfteducation.ca
 - +.msftncsi.com
