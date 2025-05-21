@@ -1122,11 +1122,13 @@ payload:
 - +.yizhitou.com
 - +.duolabao.com
 - +.ads.union.jd.com
+- +.ads-union.jd.com
 - +.c-nfa.jd.com
 - +.cps.360buy.com
+- +.gia.jd.com
+- +.img-x.jd.com
 - +.jzt.jd.com
 - +.stat.m.jd.com
-- +.img-x.jd.com
 - +.lianjia.com
 - +.ljcdn.com
 - +.beckyroom.com
@@ -1419,6 +1421,11 @@ payload:
 - rtlog3-applog-hl.fqnovel.com
 - rtlog5-applog-hl.fqnovel.com
 - +.gamersky.com
+- +.click.gamersky.com
+- +.ja.gamersky.com
+- +.ja1.gamersky.com
+- +.ja2.gamersky.com
+- +.wmbd.gamersky.com
 - +.gcores.com
 - +.gitv.cn
 - +.gitv.tv
@@ -2931,6 +2938,7 @@ payload:
 - +.aliyundrive.com
 - +.aliyundrive.net
 - +.freshhema.com
+- +.freshippo.com
 - +.hemamax.com
 - +.hemaos.com
 - +.hemashare.cn
@@ -5406,6 +5414,8 @@ payload:
 - +.139.com
 - +.chinamobile.com
 - +.chinamobileltd.com
+- +.speedtest.hk.chinamobile.com
+- +.speedtestbb.hk.chinamobile.com
 - +.migucloud.com
 - +.migu.cn
 - +.cmvideo.cn
@@ -5440,8 +5450,6 @@ payload:
 - +.chinaunicomglobal.com
 - +.cuniq.com
 - +.mychinaunicom.com
-- +.speedtest.hk.chinamobile.com
-- +.speedtestbb.hk.chinamobile.com
 - +.wo.cn
 - +.wo.com.cn
 - +.wo116114.com

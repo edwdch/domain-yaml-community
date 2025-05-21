@@ -4,11 +4,13 @@ payload:
 - +.w.cnzz.com
 - +.z.gds.cnzz.com
 - +.ads.union.jd.com
+- +.ads-union.jd.com
 - +.c-nfa.jd.com
 - +.cps.360buy.com
+- +.gia.jd.com
+- +.img-x.jd.com
 - +.jzt.jd.com
 - +.stat.m.jd.com
-- +.img-x.jd.com
 - apilog-web.acfun.cn
 - ads3-normal-hl.zijieapi.com
 - ads5-normal-hl.zijieapi.com
@@ -19,6 +21,11 @@ payload:
 - p9-ad-sign.byteimg.com
 - rtlog3-applog-hl.fqnovel.com
 - rtlog5-applog-hl.fqnovel.com
+- +.click.gamersky.com
+- +.ja.gamersky.com
+- +.ja1.gamersky.com
+- +.ja2.gamersky.com
+- +.wmbd.gamersky.com
 - +.click.hunantv.com
 - +.da.hunantv.com
 - +.da.mgtv.com

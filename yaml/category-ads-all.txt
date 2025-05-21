@@ -411,11 +411,13 @@ payload:
 - +.policy.video.iqiyi.com
 - +.yuedu.iqiyi.com
 - +.ads.union.jd.com
+- +.ads-union.jd.com
 - +.c-nfa.jd.com
 - +.cps.360buy.com
+- +.gia.jd.com
+- +.img-x.jd.com
 - +.jzt.jd.com
 - +.stat.m.jd.com
-- +.img-x.jd.com
 - +.adbkwai.com
 - +.adkwai.com
 - +.adukwai.com
@@ -737,7 +739,6 @@ payload:
 - +.imglnkc.com
 - +.imglnkd.com
 - +.innovid.com
-- +.ja2.gamersky.com
 - +.jads.co
 - +.jl3.yjaxa.top
 - +.juicyads.com

@@ -11727,6 +11727,8 @@ payload:
 - +.hkgolden.media
 - +.lih.kg
 - +.lihkg.com
+- +.linux.do
+- +.ldstatic.com
 - +.5i01.com
 - +.mobile01.com
 - +.pimg.tw
@@ -11768,7 +11770,12 @@ payload:
 - +.rutrk.org
 - +.soyjak.party
 - +.soyjak.st
+- +.xda-cdn.com
+- +.xda-developers.com
+- +.xdaforums.com
+- +.xdaimages.com
 - +.yamibo.com
+- bbs.boingboing.net
 - +.18p2p.com
 - +.8chan.moe
 - +.avsforum.com
@@ -21428,10 +21435,6 @@ payload:
 - +.v8.dev
 - +.v8project.org
 - +.vim.org
-- +.xda-cdn.com
-- +.xda-developers.com
-- +.xdaforums.com
-- +.xdaimages.com
 - +.adventofcode.com
 - +.alpinelinux.org
 - +.apache.org
@@ -28370,6 +28373,7 @@ payload:
 - +.game-platform.net
 - +.knoxemm.com
 - +.samsung.com
+- +.samsungads.com
 - +.samsungapps.com
 - +.samsungcloud.com
 - +.samsungdm.com

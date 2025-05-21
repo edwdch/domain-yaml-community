@@ -189,6 +189,11 @@ payload:
 - rtlog3-applog-hl.fqnovel.com
 - rtlog5-applog-hl.fqnovel.com
 - +.gamersky.com
+- +.click.gamersky.com
+- +.ja.gamersky.com
+- +.ja1.gamersky.com
+- +.ja2.gamersky.com
+- +.wmbd.gamersky.com
 - +.gcores.com
 - +.gitv.cn
 - +.gitv.tv

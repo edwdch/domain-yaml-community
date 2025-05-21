@@ -1,5 +1,4 @@
 payload:
-- +.gamersky.com
 - +.click.gamersky.com
 - +.ja.gamersky.com
 - +.ja1.gamersky.com

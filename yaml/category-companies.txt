@@ -6860,6 +6860,7 @@ payload:
 - +.game-platform.net
 - +.knoxemm.com
 - +.samsung.com
+- +.samsungads.com
 - +.samsungapps.com
 - +.samsungcloud.com
 - +.samsungdm.com

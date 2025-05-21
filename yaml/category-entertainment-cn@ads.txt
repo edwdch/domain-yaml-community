@@ -9,6 +9,11 @@ payload:
 - p9-ad-sign.byteimg.com
 - rtlog3-applog-hl.fqnovel.com
 - rtlog5-applog-hl.fqnovel.com
+- +.click.gamersky.com
+- +.ja.gamersky.com
+- +.ja1.gamersky.com
+- +.ja2.gamersky.com
+- +.wmbd.gamersky.com
 - +.click.hunantv.com
 - +.da.hunantv.com
 - +.da.mgtv.com

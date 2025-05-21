@@ -3,6 +3,8 @@ payload:
 - +.139.com
 - +.chinamobile.com
 - +.chinamobileltd.com
+- +.speedtest.hk.chinamobile.com
+- +.speedtestbb.hk.chinamobile.com
 - +.migucloud.com
 - +.migu.cn
 - +.cmvideo.cn
