@@ -1577,6 +1577,10 @@ payload:
 - +.u17i.com
 - +.u17t.com
 - +.vgtime.com
+- +.vrzwk.cn
+- +.vrzwk.com
+- +.vrzwk.net
+- +.vrzwk.top
 - +.aichongzoo.cn
 - +.hzdtv.tv
 - +.hzman.net
