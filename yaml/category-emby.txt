@@ -78,10 +78,11 @@ payload:
 - +.gfwemby.org
 - +.loseremby.org
 - cc.ccemby.tk
-- direct.nebula-emby.com
+- +.nebula-emby.com
 - +.feverss.cloud
 - +.nvidia.rip
 - +.media-1.co.uk
 - +.sptv.ii00.cc
 - +.sgtv.ii00.cc
 - +.cn-music.mefun.vip
+- +.hongxingyunmovie.vip

@@ -11,6 +11,8 @@ payload:
 - +.speedtestcustom.com
 - +.webtest.net
 - www.speedtest.net.cdn.cloudflare.net
+- +.open.cachefly.net
+- +.openspeedtest.com
 - +.cnspeedtest.cn
 - +.fast.com
 - +.measurementlab.net

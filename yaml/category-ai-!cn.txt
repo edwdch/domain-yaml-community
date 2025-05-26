@@ -18,6 +18,10 @@ payload:
 - +.bard.google.com
 - +.gemini.google
 - +.gemini.google.com
+- +.notebooklm.google
+- +.notebooklm.google.com
+- +.jules.google
+- +.jules.google.com
 - +.groq.com
 - +.hf.co
 - +.huggingface.co
@@ -53,8 +57,6 @@ payload:
 - +.coderabbit.gallery.vsassets.io
 - +.clipdrop.co
 - +.jasper.ai
-- +.notebooklm.google
-- +.notebooklm.google.com
 - +.chutes.ai
 - +.dify.ai
 - +.gateway.ai.cloudflare.com

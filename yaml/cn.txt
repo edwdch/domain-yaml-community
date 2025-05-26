@@ -39,6 +39,7 @@ payload:
 - +.tiangong.cn
 - +.doubao.com
 - +.marscode.cn
+- +.bigmodel.cn
 - +.chatglm.cn
 - +.zhipuai.cn
 - +.moonshot.cn
@@ -1621,6 +1622,7 @@ payload:
 - +.forevernine.com
 - +.tgpro.top
 - +.tgprocs.net
+- +.bsbsb.top
 - +.ledu.com
 - +.pearvideo.com
 - +.wo1wan.com
@@ -1682,9 +1684,10 @@ payload:
 - +.right.com.cn
 - +.uiwow.com
 - +.wuyou.net
-- +.upe.net
 - +.423down.com
 - +.ghxi.com
+- +.moyubuluo.com
+- +.upe.net
 - +.winos.me
 - +.36dianping.com
 - +.36kr.com
@@ -2237,6 +2240,7 @@ payload:
 - +.ntp.neu.edu.cn
 - +.ntp.ntsc.ac.cn
 - +.ntp.org.cn
+- +.mihuashi.com
 - +.capitalonline.net
 - +.mirrors.yun-idc.com
 - +.chinaso.com
@@ -2380,7 +2384,6 @@ payload:
 - +.bosszhipin.com
 - +.zhaopin.cn
 - +.moseeker.com
-- +.mihuashi.com
 - +.bcy.net
 - +.bcyimg.com
 - +.lf-rc1.yhgfb-cn-static.com
