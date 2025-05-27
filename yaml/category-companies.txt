@@ -3536,6 +3536,7 @@ payload:
 - +.x.co
 - +.android.com
 - +.androidify.com
+- android.googlesource.com
 - +.blogger.com
 - +.blogblog.com
 - +.blogspot.ae

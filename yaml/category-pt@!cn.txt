@@ -1,10 +1,10 @@
 payload:
+- +.myanonamouse.net
+- +.nebulance.io
+- +.torrentleech.org
 - +.skyey2.com
 - +.skyeysnow.com
 - +.m-team.cc
 - +.m-team.io
-- +.myanonamouse.net
-- +.torrentleech.org
-- +.nebulance.io
-- +.dmhy.org
 - +.dmhy.best
+- +.dmhy.org

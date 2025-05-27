@@ -21016,6 +21016,7 @@ payload:
 - +.conda.io
 - +.android.com
 - +.androidify.com
+- android.googlesource.com
 - +.appleswift.com
 - +.swift.org
 - +.swiftui.cn
@@ -25064,6 +25065,7 @@ payload:
 - +.x.co
 - +.android.com
 - +.androidify.com
+- android.googlesource.com
 - +.blogger.com
 - +.blogblog.com
 - +.blogspot.ae

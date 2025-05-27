@@ -5,6 +5,7 @@ payload:
 - +.conda.io
 - +.android.com
 - +.androidify.com
+- android.googlesource.com
 - +.appleswift.com
 - +.swift.org
 - +.swiftui.cn
