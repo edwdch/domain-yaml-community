@@ -1479,6 +1479,9 @@ payload:
 - +.waveomoney.com.mm
 - +.yomabank.com
 - +.ysx-mm.com
+- +.fibank.bg
+- +.meawallet.app
+- +.myfin.bg
 - +.hsbc.com
 - +.hsbc.net
 - +.hsbcinnovationbanking.com
