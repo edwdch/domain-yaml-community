@@ -1,19 +1,24 @@
 payload:
+- +.asobostudio.com
+- +.flightsimulator.com
+- flightsimulator.azureedge.net
 - +.beth.games
 - +.bethesda.net
 - +.bethesdagamestudios.com
 - +.bethsoft.com
 - +.doom.com
 - +.elderscrolls.com
+- +.forza.net
+- +.forzamotorsport.net
+- +.forzaracingchampionship.com
+- +.forzarc.com
+- prodforza.blob.core.windows.net
 - +.callersbane.com
 - +.minecraft-services.net
 - +.minecraft.net
 - +.minecraftservices.com
 - +.minecraftshop.com
 - +.mojang.com
-- +.forzamotorsport.net
-- +.forzaracingchampionship.com
-- +.forzarc.com
 - +.gamepass.com
 - +.orithegame.com
 - +.renovacionxboxlive.com
