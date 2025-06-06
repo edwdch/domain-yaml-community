@@ -1,5 +1,4 @@
 payload:
-- +.supercell.com
 - +.byteoversea.com
 - +.muscdn.com
 - +.musical.ly

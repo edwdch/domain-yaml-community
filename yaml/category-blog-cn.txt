@@ -6,3 +6,4 @@ payload:
 - +.4thworkshop.com
 - +.4thworkshop.cn
 - +.fanmingming.com
+- +.zway.top

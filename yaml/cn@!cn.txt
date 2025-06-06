@@ -77,6 +77,7 @@ payload:
 - +.jd.hk
 - +.jd.id
 - +.jd.ru
+- +.supercell.com
 - +.bilibili.tv
 - +.biliintl.com
 - +.dreamcast.hk
