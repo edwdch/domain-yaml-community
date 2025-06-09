@@ -147,14 +147,14 @@ payload:
 - +.feng.com
 - +.fengimg.com
 - +.wfdata.club
-- +.ynet.cn
-- +.ynet.com
-- +.ynet.com.cn
 - +.aiganggu.com
 - +.danjuanfunds.com
 - +.imedao.com
 - +.snowballsecurities.com
 - +.xueqiu.com
+- +.ynet.cn
+- +.ynet.com
+- +.ynet.com.cn
 - +.stcn.com
 - +.caijing.com.cn
 - +.hexun.com
@@ -192,6 +192,9 @@ payload:
 - +.gmw.com
 - +.thepaper.cn
 - +.thecover.cn
+- +.cankaoxiaoxi.com
+- +.ckxx.net
+- +.takungpao.com
 - +.expreview.com
 - +.huxiu.com
 - +.huxiucdn.com

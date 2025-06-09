@@ -11471,6 +11471,8 @@ payload:
 - d2anahhhmp1ffz.cloudfront.net
 - +.mox.moe
 - +.vol.moe
+- +.wallhaven.cc
+- +.whvn.cc
 - +.webnovel.com
 - +.wwe.com
 - +.wwe9.com
