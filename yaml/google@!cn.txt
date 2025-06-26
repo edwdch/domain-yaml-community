@@ -1,10 +1,4 @@
 payload:
-- +.alibabacloud.co.in
-- +.alibabacloud.com.au
-- +.alibabacloud.com.hk
-- +.alibabacloud.com.my
-- +.alibabacloud.com.sg
-- +.alibabacloud.com.tw
 - alt1-mtalk.google.com
 - alt2-mtalk.google.com
 - alt3-mtalk.google.com
