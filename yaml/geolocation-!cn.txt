@@ -3,6 +3,10 @@ payload:
 - +.claude.ai
 - +.claudeusercontent.com
 - servd-anthropic-website.b-cdn.net
+- +.cursor-cdn.com
+- +.cursor.com
+- +.cursor.sh
+- +.cursorapi.com
 - +.deepmind.com
 - +.deepmind.google
 - +.geller-pa.googleapis.com
@@ -49,15 +53,12 @@ payload:
 - +.poecdn.net
 - +.grok.com
 - +.x.ai
-- +.cursor-cdn.com
-- +.cursor.com
-- +.cursor.sh
-- +.cursorapi.com
 - +.coderabbit.ai
 - +.coderabbit.gallery.vsassets.io
 - +.clipdrop.co
 - +.jasper.ai
 - +.chutes.ai
+- +.copilot.microsoft.com
 - +.dify.ai
 - +.gateway.ai.cloudflare.com
 - +.meta.ai
@@ -21231,6 +21232,7 @@ payload:
 - +.gh.io
 - +.ghcr.io
 - +.git.io
+- +.github.ai
 - +.github.blog
 - +.github.com
 - +.github.community
@@ -27556,6 +27558,7 @@ payload:
 - +.gh.io
 - +.ghcr.io
 - +.git.io
+- +.github.ai
 - +.github.blog
 - +.github.com
 - +.github.community
