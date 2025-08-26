@@ -361,6 +361,8 @@ payload:
 - +.forbes.com
 - +.forbesimg.com
 - +.tubi.io
+- +.tubi.tv
+- +.tubi.video
 - +.tubitv.com
 - +.fox-corporation.com
 - +.fox-news.com

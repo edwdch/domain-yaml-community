@@ -10687,6 +10687,7 @@ payload:
 - media-rockstargames-com.akamaized.net
 - videos-rockstargames-com.akamaized.net
 - +.snk-corp.co.jp
+- +.snk-corp.info
 - +.snkplaymore.info
 - +.playartifact.com
 - +.s.team
@@ -12782,6 +12783,8 @@ payload:
 - +.forbes.com
 - +.forbesimg.com
 - +.tubi.io
+- +.tubi.tv
+- +.tubi.video
 - +.tubitv.com
 - +.fox-corporation.com
 - +.fox-news.com
@@ -29084,6 +29087,7 @@ payload:
 - cdn.js7k.com
 - +.xn--d1acpjx3f.xn--p1ai
 - +.dzen.ru
+- +.naydex.net
 - +.rostaxi.org
 - +.ya.ru
 - +.yandex-bank.net
@@ -29091,6 +29095,7 @@ payload:
 - +.yandex.aero
 - +.yandex.az
 - +.yandex.by
+- +.yandex.cloud
 - +.yandex.co.il
 - +.yandex.com
 - +.yandex.com.am

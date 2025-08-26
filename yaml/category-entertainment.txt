@@ -493,6 +493,7 @@ payload:
 - media-rockstargames-com.akamaized.net
 - videos-rockstargames-com.akamaized.net
 - +.snk-corp.co.jp
+- +.snk-corp.info
 - +.snkplaymore.info
 - +.playartifact.com
 - +.s.team
