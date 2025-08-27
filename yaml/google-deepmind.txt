@@ -18,3 +18,5 @@ payload:
 - +.notebooklm.google.com
 - +.jules.google
 - +.jules.google.com
+- +.labs.google
+- +.aisandbox-pa.googleapis.com

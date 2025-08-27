@@ -335,6 +335,11 @@ payload:
 - +.ma.run
 - +.um.run
 - +.ym.run
+- +.aegis.qq.com
+- +.tamaegis.com
+- +.rumt-zh.com
+- +.rumt-sg.com
+- +.rumt-us.com
 - +.ad.qq.com
 - +.ad.qun.qq.com
 - +.adfilter.imtt.qq.com
@@ -371,6 +376,9 @@ payload:
 - +.trace.qq.com
 - +.ugdtimg.com
 - +.wit.qq.com
+- +.cnb.cool
+- +.coding.me
+- +.coding.net
 - +.openmidas.com
 - +.qq.design
 - +.qqgamedesign.com

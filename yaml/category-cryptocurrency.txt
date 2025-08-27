@@ -30,9 +30,11 @@ payload:
 - +.binancezh.top
 - +.binanceapi.com
 - +.bnbstatic.com
+- +.appsflayer.com
+- +.saasexch.cc
+- +.saasexch.co
 - +.saasexch.com
 - +.saasexch.io
-- +.appsflayer.com
 - +.bitflyer.com
 - +.bitflyer.jp
 - +.bisq.io

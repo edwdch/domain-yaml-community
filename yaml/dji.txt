@@ -6,3 +6,4 @@ payload:
 - +.djiops.com
 - +.djiservice.org
 - +.skypixel.com
+- +.robomaster.com

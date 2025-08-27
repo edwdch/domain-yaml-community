@@ -56,6 +56,9 @@ payload:
 - +.c4slive.com
 - +.clips4sale.com
 - +.videos4sale.com
+- +.coomer.party
+- +.coomer.st
+- +.coomer.su
 - +.cuinc.oen.tw
 - +.cuinc.tw
 - +.chobit.cc
@@ -162,6 +165,10 @@ payload:
 - +.cdnlab.live
 - +.jable.tv
 - +.mushroomtrack.com
+- +.x18r.co
+- +.x18r.com
+- +.z18r.co
+- +.z18r.com
 - +.javbus.com
 - +.javbus22.com
 - +.javcdn.cc
@@ -170,10 +177,6 @@ payload:
 - +.javdb.com
 - +.jdbimgs.com
 - +.jdbstatic.com
-- +.x18r.co
-- +.x18r.com
-- +.z18r.co
-- +.z18r.com
 - +.javwide.com
 - +.javwide.tv
 - +.jkf.net
@@ -186,8 +189,6 @@ payload:
 - +.hkporn.net
 - +.justav.net
 - +.twporn.net
-- +.cooer.su
-- +.coomer.party
 - +.kemono.cr
 - +.kemono.party
 - +.kemono.su

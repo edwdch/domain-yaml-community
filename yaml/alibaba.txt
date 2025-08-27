@@ -168,6 +168,12 @@ payload:
 - +.oss-me-east-1.aliyuncs.com
 - +.oss-us-east-1.aliyuncs.com
 - +.oss-us-west-1.aliyuncs.com
+- +.alicloudccp.com
+- +.alipan.com
+- +.aliyundrive.cloud
+- +.aliyundrive.com
+- +.aliyundrive.net
+- +.yunpan.aliyun.com
 - +.cainiao-inc.com
 - +.cainiao.com
 - +.cainiao.com.cn
@@ -308,10 +314,6 @@ payload:
 - +.alipayplus.com
 - +.alipay.hk
 - +.alipaymo.com
-- +.alicloudccp.com
-- +.alipan.com
-- +.aliyundrive.com
-- +.aliyundrive.net
 - +.freshhema.com
 - +.freshippo.com
 - +.hemamax.com

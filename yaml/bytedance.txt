@@ -286,6 +286,7 @@ payload:
 - +.volcfcdnbyte.com
 - +.volcfcdn.com
 - +.volcfcdndvs.com
+- +.volcfcdndvs1.com
 - +.volcfcdnplus.com
 - +.volcfcdnrd.com
 - +.volcfcdnsc.com
@@ -441,6 +442,7 @@ payload:
 - +.bytegrowth.com
 - +.byte-gslb.com
 - +.bytegslb.com
+- +.byteglb.com
 - +.bytehwm.com
 - +.byteics.com
 - +.byteics.net
@@ -457,6 +459,7 @@ payload:
 - +.byteorg.com
 - +.byteorge.com
 - +.byteoversea.com
+- +.byteoversea.net
 - +.byteq5k.com
 - +.byteq8u.net
 - +.bytescm.com
@@ -647,6 +650,7 @@ payload:
 - +.zjcdn.com
 - +.zjfcdn.com
 - +.zjgslb.com
+- bytedance.map.fastly.net
 - +.toutiao.com
 - +.toutiaoapi.com
 - +.toutiaocdn.com

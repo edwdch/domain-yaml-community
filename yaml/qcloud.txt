@@ -335,3 +335,8 @@ payload:
 - +.ma.run
 - +.um.run
 - +.ym.run
+- +.aegis.qq.com
+- +.tamaegis.com
+- +.rumt-zh.com
+- +.rumt-sg.com
+- +.rumt-us.com

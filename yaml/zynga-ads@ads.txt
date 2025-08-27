@@ -1,3 +1,2 @@
 payload:
-- +.zynga.com
 - +.zyngaplayersupport.com

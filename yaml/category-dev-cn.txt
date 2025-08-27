@@ -16,8 +16,6 @@ payload:
 - +.cppblog.com
 - +.phpweblog.net
 - +.teachblog.net
-- +.coding.me
-- +.coding.net
 - +.codechina.net
 - +.csdn.com
 - +.csdn.net
@@ -102,6 +100,9 @@ payload:
 - +.mysxl.cn
 - +.sxl.cn
 - +.sxlcdn.cn
+- +.cnb.cool
+- +.coding.me
+- +.coding.net
 - +.openmidas.com
 - +.qq.design
 - +.qqgamedesign.com

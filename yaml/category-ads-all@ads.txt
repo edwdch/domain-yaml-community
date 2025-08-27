@@ -700,5 +700,4 @@ payload:
 - +.wan.youku.com
 - +.ykatr.youku.com
 - +.ykrec.youku.com
-- +.zynga.com
 - +.zyngaplayersupport.com

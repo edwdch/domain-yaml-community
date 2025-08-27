@@ -1,4 +1,7 @@
 payload:
+- +.cnb.cool
+- +.coding.me
+- +.coding.net
 - +.openmidas.com
 - +.qq.design
 - +.qqgamedesign.com

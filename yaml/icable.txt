@@ -4,3 +4,4 @@ payload:
 - +.hkopentv.com
 - +.hoy.tv
 - +.i-cable.com
+- +.i-cablecomm.com

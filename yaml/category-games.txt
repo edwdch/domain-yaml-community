@@ -705,6 +705,7 @@ payload:
 - +.underlords.com
 - +.valvesoftware.com
 - +.edge.steam-dns.top.comcast.net
+- steamcommunity-a.akamaihd.net.edgesuite.net
 - +.steam.apac.qtlglb.com
 - +.steam.eca.qtlglb.com
 - +.steam.naeu.qtlglb.com
