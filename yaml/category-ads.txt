@@ -686,7 +686,6 @@ payload:
 - +.wan.youku.com
 - +.ykatr.youku.com
 - +.ykrec.youku.com
-- +.zyngaplayersupport.com
 - +.51y5.net
 - +.a.adtng.com
 - +.aaxads.com
