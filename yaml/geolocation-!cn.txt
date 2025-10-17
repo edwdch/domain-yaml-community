@@ -1,7 +1,9 @@
 payload:
 - +.anthropic.com
 - +.claude.ai
+- +.claude.com
 - +.claudeusercontent.com
+- +.claudemcpclient.com
 - servd-anthropic-website.b-cdn.net
 - +.cursor-cdn.com
 - +.cursor.com
@@ -2975,6 +2977,8 @@ payload:
 - +.binancezh.top
 - +.binanceapi.com
 - +.bnbstatic.com
+- +.bntrace.com
+- +.nftstatic.com
 - +.appsflayer.com
 - +.saasexch.cc
 - +.saasexch.co
@@ -10735,6 +10739,7 @@ payload:
 - steamusercontent-a.akamaihd.net
 - steamuserimages-a.akamaihd.net
 - steamvideo-a.akamaihd.net
+- steamcloudsweden.blob.core.windows.net
 - +.csgo.wmsj.cn
 - +.dota2.wmsj.cn
 - +.wmsjsteam.com
@@ -21280,10 +21285,12 @@ payload:
 - +.githubuniverse.com
 - +.githubusercontent.com
 - +.myoctocat.com
+- +.octocaptcha.com
 - +.opensource.guide
 - +.repo.new
 - +.thegithubshop.com
 - +.blob.core.windows.net
+- github-api.arkoselabs.com
 - github-cloud.s3.amazonaws.com
 - +.github1s.com
 - +.sourcegraph.com
@@ -22109,7 +22116,9 @@ payload:
 - www.amd.com
 - +.anthropic.com
 - +.claude.ai
+- +.claude.com
 - +.claudeusercontent.com
+- +.claudemcpclient.com
 - servd-anthropic-website.b-cdn.net
 - +.api-adservices.apple.com
 - +.iadsdk.apple.com
@@ -27740,10 +27749,12 @@ payload:
 - +.githubuniverse.com
 - +.githubusercontent.com
 - +.myoctocat.com
+- +.octocaptcha.com
 - +.opensource.guide
 - +.repo.new
 - +.thegithubshop.com
 - +.blob.core.windows.net
+- github-api.arkoselabs.com
 - github-cloud.s3.amazonaws.com
 - +.adaptivecards.io
 - +.api-extractor.com

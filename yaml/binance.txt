@@ -28,6 +28,8 @@ payload:
 - +.binancezh.top
 - +.binanceapi.com
 - +.bnbstatic.com
+- +.bntrace.com
+- +.nftstatic.com
 - +.appsflayer.com
 - +.saasexch.cc
 - +.saasexch.co

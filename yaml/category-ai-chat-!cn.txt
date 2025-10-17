@@ -1,7 +1,9 @@
 payload:
 - +.anthropic.com
 - +.claude.ai
+- +.claude.com
 - +.claudeusercontent.com
+- +.claudemcpclient.com
 - servd-anthropic-website.b-cdn.net
 - +.cursor-cdn.com
 - +.cursor.com

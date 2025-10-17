@@ -727,6 +727,7 @@ payload:
 - steamusercontent-a.akamaihd.net
 - steamuserimages-a.akamaihd.net
 - steamvideo-a.akamaihd.net
+- steamcloudsweden.blob.core.windows.net
 - +.csgo.wmsj.cn
 - +.dota2.wmsj.cn
 - +.wmsjsteam.com

@@ -506,7 +506,9 @@ payload:
 - www.amd.com
 - +.anthropic.com
 - +.claude.ai
+- +.claude.com
 - +.claudeusercontent.com
+- +.claudemcpclient.com
 - servd-anthropic-website.b-cdn.net
 - +.api-adservices.apple.com
 - +.iadsdk.apple.com
@@ -6137,10 +6139,12 @@ payload:
 - +.githubuniverse.com
 - +.githubusercontent.com
 - +.myoctocat.com
+- +.octocaptcha.com
 - +.opensource.guide
 - +.repo.new
 - +.thegithubshop.com
 - +.blob.core.windows.net
+- github-api.arkoselabs.com
 - github-cloud.s3.amazonaws.com
 - +.adaptivecards.io
 - +.api-extractor.com
