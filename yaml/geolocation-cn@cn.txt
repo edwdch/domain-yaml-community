@@ -205,8 +205,6 @@ payload:
 - +.weui.io
 - +.sl916.com
 - +.bluepoch.com
-- +.doubao.com
-- +.coze.cn
 - +.bisheng.cn
 - +.bishengcompiler.cn
 - +.devui.design

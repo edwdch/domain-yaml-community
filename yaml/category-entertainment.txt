@@ -1475,6 +1475,7 @@ payload:
 - +.youtubemobilesupport.com
 - +.yt.be
 - +.ytimg.com
+- yt3.googleusercontent.com
 - +.z5.app
 - +.z5.com
 - +.zee5.com

@@ -20,6 +20,8 @@ payload:
 - +.acctdns.net
 - +.aitransfy.com
 - +.apaas-zone-test.com
+- +.apdcdn.com
+- +.apdcdn.net
 - +.apigwtencent.com
 - +.bkapigw.com
 - +.bkapps.com
@@ -188,6 +190,7 @@ payload:
 - +.timatrix.com.cn
 - +.timmerse.com
 - +.tlivecdn.com
+- +.tlivemcdn.com
 - +.tlivepush.com
 - +.tlivesource.com
 - +.tourismshow.cn

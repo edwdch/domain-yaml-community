@@ -370,3 +370,5 @@ payload:
 - +.zhisheng.com
 - +.npmmirror.com
 - +.goofish.com
+- +.kaola.com
+- +.kaolacdn.com

@@ -5,6 +5,7 @@ payload:
 - +.claudeusercontent.com
 - +.claudemcpclient.com
 - servd-anthropic-website.b-cdn.net
+- +.cerebras.ai
 - +.cursor-cdn.com
 - +.cursor.com
 - +.cursor.sh

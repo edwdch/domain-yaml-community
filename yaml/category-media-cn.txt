@@ -195,6 +195,15 @@ payload:
 - +.cankaoxiaoxi.com
 - +.ckxx.net
 - +.takungpao.com
+- +.kankanews.com
+- +.kankannews.com
+- +.kksmg.com
+- +.statickksmg.com
+- +.bianews.com
+- +.donews.com
+- +.qingdaonews.com
+- +.nanyuenews.com
+- +.jztvnews.com
 - +.expreview.com
 - +.huxiu.com
 - +.huxiucdn.com

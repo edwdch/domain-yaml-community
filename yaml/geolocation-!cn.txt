@@ -5,6 +5,7 @@ payload:
 - +.claudeusercontent.com
 - +.claudemcpclient.com
 - servd-anthropic-website.b-cdn.net
+- +.cerebras.ai
 - +.cursor-cdn.com
 - +.cursor.com
 - +.cursor.sh
@@ -11681,6 +11682,7 @@ payload:
 - +.youtubemobilesupport.com
 - +.yt.be
 - +.ytimg.com
+- yt3.googleusercontent.com
 - +.z5.app
 - +.z5.com
 - +.zee5.com
@@ -14151,6 +14153,7 @@ payload:
 - +.javcdn.cc
 - +.javcc.cc
 - +.javcc.com
+- +.jav.app
 - +.javdb.com
 - +.jdbimgs.com
 - +.jdbstatic.com
@@ -25785,6 +25788,7 @@ payload:
 - +.youtubemobilesupport.com
 - +.yt.be
 - +.ytimg.com
+- yt3.googleusercontent.com
 - +.google.ad
 - +.google.ae
 - +.google.al

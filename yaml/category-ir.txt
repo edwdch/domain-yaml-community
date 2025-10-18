@@ -1,4 +1,11 @@
 payload:
+- +.adivery.com
+- +.adivery.ir
+- +.kaprila.com
+- +.najva.com
+- +.sabavision.com
+- +.tapsell.ir
+- +.yektanet.com
 - +.agri-bank.com
 - +.ansarbank.com
 - +.bank-maskan.ir

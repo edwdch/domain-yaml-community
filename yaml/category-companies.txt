@@ -4175,6 +4175,7 @@ payload:
 - +.youtubemobilesupport.com
 - +.yt.be
 - +.ytimg.com
+- yt3.googleusercontent.com
 - +.google.ad
 - +.google.ae
 - +.google.al

@@ -1,4 +1,5 @@
 payload:
+- +.pddcdn.com
 - +.pddpic.com
 - +.pinduoduo.com
 - +.pinduoduo.net
