@@ -5,5 +5,7 @@ payload:
 - +.dingtalk.com
 - +.dingtalk.net
 - +.dingtalkapps.com
+- +.dingtalkcloud.com
 - +.laiwang.com
 - +.lwurl.to
+- +.ztna-dingtalk.com

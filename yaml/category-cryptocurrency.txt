@@ -147,6 +147,7 @@ payload:
 - +.dydx.exchange
 - +.fundingrates.xyz
 - +.gemini.com
+- +.guardarian.com
 - +.hashflow.com
 - +.infura.io
 - +.invity.io
@@ -161,6 +162,7 @@ payload:
 - +.polymarket.com
 - +.ripple.com
 - +.satoshilabs.com
+- +.stealthex.io
 - +.theblock.co
 - +.trezor.io
 - +.truefi.io

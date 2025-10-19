@@ -117,13 +117,18 @@ payload:
 - +.jamal.ru
 - +.surgut.ru
 - +.yamal.ru
+- +.boosty.to
+- +.donationalerts.com
 - +.imgsmail.ru
 - +.mail.ru
+- +.memealerts.com
 - +.mycdn.me
+- +.okcdn.ru
 - +.ok.ru
 - +.ozon.ru
 - +.ozone.ru
 - +.ozonusercontent.com
+- +.cdn-vk.ru
 - +.mradx.net
 - +.mvk.com
 - +.userapi.com
@@ -132,6 +137,7 @@ payload:
 - +.vk-apps.ru
 - +.vk-cdn.me
 - +.vk-cdn.net
+- +.vkcloud-static.ru
 - +.vk-portal.net
 - +.vk.cc
 - +.vk.com

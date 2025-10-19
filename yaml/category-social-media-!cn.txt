@@ -543,6 +543,7 @@ payload:
 - +.twvid.com
 - +.vine.co
 - +.x.com
+- +.cdn-vk.ru
 - +.mradx.net
 - +.mvk.com
 - +.userapi.com
@@ -551,6 +552,7 @@ payload:
 - +.vk-apps.ru
 - +.vk-cdn.me
 - +.vk-cdn.net
+- +.vkcloud-static.ru
 - +.vk-portal.net
 - +.vk.cc
 - +.vk.com

@@ -8,3 +8,7 @@ payload:
 - +.yyds.co
 - +.3songshu.com
 - +.haidilao.com
+- +.anlaiye.com
+- +.anlaiye.com.cn
+- +.imcoming.com
+- +.imcome.net

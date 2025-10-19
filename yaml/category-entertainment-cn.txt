@@ -610,6 +610,14 @@ payload:
 - +.wasu.cn
 - +.wasu.tv
 - +.wasumedia.cn
+- +.1xhh.cn
+- +.accxiaoheihe.com
+- +.chat.top
+- +.debugmode.cn
+- +.max-c.com
+- +.maxadmin.cn
+- +.maxjia.com
+- +.xiaoheihe.cn
 - +.ximalaya.com
 - +.xmcdn.com
 - +.kumiao.com
