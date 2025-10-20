@@ -1182,6 +1182,7 @@ payload:
 - +.spotifyforbrands.com
 - +.spotifyjobs.com
 - +.spotify.link
+- +.tospotify.com
 - audio-ak-spotify-com.akamaized.net
 - audio4-ak-spotify-com.akamaized.net
 - cdn-spotify-experiments.conductrics.com
