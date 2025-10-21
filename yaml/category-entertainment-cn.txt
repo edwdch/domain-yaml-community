@@ -195,7 +195,6 @@ payload:
 - +.longtugame.com
 - +.morefreegame.com
 - +.heavenlywind.cc
-- +.steampp.net
 - +.tgpro.top
 - +.tgprocs.net
 - +.winegame.net
@@ -629,6 +628,8 @@ payload:
 - +.zhanqi.tv
 - +.lsplayer.com
 - +.yeshen.com
+- +.51zmt.top
 - +.bsbsb.top
 - +.dongqiudi.com
+- +.goka.top
 - +.pearvideo.com

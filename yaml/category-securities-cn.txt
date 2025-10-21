@@ -3,6 +3,9 @@ payload:
 - +.sseinfo.com
 - +.szse.cn
 - +.cninfo.com.cn
+- +.hsbc.com.cn
+- +.hsbcqh.com.cn
+- +.hsbcinsurance.com.cn
 - +.ajzq.com
 - +.avicsec.com
 - +.ccnew.com
@@ -44,7 +47,6 @@ payload:
 - +.gsgh.cn
 - +.gszq.com
 - +.gtja.com
-- +.gtja.com
 - +.guodu.com
 - +.guosen.com.cn
 - +.gyzq.com.cn
@@ -54,7 +56,6 @@ payload:
 - +.hlzqgs.com
 - +.hongtastock.com
 - +.hrsec.com.cn
-- +.hsbcqh.com.cn
 - +.htsc.com.cn
 - +.htsec.com
 - +.huajingsec.com

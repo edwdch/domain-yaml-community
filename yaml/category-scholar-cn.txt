@@ -80,7 +80,6 @@ payload:
 - +.rdfybk.com
 - +.resset.com
 - +.sciencechina.cn
-- +.sslibrary.com
 - +.tokyotrial.cn
 - +.tongxianghuicn.com
 - +.twscholar.com

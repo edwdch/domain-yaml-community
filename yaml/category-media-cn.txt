@@ -216,3 +216,4 @@ payload:
 - +.anzhuo.cn
 - +.idcquan.com
 - +.admin5.com
+- +.jxpp.com

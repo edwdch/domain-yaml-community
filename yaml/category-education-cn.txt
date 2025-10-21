@@ -109,3 +109,4 @@ payload:
 - +.neoscholar.com
 - +.neoschool.com
 - +.winyoungreading.com
+- +.saduck.top

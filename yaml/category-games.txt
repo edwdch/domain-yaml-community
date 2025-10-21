@@ -195,7 +195,6 @@ payload:
 - +.longtugame.com
 - +.morefreegame.com
 - +.heavenlywind.cc
-- +.steampp.net
 - +.tgpro.top
 - +.tgprocs.net
 - +.winegame.net
