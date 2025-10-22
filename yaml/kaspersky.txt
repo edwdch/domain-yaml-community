@@ -1,0 +1,3 @@
+payload:
+- +.kaspersky-labs.com
+- +.kaspersky.com

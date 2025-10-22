@@ -253,6 +253,7 @@ payload:
 - +.etnetchina.com.cn
 - +.cn-cdn1.skymansion.net
 - +.tvbc.com.cn
+- +.cn.eset.com
 - +.rpglogs.cn
 - +.lsplayer.com
 - +.yeshen.com

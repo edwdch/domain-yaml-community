@@ -1,4 +1,13 @@
 payload:
+- +.ac.ir
+- +.edu.ir
+- +.iau.ac.ir
+- +.iranlms.ir
+- +.jtt.ir
+- +.sanjesh.org
+- +.sharif.edu
+- +.sharif.ir
+- +.srttu.edu
 - +.cam.ac.uk
 - +.cambridge.org
 - +.cambridgeschoolshakespeare.com
@@ -5569,15 +5578,6 @@ payload:
 - +.zeplerinstitute.ac.uk
 - +.zoonoses.ac.uk
 - +.zoonosis.ac.uk
-- +.ac.ir
-- +.edu.ir
-- +.iau.ac.ir
-- +.iranlms.ir
-- +.jtt.ir
-- +.sanjesh.org
-- +.sharif.edu
-- +.sharif.ir
-- +.srttu.edu
 - +.apa.org
 - +.psyccareers.com
 - +.newisiknowledge.com
@@ -5841,12 +5841,13 @@ payload:
 - +.aimsciences.org
 - +.airiti.com
 - +.airitilibrary.com
-- +.altmetric.com
 - +.alexanderstreet.com
+- +.alphaxiv.org
+- +.altmetric.com
 - +.amdigital.co.uk
 - +.ams.org
-- +.anatomy.tv
 - +.analytictech.com
+- +.anatomy.tv
 - +.annualreviews.org
 - +.aps.org
 - +.arabidopsis.org
@@ -5906,6 +5907,7 @@ payload:
 - +.heinonline.org
 - +.highwirepress.com
 - +.hindawi.com
+- +.hotcrp.com
 - +.icevirtuallibrary.com
 - +.icsd.fiz-karlsruhe.de
 - +.igi-global.com
@@ -5940,6 +5942,7 @@ payload:
 - +.neurology.org
 - +.nii.ac.jp
 - +.oecd-ilibrary.org
+- +.openreview.net
 - +.optica.org
 - +.osapublishing.org
 - +.ovid.com
@@ -5965,6 +5968,8 @@ payload:
 - +.scitation.org
 - +.semanticscholar.org
 - +.siam.org
+- +.sigcomm.org
+- +.sigops.org
 - +.silverchair-cdn.com
 - +.spiedigitallibrary.org
 - +.statsmakemecry.com
@@ -5979,6 +5984,7 @@ payload:
 - +.ucla.edu
 - +.umass.edu
 - +.usaco.org
+- +.usenix.org
 - +.westlaw.com
 - +.wiley.com
 - +.wolterskluwer.com
@@ -5987,9 +5993,9 @@ payload:
 - +.zenodo.org
 - angle.com.tw
 - beck-online.beck.de
-- dl.begellhouse.com
 - databank.worldbank.org
 - database.asahi.com
+- dl.begellhouse.com
 - elib.maruzen.co.jp
 - firstsearch.oclc.org
 - muse.jhu.edu
