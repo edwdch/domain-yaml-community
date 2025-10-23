@@ -43,3 +43,4 @@ payload:
 - +.yandexcom.net
 - +.yandexwebcache.org
 - +.yastatic.net
+- +.kinopoisk.ru

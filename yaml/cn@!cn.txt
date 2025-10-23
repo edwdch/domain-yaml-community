@@ -73,6 +73,7 @@ payload:
 - +.aw-d.tripcdn.com
 - +.aw-p.tripcdn.com
 - +.aw-s.tripcdn.com
+- +.thepoizon.ru
 - +.jd.co.th
 - +.jd.hk
 - +.jd.id

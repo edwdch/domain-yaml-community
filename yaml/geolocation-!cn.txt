@@ -66,6 +66,7 @@ payload:
 - +.jasper.ai
 - +.chutes.ai
 - +.copilot.microsoft.com
+- +.devin.ai
 - +.diabrowser.com
 - +.dify.ai
 - +.gateway.ai.cloudflare.com
@@ -3054,6 +3055,9 @@ payload:
 - +.pod-15-sunco-ws.zendesk.com
 - +.xhpjc6-cdn-settings.appsflyersdk.com
 - +.rp-static-apne1.s3.ap-northeast-1.amazonaws.com
+- +.straitsx.com
+- d3r7nsslvs6aaf.cloudfront.net
+- straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 - +.trustwallet.com
 - +.wisecoin.com
 - +.wiseid.com
@@ -10795,6 +10799,12 @@ payload:
 - ubisoft-orbit-savegames.s3.amazonaws.com
 - ubistatic3-a.akamaihd.net
 - uplaypc-s-ubisoft.cdn.ubi.com
+- datarouter.apps.netherrealm.com
+- wb-agora-hydra-file-storage-k1.s3.amazonaws.com
+- +.warnerbrosgames.com
+- +.wbagora.com
+- +.wbgames.com
+- +.wbinsights.com
 - +.asobostudio.com
 - +.flightsimulator.com
 - flightsimulator.azureedge.net
@@ -29338,6 +29348,7 @@ payload:
 - +.yandexcom.net
 - +.yandexwebcache.org
 - +.yastatic.net
+- +.kinopoisk.ru
 - +.grok.com
 - +.x.ai
 - +.teamviewer.cn
