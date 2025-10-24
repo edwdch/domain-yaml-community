@@ -54,6 +54,7 @@ payload:
 - +.janrain.biz
 - +.janrainservices.com
 - +.skycdn.com.cn
+- +.cf-china.info
 - +.cf-ns.com
 - +.cf-ns.net
 - +.cf-ns.site
@@ -852,8 +853,6 @@ payload:
 - +.gvt2-cn.com
 - +.hpstore.cn
 - +.intel.cn
-- +.intel.com.cn
-- +.intelrealsense.cn
 - +.21vbc.com
 - +.21vbluecloud.com
 - +.21vbluecloud.net

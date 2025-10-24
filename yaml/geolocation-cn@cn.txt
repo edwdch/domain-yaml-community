@@ -24,6 +24,7 @@ payload:
 - +.amzndns-cn.cn
 - +.amzndns-cn.com
 - +.amzndns-cn.net
+- +.cf-china.info
 - +.cf-ns.com
 - +.cf-ns.net
 - +.cf-ns.site

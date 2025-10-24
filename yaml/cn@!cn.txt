@@ -91,6 +91,8 @@ payload:
 - +.th.weibo.com
 - +.tw.weibo.com
 - +.us.weibo.com
+- +.deepin.io
+- +.deepin.org
 - +.alibabacloud.co.in
 - +.alibabacloud.com.au
 - +.alibabacloud.com.hk

@@ -4,8 +4,14 @@ payload:
 - +.intellinuxgraphics.com
 - +.intellinuxgraphics.net
 - +.oneapi.com
+- +.oneapi.io
+- +.opencas.io
+- +.opendroneid.org
+- +.openvino.ai
 - +.openvinotoolkit.org
+- +.renderingtoolkit.org
 - +.snap-telemetry.io
+- +.universalscalablefirmware.org
 - +.acpica.com
 - +.clearlinux.org
 - +.ospray.net

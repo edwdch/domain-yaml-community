@@ -57,6 +57,10 @@ payload:
 - +.lineshoppingseller.com
 - +.linetv.tw
 - +.nhncorp.jp
+- +.mail.com
+- +.ui-portal.de
+- +.uicdn.com
+- +.uimserv.net
 - +.arewereadyyet.com
 - +.cinny.in
 - +.element.io
@@ -70,6 +74,15 @@ payload:
 - +.m.me
 - +.messenger.com
 - +.nbabot.net
+- +.pm.me
+- +.proton.me
+- +.protonmail.ch
+- +.protonmail.com
+- +.protonstatus.com
+- +.protontech.ch
+- +.protonvpn.ch
+- +.protonvpn.com
+- +.protonweb.com
 - +.signal.art
 - +.signal.group
 - +.signal.link

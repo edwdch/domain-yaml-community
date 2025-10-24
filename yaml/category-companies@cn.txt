@@ -557,8 +557,6 @@ payload:
 - +.gvt2-cn.com
 - +.hpstore.cn
 - +.intel.cn
-- +.intel.com.cn
-- +.intelrealsense.cn
 - +.21vbc.com
 - +.21vbluecloud.com
 - +.21vbluecloud.net

@@ -492,6 +492,7 @@ payload:
 - +.whisolutions.com
 - +.wrenchead.com
 - ebay-25-assets.s3-us-west-1.amazonaws.com
+- +.ebuyer.com
 - +.farfetch-apps.com
 - +.farfetch-contents.com
 - +.farfetch.cn

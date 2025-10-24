@@ -165,6 +165,11 @@ payload:
 - +.pub.dev
 - +.fontawesome.com
 - +.fortawesome.com
+- +.framer.com
+- +.framer.website
+- +.framercanvas.com
+- +.framerstatic.com
+- +.framerusercontent.com
 - +.fury.blog
 - +.fury.co
 - +.fury.dev
@@ -237,8 +242,14 @@ payload:
 - +.intellinuxgraphics.com
 - +.intellinuxgraphics.net
 - +.oneapi.com
+- +.oneapi.io
+- +.opencas.io
+- +.opendroneid.org
+- +.openvino.ai
 - +.openvinotoolkit.org
+- +.renderingtoolkit.org
 - +.snap-telemetry.io
+- +.universalscalablefirmware.org
 - +.acpica.com
 - +.clearlinux.org
 - +.ospray.net
