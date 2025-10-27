@@ -117,6 +117,12 @@ payload:
 - +.myhtlmebook.com
 - +.newhtbook.com
 - +.urhtbooks.com
+- +.h-chan.me
+- +.hentai-chan.com
+- +.hentai-chan.live
+- +.hentaichan.live
+- +.hentaichan.me
+- +.imgschan.xyz
 - +.hentaivn.de
 - +.hentaivn.la
 - +.hentaivn.net
@@ -6040,6 +6046,7 @@ payload:
 - +.xshaker.net
 - +.xshr.online
 - +.xsijishe.com
+- +.xsijishe.net
 - +.xslist.org
 - +.xstas.biz
 - +.xsvod.xyz
