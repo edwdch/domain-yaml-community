@@ -29,6 +29,8 @@ payload:
 - +.ldstatic.com
 - +.5i01.com
 - +.mobile01.com
+- +.deepflood.com
+- +.nodeseek.com
 - +.pimg.tw
 - +.pixanalytics.com
 - +.pixfs.net
