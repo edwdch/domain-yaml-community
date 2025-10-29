@@ -63,6 +63,11 @@ payload:
 - +.sl916.com
 - +.cowlevel.net
 - +.cdncl.net
+- +.hero.com
+- +.herogame.com
+- +.heroesports.com
+- +.shyxhy.com
+- +.yingxiong.com
 - +.kurogames.com
 - +.aki-game.com
 - +.mhystatic.com
@@ -838,10 +843,13 @@ payload:
 - +.fitgirl-repacks.site
 - +.game-repack.site
 - +.humblebundle.com
+- +.joinsquad.com
 - +.loverslab.com
 - +.minecraft.wiki
 - +.modrinth.com
 - +.nexusmods.com
+- +.offworldindustries.com
+- +.offworldindustries.net
 - +.papermc.io
 - +.planetminecraft.com
 - +.prismlauncher.org

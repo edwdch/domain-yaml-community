@@ -46,6 +46,14 @@ payload:
 - +.cncqcloud.com
 - +.computeinit.com
 - +.coolsite.vip
+- +.dcloudlive.com
+- +.dcloudlive.net
+- +.dcloudsp.com
+- +.dcloudsp.net
+- +.dcloudstc.com
+- +.dcloudstc.net
+- +.dcloudvod.com
+- +.dcloudvod.net
 - +.dnsv1.com
 - +.dnsv1.com.cn
 - +.dothework.cn
@@ -163,6 +171,7 @@ payload:
 - +.tencentcos.cn
 - +.tencentcos.com
 - +.tencentcos.com.cn
+- +.tencentcs.cn
 - +.tencentcs.com
 - +.tencentdayu.com
 - +.tencentdb.com

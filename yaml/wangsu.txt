@@ -3,6 +3,7 @@ payload:
 - +.8686c.com
 - +.cdn20.com
 - +.cdn30.org
+- +.cdnmg.com
 - +.chinanetcenter.com
 - +.lxdns.cn
 - +.lxdns.com
@@ -21,6 +22,7 @@ payload:
 - +.wscdns.com
 - +.wscdns.info
 - +.wscdns.org
+- +.wsdvs.com
 - +.wsglb.com
 - +.wsglb.net
 - +.wswebcdn.com

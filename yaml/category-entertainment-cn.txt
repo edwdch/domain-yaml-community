@@ -63,6 +63,11 @@ payload:
 - +.sl916.com
 - +.cowlevel.net
 - +.cdncl.net
+- +.hero.com
+- +.herogame.com
+- +.heroesports.com
+- +.shyxhy.com
+- +.yingxiong.com
 - +.kurogames.com
 - +.aki-game.com
 - +.mhystatic.com
