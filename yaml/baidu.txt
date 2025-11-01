@@ -183,6 +183,7 @@ payload:
 - +.bce-cdn.com
 - +.bce-cdn.net
 - +.bcebos.com
+- +.bcelive.com
 - +.bdcloudapi.com
 - +.bdimg.com
 - +.bdstatic.com
@@ -218,6 +219,7 @@ payload:
 - +.tiebaimg.com
 - +.xianfae.com
 - +.xiaodutv.com
+- +.yoojia.com
 - +.duxiaoman-int.com
 - +.duxiaoman.com
 - +.duxiaomanfintech.com

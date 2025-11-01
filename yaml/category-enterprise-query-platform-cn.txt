@@ -1,5 +1,7 @@
 payload:
 - +.aiqicha.baidu.com
+- +.aiqicha.cn
+- +.aiqicha.com
 - +.hongdunwang.com.cn
 - +.qcc.com
 - +.qichacha.com

@@ -988,7 +988,10 @@ payload:
 - +.roomeet.cn
 - +.xinchong.com
 - +.zhuancorp.com
+- +.zhuaninc.com
+- +.zhuanspirit.cn
 - +.zhuanspirit.com
+- +.zhuanstatic.com
 - +.zhuanzhuan.com
 - +.c-ctrip.com
 - +.colinker.com
@@ -2168,6 +2171,7 @@ payload:
 - +.saayaa.com
 - +.win7china.com
 - +.win8china.com
+- +.zuihuimai.com
 - +.binglianhuajianzhan.com
 - +.ggoplay.com
 - +.ggowan.com
@@ -3685,6 +3689,7 @@ payload:
 - +.bce-cdn.com
 - +.bce-cdn.net
 - +.bcebos.com
+- +.bcelive.com
 - +.bdcloudapi.com
 - +.bdimg.com
 - +.bdstatic.com
@@ -3720,6 +3725,7 @@ payload:
 - +.tiebaimg.com
 - +.xianfae.com
 - +.xiaodutv.com
+- +.yoojia.com
 - +.duxiaoman-int.com
 - +.duxiaoman.com
 - +.duxiaomanfintech.com
@@ -5777,6 +5783,7 @@ payload:
 - +.vivo.com
 - +.vivo.com.cn
 - +.vivoglobal.com
+- +.vvstc.com
 - +.a.market.xiaomi.com
 - +.ad.intl.xiaomi.com
 - +.ad.mi.com
@@ -5873,6 +5880,7 @@ payload:
 - www.ztedevices.com
 - ztedevices.com
 - +.huorong.cn
+- +.quickapp.cn
 - +.socpk.com
 - +.udesk.cn
 - +.fdcyun.com
@@ -5926,6 +5934,7 @@ payload:
 - +.chinatelecom.com.cn
 - +.chinatelecomglobal.com
 - +.chntel.com
+- +.vnet.cn
 - +.chinatelecomhk.com
 - +.10010.com
 - +.10010.com.cn
@@ -6004,6 +6013,8 @@ payload:
 - +.sinopecnews.com.cn
 - +.sinopecsales.com
 - +.aiqicha.baidu.com
+- +.aiqicha.cn
+- +.aiqicha.com
 - +.hongdunwang.com.cn
 - +.qcc.com
 - +.qichacha.com

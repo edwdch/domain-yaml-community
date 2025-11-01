@@ -393,6 +393,7 @@ payload:
 - +.redhat.org
 - +.scala-lang.org
 - +.scala-sbt.org
+- +.sentry.io
 - +.sourcehut.org
 - +.sr.ht
 - +.askubuntu.com
