@@ -19,6 +19,9 @@ payload:
 - +.aliyundrive.com
 - +.aliyundrive.net
 - +.yunpan.aliyun.com
+- +.c-t.work
+- +.cowcs.com
+- +.cowtransfer.com
 - +.baidupan.com
 - +.ilanzou.com
 - +.lanosso.com

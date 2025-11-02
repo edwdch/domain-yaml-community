@@ -30339,3 +30339,4 @@ payload:
 - +.windy.com
 - +.xdty.org
 - +.xingrz.me
+- +.immersivetranslate.com

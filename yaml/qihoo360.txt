@@ -75,6 +75,7 @@ payload:
 - +.namiso.com
 - +.nicaifu.com
 - +.nzwgs.com
+- +.qh-cdn.com
 - +.qhcdn.com
 - +.qhimg.com
 - +.qhimgs0.com
