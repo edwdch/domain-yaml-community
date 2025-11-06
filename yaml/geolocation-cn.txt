@@ -5700,7 +5700,6 @@ payload:
 - +.qidian.com
 - +.readnovel.com
 - +.tingbook.com
-- +.webnovel.com
 - +.xs8.cn
 - +.xxsy.net
 - +.qq.xn--fiqs8s

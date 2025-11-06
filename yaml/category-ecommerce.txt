@@ -501,6 +501,8 @@ payload:
 - +.farfetch.net
 - +.farfetch.net.cn
 - +.fflnk.net
+- +.ggsel.com
+- +.ggsel.net
 - +.chimeforchange.org
 - +.gucci.cn
 - +.gucci.com
