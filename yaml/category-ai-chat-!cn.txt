@@ -10,6 +10,12 @@ payload:
 - +.cursor.com
 - +.cursor.sh
 - +.cursorapi.com
+- +.cici.com
+- +.ciciai.com
+- +.ciciaicdn.com
+- +.dola.com
+- +.elevenlabs.com
+- +.elevenlabs.io
 - +.deepmind.com
 - +.deepmind.google
 - +.geller-pa.googleapis.com
