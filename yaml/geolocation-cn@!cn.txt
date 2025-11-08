@@ -79,10 +79,10 @@ payload:
 - +.jd.id
 - +.jd.ru
 - +.supercell.com
+- upos-hz-mirrorakam.akamaized.net
 - +.bilibili.tv
 - +.biliintl.com
 - +.dreamcast.hk
-- upos-hz-mirrorakam.akamaized.net
 - +.iq.com
 - +.hk.weibo.com
 - +.my.weibo.com

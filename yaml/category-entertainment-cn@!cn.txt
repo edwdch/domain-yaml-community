@@ -1,7 +1,7 @@
 payload:
 - +.supercell.com
+- upos-hz-mirrorakam.akamaized.net
 - +.bilibili.tv
 - +.biliintl.com
 - +.dreamcast.hk
-- upos-hz-mirrorakam.akamaized.net
 - +.iq.com

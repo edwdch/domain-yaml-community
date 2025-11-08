@@ -3846,6 +3846,7 @@ payload:
 - +.jules.google.com
 - +.labs.google
 - +.aisandbox-pa.googleapis.com
+- +.aida.googleapis.com
 - +.deepmind.com
 - +.deepmind.google
 - +.geller-pa.googleapis.com
@@ -3868,6 +3869,7 @@ payload:
 - +.jules.google.com
 - +.labs.google
 - +.aisandbox-pa.googleapis.com
+- +.aida.googleapis.com
 - +.googleplay.com
 - +.play-fe.googleapis.com
 - +.play-games.googleusercontent.com
