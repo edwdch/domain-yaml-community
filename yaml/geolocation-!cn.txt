@@ -10502,6 +10502,7 @@ payload:
 - +.twinmotion.com
 - +.unrealengine.com
 - +.unrealtournament.com
+- +.egdownload.fastly-edge.com
 - +.tarkov.com
 - +.eft-store.com
 - +.escapefromtarkov.com

@@ -1,6 +1,8 @@
 payload:
 - +.analog.com
 - +.arrow.cn
+- +.boe.com
+- +.boe.com.cn
 - +.bouffalolab.com
 - +.esp8266.cn
 - +.esp8266.com
@@ -13,7 +15,7 @@ payload:
 - +.hqchip.com
 - +.hqdoc.com
 - +.hqpcb.com
-- +.infineon.com
+- +.infineon.cn
 - +.fa-part.com
 - +.forface3d.com
 - +.jlc-3dp.cn
@@ -67,7 +69,6 @@ payload:
 - +.seeedstudio.com.cn
 - +.sipeed.com
 - +.maixhub.com
-- +.ti.com
 - +.ti.com.cn
 - +.wch.cn
 - +.wch-ic.com

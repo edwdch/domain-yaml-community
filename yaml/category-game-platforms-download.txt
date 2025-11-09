@@ -26,6 +26,7 @@ payload:
 - download4.epicgames.com
 - epicgames-download1.akamaized.net
 - fastly-download.epicgames.com
+- +.egdownload.fastly-edge.com
 - cloudflare.epicgamescdn.com
 - epicgames-download1-1251447533.file.myqcloud.com
 - blizzard.gcdn.cloudn.co.kr

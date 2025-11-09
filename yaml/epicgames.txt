@@ -26,3 +26,4 @@ payload:
 - +.twinmotion.com
 - +.unrealengine.com
 - +.unrealtournament.com
+- +.egdownload.fastly-edge.com

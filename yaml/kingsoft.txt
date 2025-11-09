@@ -24,6 +24,7 @@ payload:
 - +.papocket.com
 - +.wpspdf.cn
 - +.kimg.cn
+- +.kingsoft-office-service.com
 - +.kingsoft.com
 - +.ks-live.com
 - +.ksmobile.com
