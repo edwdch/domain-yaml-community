@@ -69,6 +69,8 @@ payload:
 - +.x.ai
 - +.coderabbit.ai
 - +.coderabbit.gallery.vsassets.io
+- +.cohere.ai
+- +.cohere.com
 - +.clipdrop.co
 - +.jasper.ai
 - +.chutes.ai
