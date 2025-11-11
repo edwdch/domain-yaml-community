@@ -3,3 +3,4 @@ payload:
 - apple-relay.cloudflare.com
 - apple-relay.fastly-edge.com
 - apple-relay.mask.apple-dns.net
+- gspe1-ssl.ls.apple.com
