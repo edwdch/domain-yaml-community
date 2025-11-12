@@ -1,5 +1,5 @@
 payload:
-- +.supercell.com
+- +.taptap.io
 - upos-hz-mirrorakam.akamaized.net
 - +.bilibili.tv
 - +.biliintl.com

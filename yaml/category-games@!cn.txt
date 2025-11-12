@@ -1,2 +1,2 @@
 payload:
-- +.supercell.com
+- +.taptap.io

@@ -162,7 +162,6 @@ payload:
 - +.scescdn.cn
 - +.scid.cn
 - +.scsentry.cn
-- +.supercell.com
 - +.supercellcommunity.cn
 - +.supercellsupport.cn
 - +.codm.com

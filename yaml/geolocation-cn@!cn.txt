@@ -78,7 +78,7 @@ payload:
 - +.jd.hk
 - +.jd.id
 - +.jd.ru
-- +.supercell.com
+- +.taptap.io
 - upos-hz-mirrorakam.akamaized.net
 - +.bilibili.tv
 - +.biliintl.com
@@ -262,7 +262,6 @@ payload:
 - +.ger.file.myqcloud.com
 - +.rumt-sg.com
 - +.rumt-us.com
-- +.supercell.com
 - +.tencent.co.id
 - +.tencent.com.hk
 - +.wetv.vip
