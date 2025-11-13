@@ -204,7 +204,6 @@ payload:
 - +.winegame.net
 - +.wo1wan.com
 - +.ycgame.com
-- +.3dmgame.com
 - +.ac.fun
 - +.acfun.cn
 - +.acfun.net
@@ -215,7 +214,6 @@ payload:
 - apilog-web.acfun.cn
 - +.acplay.net
 - +.dandanplay.com
-- +.ali213.net
 - +.bbtv.cn
 - +.bestv.com.cn
 - +.bestvcdn.cn
@@ -284,7 +282,6 @@ payload:
 - +.mogoo.com
 - +.sao.cn
 - +.saolife.com
-- +.dmzj.com
 - +.activity-wbsj.com
 - +.aihst8.com
 - +.amemv.cn
@@ -410,7 +407,6 @@ payload:
 - +.ja1.gamersky.com
 - +.ja2.gamersky.com
 - +.wmbd.gamersky.com
-- +.gcores.com
 - +.gitv.cn
 - +.gitv.tv
 - +.click.hunantv.com
@@ -455,7 +451,6 @@ payload:
 - +.msg2.video.qiyi.com
 - +.policy.video.iqiyi.com
 - +.yuedu.iqiyi.com
-- +.jjwxc.net
 - +.ku6.com
 - +.ku6cdn.com
 - +.ku6img.com
@@ -528,9 +523,6 @@ payload:
 - +.letvimg.com
 - +.lizhi.fm
 - +.lizhifm.com
-- +.mfuns.cn
-- +.miaopai.com
-- +.muwai.com
 - +.pplive.cn
 - +.pplive.com
 - +.pptv.com
@@ -601,7 +593,6 @@ payload:
 - +.frp-rib.com
 - +.frp-sea.com
 - +.frp-six.com
-- +.sfacg.com
 - +.61.com
 - +.taomee.com
 - +.u17.com
@@ -629,11 +620,20 @@ payload:
 - +.mmstat.com
 - +.soku.com
 - +.cibntv.net
-- +.zhanqi.tv
+- +.ldmnq.com
 - +.lsplayer.com
 - +.yeshen.com
 - +.51zmt.top
 - +.bsbsb.top
+- +.3dmgame.com
+- +.ali213.net
+- +.dmzj.com
 - +.dongqiudi.com
 - +.goka.top
+- +.jjwxc.net
+- +.mfuns.cn
+- +.miaopai.com
+- +.muwai.com
 - +.pearvideo.com
+- +.sfacg.com
+- +.zhanqi.tv

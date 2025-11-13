@@ -499,6 +499,7 @@ payload:
 - +.mingw.org
 - +.mobatek.net
 - +.mysql.com
+- +.neovim.io
 - +.nixos.org
 - +.nodesource.com
 - +.notepad-plus-plus.org

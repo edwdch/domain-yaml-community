@@ -11,5 +11,3 @@ payload:
 - +.trae.com.cn
 - +.trae.guru
 - +.yoma.cn
-- +.marscode.com
-- +.trae.ai

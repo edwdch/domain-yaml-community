@@ -8,6 +8,7 @@ payload:
 - +.tracker.gg
 - +.tracker.network
 - +.bluestacks.com
+- +.ldmnq.com
 - +.lsplayer.com
 - +.yeshen.com
 - +.maa.plus

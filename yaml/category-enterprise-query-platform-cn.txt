@@ -2,12 +2,11 @@ payload:
 - +.aiqicha.baidu.com
 - +.aiqicha.cn
 - +.aiqicha.com
-- +.hongdunwang.com.cn
 - +.qcc.com
 - +.qichacha.com
-- +.qichamao.com
 - +.qixin.com
-- +.qyyjt.cn
 - +.jindidata.com
 - +.tianyancha.com
+- +.qichamao.com
+- +.qyyjt.cn
 - +.x315.com

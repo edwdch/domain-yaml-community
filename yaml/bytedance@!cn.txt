@@ -1,5 +1,4 @@
 payload:
-- +.coze.com
 - +.byteoversea.com
 - +.muscdn.com
 - +.musical.ly
@@ -21,8 +20,6 @@ payload:
 - +.ttoverseaus.net
 - +.ttwstatic.com
 - p16-tiktokcdn-com.akamaized.net
-- +.marscode.com
-- +.trae.ai
 - +.byteglb.com
 - +.byteoversea.com
 - +.byteoversea.net

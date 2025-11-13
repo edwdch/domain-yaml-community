@@ -26,3 +26,4 @@ payload:
 - +.qutebrowser.org
 - +.vivaldi.com
 - +.waterfox.net
+- +.zen-browser.app

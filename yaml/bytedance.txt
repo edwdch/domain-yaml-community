@@ -36,7 +36,6 @@ payload:
 - +.myparallelstory.com
 - +.picpic-ai.cn
 - +.pixeldance.com
-- +.coze.com
 - +.activity-wbsj.com
 - +.aihst8.com
 - +.amemv.cn
@@ -275,8 +274,6 @@ payload:
 - +.trae.com.cn
 - +.trae.guru
 - +.yoma.cn
-- +.marscode.com
-- +.trae.ai
 - +.aigc-cloud.com
 - +.bdegnine.com
 - +.bplslb.com

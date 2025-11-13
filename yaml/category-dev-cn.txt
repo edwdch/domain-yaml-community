@@ -73,7 +73,6 @@ payload:
 - +.owsgo.com
 - +.teleows.com
 - +.saasops.tech
-- +.jinrishici.com
 - +.juejin.cn
 - +.juejin.im
 - +.xitu.io
@@ -123,7 +122,7 @@ payload:
 - +.wegamedeveloper.com
 - +.weixinbridge.com
 - +.weui.io
-- +.tipdim.org
 - +.openkylin.top
 - +.ubuntukylin.com
-- +.xueyuanjun.com
+- +.jinrishici.com
+- +.tipdm.org

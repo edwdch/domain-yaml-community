@@ -23,7 +23,6 @@ payload:
 - +.myparallelstory.com
 - +.picpic-ai.cn
 - +.pixeldance.com
-- +.coze.com
 - +.doudou.com
 - +.marscode.cn
 - +.marscode.com.cn
@@ -36,8 +35,6 @@ payload:
 - +.trae.com.cn
 - +.trae.guru
 - +.yoma.cn
-- +.marscode.com
-- +.trae.ai
 - +.bigmodel.cn
 - +.chatglm.cn
 - +.zhipuai.cn

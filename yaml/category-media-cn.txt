@@ -45,8 +45,6 @@ payload:
 - +.cns.com.cn
 - +.ecns.cn
 - +.inewsweek.cn
-- +.dgtle.com
-- +.geekpark.net
 - +.coolbuy.com
 - +.ifanr.cn
 - +.ifanr.com
@@ -135,8 +133,6 @@ payload:
 - +.itc.cn
 - +.sohu.com
 - +.sohucs.com
-- +.solidot.org
-- +.sspai.com
 - +.tmtpost.com
 - +.chaindd.com
 - +.72whys.com
@@ -156,6 +152,16 @@ payload:
 - +.ynet.cn
 - +.ynet.com
 - +.ynet.com.cn
+- +.jsbc.com
+- +.jstv.com
+- +.cztv.com
+- +.cztvcdn.com
+- +.cztvcloud.com
+- +.zjstv.com
+- +.dgtle.com
+- +.gcores.com
+- +.solidot.org
+- +.sspai.com
 - +.stcn.com
 - +.caijing.com.cn
 - +.hexun.com
@@ -218,3 +224,4 @@ payload:
 - +.idcquan.com
 - +.admin5.com
 - +.jxpp.com
+- +.woshipm.com

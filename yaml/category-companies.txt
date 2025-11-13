@@ -3246,6 +3246,11 @@ payload:
 - +.canon.uz
 - +.canonfoundation.org
 - +.canonproprinters.com
+- +.affinity.api.serifservices.com
+- +.affinity.studio
+- +.affinity-beta.s3.amazonaws.com
+- +.affinity-lessons.s3.amazonaws.com
+- +.canva.com
 - +.chegg.com
 - +.cheggcdn.com
 - +.webex.ca

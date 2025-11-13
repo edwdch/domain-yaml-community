@@ -43,7 +43,6 @@ payload:
 - +.fenbike.com
 - +.fenbilantian.cn
 - +.fenbilantian.com
-- +.zhihuishu.com
 - +.cedf.cn
 - +.cedf.org.cn
 - +.chdi.com.cn
@@ -70,6 +69,10 @@ payload:
 - +.qgzb.net
 - +.zbbm.gov.cn
 - +.zbbm.net
+- +.cugbonline.cn
+- +.zhihuishu.com
+- +.j-test.com
+- +.nattest-china.com
 - +.rainclassroom.com
 - +.yuketang.cn
 - +.yudou.cn

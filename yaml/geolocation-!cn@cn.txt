@@ -338,6 +338,7 @@ payload:
 - s18.upd.kaspersky.com
 - s19.upd.kaspersky.com
 - +.rpglogs.cn
+- +.ldmnq.com
 - +.lsplayer.com
 - +.yeshen.com
 - +.heavenlywind.cc
