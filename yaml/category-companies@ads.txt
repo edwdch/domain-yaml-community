@@ -61,9 +61,6 @@ payload:
 - +.graph.whatsapp.net
 - +.clarity.ms
 - +.nelreports.net
-- o33249.ingest.sentry.io
-- openaicom.imgix.net
-- browser-intake-datadoghq.com
 - +.samsungads.com
 - +.snapads.com
 - +.ads.yahoo.com

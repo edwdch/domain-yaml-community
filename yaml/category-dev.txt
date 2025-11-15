@@ -486,6 +486,7 @@ payload:
 - +.greenend.org.uk
 - +.hex.pm
 - +.hexdocs.pm
+- +.imageglass.org
 - +.ius.io
 - +.jenkins.io
 - +.js.org
@@ -498,6 +499,7 @@ payload:
 - +.mariadb.org
 - +.mingw.org
 - +.mobatek.net
+- +.mpv.io
 - +.mysql.com
 - +.neovim.io
 - +.nixos.org
