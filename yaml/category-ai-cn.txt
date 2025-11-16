@@ -53,3 +53,4 @@ payload:
 - +.namiso.com
 - ai.zhaomi.cn
 - +.miaoyanai.com
+- +.faxingbao.com

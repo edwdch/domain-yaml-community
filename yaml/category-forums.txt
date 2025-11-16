@@ -74,7 +74,6 @@ payload:
 - +.xda-developers.com
 - +.xdaforums.com
 - +.xdaimages.com
-- +.yamibo.com
 - bbs.boingboing.net
 - +.18p2p.com
 - +.8chan.moe

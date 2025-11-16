@@ -225,3 +225,4 @@ payload:
 - +.admin5.com
 - +.jxpp.com
 - +.woshipm.com
+- +.zhichanli.com

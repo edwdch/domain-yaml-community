@@ -544,6 +544,9 @@ payload:
 - +.18insta.com
 - +.18j.tv
 - +.18jms.com
+- +.18mh.co
+- +.18mh.me
+- +.18mh.net
 - +.18novel.xyz
 - +.18porncomic.com
 - +.18porno.tv
@@ -645,6 +648,7 @@ payload:
 - +.50dh.app
 - +.51cg1.com
 - +.51dh.site
+- +.51lieqi.com
 - +.51luoli.info
 - +.51mh.app
 - +.51pincha.cc
@@ -728,6 +732,9 @@ payload:
 - +.88kkn.com
 - +.88manhua.top
 - +.88square.com
+- +.88xkk.com
+- +.88xm.tv
+- +.88xqq.com
 - +.89.com
 - +.8kcosplay.com
 - +.8kpornvids.com
@@ -749,9 +756,12 @@ payload:
 - +.91jinman.com
 - +.91md.me
 - +.91moxiong.com
+- +.91nt.com
 - +.91oo.xyz
 - +.91porn.best
+- +.91pornforum.com
 - +.91pornplus.com
+- +.91pornvideo.com
 - +.91porny.com
 - +.91porny.store
 - +.91qk41rf.com
@@ -1364,6 +1374,7 @@ payload:
 - +.bijukujo.club
 - +.bimbim.com
 - +.bimbolive.com
+- +.bingoporno.com
 - +.bioporno.com
 - +.biqle.org
 - +.biqle.ru
@@ -1784,6 +1795,7 @@ payload:
 - +.diamondgirls.co.uk
 - +.diamondgirlstudio.com
 - +.dianapost.com
+- +.diaoda.co
 - +.diarrheafan.livedoor.blog
 - +.dickeomas.com
 - +.dickhardon.com
@@ -2147,6 +2159,7 @@ payload:
 - +.fetishpornonly.com
 - +.fetishshrine.com
 - +.fetlife.com
+- +.ffddff.com
 - +.fffucked.com
 - +.fgirl.ch
 - +.fi11.com
@@ -3505,6 +3518,7 @@ payload:
 - +.llwht88.xyz
 - +.lmm167.shop
 - +.lmmbtc.com
+- +.lms01.com
 - +.lobstertube.com
 - +.localxlist.org
 - +.loholidayhk.com
@@ -4608,6 +4622,7 @@ payload:
 - +.ppb-mod.buzz
 - +.ppe.lawyer
 - +.pplah.com
+- +.ppnnpp.com
 - +.ppp91.cc
 - +.prastitutki.ru
 - +.premium-beauty.com
@@ -4688,6 +4703,7 @@ payload:
 - +.qooqlevideo.com
 - +.qorno.com
 - +.qporno.xxx
+- +.qq33qq.com
 - +.qqbs.asia
 - +.qqbs.work
 - +.quickiepage.com
@@ -5465,6 +5481,7 @@ payload:
 - +.tkb008.xyz
 - +.tkb2233.life
 - +.tkbqf2.life
+- +.tksex.com
 - +.tktube.com
 - +.tmei-taoyuan.com
 - +.tnaflix.com
@@ -6065,8 +6082,11 @@ payload:
 - +.xvedo.net
 - +.xvideo-jp.com
 - +.xvideo.com
+- +.xvideo.org
 - +.xvideo.run
 - +.xvideo.vlog.br
+- +.xvideo1.org
+- +.xvideo2.org
 - +.xvideoporno.tv
 - +.xvideos.com
 - +.xvideos-dl.top
@@ -6338,6 +6358,7 @@ payload:
 - +.yy7y.com
 - +.yy8y.com
 - +.yyfb.cyou
+- +.yyvhhbmw.cc
 - +.yzld188.top
 - +.z00.world
 - +.z676869.com
