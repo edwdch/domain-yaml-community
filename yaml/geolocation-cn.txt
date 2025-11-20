@@ -7130,3 +7130,4 @@ payload:
 - +.mingxuan.store
 - +.qunliao.info
 - +.ao-x.ac.cn
+- +.wanji.net.cn
