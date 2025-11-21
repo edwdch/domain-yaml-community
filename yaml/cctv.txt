@@ -32,6 +32,7 @@ payload:
 - +.xn--fiq53l6wcx3kp9bc7joo6apn8a.xn--fiqs8s
 - +.xn--kprv4ewxfr9cpxcc7joo6apn8a.cn
 - +.xn--kprv4ewxfr9cpxcc7joo6apn8a.xn--fiqs8s
+- +.yangshipin.cn
 - +.zggbdszt.cn
 - +.zggbdszt.com.cn
 - +.zggbdszt.net.cn
