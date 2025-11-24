@@ -539,12 +539,9 @@ payload:
 - +.frp-air.com
 - +.frp-all.com
 - +.frp-arm.com
-- +.frp-art.com
 - +.frp-bag.com
 - +.frp-bid.com
-- +.frp-car.com
 - +.frp-dog.com
-- +.frp-dry.com
 - +.frp-egg.com
 - +.frp-era.com
 - +.frp-fan.com
@@ -558,6 +555,7 @@ payload:
 - +.frp-hip.com
 - +.frp-hub.com
 - +.frp-ice.com
+- +.frp-jar.com
 - +.frp-key.com
 - +.frp-kit.com
 - +.frp-lab.com
@@ -566,7 +564,6 @@ payload:
 - +.frp-mix.com
 - +.frp-mom.com
 - +.frp-nut.com
-- +.frp-oak.com
 - +.frp-one.com
 - +.frp-own.com
 - +.frp-pen.com
@@ -574,6 +571,8 @@ payload:
 - +.frp-run.com
 - +.frp-say.com
 - +.frp-shy.com
+- +.frp-sun.com
+- +.frp-tag.com
 - +.frp-act.com
 - +.frp-any.com
 - +.frp-bar.com
@@ -584,7 +583,6 @@ payload:
 - +.frp-end.com
 - +.frp-fun.com
 - +.frp-gap.com
-- +.frp-man.com
 - +.frp-net.com
 - +.frp-now.com
 - +.frp-off.com
@@ -593,6 +591,7 @@ payload:
 - +.frp-rib.com
 - +.frp-sea.com
 - +.frp-six.com
+- +.frp-ski.com
 - +.61.com
 - +.taomee.com
 - +.u17.com
