@@ -69,6 +69,8 @@ payload:
 - +.qgzb.net
 - +.zbbm.gov.cn
 - +.zbbm.net
+- +.cbern.com.cn
+- +.smartedu.cn
 - +.cugbonline.cn
 - +.zhihuishu.com
 - +.j-test.com

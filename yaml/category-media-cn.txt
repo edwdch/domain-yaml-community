@@ -159,8 +159,11 @@ payload:
 - +.cztvcdn.com
 - +.cztvcloud.com
 - +.zjstv.com
+- +.cqcb.com
+- +.hntv.tv
 - +.dgtle.com
 - +.gcores.com
+- +.geekpark.net
 - +.solidot.org
 - +.sspai.com
 - +.stcn.com
@@ -227,3 +230,9 @@ payload:
 - +.jxpp.com
 - +.woshipm.com
 - +.zhichanli.com
+- +.chinaaet.com
+- +.freebuf.com
+- +.iresearch.cn
+- +.qianzhan.com
+- +.secrss.com
+- +.shangyexinzhi.com
