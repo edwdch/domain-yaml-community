@@ -394,6 +394,7 @@ payload:
 - +.scala-lang.org
 - +.scala-sbt.org
 - +.sentry.io
+- +.sentry-cdn.com
 - +.sourcehut.org
 - +.sr.ht
 - +.askubuntu.com

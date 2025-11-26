@@ -24,6 +24,7 @@ payload:
 - o4504926511693824.ingest.sentry.io
 - +.graph.instagram.com
 - +.graph-fallback.instagram.com
+- +.ads-twitter.com
 - +.collector.xhamster.com
 - +.ads.unitychina.cn
 - +.splash-ads.cdn.unity.cn
@@ -56,6 +57,8 @@ payload:
 - +.adwords-community.com
 - +.adwords.com
 - +.adwordsexpress.com
+- +.app-analytics-services.com
+- +.app-analytics-services-att.com
 - +.app-measurement-cn.com
 - +.app-measurement.com
 - +.doubleclick-cn.net
@@ -65,6 +68,7 @@ payload:
 - +.google-analytics-cn.com
 - +.google-analytics.com
 - +.googleadapis.com
+- +.googleadapis.l.google.com
 - +.googleads-cn.com
 - +.googleads.com
 - +.googleadservices-cn.com
@@ -83,15 +87,22 @@ payload:
 - +.googletraveladservices.com
 - +.googlevads-cn.com
 - +.mail-ads.google.com
+- +.mobileads.google.com
 - +.marketingplatform.google.com
+- +.pagead.l.google.com
+- +.partnerad.l.google.com
 - +.urchin.com
 - analytics.google.com
+- fundingchoicesmessages.google.com
 - sentry.hetzner.company
 - +.graph.instagram.com
 - +.graph-fallback.instagram.com
 - +.graph.whatsapp.com
 - +.graph.whatsapp.net
+- +.bingads.com
 - +.clarity.ms
+- +.microsoftads.com
+- +.msads.net
 - +.nelreports.net
 - +.samsungads.com
 - +.snapads.com
