@@ -2317,6 +2317,7 @@ payload:
 - +.akastream.net
 - +.akatns.net
 - +.akcdn.com.cn
+- +.akstat.io
 - +.aptdn.net
 - +.edgekey.net
 - +.edgekey88.net
@@ -24210,6 +24211,7 @@ payload:
 - +.yandex.sx
 - +.yandex.tj
 - +.yandex.tm
+- +.yandex.tr
 - +.yandex.ua
 - +.yandex.uz
 - +.yandexadexchange.net

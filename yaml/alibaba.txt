@@ -216,6 +216,7 @@ payload:
 - +.alihealth.hk
 - +.aliimg.com
 - +.alikmd.com
+- +.alimama.cn
 - +.alimama.com
 - +.alimebot.com
 - +.alimei.com
@@ -259,6 +260,7 @@ payload:
 - +.ialicdn.com
 - +.iconfont.cn
 - +.ics.design
+- +.imgcook.com
 - +.jhgtgb.com
 - +.kanbox.com
 - +.lazada.com
@@ -281,6 +283,7 @@ payload:
 - +.shuqireader.com
 - +.sparenode.com
 - +.supet.com
+- +.tanx.com
 - +.ttpod.com
 - +.wandoujia.com
 - +.xin.xin
@@ -314,6 +317,7 @@ payload:
 - +.mashort.cn
 - +.pailitao.com
 - +.taobao.com
+- +.taobao.net
 - +.taobao.org
 - +.taobaocdn.com
 - +.taobizhong.com
@@ -327,6 +331,7 @@ payload:
 - +.tmalltv.com
 - +.tmjl.ai
 - +.cueme.cn
+- +.myquark.cn
 - +.quark.cn
 - +.alitrip.com
 - +.feizhu.cn

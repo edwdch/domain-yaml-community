@@ -189,6 +189,13 @@ payload:
 - +.xd.com
 - +.xdcdn.net
 - +.xindong.com
+- +.dobest.com
+- +.langrenclub.com
+- +.sanguosha.com
+- +.xhlsgs.com
+- +.xinwuji.com
+- +.yokaverse.com
+- +.zhuoyou.com
 - +.9xgame.com
 - +.astral-vector.com
 - +.forevernine.com
@@ -201,6 +208,9 @@ payload:
 - +.heavenlywind.cc
 - +.tgpro.top
 - +.tgprocs.net
+- +.tuyoo.com
+- +.wanmei.com
+- +.wmsj.cn
 - +.winegame.net
 - +.wo1wan.com
 - +.ycgame.com

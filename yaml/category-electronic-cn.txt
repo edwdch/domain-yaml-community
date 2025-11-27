@@ -72,3 +72,6 @@ payload:
 - +.ti.com.cn
 - +.wch.cn
 - +.wch-ic.com
+- +.ymtc.com
+- +.ymtc.com.cn
+- +.ymtc.cn
