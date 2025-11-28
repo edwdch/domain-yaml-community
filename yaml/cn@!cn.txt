@@ -112,6 +112,8 @@ payload:
 - +.oss-us-east-1.aliyuncs.com
 - +.oss-us-west-1.aliyuncs.com
 - +.alihealth.hk
+- +.ae-rus.net
+- +.aestatic.net
 - +.aliexpress.ru
 - +.alipay.hk
 - +.alipaymo.com

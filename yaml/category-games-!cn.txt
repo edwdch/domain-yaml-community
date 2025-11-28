@@ -488,6 +488,16 @@ payload:
 - +.riotforgegames.com
 - +.ruinedking.com
 - +.convrgencegame.com
+- +.rblx.org
+- +.rbx.com
+- +.rbxcdn.com
+- +.roblox-api.arkoselabs.co
+- +.roblox.com
+- +.robloxlabs.com
+- d1unuk07s6td74.cloudfront.net
+- roblox-load-generator-configuration.s3.us-east-2.amazonaws.com
+- roblox-poc.global.ssl.fastly.net
+- robloxcorp.s.llnwi.net
 - +.rockstargames.com
 - +.rsg.sc
 - gamedownloads-rockstargames-com.akamaized.net

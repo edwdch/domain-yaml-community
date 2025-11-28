@@ -293,8 +293,11 @@ payload:
 - +.yunos.com
 - +.yushanfang.com
 - +.zuodao.com
+- +.ae-rus.net
+- +.aestatic.net
 - +.aliexpress.com
 - +.aliexpress.ru
+- +.aliexpress-media.com
 - +.alipayplus.com
 - +.alipay.hk
 - +.alipaymo.com
