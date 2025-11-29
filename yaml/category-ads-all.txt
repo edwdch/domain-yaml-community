@@ -185,7 +185,9 @@ payload:
 - +.sabavision.com
 - +.tapsell.ir
 - +.yektanet.com
-- +.x.clearbitjs.com
+- +.clearbit.com
+- +.clearbitjs.com
+- +.clearbitscripts.com
 - +.ad.games.dmm.com
 - +.bluekai.com
 - +.fout.jp
@@ -292,7 +294,6 @@ payload:
 - +.ads.service.kugou.com
 - +.adserviceretry.kglink.cn
 - +.adserviceretry.kugou.com
-- +.leanplum.com
 - +.apple.www.letv.com
 - +.ark.letv.com
 - +.dc.letv.com
@@ -304,7 +305,6 @@ payload:
 - +.graph-fallback.instagram.com
 - +.graph.whatsapp.com
 - +.graph.whatsapp.net
-- +.decide.mixpanel.com
 - +.mopub.com
 - +.evt.mxplay.com
 - +.a.youdao.com
@@ -323,7 +323,6 @@ payload:
 - +.ogury.com
 - +.presage.io
 - +.ogury.co
-- +.onesignal.com
 - +.openx.net
 - +.openxadexchange.com
 - +.openxcdn.net
@@ -340,7 +339,10 @@ payload:
 - +.s.360.cn
 - +.s.so.360.cn
 - +.s.union.360.cn
-- +.cdn.segment.com
+- +.segment.com
+- +.segment.io
+- +.segmenthub.com
+- +.segmentify.com
 - +.static.sensorsdata.cn
 - +.ad.sina.com.cn
 - +.ad.us.sinaimg.cn
@@ -469,7 +471,6 @@ payload:
 - +.unityads.unity.cn
 - +.unityads.unity3d.com
 - +.unityads.unitychina.cn
-- +.ads.wteam.xyz
 - +.collector.xhamster.com
 - +.a.market.xiaomi.com
 - +.ad.intl.xiaomi.com
@@ -523,6 +524,7 @@ payload:
 - +.adbutter.net
 - +.addthisedge.com
 - +.ads.trafficjunky.net
+- +.ads.wteam.xyz
 - +.adtechus.com
 - +.adtrue.com
 - +.adxprtz.com
@@ -531,6 +533,7 @@ payload:
 - +.cfts1tifqr.com
 - +.contentabc.com
 - +.cretgate.com
+- +.decide.mixpanel.com
 - +.ero-advertising.com
 - +.eroadvertising.com
 - +.exoclick.com
@@ -547,10 +550,12 @@ payload:
 - +.jl3.yjaxa.top
 - +.juicyads.com
 - +.kepler-37b.com
+- +.leanplum.com
 - +.lqc006.com
 - +.moat.com
 - +.moatads.com
 - +.mobwithad.com
+- +.onesignal.com
 - +.realsrv.com
 - +.s4yxaqyq95.com
 - +.shhs-ydd8x2.yjrmss.cn

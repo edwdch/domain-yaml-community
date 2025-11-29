@@ -1,2 +1,5 @@
 payload:
-- +.cdn.segment.com
+- +.segment.com
+- +.segment.io
+- +.segmenthub.com
+- +.segmentify.com

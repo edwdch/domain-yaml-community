@@ -5770,6 +5770,9 @@ payload:
 - lastfm.freetls.fastly.net
 - +.litv.tv
 - +.litvfreepc.akamaized.net
+- +.ofiii.com
+- ntdofifreepc-tgc.cdn.hinet.net
+- ntdofifreevcpc-tgc.cdn.hinet.net
 - +.manhuagui.com
 - +.mubi.com
 - +.mubicdn.net
@@ -5952,7 +5955,6 @@ payload:
 - +.themoviedb.org
 - +.tmdb.org
 - tmdb-image-prod.b-cdn.net
-- +.thetvdb.com
 - +.dogatch.jp
 - +.gorin.jp
 - +.screens-lab.jp
@@ -6227,7 +6229,6 @@ payload:
 - +.internationalsaimoe.com
 - +.joox.com
 - +.linetv.tw
-- +.litv.tv
 - +.megaphone.fm
 - +.mikanani.me
 - +.moov.hk
