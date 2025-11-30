@@ -127,6 +127,9 @@ payload:
 - +.mycdn.me
 - +.okcdn.ru
 - +.ok.ru
+- +.playfamily.ru
+- +.okko.sport
+- +.okko.tv
 - +.ozon.ru
 - +.ozone.ru
 - +.ozonusercontent.com
