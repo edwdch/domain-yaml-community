@@ -74,6 +74,7 @@ payload:
 - +.poe.com
 - +.poecdn.net
 - +.grok.com
+- +.grok.x.com
 - +.x.ai
 - +.coderabbit.ai
 - +.coderabbit.gallery.vsassets.io
@@ -22517,6 +22518,7 @@ payload:
 - +.whatsapp.org
 - +.whatsapp.tv
 - +.whatsappbrand.com
+- +.llama.com
 - +.meta.ai
 - +.meta.com
 - +.21vbc.com
@@ -24192,6 +24194,7 @@ payload:
 - +.dzen.ru
 - +.naydex.net
 - +.rostaxi.org
+- +.turbopages.org
 - +.webvisor.com
 - +.webvisor.org
 - +.ya.ru
