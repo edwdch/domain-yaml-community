@@ -121,6 +121,13 @@ payload:
 - +.tg.dev
 - +.tx.me
 - +.usercontent.dev
+- +.temp-mail.org
+- +.viber.com
+- +.viber.co
+- +.viber.me
+- +.s-bid.rmp.rakuten.com
+- +.vbcdn.com
+- +.vbcdn.net
 - +.graph.whatsapp.com
 - +.graph.whatsapp.net
 - +.wa.me

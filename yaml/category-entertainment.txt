@@ -277,6 +277,7 @@ payload:
 - +.itch.io
 - +.itch.zone
 - +.lowiro.com
+- +.modrinth.com
 - +.nexon.co.jp
 - +.nexon.com
 - +.nexon.io
@@ -651,7 +652,6 @@ payload:
 - +.joinsquad.com
 - +.loverslab.com
 - +.minecraft.wiki
-- +.modrinth.com
 - +.nexusmods.com
 - +.offworldindustries.com
 - +.offworldindustries.net
@@ -665,6 +665,8 @@ payload:
 - +.ptzwx.com
 - +.quanben-xiaoshuo.com
 - +.quanben.io
+- +.7tv.app
+- +.7tv.io
 - +.abema.io
 - +.abema.tv
 - +.abema-tv.com
@@ -1051,6 +1053,7 @@ payload:
 - ntdofifreepc-tgc.cdn.hinet.net
 - ntdofifreevcpc-tgc.cdn.hinet.net
 - +.manhuagui.com
+- +.metacritic.com
 - +.mubi.com
 - +.mubicdn.net
 - +.biggggg.com
@@ -1159,6 +1162,9 @@ payload:
 - +.ravm.tv
 - +.roku.com
 - +.rokutime.com
+- +.rutube.ru
+- +.rutubelist.ru
+- +.rtbcdn.ru
 - +.showtimeanytime.com
 - +.showtime.com
 - +.dishworld.com

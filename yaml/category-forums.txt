@@ -21,6 +21,8 @@ payload:
 - +.broadbandreports.com
 - +.dslr.net
 - +.dslreports.com
+- +.habr.com
+- +.habrastorage.org
 - +.hkgolden.com
 - +.hkgolden.media
 - +.lih.kg

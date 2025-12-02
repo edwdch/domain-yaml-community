@@ -119,6 +119,8 @@ payload:
 - +.jamal.ru
 - +.surgut.ru
 - +.yamal.ru
+- +.habr.com
+- +.habrastorage.org
 - +.boosty.to
 - +.donationalerts.com
 - +.imgsmail.ru
@@ -133,6 +135,9 @@ payload:
 - +.ozon.ru
 - +.ozone.ru
 - +.ozonusercontent.com
+- +.rutube.ru
+- +.rutubelist.ru
+- +.rtbcdn.ru
 - +.cdn-vk.ru
 - +.mradx.net
 - +.mvk.com
