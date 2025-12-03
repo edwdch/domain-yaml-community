@@ -7,6 +7,10 @@ payload:
 - +.todesk.com
 - +.asklink.com
 - +.privateapi.xyz
+- +.xedge.cc
+- +.glxcc.net
+- +.xn0.cc
+- +.ganjiangvpn.com
 - +.tower.im
 - +.tritoninfo.net
 - +.xiumi.us
