@@ -266,7 +266,6 @@ payload:
 - +.vivoglobal.com
 - +.c.mi.com
 - +.global.market.xiaomi.com
-- ztedevices.com
 - +.speedtest.hk.chinamobile.com
 - +.speedtestbb.hk.chinamobile.com
 - +.ctexcel.ca

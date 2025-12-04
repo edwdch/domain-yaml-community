@@ -501,7 +501,9 @@ payload:
 - +.qdmm.com
 - +.qidian.com
 - +.readnovel.com
+- +.rongshuxia.com
 - +.tingbook.com
+- +.xs.cn
 - +.xs8.cn
 - +.xxsy.net
 - +.qq.xn--fiqs8s

@@ -482,6 +482,8 @@ payload:
 - e122475.dscg.akamaiedge.net
 - licdn.cn.cdn20.com
 - linkedin.sc.omtrdc.net
+- +.imgsmail.ru
+- +.mail.ru
 - +.misskey.io
 - +.misskeyusercontent.jp
 - +.9ineverse.com
@@ -516,6 +518,9 @@ payload:
 - +.submarin.online
 - +.sushi.ski
 - +.trpger.us
+- +.ok.ru
+- +.okcdn.ru
+- +.mycdn.me
 - +.threads.com
 - +.threads.net
 - +.ads-twitter.com
