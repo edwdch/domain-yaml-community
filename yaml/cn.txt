@@ -3972,6 +3972,7 @@ payload:
 - +.muscdn.com
 - +.musical.ly
 - +.tik-tokapi.com
+- +.tiktok-row.net
 - +.tiktok.com
 - +.tiktokcdn-eu.com
 - +.tiktokcdn-us.com
@@ -3979,6 +3980,8 @@ payload:
 - +.tiktokd.net
 - +.tiktokd.org
 - +.tiktokeu-cdn.com
+- +.tiktokglobalshopv.com
+- +.tiktokminis.us
 - +.tiktokrow-cdn.com
 - +.tiktokv.com
 - +.tiktokv.eu
