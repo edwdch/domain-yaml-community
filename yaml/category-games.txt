@@ -422,6 +422,10 @@ payload:
 - +.xdsummit.com
 - ea.tt.omtrdc.net
 - eaassets-a.akamaihd.net
+- +.arcraiders.com
+- +.embark-studios.com
+- +.embark.games
+- +.reachthefinals.com
 - +.3lateral.com
 - +.artstation.com
 - +.capturingreality.com
@@ -453,6 +457,8 @@ payload:
 - +.tarkov.com
 - +.eft-store.com
 - +.escapefromtarkov.com
+- +.faceit.com
+- +.faceit-cdn.net
 - avatargarenanow-a.akamaihd.net
 - cdngarenanow-a.akamaihd.net
 - dlgarenanow-a.akamaihd.net
