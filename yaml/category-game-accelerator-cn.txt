@@ -4,6 +4,7 @@ payload:
 - +.tmjiasuqi.com
 - +.uu.163.com
 - +.xunyou.com
+- +.xunyou.mobi
 - +.bohejiasuqi.com
 - +.jiasu.bohe.com
 - +.golink.com

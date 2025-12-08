@@ -214,11 +214,13 @@ payload:
 - +.kankannews.com
 - +.kksmg.com
 - +.statickksmg.com
+- +.latepost.com
 - +.nanyuenews.com
 - +.nbd.com.cn
 - +.news.cn
 - +.xinhuanet.com
 - +.xinhuaxmt.com
+- +.ofweek.com
 - +.3conline.com
 - +.pconline.com.cn
 - +.people.cn

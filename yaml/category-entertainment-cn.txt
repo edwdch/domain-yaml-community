@@ -93,6 +93,7 @@ payload:
 - +.gcloudcstestonly.com
 - +.gclouddolphin.com
 - +.gcloudsdk.com
+- +.gcloudsvcs.com
 - +.gdtimg.com
 - +.goto-game.com
 - +.goto-game.mobi
