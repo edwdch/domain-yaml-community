@@ -192,6 +192,7 @@ payload:
 - +.pglstatp-toutiao-b.com
 - +.pglstatp-toutiao.com
 - +.sf3-ttcdn-tos.pstatp.com
+- +.shoppingads.cn
 - +.clearbit.com
 - +.clearbitjs.com
 - +.clearbitscripts.com
