@@ -1,4 +1,4 @@
-name: Python Package using Conda
+name: Generate geosite-list.md
 
 on:
   push:
@@ -25,13 +25,13 @@ jobs:
         git clone https://github.com/v2fly/domain-list-community.git
         mv domain-list-community/data data/
 
-    - name: Genrate yaml files
+    - name: Generate markdown file
       run: |
         python main.py
 
     - uses: EndBug/add-and-commit@v9
       with:
-        add: 'yaml'
+        add: 'geosite-list.md'
         author_name: Edward Chen
         author_email: hi@edch.top
         message: 'Update domain-yaml-community'
