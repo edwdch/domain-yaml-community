@@ -8882,6 +8882,10 @@ payload:
 - +.pornhubpremium.com
 - +.pornpros.com
 - +.pornprosnetwork.com
+- +.poi.icu
+- +.poi6.net
+- +.poihub.com
+- +.project-poi.com
 - +.sehuatang.net
 - +.sehuatang.org
 - +.shireyishunjian.com

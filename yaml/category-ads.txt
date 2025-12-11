@@ -424,6 +424,7 @@ payload:
 - +.adslvseed.qq.com
 - +.adsmind.apdcdn.tc.qq.com
 - +.adsqqclick.qq.com
+- +.adstats.tencentmusic.com
 - +.adstestview.qq.com
 - +.adsview.qq.com
 - +.adsview2.qq.com
@@ -437,14 +438,17 @@ payload:
 - +.e.qq.com
 - +.gdt.qq.com
 - +.hq-tracking.qq.com
+- +.htrace.wetvinfo.com
 - +.isdspeed.qq.com
 - +.log.tbs.qq.com
 - +.mdt.qq.com
+- +.monitor.music.qq.com
 - +.mpush.qq.com
 - +.mtrace.qq.com
 - +.pgdt.gtimg.cn
 - +.pingjs.qq.com
 - +.push.qq.com
+- +.report.qqweb.qq.com
 - +.sngmta.qq.com
 - +.stat.y.qq.com
 - +.tajs.qq.com

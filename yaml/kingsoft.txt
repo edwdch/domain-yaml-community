@@ -15,6 +15,7 @@ payload:
 - +.wps.com
 - +.wpscdn.cn
 - +.wpscdn.com
+- +.qwps.cn
 - +.kscord.com
 - +.51dzt.com
 - +.iciba.com
