@@ -27,7 +27,7 @@ jobs:
 
     - name: Generate markdown file
       run: |
-        python main.py
+        python scripts/main.py
 
     - uses: EndBug/add-and-commit@v9
       with:
