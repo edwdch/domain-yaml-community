@@ -15,12 +15,16 @@ def run():
         f.write(f'Total: {len(files)} files\n\n')
         
         f.write(f'## Category ({len(category_files)})\n\n')
+        f.write('| Name | Source |\n')
+        f.write('| --- | --- |\n')
         for file in category_files:
-            f.write(f'- {file} [![GitHub](https://img.shields.io/badge/-source-gray?logo=github)](https://github.com/v2fly/domain-list-community/blob/master/data/{file})\n')
+            f.write(f'| {file} | [![GitHub](https://img.shields.io/badge/-source-gray?logo=github)](https://github.com/v2fly/domain-list-community/blob/master/data/{file}) |\n')
         
         f.write(f'\n## Others ({len(other_files)})\n\n')
+        f.write('| Name | Source |\n')
+        f.write('| --- | --- |\n')
         for file in other_files:
-            f.write(f'- {file} [![GitHub](https://img.shields.io/badge/-source-gray?logo=github)](https://github.com/v2fly/domain-list-community/blob/master/data/{file})\n')
+            f.write(f'| {file} | [![GitHub](https://img.shields.io/badge/-source-gray?logo=github)](https://github.com/v2fly/domain-list-community/blob/master/data/{file}) |\n')
 
     print(f"Generated geosite-list.md with {len(files)} entries.")
 
