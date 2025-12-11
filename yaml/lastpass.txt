@@ -1,4 +1,0 @@
-payload:
-- +.lastpass.com
-- +.lastpass.eu
-- +.lputil.com

@@ -1,3 +1,0 @@
-payload:
-- +.entermediadb.net
-- +.entermediadb.org

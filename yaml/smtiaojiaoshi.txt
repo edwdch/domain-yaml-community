@@ -1,3 +1,0 @@
-payload:
-- +.jhxl.org
-- +.xn--sgt856gbjl.cc

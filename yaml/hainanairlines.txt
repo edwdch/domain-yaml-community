@@ -1,5 +1,0 @@
-payload:
-- +.hainanairlines.com
-- +.hnacargo.com
-- +.hnair.com
-- +.10044.cn

@@ -1,4 +1,0 @@
-payload:
-- +.costco-static.com
-- +.costco.com
-- +.costcobusinessdelivery.com

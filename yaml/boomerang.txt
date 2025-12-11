@@ -1,3 +1,0 @@
-payload:
-- +.boomerang.com
-- +.wbdnbo.net

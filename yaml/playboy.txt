@@ -1,3 +1,0 @@
-payload:
-- +.playboy.com
-- +.playboy.com.uk

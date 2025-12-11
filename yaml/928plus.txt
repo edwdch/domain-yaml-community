@@ -1,3 +1,0 @@
-payload:
-- +.928.plus
-- +.zind.cloud

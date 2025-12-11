@@ -1,3 +1,0 @@
-payload:
-- +.elevenlabs.com
-- +.elevenlabs.io

@@ -1,3 +1,0 @@
-payload:
-- +.flathub.org
-- +.flatpak.org

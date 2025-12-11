@@ -1,4 +1,0 @@
-payload:
-- +.bigbuckbunny.org
-- +.blender.org
-- +.elephantsdream.org

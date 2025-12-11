@@ -1,5 +1,0 @@
-payload:
-- +.fontbook.com
-- +.fontshop.com
-- +.fstopimages.com
-- fontshop-prod-responsive-images.s3.amazonaws.com

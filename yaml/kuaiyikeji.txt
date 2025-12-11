@@ -1,4 +1,0 @@
-payload:
-- +.dengguobi.com
-- +.houyicaiji.com
-- +.jinglingbiaozhu.com

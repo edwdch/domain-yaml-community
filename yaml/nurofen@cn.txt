@@ -1,3 +1,0 @@
-payload:
-- +.nurofen.cn
-- +.nurofen.com.cn

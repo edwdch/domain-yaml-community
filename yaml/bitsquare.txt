@@ -1,4 +1,0 @@
-payload:
-- +.bisq.io
-- +.bisq.network
-- +.bitsquare.io

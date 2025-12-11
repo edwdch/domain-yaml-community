@@ -1,3 +1,0 @@
-payload:
-- +.ruby-china.org
-- +.rubyconfchina.org

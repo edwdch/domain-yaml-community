@@ -1,6 +1,0 @@
-payload:
-- +.apkpure.com
-- +.apkpure.net
-- +.cdnpure.com
-- +.pureapk.com
-- +.winudf.com

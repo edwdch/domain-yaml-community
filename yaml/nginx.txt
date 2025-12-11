@@ -1,3 +1,0 @@
-payload:
-- +.nginx.com
-- +.nginx.org

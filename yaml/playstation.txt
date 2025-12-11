@@ -1,4 +1,0 @@
-payload:
-- +.playstation.com
-- +.playstation.net
-- +.sonyentertainmentnetwork.com

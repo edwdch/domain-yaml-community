@@ -1,3 +1,0 @@
-payload:
-- +.itch.io
-- +.itch.zone

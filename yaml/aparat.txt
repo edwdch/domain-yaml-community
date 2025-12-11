@@ -1,4 +1,0 @@
-payload:
-- +.aparat.com
-- +.aparatkids.com
-- +.aparatsport.com

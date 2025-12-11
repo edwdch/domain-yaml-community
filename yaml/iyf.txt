@@ -1,3 +1,0 @@
-payload:
-- +.iyf.tv
-- +.yfsp.tv

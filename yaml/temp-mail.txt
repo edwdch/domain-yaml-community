@@ -1,2 +1,0 @@
-payload:
-- +.temp-mail.org

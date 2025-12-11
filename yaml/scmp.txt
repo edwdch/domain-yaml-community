@@ -1,3 +1,0 @@
-payload:
-- +.scmp.com
-- +.i-scmp.com

@@ -1,3 +1,0 @@
-payload:
-- +.getlantern.org
-- +.lantern.io

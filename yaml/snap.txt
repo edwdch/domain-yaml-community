@@ -1,8 +1,0 @@
-payload:
-- +.snapads.com
-- +.sc-cdn.net
-- +.snap-dev.net
-- +.snap.com
-- +.snapchat.com
-- +.snapkit.co
-- impala-media-production.s3.amazonaws.com

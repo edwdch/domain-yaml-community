@@ -1,3 +1,0 @@
-payload:
-- +.faceit.com
-- +.faceit-cdn.net

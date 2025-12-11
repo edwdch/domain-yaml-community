@@ -1,2 +1,0 @@
-payload:
-- +.oystermercury.top

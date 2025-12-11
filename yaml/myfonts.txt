@@ -1,3 +1,0 @@
-payload:
-- +.myfonts.com
-- +.myfonts.net

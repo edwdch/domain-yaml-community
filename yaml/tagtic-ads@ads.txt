@@ -1,3 +1,0 @@
-payload:
-- +.g1.tagtic.cn
-- +.xy-log.tagtic.cn

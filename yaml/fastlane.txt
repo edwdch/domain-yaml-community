@@ -1,3 +1,0 @@
-payload:
-- +.fastlane.ci
-- +.fastlane.tools

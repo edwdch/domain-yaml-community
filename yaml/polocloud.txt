@@ -1,3 +1,0 @@
-payload:
-- +.polocloud.net
-- +.polocloud.xyz

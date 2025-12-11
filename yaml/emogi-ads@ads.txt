@@ -1,2 +1,0 @@
-payload:
-- +.emogi.com

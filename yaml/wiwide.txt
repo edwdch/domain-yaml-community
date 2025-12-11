@@ -1,3 +1,0 @@
-payload:
-- +.wamawama.com
-- +.wiwide.com

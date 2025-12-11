@@ -1,3 +1,0 @@
-payload:
-- +.deribit.com
-- deribit.cdn.prismic.io

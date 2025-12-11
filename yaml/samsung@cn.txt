@@ -1,2 +1,0 @@
-payload:
-- +.samsungeshop.com.cn

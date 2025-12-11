@@ -1,3 +1,0 @@
-payload:
-- +.udemy.com
-- +.udemycdn.com

@@ -1,3 +1,0 @@
-payload:
-- +.watchout.tw
-- +.waa.tw

@@ -1,3 +1,0 @@
-payload:
-- +.deepin.io
-- +.deepin.org

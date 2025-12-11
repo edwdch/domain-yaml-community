@@ -1,6 +1,0 @@
-payload:
-- +.perl.apache.org
-- +.perl.org
-- +.cpan.org
-- +.metacpan.org
-- +.modperl.pl

@@ -1,4 +1,0 @@
-payload:
-- +.ptt.cc
-- +.ptt2.cc
-- +.ptt3.cc

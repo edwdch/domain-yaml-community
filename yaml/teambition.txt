@@ -1,4 +1,0 @@
-payload:
-- +.teambition.com
-- +.teambition.net
-- +.teambitionapis.com

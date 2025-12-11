@@ -1,6 +1,0 @@
-payload:
-- +.dazn-api.com
-- +.dazn.com
-- +.dazndn.com
-- +.indazn.com
-- +.indaznlab.com

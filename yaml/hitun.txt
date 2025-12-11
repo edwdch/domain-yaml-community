@@ -1,3 +1,0 @@
-payload:
-- +.hitun.io
-- +.xn--90wwvt03e.com

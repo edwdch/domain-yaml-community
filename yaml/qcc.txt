@@ -1,3 +1,0 @@
-payload:
-- +.qcc.com
-- +.qichacha.com

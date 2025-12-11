@@ -1,3 +1,0 @@
-payload:
-- +.suruga-ya.com
-- +.suruga-ya.jp

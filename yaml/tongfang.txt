@@ -1,4 +1,0 @@
-payload:
-- +.thtf.com.cn
-- +.tongfangpc.com
-- +.mechrevo.com

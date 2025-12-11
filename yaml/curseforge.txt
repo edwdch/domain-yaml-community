@@ -1,3 +1,0 @@
-payload:
-- +.curseforge.com
-- +.forgecdn.net

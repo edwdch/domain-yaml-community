@@ -1,4 +1,0 @@
-payload:
-- +.pugpig-dev.com
-- +.pugpig-stage.com
-- +.pugpig.com

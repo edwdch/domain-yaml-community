@@ -1,4 +1,0 @@
-payload:
-- +.bangumi.tv
-- +.bgm.tv
-- +.chii.in

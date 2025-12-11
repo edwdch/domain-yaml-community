@@ -1,4 +1,0 @@
-payload:
-- +.bsky.app
-- +.bsky.network
-- +.bsky.social

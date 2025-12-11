@@ -1,4 +1,0 @@
-payload:
-- +.ymtc.com
-- +.ymtc.com.cn
-- +.ymtc.cn

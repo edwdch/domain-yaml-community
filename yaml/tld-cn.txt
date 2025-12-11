@@ -1,6 +1,0 @@
-payload:
-- +.cn
-- +.citic
-- +.baidu
-- +.unicom
-- +.sohu

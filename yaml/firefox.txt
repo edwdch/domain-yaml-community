@@ -1,3 +1,0 @@
-payload:
-- +.firefox.com
-- +.firefoxusercontent.com

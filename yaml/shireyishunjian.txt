@@ -1,3 +1,0 @@
-payload:
-- +.shireyishunjian.com
-- +.yingpianqu.com

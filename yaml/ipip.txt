@@ -1,3 +1,0 @@
-payload:
-- +.ipip.net
-- +.myip.la

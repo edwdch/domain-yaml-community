@@ -1,3 +1,0 @@
-payload:
-- +.lagou.com
-- +.lgstatic.com

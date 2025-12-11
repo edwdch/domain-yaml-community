@@ -1,5 +1,0 @@
-payload:
-- +.clco.cc
-- +.cloudc.one
-- +.cloudcone.com
-- +.cloudcone.net

@@ -1,3 +1,0 @@
-payload:
-- +.soyjak.party
-- +.soyjak.st

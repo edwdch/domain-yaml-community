@@ -1,4 +1,0 @@
-payload:
-- +.feng.com
-- +.fengimg.com
-- +.wfdata.club

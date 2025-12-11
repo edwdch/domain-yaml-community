@@ -1,3 +1,0 @@
-payload:
-- +.c.mi.com
-- +.global.market.xiaomi.com

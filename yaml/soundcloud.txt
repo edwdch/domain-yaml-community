@@ -1,4 +1,0 @@
-payload:
-- +.sndcdn.com
-- +.soundcloud.cloud
-- +.soundcloud.com

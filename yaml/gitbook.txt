@@ -1,3 +1,0 @@
-payload:
-- +.gitbook.com
-- +.gitbook.io

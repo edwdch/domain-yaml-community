@@ -1,4 +1,0 @@
-payload:
-- +.coze.com
-- +.marscode.com
-- +.trae.ai

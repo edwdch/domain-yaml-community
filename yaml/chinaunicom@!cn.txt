@@ -1,4 +1,0 @@
-payload:
-- +.chinaunicom.com.hk
-- +.chinaunicomglobal.com
-- +.cuniq.com

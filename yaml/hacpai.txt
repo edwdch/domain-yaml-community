@@ -1,3 +1,0 @@
-payload:
-- +.hacpai.com
-- +.ld246.com

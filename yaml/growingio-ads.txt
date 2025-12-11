@@ -1,2 +1,0 @@
-payload:
-- +.assets.growingio.com

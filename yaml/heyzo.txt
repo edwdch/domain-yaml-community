@@ -1,3 +1,0 @@
-payload:
-- +.heydoga.com
-- +.heyzo.com

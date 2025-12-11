@@ -1,6 +1,0 @@
-payload:
-- +.dogatch.jp
-- +.gorin.jp
-- +.screens-lab.jp
-- +.tver.co.jp
-- +.tver.jp

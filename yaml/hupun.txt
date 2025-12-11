@@ -1,6 +1,0 @@
-payload:
-- +.hupun.com
-- +.hupun.com.cn
-- +.kata.com.cn
-- +.newniu.com
-- +.wanliniu.com

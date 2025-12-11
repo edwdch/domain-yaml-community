@@ -1,3 +1,0 @@
-payload:
-- +.medium.com
-- +.medium.systems

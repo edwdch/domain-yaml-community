@@ -1,3 +1,0 @@
-payload:
-- +.sentry.io
-- +.sentry-cdn.com

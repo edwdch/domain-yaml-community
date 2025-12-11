@@ -1,3 +1,0 @@
-payload:
-- +.advertising.adobe.com
-- +.tubemogul.com

@@ -1,4 +1,0 @@
-payload:
-- +.predb.me
-- +.scenesource.me
-- +.scnsrc.me

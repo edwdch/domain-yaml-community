@@ -1,3 +1,0 @@
-payload:
-- +.dw.com
-- deutschewelle.h-cdn.com

@@ -1,3 +1,0 @@
-payload:
-- +.embed-cdn.com
-- +.streamable.com

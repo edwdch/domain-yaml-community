@@ -1,5 +1,0 @@
-payload:
-- +.webex.com.cn
-- +.cisco.cn
-- +.cisco.com.cn
-- +.network-auth.cn

@@ -1,3 +1,0 @@
-payload:
-- +.cloudinary.com
-- +.cloudinary.net

@@ -1,3 +1,0 @@
-payload:
-- +.mongodb.com
-- +.mongodb.org

@@ -1,9 +1,0 @@
-payload:
-- +.hihonor.cn
-- +.hihonor.com
-- +.hihonorcdn.com
-- +.hihonorcloud.com
-- +.honor.cn
-- +.honor.com
-- +.honor.com.cn
-- +.honorfile.com

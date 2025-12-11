@@ -1,3 +1,0 @@
-payload:
-- +.imageshack.com
-- +.imageshack.us

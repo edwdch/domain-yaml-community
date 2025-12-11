@@ -1,7 +1,0 @@
-payload:
-- +.sto-express.cn
-- +.sto-express.com
-- +.sto-express.com.cn
-- +.sto.cn
-- +.stointl.com
-- +.stosolution.com

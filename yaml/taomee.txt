@@ -1,3 +1,0 @@
-payload:
-- +.61.com
-- +.taomee.com

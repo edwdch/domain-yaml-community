@@ -1,4 +1,0 @@
-payload:
-- +.thetrackernetwork.com
-- +.tracker.gg
-- +.tracker.network

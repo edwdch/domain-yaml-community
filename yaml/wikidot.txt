@@ -1,3 +1,0 @@
-payload:
-- +.wdfiles.com
-- +.wikidot.com

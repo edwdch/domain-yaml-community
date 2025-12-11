@@ -1,3 +1,0 @@
-payload:
-- +.boxun.com
-- +.bowenpress.com

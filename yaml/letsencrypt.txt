@@ -1,4 +1,0 @@
-payload:
-- +.lencr.org
-- +.letsencrypt.com
-- +.letsencrypt.org

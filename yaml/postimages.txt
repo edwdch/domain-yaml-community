@@ -1,3 +1,0 @@
-payload:
-- +.postimages.org
-- +.postimg.cc

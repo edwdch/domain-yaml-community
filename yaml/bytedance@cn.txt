@@ -1,3 +1,0 @@
-payload:
-- +.doubao.com
-- +.coze.cn

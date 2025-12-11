@@ -1,5 +1,0 @@
-payload:
-- +.ehaier.com
-- +.haier.com
-- +.haier.net
-- +.haiersmarthomes.com

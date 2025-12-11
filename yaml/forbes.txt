@@ -1,3 +1,0 @@
-payload:
-- +.forbes.com
-- +.forbesimg.com

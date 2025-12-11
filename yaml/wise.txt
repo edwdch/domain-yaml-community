@@ -1,3 +1,0 @@
-payload:
-- +.transferwise.com
-- +.wise.com

@@ -1,3 +1,0 @@
-payload:
-- +.shadowsocks.com
-- +.shadowsocks.nl

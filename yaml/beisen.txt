@@ -1,9 +1,0 @@
-payload:
-- +.beisen.com
-- +.beisen.cn
-- +.beisenapp.com
-- +.beisencloud.com
-- +.beisenpaas.com
-- +.bsurl.cc
-- +.bsurl.cn
-- +.zhiye.com

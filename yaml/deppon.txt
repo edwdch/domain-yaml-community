@@ -1,4 +1,0 @@
-payload:
-- +.deppon.com
-- +.deppon.com.cn
-- +.dpma.cc

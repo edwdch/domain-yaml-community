@@ -1,3 +1,0 @@
-payload:
-- +.rb.gy
-- +.rebrandly.com

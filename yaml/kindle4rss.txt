@@ -1,2 +1,0 @@
-payload:
-- +.kindle4rss.com

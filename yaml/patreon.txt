@@ -1,5 +1,0 @@
-payload:
-- +.patreon.com
-- +.patreoncommunity.com
-- +.patreonusercontent.com
-- live-patreon-marketing.pantheonsite.io

@@ -1,7 +1,0 @@
-payload:
-- +.lumion-la.com
-- +.lumion.com
-- +.lumion3d.com.my
-- +.lumion3d.net
-- +.lumiontech.net
-- +.mylumion.com

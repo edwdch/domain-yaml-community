@@ -1,3 +1,0 @@
-payload:
-- +.johren.games
-- +.johren.net

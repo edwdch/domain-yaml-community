@@ -1,3 +1,0 @@
-payload:
-- +.meduza.io
-- +.meduza-flutter.firebaseapp.com

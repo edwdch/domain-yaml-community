@@ -1,3 +1,0 @@
-payload:
-- +.cowlevel.net
-- +.cdncl.net

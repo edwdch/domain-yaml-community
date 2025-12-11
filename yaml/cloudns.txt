@@ -1,3 +1,0 @@
-payload:
-- +.cloudns.nz
-- +.cloudns.ph

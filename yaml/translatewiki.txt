@@ -1,3 +1,0 @@
-payload:
-- +.translatewiki.net
-- +.translatewiki.org

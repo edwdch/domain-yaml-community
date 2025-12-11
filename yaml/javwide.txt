@@ -1,3 +1,0 @@
-payload:
-- +.javwide.com
-- +.javwide.tv

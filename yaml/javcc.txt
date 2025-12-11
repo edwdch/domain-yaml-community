@@ -1,3 +1,0 @@
-payload:
-- +.javcc.cc
-- +.javcc.com

@@ -1,3 +1,0 @@
-payload:
-- +.strepsils.cn
-- +.strepsils.com.cn

@@ -1,3 +1,0 @@
-payload:
-- +.miaomiaoz.com
-- +.miaomiaozhe.com

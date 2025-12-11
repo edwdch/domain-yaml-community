@@ -1,4 +1,0 @@
-payload:
-- +.meitu.com
-- +.meitudata.com
-- +.meitustat.com

@@ -1,3 +1,0 @@
-payload:
-- +.kkmh.com
-- +.kuaikanmanhua.com

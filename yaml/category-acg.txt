@@ -1,9 +1,0 @@
-payload:
-- +.colorfulstage.com
-- +.crypton.co.jp
-- +.lapriere.jp
-- +.magicalmirai.com
-- +.mikuexpo.com
-- +.piapro.net
-- +.snowmiku.com
-- +.bowlroll.net

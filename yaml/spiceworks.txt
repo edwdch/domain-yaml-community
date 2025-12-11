@@ -1,3 +1,0 @@
-payload:
-- +.spiceworks.com
-- +.spiceworksstatic.com

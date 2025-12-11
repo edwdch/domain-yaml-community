@@ -1,4 +1,0 @@
-payload:
-- +.thetype.cloud
-- +.thetype.com
-- +.typeisbeautiful.com

@@ -1,3 +1,0 @@
-payload:
-- +.7tv.app
-- +.7tv.io

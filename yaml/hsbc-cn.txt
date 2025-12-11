@@ -1,4 +1,0 @@
-payload:
-- +.hsbc.com.cn
-- +.hsbcqh.com.cn
-- +.hsbcinsurance.com.cn

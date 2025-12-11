@@ -1,3 +1,0 @@
-payload:
-- +.kodi.tv
-- +.kodi.wiki

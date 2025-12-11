@@ -1,3 +1,0 @@
-payload:
-- +.spacemail.com
-- +.spaceship.com

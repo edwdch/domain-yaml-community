@@ -1,3 +1,0 @@
-payload:
-- +.yahoo.cn
-- +.yahoo.com.cn

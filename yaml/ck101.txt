@@ -1,4 +1,0 @@
-payload:
-- +.ck101.com
-- +.ckcdn.com
-- +.ckck.fun

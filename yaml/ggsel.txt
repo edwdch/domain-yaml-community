@@ -1,3 +1,0 @@
-payload:
-- +.ggsel.com
-- +.ggsel.net

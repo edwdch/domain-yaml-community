@@ -1,4 +1,0 @@
-payload:
-- +.xhscdn.com
-- +.xhscdn.net
-- +.xiaohongshu.com

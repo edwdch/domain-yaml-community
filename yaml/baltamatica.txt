@@ -1,5 +1,0 @@
-payload:
-- +.baltamatica.cn
-- +.baltamatica.net
-- +.baltamatica.org.cn
-- +.baltamatica.com

@@ -1,5 +1,0 @@
-payload:
-- +.uc.cn
-- +.uc123.com
-- +.ucweb.com
-- +.uczzd.cn

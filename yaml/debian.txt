@@ -1,3 +1,0 @@
-payload:
-- +.debian.org
-- +.dotdeb.org

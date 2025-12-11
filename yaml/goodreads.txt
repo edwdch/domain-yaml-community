@@ -1,3 +1,0 @@
-payload:
-- +.goodreads.com
-- +.gr-assets.com

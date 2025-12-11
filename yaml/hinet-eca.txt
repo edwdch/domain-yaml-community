@@ -1,6 +1,0 @@
-payload:
-- +.eca.hinet.net
-- +.gtlsca.nat.gov.tw
-- +.pki.hinet.net
-- +.publicca.hinet.net
-- +.tls.hinet.net

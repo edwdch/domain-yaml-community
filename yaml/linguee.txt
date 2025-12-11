@@ -1,3 +1,0 @@
-payload:
-- +.linguee.com
-- +.deepl.com

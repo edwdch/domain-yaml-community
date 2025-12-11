@@ -1,4 +1,0 @@
-payload:
-- +.ptzwx.com
-- +.quanben-xiaoshuo.com
-- +.quanben.io

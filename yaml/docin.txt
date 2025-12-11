@@ -1,3 +1,0 @@
-payload:
-- +.docin.com
-- +.douding.cn

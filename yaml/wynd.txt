@@ -1,3 +1,0 @@
-payload:
-- +.wyndlabs.ai
-- +.wynd.network

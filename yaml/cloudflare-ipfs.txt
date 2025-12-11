@@ -1,3 +1,0 @@
-payload:
-- +.cf-ipfs.com
-- +.cloudflare-ipfs.com

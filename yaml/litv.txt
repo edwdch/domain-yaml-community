@@ -1,6 +1,0 @@
-payload:
-- +.litv.tv
-- +.litvfreepc.akamaized.net
-- +.ofiii.com
-- ntdofifreepc-tgc.cdn.hinet.net
-- ntdofifreevcpc-tgc.cdn.hinet.net

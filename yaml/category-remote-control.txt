@@ -1,9 +1,0 @@
-payload:
-- +.teamviewer.cn
-- +.teamviewer.com
-- +.teamviewer.us
-- client-teamviewer-com.trafficmanager.net
-- teamviewer.com.cdn.cloudflare.net
-- +.anydesk.com
-- +.nomachine.com
-- +.rustdesk.com

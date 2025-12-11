@@ -1,4 +1,0 @@
-payload:
-- +.zaobao.com
-- +.zaobao.com.sg
-- +.zaobao.sg

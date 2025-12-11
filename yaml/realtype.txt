@@ -1,3 +1,0 @@
-payload:
-- +.realtype.co.jp
-- +.realtype.jp

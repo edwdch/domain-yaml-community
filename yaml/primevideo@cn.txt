@@ -1,3 +1,0 @@
-payload:
-- +.amazonprimevideo.cn
-- +.amazonprimevideo.com.cn

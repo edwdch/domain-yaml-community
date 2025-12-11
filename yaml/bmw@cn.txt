@@ -1,4 +1,0 @@
-payload:
-- +.bmw.com.cn
-- +.alphabet.com.cn
-- +.alphabet.net.cn

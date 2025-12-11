@@ -1,3 +1,0 @@
-payload:
-- +.gendai.net
-- +.nikkan-gendai.com

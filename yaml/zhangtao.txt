@@ -1,4 +1,0 @@
-payload:
-- +.mob.com
-- +.dutils.com
-- +.accuratead.cn

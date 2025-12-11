@@ -1,3 +1,0 @@
-payload:
-- +.mubi.com
-- +.mubicdn.net

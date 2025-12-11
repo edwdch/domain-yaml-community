@@ -1,3 +1,0 @@
-payload:
-- +.apa.org
-- +.psyccareers.com

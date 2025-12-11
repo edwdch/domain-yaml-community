@@ -1,3 +1,0 @@
-payload:
-- +.newegg.com
-- +.neweggimages.com

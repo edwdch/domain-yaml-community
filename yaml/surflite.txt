@@ -1,3 +1,0 @@
-payload:
-- +.surflite.co
-- +.surflite.net

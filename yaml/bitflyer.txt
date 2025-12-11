@@ -1,3 +1,0 @@
-payload:
-- +.bitflyer.com
-- +.bitflyer.jp

@@ -1,3 +1,0 @@
-payload:
-- +.book.com.tw
-- +.books.com.tw

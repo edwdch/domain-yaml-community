@@ -1,3 +1,0 @@
-payload:
-- +.4pcdn.org
-- +.4plebs.org

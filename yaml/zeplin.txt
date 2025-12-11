@@ -1,3 +1,0 @@
-payload:
-- +.zeplin.dev
-- +.zeplin.io

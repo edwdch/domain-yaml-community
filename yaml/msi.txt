@@ -1,3 +1,0 @@
-payload:
-- +.msi.cn
-- +.msi.com

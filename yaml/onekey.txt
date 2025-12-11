@@ -1,5 +1,0 @@
-payload:
-- +.onekey-asset.com
-- +.onekey.so
-- +.onekeycn.com
-- onekey.zendesk.com

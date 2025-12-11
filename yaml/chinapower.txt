@@ -1,2 +1,0 @@
-payload:
-- chinapower.csis.org

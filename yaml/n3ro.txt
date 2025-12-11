@@ -1,4 +1,0 @@
-payload:
-- +.n3ro.lol
-- +.n3ro.net
-- +.n3ro.wtf

@@ -1,3 +1,0 @@
-payload:
-- +.quera.ir
-- +.quera.org

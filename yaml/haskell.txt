@@ -1,4 +1,0 @@
-payload:
-- +.haskell.org
-- +.haskellstack.org
-- +.stackage.org

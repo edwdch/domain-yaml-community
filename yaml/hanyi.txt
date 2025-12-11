@@ -1,8 +1,0 @@
-payload:
-- +.hanyi.com
-- +.hanyi.com.cn
-- +.fontstar.com.cn
-- +.hellofont.cn
-- +.hellowebfont.com
-- hellofontpreview.oss-cn-beijing.aliyuncs.com
-- hellowebfonts.oss-cn-beijing.aliyuncs.com

@@ -1,3 +1,0 @@
-payload:
-- +.musixmatch.com
-- +.mxmcdn.net

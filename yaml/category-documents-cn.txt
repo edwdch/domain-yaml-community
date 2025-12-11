@@ -1,4 +1,0 @@
-payload:
-- +.doc88.com
-- +.docin.com
-- +.douding.cn

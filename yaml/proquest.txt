@@ -1,3 +1,0 @@
-payload:
-- +.serialssolutions.com
-- +.proquest.com

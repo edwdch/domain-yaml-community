@@ -1,5 +1,0 @@
-payload:
-- upos-hz-mirrorakam.akamaized.net
-- +.bilibili.tv
-- +.biliintl.com
-- +.dreamcast.hk

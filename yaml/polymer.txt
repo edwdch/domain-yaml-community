@@ -1,3 +1,0 @@
-payload:
-- +.polymer-project.org
-- +.polymerproject.org

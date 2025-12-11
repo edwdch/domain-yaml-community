@@ -1,4 +1,0 @@
-payload:
-- +.zuoyebang.cc
-- +.zuoyebang.com
-- +.zybang.com

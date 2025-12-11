@@ -1,3 +1,0 @@
-payload:
-- +.gotokeep.com
-- +.keepcdn.com

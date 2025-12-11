@@ -1,3 +1,0 @@
-payload:
-- +.renren.com
-- +.renren-inc.com

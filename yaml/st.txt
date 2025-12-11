@@ -1,3 +1,0 @@
-payload:
-- +.st.com
-- +.stmicroelectronics.com.cn

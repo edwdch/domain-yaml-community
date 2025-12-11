@@ -1,5 +1,0 @@
-payload:
-- +.ctan.org
-- +.latex-project.org
-- +.miktex.org
-- +.tug.org

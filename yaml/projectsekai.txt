@@ -1,2 +1,0 @@
-payload:
-- +.sekai.colorfulpalette.org

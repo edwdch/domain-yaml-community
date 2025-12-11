@@ -1,5 +1,0 @@
-payload:
-- +.cnbc.com
-- +.cnbcfm.com
-- +.nbcuni.com
-- +.nbcudigitaladops.com

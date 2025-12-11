@@ -1,3 +1,0 @@
-payload:
-- +.segmentfault.com
-- +.sifou.com

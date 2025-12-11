@@ -1,4 +1,0 @@
-payload:
-- +.booking.cn
-- +.booking.com
-- +.bstatic.com

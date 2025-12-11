@@ -1,4 +1,0 @@
-payload:
-- +.razerapi.com
-- +.razersynapse.com
-- +.razerzone.com

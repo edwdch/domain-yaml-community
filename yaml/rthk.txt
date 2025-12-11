@@ -1,3 +1,0 @@
-payload:
-- +.etvonline.hk
-- +.rthk.hk

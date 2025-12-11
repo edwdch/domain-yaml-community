@@ -1,3 +1,0 @@
-payload:
-- +.sourcehut.org
-- +.sr.ht

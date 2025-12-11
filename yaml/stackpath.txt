@@ -1,3 +1,0 @@
-payload:
-- +.stackpath.com
-- +.stackpath.dev

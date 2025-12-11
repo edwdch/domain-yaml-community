@@ -1,2 +1,0 @@
-payload:
-- +.vim.org

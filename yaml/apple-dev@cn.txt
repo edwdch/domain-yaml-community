@@ -1,5 +1,0 @@
-payload:
-- +.swiftui.cn
-- +.swiftui.com.cn
-- +.researchkit.cn
-- +.researchkit.com.cn

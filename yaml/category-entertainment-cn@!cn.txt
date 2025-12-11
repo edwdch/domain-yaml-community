@@ -1,7 +1,0 @@
-payload:
-- +.taptap.io
-- upos-hz-mirrorakam.akamaized.net
-- +.bilibili.tv
-- +.biliintl.com
-- +.dreamcast.hk
-- +.iq.com

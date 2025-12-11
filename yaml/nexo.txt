@@ -1,3 +1,0 @@
-payload:
-- +.nexo.com
-- +.nexo.io
