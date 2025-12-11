@@ -1,4 +1,4 @@
-# Domain Yaml Community
+# Geosite
 
 This repository clones [v2fly/domain-list-community](https://github.com/v2fly/domain-list-community) and generates a list of optional items for `geosite`.
 
