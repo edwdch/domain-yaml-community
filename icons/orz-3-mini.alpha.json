@@ -98,6 +98,10 @@
       "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Alpha/Ark.png"
     },
     {
+      "name": "Available.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Alpha/Available.png"
+    },
+    {
       "name": "Azure.png",
       "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Alpha/Azure.png"
     },
@@ -258,6 +262,10 @@
       "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Alpha/Element.png"
     },
     {
+      "name": "Emby.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Alpha/Emby.png"
+    },
+    {
       "name": "Enet.png",
       "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Alpha/Enet.png"
     },
@@ -312,6 +320,10 @@
     {
       "name": "Flyint.png",
       "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Alpha/Flyint.png"
+    },
+    {
+      "name": "GAME.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Alpha/GAME.png"
     },
     {
       "name": "GCP.png",
@@ -678,6 +690,10 @@
       "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Alpha/Rookie.png"
     },
     {
+      "name": "Roundrobin.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Alpha/Roundrobin.png"
+    },
+    {
       "name": "SCTC.png",
       "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Alpha/SCTC.png"
     },
@@ -696,6 +712,10 @@
     {
       "name": "SS.png",
       "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Alpha/SS.png"
+    },
+    {
+      "name": "SSID.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Alpha/SSID.png"
     },
     {
       "name": "SSR.png",
@@ -752,6 +772,10 @@
     {
       "name": "Ssp.png",
       "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Alpha/Ssp.png"
+    },
+    {
+      "name": "Static.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Alpha/Static.png"
     },
     {
       "name": "Streaming.png",
