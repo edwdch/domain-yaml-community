@@ -20,18 +20,18 @@ jobs:
       with:
         python-version: '3.10'
 
-    - name: Clone v2fly/domain-list-community
+    - name: Clone Repositories
       run: |
-        git clone https://github.com/v2fly/domain-list-community.git
-        mv domain-list-community/data data/
+        git clone --depth 1 https://github.com/v2fly/domain-list-community.git data/domain-list-community
+        git clone --depth 1 https://github.com/Orz-3/mini.git data/orz-3-mini
 
-    - name: Generate markdown file
+    - name: Generate Resources
       run: |
         python scripts/main.py
 
     - uses: EndBug/add-and-commit@v9
       with:
-        add: 'geosite-list.md'
+        add: 'geosite-list.md icons/'
         author_name: Edward Chen
         author_email: hi@edch.top
-        message: 'Update domain-yaml-community'
+        message: 'Update geosite-list.md and icons'

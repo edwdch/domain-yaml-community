@@ -1,0 +1,1341 @@
+{
+  "name": "Orz-3 Mini Color (All)",
+  "icons": [
+    {
+      "name": "10000.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/10000.png"
+    },
+    {
+      "name": "10010.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/10010.png"
+    },
+    {
+      "name": "10086.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/10086.png"
+    },
+    {
+      "name": "10086fee.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/10086fee.png"
+    },
+    {
+      "name": "115.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/115.png"
+    },
+    {
+      "name": "12306.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/12306.png"
+    },
+    {
+      "name": "163GameVip.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/163GameVip.png"
+    },
+    {
+      "name": "52pj.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/52pj.png"
+    },
+    {
+      "name": "AAEX.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/AAEX.png"
+    },
+    {
+      "name": "AEX.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/AEX.png"
+    },
+    {
+      "name": "ASN.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/ASN.png"
+    },
+    {
+      "name": "AU.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/AU.png"
+    },
+    {
+      "name": "Adblock.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/Adblock.png"
+    },
+    {
+      "name": "Amy.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/Amy.png"
+    },
+    {
+      "name": "Apple.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/Apple.png"
+    },
+    {
+      "name": "AppleTV.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/AppleTV.png"
+    },
+    {
+      "name": "Ark.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/Ark.png"
+    },
+    {
+      "name": "Auto.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/Auto.png"
+    },
+    {
+      "name": "Available.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/Available.png"
+    },
+    {
+      "name": "Bahamut.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/Bahamut.png"
+    },
+    {
+      "name": "Bili.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/Bili.png"
+    },
+    {
+      "name": "Bing.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/Bing.png"
+    },
+    {
+      "name": "Bitcloud.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/Bitcloud.png"
+    },
+    {
+      "name": "Blibee.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/Blibee.png"
+    },
+    {
+      "name": "Blink.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/Blink.png"
+    },
+    {
+      "name": "Boom.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/Boom.png"
+    },
+    {
+      "name": "Boslife.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/Boslife.png"
+    },
+    {
+      "name": "Bywave.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/Bywave.png"
+    },
+    {
+      "name": "CA.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/CA.png"
+    },
+    {
+      "name": "CCCat.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/CCCat.png"
+    },
+    {
+      "name": "CN.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/CN.png"
+    },
+    {
+      "name": "CNIX.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/CNIX.png"
+    },
+    {
+      "name": "COVID-19.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/COVID-19.png"
+    },
+    {
+      "name": "Catnet.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/Catnet.png"
+    },
+    {
+      "name": "China.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/China.png"
+    },
+    {
+      "name": "Clubhouse.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/Clubhouse.png"
+    },
+    {
+      "name": "Cm.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/Cm.png"
+    },
+    {
+      "name": "Coco.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/Coco.png"
+    },
+    {
+      "name": "Cord.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/Cord.png"
+    },
+    {
+      "name": "Cylink.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/Cylink.png"
+    },
+    {
+      "name": "DE.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/DE.png"
+    },
+    {
+      "name": "DLK.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/DLK.png"
+    },
+    {
+      "name": "Dianliang.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/Dianliang.png"
+    },
+    {
+      "name": "Discovery.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/Discovery.png"
+    },
+    {
+      "name": "DisneyPlus.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/DisneyPlus.png"
+    },
+    {
+      "name": "Dler.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/Dler.png"
+    },
+    {
+      "name": "Domino.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/Domino.png"
+    },
+    {
+      "name": "Duang.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/Duang.png"
+    },
+    {
+      "name": "Dukou.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/Dukou.png"
+    },
+    {
+      "name": "Element.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/Element.png"
+    },
+    {
+      "name": "Emby.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/Emby.png"
+    },
+    {
+      "name": "Enet.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/Enet.png"
+    },
+    {
+      "name": "Enterprise.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/Enterprise.png"
+    },
+    {
+      "name": "Exflux.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/Exflux.png"
+    },
+    {
+      "name": "FNF.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/FNF.png"
+    },
+    {
+      "name": "FR.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/FR.png"
+    },
+    {
+      "name": "FRANXX.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/FRANXX.png"
+    },
+    {
+      "name": "Fastfish.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/Fastfish.png"
+    },
+    {
+      "name": "Fastlink.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/Fastlink.png"
+    },
+    {
+      "name": "Fastnode.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/Fastnode.png"
+    },
+    {
+      "name": "Final.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/Final.png"
+    },
+    {
+      "name": "Flower.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/Flower.png"
+    },
+    {
+      "name": "Flyint.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/Flyint.png"
+    },
+    {
+      "name": "GAME.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/GAME.png"
+    },
+    {
+      "name": "GLaDOS.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/GLaDOS.png"
+    },
+    {
+      "name": "GaCloud.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/GaCloud.png"
+    },
+    {
+      "name": "Global.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/Global.png"
+    },
+    {
+      "name": "Godetia.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/Godetia.png"
+    },
+    {
+      "name": "Google.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/Google.png"
+    },
+    {
+      "name": "GoogleDrive.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/GoogleDrive.png"
+    },
+    {
+      "name": "Guguex.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/Guguex.png"
+    },
+    {
+      "name": "HBO.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/HBO.png"
+    },
+    {
+      "name": "HK.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/HK.png"
+    },
+    {
+      "name": "Hitun.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/Hitun.png"
+    },
+    {
+      "name": "Hulu.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/Hulu.png"
+    },
+    {
+      "name": "Hxlm.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/Hxlm.png"
+    },
+    {
+      "name": "Imm.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/Imm.png"
+    },
+    {
+      "name": "Instagram.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/Instagram.png"
+    },
+    {
+      "name": "JP.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/JP.png"
+    },
+    {
+      "name": "KR.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/KR.png"
+    },
+    {
+      "name": "Kache.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/Kache.png"
+    },
+    {
+      "name": "Kafka.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/Kafka.png"
+    },
+    {
+      "name": "Kedou.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/Kedou.png"
+    },
+    {
+      "name": "Kuai.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/Kuai.png"
+    },
+    {
+      "name": "KuaiKan.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/KuaiKan.png"
+    },
+    {
+      "name": "LiYing.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/LiYing.png"
+    },
+    {
+      "name": "LineTV.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/LineTV.png"
+    },
+    {
+      "name": "MDSS.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/MDSS.png"
+    },
+    {
+      "name": "MGNB.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/MGNB.png"
+    },
+    {
+      "name": "MO.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/MO.png"
+    },
+    {
+      "name": "Manual.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/Manual.png"
+    },
+    {
+      "name": "Maying.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/Maying.png"
+    },
+    {
+      "name": "Miao.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/Miao.png"
+    },
+    {
+      "name": "Mickey.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/Mickey.png"
+    },
+    {
+      "name": "Microsoft.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/Microsoft.png"
+    },
+    {
+      "name": "Mimemi.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/Mimemi.png"
+    },
+    {
+      "name": "MovieCalendar.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/MovieCalendar.png"
+    },
+    {
+      "name": "Muchang.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/Muchang.png"
+    },
+    {
+      "name": "NSFW.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/NSFW.png"
+    },
+    {
+      "name": "Naixue.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/Naixue.png"
+    },
+    {
+      "name": "Netease.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/Netease.png"
+    },
+    {
+      "name": "Netflix.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/Netflix.png"
+    },
+    {
+      "name": "Nex.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/Nex.png"
+    },
+    {
+      "name": "Np.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/Np.png"
+    },
+    {
+      "name": "Nucleus.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/Nucleus.png"
+    },
+    {
+      "name": "Oclean.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/Oclean.png"
+    },
+    {
+      "name": "OpenAI.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/OpenAI.png"
+    },
+    {
+      "name": "Orz-3.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/Orz-3.png"
+    },
+    {
+      "name": "OvO.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/OvO.png"
+    },
+    {
+      "name": "PLUS.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/PLUS.png"
+    },
+    {
+      "name": "PSN.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/PSN.png"
+    },
+    {
+      "name": "Pacifique.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/Pacifique.png"
+    },
+    {
+      "name": "Paoluz.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/Paoluz.png"
+    },
+    {
+      "name": "Paramount.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/Paramount.png"
+    },
+    {
+      "name": "Paypal.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/Paypal.png"
+    },
+    {
+      "name": "Personal.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/Personal.png"
+    },
+    {
+      "name": "Piao.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/Piao.png"
+    },
+    {
+      "name": "Pornhub.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/Pornhub.png"
+    },
+    {
+      "name": "PrimeVideo.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/PrimeVideo.png"
+    },
+    {
+      "name": "Prpr.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/Prpr.png"
+    },
+    {
+      "name": "QQ.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/QQ.png"
+    },
+    {
+      "name": "QQRead.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/QQRead.png"
+    },
+    {
+      "name": "RIP.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/RIP.png"
+    },
+    {
+      "name": "RU.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/RU.png"
+    },
+    {
+      "name": "Renzhe.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/Renzhe.png"
+    },
+    {
+      "name": "Rookie.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/Rookie.png"
+    },
+    {
+      "name": "Roundrobin.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/Roundrobin.png"
+    },
+    {
+      "name": "SCTC.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/SCTC.png"
+    },
+    {
+      "name": "SG.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/SG.png"
+    },
+    {
+      "name": "SONY.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/SONY.png"
+    },
+    {
+      "name": "SS.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/SS.png"
+    },
+    {
+      "name": "SSID.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/SSID.png"
+    },
+    {
+      "name": "SSR.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/SSR.png"
+    },
+    {
+      "name": "SSlinks.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/SSlinks.png"
+    },
+    {
+      "name": "STC.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/STC.png"
+    },
+    {
+      "name": "SWCloud.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/SWCloud.png"
+    },
+    {
+      "name": "SaySS.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/SaySS.png"
+    },
+    {
+      "name": "Shandian.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/Shandian.png"
+    },
+    {
+      "name": "Situ.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/Situ.png"
+    },
+    {
+      "name": "Skicat.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/Skicat.png"
+    },
+    {
+      "name": "Socloud.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/Socloud.png"
+    },
+    {
+      "name": "Speedtest.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/Speedtest.png"
+    },
+    {
+      "name": "Spotify.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/Spotify.png"
+    },
+    {
+      "name": "Ssp.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/Ssp.png"
+    },
+    {
+      "name": "Static.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/Static.png"
+    },
+    {
+      "name": "Streaming.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/Streaming.png"
+    },
+    {
+      "name": "StreamingCN.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/StreamingCN.png"
+    },
+    {
+      "name": "StreamingSE.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/StreamingSE.png"
+    },
+    {
+      "name": "Suda.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/Suda.png"
+    },
+    {
+      "name": "Sun.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/Sun.png"
+    },
+    {
+      "name": "TH.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/TH.png"
+    },
+    {
+      "name": "TR.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/TR.png"
+    },
+    {
+      "name": "TW.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/TW.png"
+    },
+    {
+      "name": "Team.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/Team.png"
+    },
+    {
+      "name": "Telegram.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/Telegram.png"
+    },
+    {
+      "name": "Thunder.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/Thunder.png"
+    },
+    {
+      "name": "TikTok.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/TikTok.png"
+    },
+    {
+      "name": "Touhou.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/Touhou.png"
+    },
+    {
+      "name": "Trojan.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/Trojan.png"
+    },
+    {
+      "name": "Twitter.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/Twitter.png"
+    },
+    {
+      "name": "UK.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/UK.png"
+    },
+    {
+      "name": "UN.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/UN.png"
+    },
+    {
+      "name": "US.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/US.png"
+    },
+    {
+      "name": "Unicorn.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/Unicorn.png"
+    },
+    {
+      "name": "Urltest.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/Urltest.png"
+    },
+    {
+      "name": "V2ray.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/V2ray.png"
+    },
+    {
+      "name": "V2tun.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/V2tun.png"
+    },
+    {
+      "name": "VN.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/VN.png"
+    },
+    {
+      "name": "Vpn.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/Vpn.png"
+    },
+    {
+      "name": "WIFI.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/WIFI.png"
+    },
+    {
+      "name": "Wallless.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/Wallless.png"
+    },
+    {
+      "name": "WestData.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/WestData.png"
+    },
+    {
+      "name": "XD.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/XD.png"
+    },
+    {
+      "name": "XTunnel.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/XTunnel.png"
+    },
+    {
+      "name": "Xair.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/Xair.png"
+    },
+    {
+      "name": "Xingmeng.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/Xingmeng.png"
+    },
+    {
+      "name": "YouTube.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/YouTube.png"
+    },
+    {
+      "name": "Ytoo.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/Ytoo.png"
+    },
+    {
+      "name": "Yunyi.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/Yunyi.png"
+    },
+    {
+      "name": "Ywhl.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/Ywhl.png"
+    },
+    {
+      "name": "ZMTeacher.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/ZMTeacher.png"
+    },
+    {
+      "name": "Zhs.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/Zhs.png"
+    },
+    {
+      "name": "acfun.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/acfun.png"
+    },
+    {
+      "name": "airport.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/airport.png"
+    },
+    {
+      "name": "alipay.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/alipay.png"
+    },
+    {
+      "name": "angelalign.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/angelalign.png"
+    },
+    {
+      "name": "apktw.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/apktw.png"
+    },
+    {
+      "name": "appstore.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/appstore.png"
+    },
+    {
+      "name": "baidu.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/baidu.png"
+    },
+    {
+      "name": "bcz.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/bcz.png"
+    },
+    {
+      "name": "bilibili.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/bilibili.png"
+    },
+    {
+      "name": "birthday.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/birthday.png"
+    },
+    {
+      "name": "biyao.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/biyao.png"
+    },
+    {
+      "name": "box.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/box.png"
+    },
+    {
+      "name": "bubei.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/bubei.png"
+    },
+    {
+      "name": "caiyun.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/caiyun.png"
+    },
+    {
+      "name": "calendar.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/calendar.png"
+    },
+    {
+      "name": "cmbchina.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/cmbchina.png"
+    },
+    {
+      "name": "csdn.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/csdn.png"
+    },
+    {
+      "name": "ctrip.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/ctrip.png"
+    },
+    {
+      "name": "daysmatter.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/daysmatter.png"
+    },
+    {
+      "name": "dbsj.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/dbsj.png"
+    },
+    {
+      "name": "dianshijia.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/dianshijia.png"
+    },
+    {
+      "name": "didi.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/didi.png"
+    },
+    {
+      "name": "dingtalk.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/dingtalk.png"
+    },
+    {
+      "name": "dongqiudi.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/dongqiudi.png"
+    },
+    {
+      "name": "douyu.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/douyu.png"
+    },
+    {
+      "name": "duokan.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/duokan.png"
+    },
+    {
+      "name": "elem.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/elem.png"
+    },
+    {
+      "name": "elong.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/elong.png"
+    },
+    {
+      "name": "epic.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/epic.png"
+    },
+    {
+      "name": "everphoto.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/everphoto.png"
+    },
+    {
+      "name": "exchangerate.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/exchangerate.png"
+    },
+    {
+      "name": "fandeng.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/fandeng.png"
+    },
+    {
+      "name": "fcz.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/fcz.png"
+    },
+    {
+      "name": "feng.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/feng.png"
+    },
+    {
+      "name": "fenqile.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/fenqile.png"
+    },
+    {
+      "name": "flyertea.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/flyertea.png"
+    },
+    {
+      "name": "funboat.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/funboat.png"
+    },
+    {
+      "name": "gdoil.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/gdoil.png"
+    },
+    {
+      "name": "geekhub.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/geekhub.png"
+    },
+    {
+      "name": "github.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/github.png"
+    },
+    {
+      "name": "haidilao.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/haidilao.png"
+    },
+    {
+      "name": "hdhyc.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/hdhyc.png"
+    },
+    {
+      "name": "hellbike.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/hellbike.png"
+    },
+    {
+      "name": "heybox.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/heybox.png"
+    },
+    {
+      "name": "historyToday.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/historyToday.png"
+    },
+    {
+      "name": "hot.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/hot.png"
+    },
+    {
+      "name": "htt.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/htt.png"
+    },
+    {
+      "name": "hycan.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/hycan.png"
+    },
+    {
+      "name": "iQIYI.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/iQIYI.png"
+    },
+    {
+      "name": "icbc.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/icbc.png"
+    },
+    {
+      "name": "idaily.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/idaily.png"
+    },
+    {
+      "name": "ithome.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/ithome.png"
+    },
+    {
+      "name": "jd.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png"
+    },
+    {
+      "name": "jdczf.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/jdczf.png"
+    },
+    {
+      "name": "jddj.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/jddj.png"
+    },
+    {
+      "name": "jdds.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/jdds.png"
+    },
+    {
+      "name": "jegotrip.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/jegotrip.png"
+    },
+    {
+      "name": "jingxi.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/jingxi.png"
+    },
+    {
+      "name": "jiumu.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/jiumu.png"
+    },
+    {
+      "name": "jrtt.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/jrtt.png"
+    },
+    {
+      "name": "kuaishou.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/kuaishou.png"
+    },
+    {
+      "name": "liwo.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/liwo.png"
+    },
+    {
+      "name": "lkyl.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/lkyl.png"
+    },
+    {
+      "name": "lol.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/lol.png"
+    },
+    {
+      "name": "loon.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/loon.png"
+    },
+    {
+      "name": "lxhealth.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/lxhealth.png"
+    },
+    {
+      "name": "lxsj.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/lxsj.png"
+    },
+    {
+      "name": "manga.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/manga.png"
+    },
+    {
+      "name": "maomicd.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/maomicd.png"
+    },
+    {
+      "name": "maoyan.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/maoyan.png"
+    },
+    {
+      "name": "mcdd.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/mcdd.png"
+    },
+    {
+      "name": "meituan.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/meituan.png"
+    },
+    {
+      "name": "mgtv.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/mgtv.png"
+    },
+    {
+      "name": "midu.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/midu.png"
+    },
+    {
+      "name": "mihoyo.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/mihoyo.png"
+    },
+    {
+      "name": "moji.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/moji.png"
+    },
+    {
+      "name": "momo.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/momo.png"
+    },
+    {
+      "name": "muchong.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/muchong.png"
+    },
+    {
+      "name": "mydigit.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/mydigit.png"
+    },
+    {
+      "name": "mygmc.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/mygmc.png"
+    },
+    {
+      "name": "nanoPort.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/nanoPort.png"
+    },
+    {
+      "name": "nasa.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/nasa.png"
+    },
+    {
+      "name": "neteasemusic.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/neteasemusic.png"
+    },
+    {
+      "name": "neteasenews.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/neteasenews.png"
+    },
+    {
+      "name": "nfzm.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/nfzm.png"
+    },
+    {
+      "name": "nga.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/nga.png"
+    },
+    {
+      "name": "nio.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/nio.png"
+    },
+    {
+      "name": "noteyoudao.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/noteyoudao.png"
+    },
+    {
+      "name": "pagoda.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/pagoda.png"
+    },
+    {
+      "name": "pupu.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/pupu.png"
+    },
+    {
+      "name": "qczj.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/qczj.png"
+    },
+    {
+      "name": "qimao.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/qimao.png"
+    },
+    {
+      "name": "qktx.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/qktx.png"
+    },
+    {
+      "name": "qkyl.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/qkyl.png"
+    },
+    {
+      "name": "qmkg.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/qmkg.png"
+    },
+    {
+      "name": "qqmusic.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/qqmusic.png"
+    },
+    {
+      "name": "qqvip.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/qqvip.png"
+    },
+    {
+      "name": "qtt.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/qtt.png"
+    },
+    {
+      "name": "quantumultx.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/quantumultx.png"
+    },
+    {
+      "name": "qunar.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/qunar.png"
+    },
+    {
+      "name": "quwalk.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/quwalk.png"
+    },
+    {
+      "name": "rrtv.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/rrtv.png"
+    },
+    {
+      "name": "sdc.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/sdc.png"
+    },
+    {
+      "name": "sfexpress.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/sfexpress.png"
+    },
+    {
+      "name": "shadowrocket.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/shadowrocket.png"
+    },
+    {
+      "name": "sinanews.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/sinanews.png"
+    },
+    {
+      "name": "sjdj.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/sjdj.png"
+    },
+    {
+      "name": "smzdm.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/smzdm.png"
+    },
+    {
+      "name": "stash.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/stash.png"
+    },
+    {
+      "name": "steam.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/steam.png"
+    },
+    {
+      "name": "studygolang.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/studygolang.png"
+    },
+    {
+      "name": "suning.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/suning.png"
+    },
+    {
+      "name": "surge.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/surge.png"
+    },
+    {
+      "name": "telecominfinty.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/telecominfinty.png"
+    },
+    {
+      "name": "testflight.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/testflight.png"
+    },
+    {
+      "name": "tgpic.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/tgpic.png"
+    },
+    {
+      "name": "thg.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/thg.png"
+    },
+    {
+      "name": "tieba.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/tieba.png"
+    },
+    {
+      "name": "time.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/time.png"
+    },
+    {
+      "name": "tongc.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/tongc.png"
+    },
+    {
+      "name": "translate.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/translate.png"
+    },
+    {
+      "name": "ttwkxcx.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/ttwkxcx.png"
+    },
+    {
+      "name": "tuhu.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/tuhu.png"
+    },
+    {
+      "name": "txnews.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/txnews.png"
+    },
+    {
+      "name": "umer.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/umer.png"
+    },
+    {
+      "name": "umetrip.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/umetrip.png"
+    },
+    {
+      "name": "unipay.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/unipay.png"
+    },
+    {
+      "name": "v2ex.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/v2ex.png"
+    },
+    {
+      "name": "videoqq.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/videoqq.png"
+    },
+    {
+      "name": "wanda.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/wanda.png"
+    },
+    {
+      "name": "weather.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/weather.png"
+    },
+    {
+      "name": "weibo.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/weibo.png"
+    },
+    {
+      "name": "wmmeituan.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/wmmeituan.png"
+    },
+    {
+      "name": "wps.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/wps.png"
+    },
+    {
+      "name": "wsxq.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/wsxq.png"
+    },
+    {
+      "name": "wxdaka.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/wxdaka.png"
+    },
+    {
+      "name": "wykl.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/wykl.png"
+    },
+    {
+      "name": "xiaomiyp.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/xiaomiyp.png"
+    },
+    {
+      "name": "ximalaya.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/ximalaya.png"
+    },
+    {
+      "name": "xxys.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/xxys.png"
+    },
+    {
+      "name": "yanxuan.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/yanxuan.png"
+    },
+    {
+      "name": "yiLi.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/yiLi.png"
+    },
+    {
+      "name": "ymatou.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/ymatou.png"
+    },
+    {
+      "name": "youth.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/youth.png"
+    },
+    {
+      "name": "yzkb.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/yzkb.png"
+    },
+    {
+      "name": "zaker.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/zaker.png"
+    },
+    {
+      "name": "zimuzu.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/zimuzu.png"
+    },
+    {
+      "name": "zongheng.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/zongheng.png"
+    },
+    {
+      "name": "zscdb.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/zscdb.png"
+    },
+    {
+      "name": "zsfc.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/zsfc.png"
+    },
+    {
+      "name": "zxhc.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/zxhc.png"
+    },
+    {
+      "name": "zymk.png",
+      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/zymk.png"
+    }
+  ]
+}
