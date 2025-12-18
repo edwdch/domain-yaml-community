@@ -1,6 +1,6 @@
 # Geosite List
 
-Total: 1429 files
+Total: 1430 files
 
 ## Category (97)
 
@@ -104,7 +104,7 @@ Total: 1429 files
 | category-vpnservices | [![GitHub](https://img.shields.io/badge/-source-gray?logo=github)](https://github.com/v2fly/domain-list-community/blob/master/data/category-vpnservices) |
 | category-wiki-cn | [![GitHub](https://img.shields.io/badge/-source-gray?logo=github)](https://github.com/v2fly/domain-list-community/blob/master/data/category-wiki-cn) |
 
-## Others (1332)
+## Others (1333)
 
 | Name | Source |
 | --- | --- |
@@ -1384,6 +1384,7 @@ Total: 1429 files
 | xiaohongshu | [![GitHub](https://img.shields.io/badge/-source-gray?logo=github)](https://github.com/v2fly/domain-list-community/blob/master/data/xiaohongshu) |
 | xiaomi | [![GitHub](https://img.shields.io/badge/-source-gray?logo=github)](https://github.com/v2fly/domain-list-community/blob/master/data/xiaomi) |
 | xiaomi-ads | [![GitHub](https://img.shields.io/badge/-source-gray?logo=github)](https://github.com/v2fly/domain-list-community/blob/master/data/xiaomi-ads) |
+| xiaomi-ai | [![GitHub](https://img.shields.io/badge/-source-gray?logo=github)](https://github.com/v2fly/domain-list-community/blob/master/data/xiaomi-ai) |
 | xiaoyuzhou | [![GitHub](https://img.shields.io/badge/-source-gray?logo=github)](https://github.com/v2fly/domain-list-community/blob/master/data/xiaoyuzhou) |
 | ximalaya | [![GitHub](https://img.shields.io/badge/-source-gray?logo=github)](https://github.com/v2fly/domain-list-community/blob/master/data/ximalaya) |
 | ximalaya-ads | [![GitHub](https://img.shields.io/badge/-source-gray?logo=github)](https://github.com/v2fly/domain-list-community/blob/master/data/ximalaya-ads) |
