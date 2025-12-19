@@ -1,6 +1,6 @@
 # Geosite List
 
-Total: 1430 files
+Total: 1431 files
 
 ## Category (97)
 
@@ -104,7 +104,7 @@ Total: 1430 files
 | category-vpnservices | [![GitHub](https://img.shields.io/badge/-source-gray?logo=github)](https://github.com/v2fly/domain-list-community/blob/master/data/category-vpnservices) |
 | category-wiki-cn | [![GitHub](https://img.shields.io/badge/-source-gray?logo=github)](https://github.com/v2fly/domain-list-community/blob/master/data/category-wiki-cn) |
 
-## Others (1333)
+## Others (1334)
 
 | Name | Source |
 | --- | --- |
@@ -871,6 +871,7 @@ Total: 1430 files
 | momo | [![GitHub](https://img.shields.io/badge/-source-gray?logo=github)](https://github.com/v2fly/domain-list-community/blob/master/data/momo) |
 | mongodb | [![GitHub](https://img.shields.io/badge/-source-gray?logo=github)](https://github.com/v2fly/domain-list-community/blob/master/data/mongodb) |
 | monotype | [![GitHub](https://img.shields.io/badge/-source-gray?logo=github)](https://github.com/v2fly/domain-list-community/blob/master/data/monotype) |
+| moonvy | [![GitHub](https://img.shields.io/badge/-source-gray?logo=github)](https://github.com/v2fly/domain-list-community/blob/master/data/moonvy) |
 | mopub-ads | [![GitHub](https://img.shields.io/badge/-source-gray?logo=github)](https://github.com/v2fly/domain-list-community/blob/master/data/mopub-ads) |
 | morisawa | [![GitHub](https://img.shields.io/badge/-source-gray?logo=github)](https://github.com/v2fly/domain-list-community/blob/master/data/morisawa) |
 | mortein | [![GitHub](https://img.shields.io/badge/-source-gray?logo=github)](https://github.com/v2fly/domain-list-community/blob/master/data/mortein) |
