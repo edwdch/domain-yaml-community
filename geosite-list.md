@@ -1,6 +1,6 @@
 # Geosite List
 
-Total: 1431 files
+Total: 1432 files
 
 ## Category (97)
 
@@ -104,7 +104,7 @@ Total: 1431 files
 | category-vpnservices | [![GitHub](https://img.shields.io/badge/-source-gray?logo=github)](https://github.com/v2fly/domain-list-community/blob/master/data/category-vpnservices) |
 | category-wiki-cn | [![GitHub](https://img.shields.io/badge/-source-gray?logo=github)](https://github.com/v2fly/domain-list-community/blob/master/data/category-wiki-cn) |
 
-## Others (1334)
+## Others (1335)
 
 | Name | Source |
 | --- | --- |
@@ -1442,3 +1442,4 @@ Total: 1431 files
 | zte | [![GitHub](https://img.shields.io/badge/-source-gray?logo=github)](https://github.com/v2fly/domain-list-community/blob/master/data/zte) |
 | zto-express | [![GitHub](https://img.shields.io/badge/-source-gray?logo=github)](https://github.com/v2fly/domain-list-community/blob/master/data/zto-express) |
 | zuoyebang | [![GitHub](https://img.shields.io/badge/-source-gray?logo=github)](https://github.com/v2fly/domain-list-community/blob/master/data/zuoyebang) |
+| zuoyebang-ads | [![GitHub](https://img.shields.io/badge/-source-gray?logo=github)](https://github.com/v2fly/domain-list-community/blob/master/data/zuoyebang-ads) |
