@@ -1,8 +1,8 @@
 # Geosite List
 
-Total: 1441 files
+Total: 1443 files
 
-## Category (98)
+## Category (100)
 
 | Name | Source |
 | --- | --- |
@@ -25,6 +25,8 @@ Total: 1441 files
 | category-bourse-ir | [![GitHub](https://img.shields.io/badge/-source-gray?logo=github)](https://github.com/v2fly/domain-list-community/blob/master/data/category-bourse-ir) |
 | category-browser-!cn | [![GitHub](https://img.shields.io/badge/-source-gray?logo=github)](https://github.com/v2fly/domain-list-community/blob/master/data/category-browser-!cn) |
 | category-cas | [![GitHub](https://img.shields.io/badge/-source-gray?logo=github)](https://github.com/v2fly/domain-list-community/blob/master/data/category-cas) |
+| category-cdn-!cn | [![GitHub](https://img.shields.io/badge/-source-gray?logo=github)](https://github.com/v2fly/domain-list-community/blob/master/data/category-cdn-!cn) |
+| category-cdn-cn | [![GitHub](https://img.shields.io/badge/-source-gray?logo=github)](https://github.com/v2fly/domain-list-community/blob/master/data/category-cdn-cn) |
 | category-collaborate-cn | [![GitHub](https://img.shields.io/badge/-source-gray?logo=github)](https://github.com/v2fly/domain-list-community/blob/master/data/category-collaborate-cn) |
 | category-communication | [![GitHub](https://img.shields.io/badge/-source-gray?logo=github)](https://github.com/v2fly/domain-list-community/blob/master/data/category-communication) |
 | category-companies | [![GitHub](https://img.shields.io/badge/-source-gray?logo=github)](https://github.com/v2fly/domain-list-community/blob/master/data/category-companies) |
